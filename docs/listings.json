@@ -1,0 +1,42 @@
+[
+  {
+    "listing": "/theme-growth.html",
+    "items": [
+      "/tasks/planning-your-reference.html",
+      "/tasks/planning-first-progress-meeting.html"
+    ]
+  },
+  {
+    "listing": "/theme-speaking.html",
+    "items": []
+  },
+  {
+    "listing": "/weekly.html",
+    "items": [
+      "/tasks/writing-concisely.html",
+      "/tasks/planning-first-progress-meeting.html",
+      "/tasks/planning-your-reference.html"
+    ]
+  },
+  {
+    "listing": "/theme-writing.html",
+    "items": [
+      "/tasks/writing-concisely.html",
+      "/tasks/writing-concisely-extension.html"
+    ]
+  },
+  {
+    "listing": "/theme-thinking.html",
+    "items": []
+  },
+  {
+    "listing": "/theme-studying.html",
+    "items": []
+  },
+  {
+    "listing": "/extensions.html",
+    "items": [
+      "/tasks/writing-concisely-extension.html"
+    ]
+  }
+]
