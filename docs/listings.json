@@ -2,12 +2,12 @@
   {
     "listing": "/theme-growth.html",
     "items": [
-      "/tasks/planning-your-reference.html",
-      "/tasks/planning-first-progress-meeting.html"
+      "/tasks/planning-first-progress-meeting.html",
+      "/tasks/planning-your-reference.html"
     ]
   },
   {
-    "listing": "/theme-speaking.html",
+    "listing": "/theme-studying.html",
     "items": []
   },
   {
@@ -30,7 +30,7 @@
     "items": []
   },
   {
-    "listing": "/theme-studying.html",
+    "listing": "/theme-speaking.html",
     "items": []
   },
   {
