@@ -7,19 +7,30 @@ website:
     logo: "images/bpplogo-notext-trans.png"
     left:
       - href: tldr.qmd
-        text: TLDR;
+        text: TLDR
+      - href: faqs.qmd
+        text: FAQ
+      - href: weekly.qmd
+        text: Tasks
+      - href: psylab-psybot.qmd
+        text: Upload
       
   sidebar:
     search: true 
     contents:
       - section: "Basics"
         contents:
+          - href: tldr.qmd
+            text: TLDR version
           - href: briefings.qmd
             text: Briefings
           - href: practice.qmd
             text: Practice
           - href: progress.qmd
             text: Progress
+          - href: faqs.qmd
+            text: FAQ
+          
           
       - section: "Practice themes"
         contents:
