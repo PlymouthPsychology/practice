@@ -1,0 +1,26 @@
+---
+title: "Stage 1 weekly list of tasks"
+listing:
+  contents: "tasks/*.qmd"
+  type: grid
+  categories: true
+  fields: [title, subtitle, image, date, Week]
+  sort-ui: [title, Week, Stage]
+  filter-ui: [title, Week, Stage]
+  page-size: 50
+  sort: 
+    - "Week"
+    - "title desc"
+  include:
+    Stage: 1
+  exclude:
+    extension: true
+---
+
+
+These are all the weekly tasks for Stage 1. Other related tasks are shown on the per-theme pages.
+
+
+
+::: {#sample-listings}
+:::

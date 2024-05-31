@@ -1,0 +1,29 @@
+---
+title: "Studying"
+listing:
+  contents: "tasks/*.qmd"
+  type: grid
+  categories: true
+  fields: [title, subtitle, image, date]
+  sort-ui: [title]
+  filter-ui: [title]
+  page-size: 50
+  sort: 
+    - "Week"
+    - "Stage"
+    - "title desc"
+  include:
+    categories: "{Studying}*"
+---
+
+
+
+
+
+These are all the tasks in the "Studying" theme. 
+This includes both weekly tasks and 
+
+
+
+::: {#sample-listings}
+:::

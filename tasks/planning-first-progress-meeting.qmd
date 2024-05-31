@@ -1,0 +1,28 @@
+---
+title: "Planning your first Progress meeting"
+subtitle: "Get prepared for your mid-semester progress meeeting."
+author: Ben Whalley
+description: XXX
+Week: 5
+Stage: 1
+categories: [Growth]
+reading-time: 15 minutes
+---
+
+![](../images/progress-bar-computer-icons-loading-screen-bar-line-text-rectangle-thumbnail.png)
+
+#TODO: UPDATE THIS TEXT
+
+## Planning the agenda
+
+\#TODO talk about how to plan the agenda
+
+## Recording the minutes and taking minutes
+
+![Credit: “Dilbert” by Scott Adams (2015)](images/dilbert-meetings.jpg)
+
+\#TODO  talk about how to take minutes
+
+## Holding yourself accountable
+
+\#TODO  talk about how these notes should feed into the xmas meeting

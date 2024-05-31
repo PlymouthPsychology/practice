@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Briefing, Practice & Progress"
+  navbar:
+    logo: "images/bpplogo-notext-trans.png"
+    left:
+      - href: tldr.qmd
+        text: TLDR;
+      
+  sidebar:
+    search: true 
+    contents:
+      - section: "Basics"
+        contents:
+          - href: briefings.qmd
+            text: Briefings
+          - href: practice.qmd
+            text: Practice
+          - href: progress.qmd
+            text: Progress
+          
+      - section: "Practice themes"
+        contents:
+          - href: weekly.qmd
+            text: Week-by-week list
+          - href: theme-studying.qmd
+            text: Studying
+          - href: theme-thinking.qmd
+            text: Thinking
+          - href: theme-writing.qmd
+            text: Writing
+          - href: theme-speaking.qmd
+            text: Speaking
+          - href: theme-growth.qmd
+            text: Growth
+          - href: extensions.qmd
+            text: Extension activities
+      
+      - section: "Staff"
+        contents:
+          - href: staff-notes.qmd
+            
+          
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+
+editor: visual
+

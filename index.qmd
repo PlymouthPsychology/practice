@@ -1,0 +1,25 @@
+---
+title: "Briefing, Practice & Progress"
+bibliography: refs.bib
+csl: apa.csl
+---
+
+
+![](images/bpplogo.png){width=25% .float-right}
+
+:::{.tldr}
+
+### What you need to know
+
+In Stage 1, we run a scheme called "Briefing, Practice and Progress".
+Each week we make regular times to:
+
+1.  Brief you on what is coming up in lectures, workshops and assessments, and
+2.  Introduce a task to 'Practice': these activities build the skills you need to succeed on the course.
+3.  Provide an opportunity to review your work with your tutor.
+
+In each semester you will have two "Progress meetings" with your tutor. These are to reflect on feedback, and make plans to structure your work in the coming weeks (but students set the agenda for progress meetings, more on this later).
+
+:::
+
+

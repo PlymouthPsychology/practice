@@ -1,0 +1,12 @@
+---
+title: "Keep it short"
+subtitle: "Writing concisely in assignments."
+author: Ben Whalley
+description: How to be more concise in your writing
+Week: 4
+Stage: 1
+categories: [Writing]
+reading-time: 10 minutes
+---
+
+![](../images/papers.png)

@@ -1,0 +1,9 @@
+---
+title: "Extra help with writing concisely"
+subtitle: "A folluptask giving more practice."
+author: Ben Whalley
+description: XXX
+categories: [Writing]
+extension: true
+reading-time: 20 minutes
+---

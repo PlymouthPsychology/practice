@@ -1,0 +1,92 @@
+---
+title: "Practice"
+bibliography: refs.bib
+csl: apa.csl
+---
+
+
+> "Genius is 1% inspiration and 99% perspiration." Thomas Edison
+
+You might have heard of the "10,000 hour rule" — popularised by Malcom Gladwell in his book *Outliers*. This suggests that it takes 10,000 hours of practice to become an expert in a field. However, recent research suggests that it is not just the quantity of practice that matters, but the quality of practice[^1]
+
+[^1]: A later meta-analysis [i.e. a review of all the quantitative studies available, @macnamara2014deliberate] suggested that the relationship between practice and expertise was not as strong has had been claimed. However, deliberate practice remains the primary predictor of expertise in many fields, and is typically the only factor which we have individual *control* over. Inherited general intelligence or working memory capacity may also predict expertise, but we can't choose our parents! For a detailed discussion of the evidence, see @hambrick2020deliberate.
+
+  ![A cartoon featuring a stick figure speaking through a large speech bubble. The speech bubble says, "If you buy into the '10,000 hours' thing, you are now a world-class expert!" Below the figure, there's a caption that reads, "My screen time reports have started trying to put a positive spin on things."](images/10000_hours_2x.png){fig-align="center" width="33%"}\ 
+
+The idea of "Deliberate Practice" was described by Anders Ericsson to emphaise the importance of focused, structured practice in developing expertise [@ericsson1993role]. 
+
+
+#### {#deliberate-practice}
+
+Deliberate Practice is:
+
+-   *Purposeful and Structured*: Practice sessions are specifically designed to improve performance, often focusing on particular aspects of a skill.
+
+-   *Includes Feedback*: Immediate feedback is essential, allowing the individual to understand their performance and make adjustments.
+
+-   *Challenging*: The tasks undertaken are neither too easy nor too difficult but are optimally challenging to maximize learning, and require:
+
+-   *Focus and Attention*: High levels of focus are required, and practice sessions are often mentally challenging rather than mechanically repetitive.
+
+# Learning 'how to practice'
+
+At school, teachers take responsibility for designing a structured scheme of practice for children. At university, you are expected to take more responsibility for your own learning.
+
+The "Practice" element of this scheme is designed to help you develop the habits and skills you need to develop your own deliberate practice, and to 
+
+
+
+# Themes
+
+Practice activities are related to five core themes:
+
+1. [Studying](theme-studying.html): What it means to be a "good student". 
+
+2. [Thinking](theme-thinking.html): How to think like a psychologist. 
+
+3. [Writing](theme-writing.html): Improved writing through intentional practice.
+
+4. [Speaking](theme-speaking.html): Confidence in oracy (again, explicitly via intentional practice).
+
+5. [Growth](theme-growth.html): Personal development and planning.
+
+
+
+# How practice tasks work
+
+-   Each week, in the [Briefing](briefings.html), a member of staff will explain the task for the week.
+
+-   Some tasks must be completed individually. Others need cooperation among your tutor group.
+
+-   The main task should take no more than 30 minutes. [Extension activities or extra practice](extensions.html) will be available if you for to focus on a particular area (see [the list](extensions.html)).
+
+-   When you have completed the task, you will record your work on [Psylab](psylab-psybot.html#psylab). You will receive feedback on your work from the [Psybot](psylab-psybot.html#psybot), or your tutor (or both).
+
+All the materials needed for the tasks are available on this website. Tasks are linked from the theme pages in the menu, and from the [weekly list of tasks](weekly.html).
+
+
+
+# Recording your practice
+
+... #TODO (but most likely this):
+
+-   Each week, you will record your practice on [Psylab](psylab-psybot.html#psylab).
+
+-   When you upload this work, we will use AI to provide instant feedback. For example, we might compare your answer to an 'ideal' answer written by staff. Or we may use the AI to ask you some followup questions to extend your thinking.
+
+-   You tutor will be able to see the work you have uploaded and the feedback you were given. We encourage students to visit staff in office hours to review their work, or if they need further help or clarification.
+
+
+
+# Getting human feedback
+
+Each week, all staff in the school offer two "office hours" in which students can ask questions or seek feedback on the work they have done.
+
+- [See more about office hours in the handbook](TODO.html)
+
+We recommend that students use office hours to review their practice tasks, and to ask for help if they are struggling with any aspect of the course. 
+
+Tutors can work through practice tasks with you, give feedback, or make suggestions for additional resources or extended practice where they think this will be helpful.
+
+
+

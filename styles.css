@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'LibertinusSerif';
+  src: url('fonts/Libertinus/LibertinusSerif-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LibertinusSerif';
+  src: url('fonts/Libertinus/LibertinusSerif-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LibertinusSerif';
+  src: url('fonts/Libertinus/LibertinusSerif-Italic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'LibertinusSans';
+  src: url('fonts/Libertinus/LibertinusSans-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LibertinusSans';
+  src: url('fonts/Libertinus/LibertinusSans-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LibertinusSans';
+  src: url('fonts/Libertinus/LibertinusSans-Italic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+
+/* css styles */
+
+body { font-family: "LibertinusSerif", "Times New Roman" ;
+font-size: 18pt;
+h1, h2, h3, h4, h5, h6 { font-weight: 300;}  
+h3, h4, h5, h6 { font-style: italic;}
+
+
+.tldr { 
+  background-color: #f0f0f0;
+  padding: 1em;
+  border-radius: 10px;
+}
+};
+
+
