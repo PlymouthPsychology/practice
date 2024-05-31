@@ -6,8 +6,8 @@ website:
   navbar:
     logo: "images/bpplogo-notext-trans.png"
     left:
-      - href: tldr.qmd
-        text: TLDR
+      # - href: tldr.qmd
+      #   text: TLDR
       - href: faqs.qmd
         text: FAQ
       - href: weekly.qmd
