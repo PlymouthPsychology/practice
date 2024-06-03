@@ -4,7 +4,7 @@ project:
 website:
   title: "Briefing, Practice & Progress"
   navbar:
-    logo: "images/bpplogo-notext-trans.png"
+    logo: "images/uop-shield.png"
     left:
       # - href: tldr.qmd
       #   text: TLDR

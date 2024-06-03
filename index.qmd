@@ -5,9 +5,15 @@ csl: apa.csl
 ---
 
 
+
+![](images/PNG UoP Logo_LA_Colour_School of Psychology.png){width="10em"}
+
+
 ::: {.column-margin}
 
-![](images/bpplogo.png)
+
+
+<!-- ![](images/bpplogo.png){width=80%} -->
 
 :::
 
