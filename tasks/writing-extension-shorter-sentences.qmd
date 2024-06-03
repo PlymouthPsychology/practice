@@ -1,0 +1,110 @@
+---
+title: "(Even) shorter sentences"
+subtitle: "Additional practice at writing concisely"
+extension: true
+categories: [Writing, Extension]
+reading-time: 20 minutes
+---
+
+
+
+# Overview
+
+In the [original concise-writing task](writing-concisely.html) we introduced a number of strategies
+to ensure that your writing is clear and concise. This activity provides additional practice at writing concisely for students who find it useful.
+
+
+# Instructions
+
+<script>
+var clipboard = new ClipboardJS('.copy');
+clipboard.on('success', function(e) {
+    alert('Copied!');
+});
+</script>
+
+
+Rewrite the following sentences to be as clear and concise as possible, without changing their meaning. 
+
+
+1. Copy and paste the sentences below into a text editor (<a class='copy' href='#' data-clipboard-target="#examples">click to copy</a>)
+2. Edit each sentence
+3. Upload your edited versions to the link below for instant feedback
+
+
+## Sentences to be shortened
+
+
+<button class="copy mb-4 btn btn-outline-primary" data-clipboard-target="#examples">Copy examples</button>
+
+
+
+:::{#examples}
+
+> 1.  In many cases, it has been observed that individuals exhibit an increase in stress levels due to the fact that they are exposed to prolonged periods of noise.
+
+> 2.  There is a possibility that children who participate in group activities might develop better social skills compared to those who do not engage in such activities.
+
+> 3.  It is important to note that the research conducted on the effects of sleep deprivation on cognitive functions has been quite extensive.
+
+> 4.  The subjects who were involved in the experiment, which was carried out over a period of six months, showed significant improvements in their ability to recall information.
+
+> 5.  Studies that focus on the relationship between diet and mental health can provide insights that are of considerable importance for clinical practices.
+
+> 6.  There is evidence to suggest that the techniques used for meditation can have a substantial effect on an individual's level of anxiety.
+
+> 7.  The theory suggests that adolescents who receive adequate parental support are less likely to engage in risky behaviors.
+
+> 8.  It was concluded from the study that there are multiple factors which play a role in determining the success of educational interventions.
+
+> 9.  It is often argued by psychologists that early childhood experiences have a profound impact on personality development.
+
+> 10. The researchers found that there was a correlation between the amount of physical activity engaged in by the subjects and their overall psychological well-being.
+
+
+
+:::
+
+
+```{=html}
+<!--- 
+
+NOTE: these are chatgpt generated and need checking/editing.
+
+## Suggested Revisions
+
+1. **Suggested revision**: Prolonged noise exposure often increases stress levels in individuals.
+
+2. **Suggested revision**: Children in group activities may develop better social skills than those who do not participate.
+
+3. **Suggested revision**: Research extensively shows that sleep deprivation affects cognitive functions.
+
+4. **Suggested revision**: Subjects in the six-month experiment showed significant memory improvements.
+
+5. **Suggested revision**: Studies on diet and mental health offer valuable insights for clinical practice.
+
+6. **Suggested revision**: Meditation techniques significantly reduce anxiety levels.
+
+7. **Suggested revision**: Adequate parental support may deter adolescents from engaging in risky behaviors.
+
+8. **Suggested revision**: Multiple factors influence educational intervention success.
+
+9. **Suggested revision**: Psychologists argue that early childhood experiences profoundly affect personality development.
+
+10. **Suggested revision**: Researchers found a correlation between physical activity and psychological well-being.
+
+--->
+```
+
+
+# Reflection
+
+# Recording your work
+
+
+This is an example of what ChatGPT- mediated feedback could look like here:
+
+https://chatgpt.com/share/a98e85df-4b8f-4de1-b9ef-d06286d5e1db
+
+
+[Record your work here](XXX){.submit-work .btn .btn-primary}
