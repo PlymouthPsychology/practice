@@ -15,6 +15,7 @@
     "listing": "/weekly.html",
     "items": [
       "/tasks/theme-topic-blank.html",
+      "/tasks/speaking-describe-lecture.html",
       "/tasks/writing-concisely.html",
       "/tasks/growth-planning-first-progress-meeting.html",
       "/tasks/growth-goals-career-planning.html",
@@ -41,7 +42,9 @@
   },
   {
     "listing": "/theme-speaking.html",
-    "items": []
+    "items": [
+      "/tasks/speaking-describe-lecture.html"
+    ]
   },
   {
     "listing": "/extensions.html",
@@ -55,5 +58,9 @@
     "items": [
       "/tasks/writing-extension-shorter-sentences.html"
     ]
+  },
+  {
+    "listing": "/tasks/speaking-describe-lecture.html",
+    "items": []
   }
 ]

@@ -16,12 +16,17 @@ listing:
 ---
 
 
+> "Success is liking yourself, liking what you do, and liking how you do it." - Maya Angelou
+
+![Source: Wikimedia](images/Portrait_photograph_of_Maya_Angelou_with_a_copy_of_I_Know_Why_the_Caged_Bird_Sings_in_Los_Angeles,_November_3,_1971.jpg){width=6em}
+
+<!-- https://commons.wikimedia.org/wiki/File:Portrait_photograph_of_Maya_Angelou_with_a_copy_of_I_Know_Why_the_Caged_Bird_Sings_in_Los_Angeles,_November_3,_1971.jpg -->
 
 
-This theme touches on what it means to grow as a professional and as an individual, focusing on self-awareness, resilience, and proactive career planning. These tasks explore the intrinsic and extrinsic factors that influence personal success; by thinking about our own values and priorities we can begin to connect our skills and experience to our future goals.
+
+This theme touches on what it means to grow as a professional and as an individual, focusing on self-awareness, resilience, and proactive career planning. These tasks explore the intrinsic and extrinsic factors that influence personal success. By thinking about our own values and priorities we can begin to connect our skills and experience to our future goals.
+
 
 
 ::: {#sample-listings}
 :::
-
-

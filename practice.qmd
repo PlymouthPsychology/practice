@@ -5,25 +5,35 @@ csl: apa.csl
 ---
 
 
-> "Genius is 1% inspiration and 99% perspiration." Thomas Edison
+> "Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good."
 
-You might have heard of the "10,000 hour rule" — popularised by Malcom Gladwell in his book *Outliers*. This suggests that it takes 10,000 hours of practice to become an expert in a field. However, recent research suggests that it is not just the quantity of practice that matters, but the quality of practice[^1]
+--- @gladwell2008outliers
 
-[^1]: A later meta-analysis [i.e. a review of all the quantitative studies available, @macnamara2014deliberate] suggested that the relationship between practice and expertise was not as strong has had been claimed. However, deliberate practice remains the primary predictor of expertise in many fields, and is typically the only factor which we have individual *control* over. Inherited general intelligence or working memory capacity may also predict expertise, but we can't choose our parents! For a detailed discussion of the evidence, see @hambrick2020deliberate.
+![Source: Wikimedia](images/2560px-Pop!Tech_2008_-_Malcolm_Gladwell.jpg){width=12em}
+
+
+
+You might have heard of the "10,000 hour rule"; it suggests that it takes 10,000 hours of practice to become an expert in a field. However, recent research suggests that it is not just the quantity of practice that matters, but the quality of practice[^1]
 
 
 ::: {.column-margin}
 
 
-![Cartoon: XKCD](images/10000_hours_2x.png)
+If you are looking for a task to practice now, see the
+
+[Full list of weekly tasks](weekly.html){.btn .btn-outline-primary}
 
 :::
 
 
-The idea of "Deliberate Practice" was described by Anders Ericsson to emphaise the importance of focused, structured practice in developing expertise [@ericsson1993role]. 
+[^1]: The 10,000 rule was popularised by Malcom Gladwell in *Outliers*, based on the work of Anders Ericsson and others. A meta-analysis [i.e. a review of all the quantitative studies available, @macnamara2014deliberate] suggested that the relationship between practice and expertise was not as strong has had been claimed. However, deliberate practice remains the primary predictor of expertise in many fields, and is typically the only factor which we have individual *control* over. Inherited general intelligence or working memory capacity may also predict expertise, but we can't choose our parents! For a detailed discussion of the evidence, see @hambrick2020deliberate.
+
+![Cartoon: XKCD](images/10000_hours_2x.png){width=10em}
 
 
-#### {#deliberate-practice}
+The idea of "Deliberate Practice" was described by Anders Ericsson to emphaise the importance of focused, structured practice in developing expertise [@ericsson1993role].
+
+####  {#deliberate-practice}
 
 Deliberate Practice is:
 
@@ -39,27 +49,28 @@ Deliberate Practice is:
 
 # Learning to practice
 
+
+
+
 At school, teachers take responsibility for designing a structured scheme of practice for children. At university, you are expected to take more responsibility for your own learning.
 
-The "Practice" element of this scheme is designed to help you develop the habits and skills you need to develop your own deliberate practice, and to 
-
+The "Practice" element of this scheme is designed to help you develop some of the habits 
+and skills you need to develop your own deliberate practice.
 
 
 # Themes
 
 Practice activities are related to five core themes:
 
-1. [Studying](theme-studying.html): What it means to be a "good student". 
+1.  [Studying](theme-studying.html): What it means to be a "good student".
 
-2. [Thinking](theme-thinking.html): How to think like a psychologist. 
+2.  [Thinking](theme-thinking.html): How to think like a psychologist.
 
-3. [Writing](theme-writing.html): Improved writing through intentional practice.
+3.  [Writing](theme-writing.html): Improved writing through intentional practice.
 
-4. [Speaking](theme-speaking.html): Confidence in oracy (again, explicitly via intentional practice).
+4.  [Speaking](theme-speaking.html): Confidence in oracy (again, explicitly via intentional practice).
 
-5. [Growth](theme-growth.html): Personal development and planning.
-
-
+5.  [Growth](theme-growth.html): Personal development and planning.
 
 # How practice tasks work {#practice-format}
 
@@ -73,8 +84,6 @@ Practice activities are related to five core themes:
 
 All the materials needed for the tasks are available on this website. Tasks are linked from the theme pages in the menu, and from the [weekly list of tasks](weekly.html).
 
-
-
 # Recording your practice
 
 ... #TODO (but most likely this):
@@ -85,17 +94,17 @@ All the materials needed for the tasks are available on this website. Tasks are 
 
 -   You tutor will be able to see the work you have uploaded and the feedback you were given. We encourage students to visit staff in office hours to review their work, or if they need further help or clarification.
 
-
-
 # Getting human feedback
 
 Each week, all staff in the school offer two "office hours" in which students can ask questions or seek feedback on the work they have done.
 
-- [See more about office hours in the handbook](TODO.html)
+-   [See more about office hours in the handbook](TODO.html)
 
-We recommend that students use office hours to review their practice tasks, and to ask for help if they are struggling with any aspect of the course. 
+We recommend that students use office hours to review their practice tasks, and to ask for help if they are struggling with any aspect of the course.
 
 Tutors can work through practice tasks with you, give feedback, or make suggestions for additional resources or extended practice where they think this will be helpful.
 
 
 
+
+# References

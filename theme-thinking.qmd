@@ -14,3 +14,13 @@ listing:
   include:
     categories: "{Thinking}*"
 ---
+
+
+
+
+> "The first principle is that you must not fool yourself – and you are the easiest person to fool." --- Richard Feyman
+
+
+![Image: Wikimedia](images/Richard_Feynman_1988.png){width=6em}
+
+<!-- https://commons.wikimedia.org/wiki/File:Richard_Feynman_1988.png -->
