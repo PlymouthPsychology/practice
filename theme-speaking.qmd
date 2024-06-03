@@ -14,3 +14,10 @@ listing:
   include:
     categories: "{Speaking}*"
 ---
+
+
+
+Speaking effectively is a key skill for psychologists, and in almost all professional careers. 
+Practice is key, but there are also some key principles that can help you to improve your speaking skills.
+In this theme we deal with how to structure presentations, how to use visual aids, and how engage an audience when speaking on specialist or technical topics.
+

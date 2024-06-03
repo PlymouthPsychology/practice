@@ -1,0 +1,13 @@
+---
+title: "Linking goals to actions."
+subtitle: "Planning for life and careers."
+author: Ben Whalley
+description: XXX
+Week: 16
+Stage: 1
+categories: [Growth]
+reading-time: 15 minutes
+---
+
+
+![](../images/XXX.png)

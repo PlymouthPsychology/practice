@@ -14,3 +14,12 @@ listing:
   include:
     categories: "{Writing}*"
 ---
+
+
+Writing effectively is a key skill for psychologists. This theme covers the basics of academic writing, including how to structure essays, how to reference your work, and how to write in an academic style.
+We also cover how to use generative AI effectively and enhance your studies --- not only as a tool for writing, but also for learning and understanding complex ideas.
+
+
+::: {#sample-listings}
+:::
+

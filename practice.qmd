@@ -11,7 +11,14 @@ You might have heard of the "10,000 hour rule" — popularised by Malcom Gladwel
 
 [^1]: A later meta-analysis [i.e. a review of all the quantitative studies available, @macnamara2014deliberate] suggested that the relationship between practice and expertise was not as strong has had been claimed. However, deliberate practice remains the primary predictor of expertise in many fields, and is typically the only factor which we have individual *control* over. Inherited general intelligence or working memory capacity may also predict expertise, but we can't choose our parents! For a detailed discussion of the evidence, see @hambrick2020deliberate.
 
-  ![A cartoon featuring a stick figure speaking through a large speech bubble. The speech bubble says, "If you buy into the '10,000 hours' thing, you are now a world-class expert!" Below the figure, there's a caption that reads, "My screen time reports have started trying to put a positive spin on things."](images/10000_hours_2x.png){fig-align="center" width="33%"}\ 
+
+::: {.column-margin}
+
+
+![Cartoon: XKCD](images/10000_hours_2x.png)
+
+:::
+
 
 The idea of "Deliberate Practice" was described by Anders Ericsson to emphaise the importance of focused, structured practice in developing expertise [@ericsson1993role]. 
 
@@ -28,7 +35,9 @@ Deliberate Practice is:
 
 -   *Focus and Attention*: High levels of focus are required, and practice sessions are often mentally challenging rather than mechanically repetitive.
 
-# Learning 'how to practice'
+
+
+# Learning to practice
 
 At school, teachers take responsibility for designing a structured scheme of practice for children. At university, you are expected to take more responsibility for your own learning.
 
@@ -52,7 +61,7 @@ Practice activities are related to five core themes:
 
 
 
-# How practice tasks work
+# How practice tasks work {#practice-format}
 
 -   Each week, in the [Briefing](briefings.html), a member of staff will explain the task for the week.
 

@@ -20,8 +20,8 @@ website:
     contents:
       - section: "Basics"
         contents:
-          - href: tldr.qmd
-            text: TLDR version
+          # - href: tldr.qmd
+          #   text: TLDR version
           - href: briefings.qmd
             text: Briefings
           - href: practice.qmd
@@ -56,7 +56,9 @@ website:
           
 format:
   html:
-    theme: default
+    theme:
+      light: cosmo
+      dark: cosmo
     css: styles.css
     toc: true
 

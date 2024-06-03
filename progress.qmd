@@ -25,7 +25,7 @@ Progress meetings will:
 
 *Students set the agenda* for the meeting.
 
-Before the meeting, students should complete the [planning a progress meeting](tasks/planning-first-progress-meeting.html) task.
+Before the meeting, students should complete the [planning a progress meeting](tasks/growth-planning-first-progress-meeting.html) task.
 
 
 ## Recording and making minutes
@@ -44,10 +44,13 @@ Meetings are pointless if they don't lead to changes in your planning or practic
 
 One good way to hold yourself to account (and make sure you're making progress) is to review your progress against the actions agreed in the meeting. 
 
-It's important to keep notes on the work you do following Progress meetings, because this is something that we will review in later meetings.
+It's important to keep notes on the work you do following Progress meetings; this is something that we will review in later meetings.
 
 
-## Worth bearing in mind
+## Know your tutor
 
 Progress meetings are the main way to get to know your tutor. It's helpful for students to know their tutor for a number of reasons, but an important one is that at the end of the course your tutor will be 
-in a much better position to write a reference for you if they know you well. See the task on [planning your reference](tasks/planning-your-reference.html) for more on this.
+in a much better position to write a reference for you if they know you well. See the task on [planning your reference](tasks/growth-planning-reference.html) for more on this.
+
+
+

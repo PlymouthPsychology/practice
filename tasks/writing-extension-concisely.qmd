@@ -1,6 +1,6 @@
 ---
 title: "Extra help with writing concisely"
-subtitle: "A folluptask giving more practice."
+subtitle: "A follow-up task giving more practice."
 author: Ben Whalley
 description: XXX
 categories: [Writing]

@@ -1,0 +1,38 @@
+---
+title: "Extension Activity Title"
+subtitle: "Another Subtitle."
+author: Anon
+description: Describe_in_30_words
+extension: true
+categories: [CATEGORY]
+reading-time: 20 minutes
+---
+
+![](../images/placeholder.webp)
+
+> Short summary pull-quote which captures the point of the exercise and provides motivation
+
+------------------------------------------------------------------------
+
+[Record your work here](XXX){.btn .btn-primary}
+
+------------------------------------------------------------------------
+
+# Overview
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet eleifend orci. Maecenas aliquet semper purus ac porta. Mauris erat ex, viverra sed mauris et, faucibus accumsan ex. Sed ut dolor vel odio mattis vulputate quis non metus. Quisque lobortis placerat erat, ut euismod nunc tempor a. Duis sit amet gravida elit, quis rutrum velit. In hac habitasse platea dictumst. Nam dapibus nibh magna, et tristique urna sagittis sit amet. Ut consectetur nisi ultricies purus mollis pulvinar.
+
+# Instructions
+
+Phasellus et arcu in diam commodo vestibulum a quis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis nec dolor vitae sollicitudin. Nunc id feugiat massa. In id egestas elit. Quisque mattis eget turpis nec pretium. Nulla pharetra ex vitae urna tincidunt, nec imperdiet nulla vestibulum. Sed dignissim diam sed nibh commodo venenatis. Nunc dapibus mi vitae tincidunt tempor. Vestibulum ut sem gravida, viverra orci non, fringilla leo.
+
+Mauris dapibus interdum velit. Donec eu semper libero. Suspendisse imperdiet justo lacus, pellentesque ultrices augue venenatis vitae. Suspendisse lobortis, neque sit amet porta lobortis, sem orci lobortis lectus, at egestas quam erat ac turpis. Nam venenatis congue gravida. Proin nulla arcu, tristique ut sollicitudin sagittis, scelerisque vestibulum enim. Aliquam erat volutpat. Vivamus ac mauris at nulla molestie vehicula nec id risus. Sed lacinia enim sit amet nulla bibendum, sed viverra sapien tincidunt. Suspendisse mattis, dui in malesuada finibus, urna nunc laoreet tortor, nec pretium massa mauris sit amet est. Nunc sed viverra mi, sed vestibulum ex. Integer ultricies purus eget lectus euismod, placerat rutrum erat egestas. Vivamus molestie magna ac quam laoreet aliquam sed eget ante. Maecenas nec dictum odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In id malesuada sem.
+
+Aliquam malesuada sapien vel nunc porta pharetra. Suspendisse potenti. Nam vestibulum magna in ipsum molestie tempor eu vel augue. Mauris nec ante dolor. Aliquam a leo porttitor, hendrerit massa sit amet, finibus ligula. Praesent porta eleifend auctor. In lorem ligula, interdum sed imperdiet et, tincidunt eget lorem.
+
+# Recording your work
+
+Phasellus et arcu in diam commodo vestibulum a quis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis nec dolor vitae sollicitudin. Nunc id feugiat massa. In id egestas elit. Quisque mattis eget turpis nec pretium. Nulla pharetra ex vitae urna tincidunt, nec imperdiet nulla vestibulum. Sed dignissim diam sed nibh commodo venenatis. Nunc dapibus mi vitae tincidunt tempor. Vestibulum ut sem gravida, viverra orci non, fringilla leo.
+
+[Record your work here](XXX){.submit-work .btn .btn-primary}
+

@@ -18,7 +18,10 @@ listing:
 ---
 
 
-These are all the weekly tasks for Stage 1. Other related tasks are shown on the per-theme pages.
+These are all the weekly tasks for Stage 1 that you are expected to complete each week.
+
+
+Other related tasks (including extensions or additional practice) are shown on the [per-theme pages](practice.html#themes)
 
 
 

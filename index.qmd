@@ -5,9 +5,11 @@ csl: apa.csl
 ---
 
 
-![](images/bpplogo.png){width=25% .float-right}
+::: {.column-margin}
 
+![](images/bpplogo.png)
 
+:::
 
 ### What you need to know
 

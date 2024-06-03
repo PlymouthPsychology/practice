@@ -14,3 +14,14 @@ listing:
   include:
     categories: "{Growth}*"
 ---
+
+
+
+
+This theme touches on what it means to grow as a professional and as an individual, focusing on self-awareness, resilience, and proactive career planning. These tasks explore the intrinsic and extrinsic factors that influence personal success; by thinking about our own values and priorities we can begin to connect our skills and experience to our future goals.
+
+
+::: {#sample-listings}
+:::
+
+
