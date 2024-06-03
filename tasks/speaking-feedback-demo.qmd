@@ -1,0 +1,81 @@
+---
+title: "Describe a lecture in a voice note - FEEDBACK DEMO"
+
+---
+
+
+
+I wanted to see if we could provide auto-feedback on the [describe a slide task](speaking-describe-lecture.html)
+
+As a demo , I tried recording myself giving two explanations of this figure, one bad, one slightly better.
+
+- [bad](speaking-bad-example.m4a)
+- [better](speaking-bad-example.m4a)
+
+These are easy to transcribe with whisper:
+
+
+Bad:
+
+
+```
+
+Oh yeah, so this was one of the slides in Chris's lecture and it shows the 
+learning curve so you can see that as you do more trials then the strength 
+of the response gets more and more and then after a while it doesn't get 
+any stronger.
+
+So that's what it shows.
+
+```
+
+
+
+Better
+
+```
+So this is a slide from one of Peter's lectures and the title is called Learning Curves,
+but it's really about the strength of a conditioned response as you do an increasing
+number of conditioning trials.
+
+So basically the graph is a curve and it starts really rising steeply and then it
+levels off.
+
+So to begin with you get a big change in the conditioned response for every extra
+trial you do.
+
+But after a while it tails off and you get something called an asymptote.
+
+So that means that after a while you won't get any increase in the conditioned response
+no matter how many trials you do.
+```
+
+
+
+# Auto feedback
+
+
+And then I asked it for feedback. This could be made better by providing more context on what a good answer would be, but even with a simple query possibly useful?
+
+
+
+---------------
+
+
+Your explanation of the learning curve graph was quite clear and concise! You did a great job describing the key elements of the graph and the concept it represents. Here are some specific points of feedback:
+
+### Positives:
+1. **Clear Description**: You clearly explained that the graph shows the strength of a conditioned response in relation to the number of conditioning trials.
+2. **Good Use of Terminology**: You correctly used terms like "conditioning trials" and "asymptote," which are important for understanding the graph.
+3. **Logical Flow**: Your explanation followed a logical progression, from describing the initial steep increase to the eventual leveling off of the curve.
+
+### Areas for Improvement:
+1. **Avoiding Fillers**: While your explanation was generally clear, there were a few instances where you used filler phrases like "So basically" and "But after a while." These can be reduced to make your explanation even more precise.
+2. **Details on Asymptote**: You mentioned the asymptote but could add a bit more detail on what it represents. For example, you could explain that the asymptote indicates the maximum strength of the conditioned response that can be achieved through conditioning, regardless of the number of additional trials.
+
+### Additional Points to Consider:
+- **Initial State**: You might mention that the strength of the conditioned response starts at a very low level initially before increasing.
+- **Real-World Examples**: Providing a real-world example of a conditioned response, such as Pavlov's dogs salivating at the sound of a bell, could help to contextualize the graph for your audience.
+
+Overall, you did an excellent job! With a few minor adjustments, your explanation will be even more effective. Keep up the good work!
+

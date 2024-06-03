@@ -211,6 +211,48 @@
     ]
   },
   {
+    "objectID": "tasks/speaking-describe-lecture.html",
+    "href": "tasks/speaking-describe-lecture.html",
+    "title": "Describe a lecture in a voice note",
+    "section": "",
+    "text": "Overview\nAlbert Einstein is quoted as saying “If you can’t explain it simply, you don’t understand it well enough”, and it’s true that explaining a concept to someone else is a great way to consolidate your understanding of it.\nIn this task, we practice explaining a concept from a lecture to a friend, as if you were leaving them a voice note.\n\n\nInstructions\n\nChoose ONE of the slides from below (both are from lectures which happen this week)\nGo to the lecture and listen carefully\nWithout any of the other slides in front of you, imagine explaining it to a friend in a WhatsApp-style voice-note (see how to record below).\n\n\nExamples of slides to explain\n\nSlide 1:\n\nSlide 2:\n\n\n\n\nRecording your work\nRecord your “voice note” using\n\nthe “Voice Memos” app on iPhone, or\nthe “Voice Recorder” app on Android\n\nDon’t use WhatsApp because it’s harder to upload later.\nUpload your recording here\nDEMO of ChatGPT feedback for this task\n\n\nExtension activities\n\nTry practicing the task more than once.\nYou could also try explaining the same concept to different friends or family members. Does it make a difference if you explain it to someone who knows the topic in general (e.g. another student), vs. someone who has never studied psychology?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tasks/speaking-feedback-demo.html",
+    "href": "tasks/speaking-feedback-demo.html",
+    "title": "Describe a lecture in a voice note - FEEDBACK DEMO",
+    "section": "",
+    "text": "I wanted to see if we could provide auto-feedback on the describe a slide task\nAs a demo , I tried recording myself giving two explanations of this figure, one bad, one slightly better.\n\nbad\nbetter\n\nThese are easy to transcribe with whisper:\nBad:\n\nOh yeah, so this was one of the slides in Chris's lecture and it shows the \nlearning curve so you can see that as you do more trials then the strength \nof the response gets more and more and then after a while it doesn't get \nany stronger.\n\nSo that's what it shows.\n\nBetter\nSo this is a slide from one of Peter's lectures and the title is called Learning Curves,\nbut it's really about the strength of a conditioned response as you do an increasing\nnumber of conditioning trials.\n\nSo basically the graph is a curve and it starts really rising steeply and then it\nlevels off.\n\nSo to begin with you get a big change in the conditioned response for every extra\ntrial you do.\n\nBut after a while it tails off and you get something called an asymptote.\n\nSo that means that after a while you won't get any increase in the conditioned response\nno matter how many trials you do.\n\nAuto feedback\nAnd then I asked it for feedback. This could be made better by providing more context on what a good answer would be, but even with a simple query possibly useful?\n\nYour explanation of the learning curve graph was quite clear and concise! You did a great job describing the key elements of the graph and the concept it represents. Here are some specific points of feedback:\n\nPositives:\n\nClear Description: You clearly explained that the graph shows the strength of a conditioned response in relation to the number of conditioning trials.\nGood Use of Terminology: You correctly used terms like “conditioning trials” and “asymptote,” which are important for understanding the graph.\nLogical Flow: Your explanation followed a logical progression, from describing the initial steep increase to the eventual leveling off of the curve.\n\n\n\nAreas for Improvement:\n\nAvoiding Fillers: While your explanation was generally clear, there were a few instances where you used filler phrases like “So basically” and “But after a while.” These can be reduced to make your explanation even more precise.\nDetails on Asymptote: You mentioned the asymptote but could add a bit more detail on what it represents. For example, you could explain that the asymptote indicates the maximum strength of the conditioned response that can be achieved through conditioning, regardless of the number of additional trials.\n\n\n\nAdditional Points to Consider:\n\nInitial State: You might mention that the strength of the conditioned response starts at a very low level initially before increasing.\nReal-World Examples: Providing a real-world example of a conditioned response, such as Pavlov’s dogs salivating at the sound of a bell, could help to contextualize the graph for your audience.\n\nOverall, you did an excellent job! With a few minor adjustments, your explanation will be even more effective. Keep up the good work!"
+  },
+  {
+    "objectID": "tasks/writing-concisely.html",
+    "href": "tasks/writing-concisely.html",
+    "title": "Keep it short",
+    "section": "",
+    "text": "Overview\nThe overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.\n\nWhat is the thing to be practices\nWhy is it important\n\nIn the degreee\nIn mant professional careers/life\n\nWhat are the key ideas/concepts?\nWhat evidence is there that this specific practice is helpful?\nIf possible, give a brief example of the thing in action.\n\n\n\nInstructions\nInstructions should be as brief as possible.\nIdeally there will be a\n\nNumbered list\nOf steps to follow\nThat is not too long\n\n\n\nRecording your work\nRecord your work on Psylab as usual.\n\nRecord your work here\n\n\nExtension activitie s\nIf you found this task helpful or XXX is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tasks/theme-extension-topic-blank.html",
+    "href": "tasks/theme-extension-topic-blank.html",
+    "title": "Extension Activity Title",
+    "section": "",
+    "text": "Short summary pull-quote which captures the point of the exercise and provides motivation\n\n\nRecord your work here\n\n\nOverview\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet eleifend orci. Maecenas aliquet semper purus ac porta. Mauris erat ex, viverra sed mauris et, faucibus accumsan ex. Sed ut dolor vel odio mattis vulputate quis non metus. Quisque lobortis placerat erat, ut euismod nunc tempor a. Duis sit amet gravida elit, quis rutrum velit. In hac habitasse platea dictumst. Nam dapibus nibh magna, et tristique urna sagittis sit amet. Ut consectetur nisi ultricies purus mollis pulvinar.\n\n\nInstructions\nPhasellus et arcu in diam commodo vestibulum a quis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis nec dolor vitae sollicitudin. Nunc id feugiat massa. In id egestas elit. Quisque mattis eget turpis nec pretium. Nulla pharetra ex vitae urna tincidunt, nec imperdiet nulla vestibulum. Sed dignissim diam sed nibh commodo venenatis. Nunc dapibus mi vitae tincidunt tempor. Vestibulum ut sem gravida, viverra orci non, fringilla leo.\nMauris dapibus interdum velit. Donec eu semper libero. Suspendisse imperdiet justo lacus, pellentesque ultrices augue venenatis vitae. Suspendisse lobortis, neque sit amet porta lobortis, sem orci lobortis lectus, at egestas quam erat ac turpis. Nam venenatis congue gravida. Proin nulla arcu, tristique ut sollicitudin sagittis, scelerisque vestibulum enim. Aliquam erat volutpat. Vivamus ac mauris at nulla molestie vehicula nec id risus. Sed lacinia enim sit amet nulla bibendum, sed viverra sapien tincidunt. Suspendisse mattis, dui in malesuada finibus, urna nunc laoreet tortor, nec pretium massa mauris sit amet est. Nunc sed viverra mi, sed vestibulum ex. Integer ultricies purus eget lectus euismod, placerat rutrum erat egestas. Vivamus molestie magna ac quam laoreet aliquam sed eget ante. Maecenas nec dictum odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In id malesuada sem.\nAliquam malesuada sapien vel nunc porta pharetra. Suspendisse potenti. Nam vestibulum magna in ipsum molestie tempor eu vel augue. Mauris nec ante dolor. Aliquam a leo porttitor, hendrerit massa sit amet, finibus ligula. Praesent porta eleifend auctor. In lorem ligula, interdum sed imperdiet et, tincidunt eget lorem.\n\n\nRecording your work\nPhasellus et arcu in diam commodo vestibulum a quis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis nec dolor vitae sollicitudin. Nunc id feugiat massa. In id egestas elit. Quisque mattis eget turpis nec pretium. Nulla pharetra ex vitae urna tincidunt, nec imperdiet nulla vestibulum. Sed dignissim diam sed nibh commodo venenatis. Nunc dapibus mi vitae tincidunt tempor. Vestibulum ut sem gravida, viverra orci non, fringilla leo.\nRecord your work here"
+  },
+  {
+    "objectID": "tasks/theme-topic-blank.html",
+    "href": "tasks/theme-topic-blank.html",
+    "title": "Title",
+    "section": "",
+    "text": "Short summary pull-quote which captures the point of the exercise and provides motivation\n\n\nRecord your work here\n\n\nOverview\nThe overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.\n\nWhat is the thing to be practices\nWhy is it important\n\nIn the degreee\nIn mant professional careers/life\n\nWhat are the key ideas/concepts?\nWhat evidence is there that this specific practice is helpful?\nIf possible, give a brief example of the thing in action.\n\n\n\nInstructions\nInstructions should be as brief as possible.\nIdeally there will be a\n\nNumbered list\nOf steps to follow\nThat is not too long\n\n\n\nRecording your work\nRecord your work on Psylab as usual.\n\nRecord your work here\n\n\nExtension activities\nIf you found this task helpful or XXX is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExtension Activity Title\n\n\nAnother Subtitle.\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tasks/growth-planning-reference.html",
+    "href": "tasks/growth-planning-reference.html",
+    "title": "Planning your reference",
+    "section": "",
+    "text": "Planning your reference\n#TODO: UPDATE THIS TEXT\nYou need to think about your reference early on in your time at university. You need to plan to make sure your tutor can write you a great reference. Here are some tips to help you plan your reference.\n\nFirst, you need to think about who you want to write your reference. You need to choose someone who knows you well and can write a good reference for you — this will typically be your tutor, but could also be a project supervisor. You need to choose someone who can write about your skills, experience, and achievements.\nYou should think about when you want to ask for your reference. You need to ask for your reference at least a month before you need it. You need to ask for your reference in a polite and professional way (either in person or via email).\nYou need to help the reference-writer do a good job for you! Provide as much information as you can about yourself, your skills, experience, and achievements. You should also provide the reference-writer with a copy of the job description or course you are applying for, and highlight anything you would like them to mention."
+  },
+  {
     "objectID": "tasks/growth-planning-first-progress-meeting.html",
     "href": "tasks/growth-planning-first-progress-meeting.html",
     "title": "Planning your first Progress meeting",
@@ -237,27 +279,6 @@
     "title": "Planning your first Progress meeting",
     "section": "Holding yourself accountable",
     "text": "Holding yourself accountable\n#TODO talk about how these notes should feed into the xmas meeting"
-  },
-  {
-    "objectID": "tasks/growth-planning-reference.html",
-    "href": "tasks/growth-planning-reference.html",
-    "title": "Planning your reference",
-    "section": "",
-    "text": "Planning your reference\n#TODO: UPDATE THIS TEXT\nYou need to think about your reference early on in your time at university. You need to plan to make sure your tutor can write you a great reference. Here are some tips to help you plan your reference.\n\nFirst, you need to think about who you want to write your reference. You need to choose someone who knows you well and can write a good reference for you — this will typically be your tutor, but could also be a project supervisor. You need to choose someone who can write about your skills, experience, and achievements.\nYou should think about when you want to ask for your reference. You need to ask for your reference at least a month before you need it. You need to ask for your reference in a polite and professional way (either in person or via email).\nYou need to help the reference-writer do a good job for you! Provide as much information as you can about yourself, your skills, experience, and achievements. You should also provide the reference-writer with a copy of the job description or course you are applying for, and highlight anything you would like them to mention."
-  },
-  {
-    "objectID": "tasks/theme-extension-topic-blank.html",
-    "href": "tasks/theme-extension-topic-blank.html",
-    "title": "Extension Activity Title",
-    "section": "",
-    "text": "Short summary pull-quote which captures the point of the exercise and provides motivation\n\n\nRecord your work here\n\n\nOverview\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet eleifend orci. Maecenas aliquet semper purus ac porta. Mauris erat ex, viverra sed mauris et, faucibus accumsan ex. Sed ut dolor vel odio mattis vulputate quis non metus. Quisque lobortis placerat erat, ut euismod nunc tempor a. Duis sit amet gravida elit, quis rutrum velit. In hac habitasse platea dictumst. Nam dapibus nibh magna, et tristique urna sagittis sit amet. Ut consectetur nisi ultricies purus mollis pulvinar.\n\n\nInstructions\nPhasellus et arcu in diam commodo vestibulum a quis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis nec dolor vitae sollicitudin. Nunc id feugiat massa. In id egestas elit. Quisque mattis eget turpis nec pretium. Nulla pharetra ex vitae urna tincidunt, nec imperdiet nulla vestibulum. Sed dignissim diam sed nibh commodo venenatis. Nunc dapibus mi vitae tincidunt tempor. Vestibulum ut sem gravida, viverra orci non, fringilla leo.\nMauris dapibus interdum velit. Donec eu semper libero. Suspendisse imperdiet justo lacus, pellentesque ultrices augue venenatis vitae. Suspendisse lobortis, neque sit amet porta lobortis, sem orci lobortis lectus, at egestas quam erat ac turpis. Nam venenatis congue gravida. Proin nulla arcu, tristique ut sollicitudin sagittis, scelerisque vestibulum enim. Aliquam erat volutpat. Vivamus ac mauris at nulla molestie vehicula nec id risus. Sed lacinia enim sit amet nulla bibendum, sed viverra sapien tincidunt. Suspendisse mattis, dui in malesuada finibus, urna nunc laoreet tortor, nec pretium massa mauris sit amet est. Nunc sed viverra mi, sed vestibulum ex. Integer ultricies purus eget lectus euismod, placerat rutrum erat egestas. Vivamus molestie magna ac quam laoreet aliquam sed eget ante. Maecenas nec dictum odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In id malesuada sem.\nAliquam malesuada sapien vel nunc porta pharetra. Suspendisse potenti. Nam vestibulum magna in ipsum molestie tempor eu vel augue. Mauris nec ante dolor. Aliquam a leo porttitor, hendrerit massa sit amet, finibus ligula. Praesent porta eleifend auctor. In lorem ligula, interdum sed imperdiet et, tincidunt eget lorem.\n\n\nRecording your work\nPhasellus et arcu in diam commodo vestibulum a quis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis nec dolor vitae sollicitudin. Nunc id feugiat massa. In id egestas elit. Quisque mattis eget turpis nec pretium. Nulla pharetra ex vitae urna tincidunt, nec imperdiet nulla vestibulum. Sed dignissim diam sed nibh commodo venenatis. Nunc dapibus mi vitae tincidunt tempor. Vestibulum ut sem gravida, viverra orci non, fringilla leo.\nRecord your work here"
-  },
-  {
-    "objectID": "tasks/theme-topic-blank.html",
-    "href": "tasks/theme-topic-blank.html",
-    "title": "Title",
-    "section": "",
-    "text": "Short summary pull-quote which captures the point of the exercise and provides motivation\n\n\nRecord your work here\n\n\nOverview\nThe overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.\n\nWhat is the thing to be practices\nWhy is it important\n\nIn the degreee\nIn mant professional careers/life\n\nWhat are the key ideas/concepts?\nWhat evidence is there that this specific practice is helpful?\nIf possible, give a brief example of the thing in action.\n\n\n\nInstructions\nInstructions should be as brief as possible.\nIdeally there will be a\n\nNumbered list\nOf steps to follow\nThat is not too long\n\n\n\nRecording your work\nRecord your work on Psylab as usual.\n\nRecord your work here\n\n\nExtension activities\nIf you found this task helpful or XXX is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExtension Activity Title\n\n\nAnother Subtitle.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "tasks/writing-extension-shorter-sentences.html",
@@ -411,7 +432,7 @@
     "href": "index.html",
     "title": "Briefing, Practice & Progress",
     "section": "",
-    "text": "What you need to know\nIn Stage 1, we run a scheme called “Briefing, Practice and Progress”. Each week we make regular times to:\n\nBrief you on what is coming up in lectures, workshops and assessments, and\nIntroduce a task to ‘Practice’: these activities build the skills you need to succeed on the course.\nProvide an opportunity to review your work with your tutor.\n\nIn each semester you will have two Progress meetings with your tutor. These are to reflect on feedback, and make plans to structure your work in the coming weeks."
+    "text": "What you need to know\nIn Stage 1, we run a scheme called “Briefing, Practice and Progress”. Each week we make regular times to:\n\nBrief you on what is coming up in lectures, workshops and assessments, and\nIntroduce a task to ‘practice’: these activities build the skills you need to succeed on the course.\nProvide an opportunity to review your work with your tutor.\n\nIn each semester you will have two progress meetings with your tutor. These are to reflect on feedback, and make plans to structure your work in the coming weeks."
   },
   {
     "objectID": "theme-speaking.html",
@@ -478,33 +499,5 @@
     "title": "Unresolved issues",
     "section": "",
     "text": "Unresolved issues\n\nSetting up zoom ready for week 1\nProblem in getting everyone ready for 10am zoom in week 1?\n\nCan we use tutor meetings in Induction week to make sure everyone can get online?\nCan we leave the meeting running and playing a funny video all week so they can test that the can get access?"
-  },
-  {
-    "objectID": "tasks/writing-concisely.html",
-    "href": "tasks/writing-concisely.html",
-    "title": "Keep it short",
-    "section": "",
-    "text": "Overview\nThe overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.\n\nWhat is the thing to be practices\nWhy is it important\n\nIn the degreee\nIn mant professional careers/life\n\nWhat are the key ideas/concepts?\nWhat evidence is there that this specific practice is helpful?\nIf possible, give a brief example of the thing in action.\n\n\n\nInstructions\nInstructions should be as brief as possible.\nIdeally there will be a\n\nNumbered list\nOf steps to follow\nThat is not too long\n\n\n\nRecording your work\nRecord your work on Psylab as usual.\n\nRecord your work here\n\n\nExtension activitie s\nIf you found this task helpful or XXX is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "quotes.html",
-    "href": "quotes.html",
-    "title": "Quotes",
-    "section": "",
-    "text": "“Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good.”\n\nGladwell (2008)\n\n\n\n\n\n\n\n\nReferences\n\nGladwell, M. (2008). Outliers: The story of success. Little, Brown."
-  },
-  {
-    "objectID": "unused.html",
-    "href": "unused.html",
-    "title": "Briefing, Practice & Progress",
-    "section": "",
-    "text": "“Success is liking yourself, liking what you do, and liking how you do it.” - Maya Angelou"
-  },
-  {
-    "objectID": "tasks/speaking-describe-lecture.html",
-    "href": "tasks/speaking-describe-lecture.html",
-    "title": "Describe a lecture in a voice note",
-    "section": "",
-    "text": "Overview\nAlbert Einstein is quoted as saying “If you can’t explain it simply, you don’t understand it well enough”, and it’s true that explaining a concept to someone else is a great way to consolidate your understanding of it.\nIn this task, we practice explaining a concept from a lecture to a friend, as if you were leaving them a voice note.\n\n\nInstructions\n\nChoose ONE of the slides from below (both are from lectures which happen this week)\nGo to the lecture and listen carefully\nWithout any of the other slides in front of you, imagine explaining it to a friend in a WhatsApp-style voice-note (see how to record below).\n\n\nExamples of slides to explain\n\nSlide 1:\n\nSlide 2:\n\n\n\n\nRecording your work\nRecord your “voice note” using\n\nthe “Voice Memos” app on iPhone, or\nthe “Voice Recorder” app on Android\n\n(Don’t use WhatsApp because it’s harder to upload later.)\nUpload your recording here\n\n\nExtension activities\n\nTry practicing the task more than once.\nYou could also try explaining the same concept to different friends or family members. Does it make a difference if you explain it to someone who knows the topic in general (e.g. another student), vs. someone who has never studied psychology?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

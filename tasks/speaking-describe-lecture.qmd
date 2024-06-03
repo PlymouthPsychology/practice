@@ -57,11 +57,15 @@ Record your "voice note" using
 - the "Voice Memos" app on iPhone, or 
 - the "Voice Recorder" app on Android
 
-(Don't use WhatsApp because it's harder to upload later.)
+Don't use WhatsApp because it's harder to upload later.
 
 
 
 [Upload your recording here](XXX){.submit-work .btn .btn-primary}
+
+
+[DEMO of ChatGPT feedback for this task](speaking-feedback-demo.html)
+
 
 # Extension activities
 

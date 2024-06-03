@@ -30,6 +30,16 @@
     ]
   },
   {
+    "listing": "/tasks/speaking-describe-lecture.html",
+    "items": []
+  },
+  {
+    "listing": "/tasks/writing-concisely.html",
+    "items": [
+      "/tasks/writing-extension-shorter-sentences.html"
+    ]
+  },
+  {
     "listing": "/tasks/theme-topic-blank.html",
     "items": [
       "/tasks/writing-extension-shorter-sentences.html",
@@ -52,15 +62,5 @@
       "/tasks/theme-extension-topic-blank.html",
       "/tasks/writing-extension-shorter-sentences.html"
     ]
-  },
-  {
-    "listing": "/tasks/writing-concisely.html",
-    "items": [
-      "/tasks/writing-extension-shorter-sentences.html"
-    ]
-  },
-  {
-    "listing": "/tasks/speaking-describe-lecture.html",
-    "items": []
   }
 ]
