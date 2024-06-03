@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Briefing, Practice &amp; Progress - Studying</title>
+<title>Briefing, Practice &amp; Progress</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,29 +20,61 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,67 +102,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image','listing-date',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-title"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -140,10 +114,10 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/bpplogo-notext-trans.png" alt="" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/bpplogo-notext-trans.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Briefing, Practice &amp; Progress</span>
     </a>
   </div>
@@ -154,15 +128,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./faqs.html" aria-current="page"> 
+    <a class="nav-link active" href="../../faqs.html" aria-current="page"> 
 <span class="menu-text">FAQ</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./weekly.html"> 
+    <a class="nav-link" href="../../weekly.html"> 
 <span class="menu-text">Tasks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./psylab-psybot.html"> 
+    <a class="nav-link" href="../../psylab-psybot.html"> 
 <span class="menu-text">Upload</span></a>
   </li>  
 </ul>
@@ -177,7 +151,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./weekly.html">Practice themes</a></li><li class="breadcrumb-item"><a href="./theme-studying.html">Studying</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -208,25 +182,25 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./briefings.html" class="sidebar-item-text sidebar-link">
+  <a href="../../briefings.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Briefings</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practice.html" class="sidebar-item-text sidebar-link">
+  <a href="../../practice.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Practice</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./progress.html" class="sidebar-item-text sidebar-link">
+  <a href="../../progress.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Progress</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./faqs.html" class="sidebar-item-text sidebar-link">
+  <a href="../../faqs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">FAQ</span></a>
   </div>
 </li>
@@ -243,43 +217,43 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./weekly.html" class="sidebar-item-text sidebar-link">
+  <a href="../../weekly.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Week-by-week list</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-studying.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../theme-studying.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Studying</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-thinking.html" class="sidebar-item-text sidebar-link">
+  <a href="../../theme-thinking.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Thinking</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-writing.html" class="sidebar-item-text sidebar-link">
+  <a href="../../theme-writing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Writing</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-speaking.html" class="sidebar-item-text sidebar-link">
+  <a href="../../theme-speaking.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Speaking</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-growth.html" class="sidebar-item-text sidebar-link">
+  <a href="../../theme-growth.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Growth</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./extensions.html" class="sidebar-item-text sidebar-link">
+  <a href="../../extensions.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Extension activities</span></a>
   </div>
 </li>
@@ -296,7 +270,7 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./staff-notes.html" class="sidebar-item-text sidebar-link">
+  <a href="../../staff-notes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Notes for staff</span></a>
   </div>
 </li>
@@ -308,62 +282,205 @@ window.Quarto = {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#clipboard.js" id="toc-clipboard.js" class="nav-link active" data-scroll-target="#clipboard.js">clipboard.js</a>
+  <ul class="collapse">
+  <li><a href="#why" id="toc-why" class="nav-link" data-scroll-target="#why">Why</a></li>
+  <li><a href="#install" id="toc-install" class="nav-link" data-scroll-target="#install">Install</a></li>
+  <li><a href="#setup" id="toc-setup" class="nav-link" data-scroll-target="#setup">Setup</a></li>
+  </ul></li>
+  <li><a href="#usage" id="toc-usage" class="nav-link" data-scroll-target="#usage">Usage</a>
+  <ul class="collapse">
+  <li><a href="#copy-text-from-another-element" id="toc-copy-text-from-another-element" class="nav-link" data-scroll-target="#copy-text-from-another-element">Copy text from another element</a></li>
+  <li><a href="#cut-text-from-another-element" id="toc-cut-text-from-another-element" class="nav-link" data-scroll-target="#cut-text-from-another-element">Cut text from another element</a></li>
+  <li><a href="#copy-text-from-attribute" id="toc-copy-text-from-attribute" class="nav-link" data-scroll-target="#copy-text-from-attribute">Copy text from attribute</a></li>
+  <li><a href="#events" id="toc-events" class="nav-link" data-scroll-target="#events">Events</a></li>
+  <li><a href="#tooltips" id="toc-tooltips" class="nav-link" data-scroll-target="#tooltips">Tooltips</a></li>
+  <li><a href="#advanced-options" id="toc-advanced-options" class="nav-link" data-scroll-target="#advanced-options">Advanced Options</a></li>
+  <li><a href="#browser-support" id="toc-browser-support" class="nav-link" data-scroll-target="#browser-support">Browser Support</a></li>
+  <li><a href="#bonus" id="toc-bonus" class="nav-link" data-scroll-target="#bonus">Bonus</a></li>
+  <li><a href="#license" id="toc-license" class="nav-link" data-scroll-target="#license">License</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./weekly.html">Practice themes</a></li><li class="breadcrumb-item"><a href="./theme-studying.html">Studying</a></li></ol></nav>
-<div class="quarto-title">
-<h1 class="title">Studying</h1>
-</div>
 
 
 
-<div class="quarto-title-meta">
+<section id="clipboard.js" class="level1">
+<h1>clipboard.js</h1>
+<p><img src="https://github.com/zenorocha/clipboard.js/workflows/build/badge.svg" class="img-fluid" alt="Build Status"> <img src="https://img.shields.io/badge/killing-flash-brightgreen.svg?style=flat" class="img-fluid" alt="Killing Flash"></p>
+<blockquote class="blockquote">
+<p>Modern copy to clipboard. No Flash. Just 3kb gzipped.</p>
+</blockquote>
+<p><a href="https://clipboardjs.com/"><img width="728" src="https://cloud.githubusercontent.com/assets/398893/16165747/a0f6fc46-349a-11e6-8c9b-c5fd58d9099c.png" alt="Demo"></a></p>
+<section id="why" class="level2">
+<h2 class="anchored" data-anchor-id="why">Why</h2>
+<p>Copying text to the clipboard shouldn’t be hard. It shouldn’t require dozens of steps to configure or hundreds of KBs to load. But most of all, it shouldn’t depend on Flash or any bloated framework.</p>
+<p>That’s why clipboard.js exists.</p>
+</section>
+<section id="install" class="level2">
+<h2 class="anchored" data-anchor-id="install">Install</h2>
+<p>You can get it on npm.</p>
+<pre><code>npm install clipboard --save</code></pre>
+<p>Or if you’re not into package management, just <a href="https://github.com/zenorocha/clipboard.js/archive/master.zip">download a ZIP</a> file.</p>
+</section>
+<section id="setup" class="level2">
+<h2 class="anchored" data-anchor-id="setup">Setup</h2>
+<p>First, include the script located on the <code>dist</code> folder or load it from <a href="https://github.com/zenorocha/clipboard.js/wiki/CDN-Providers">a third-party CDN provider</a>.</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode html code-with-copy"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">script</span><span class="ot"> src</span><span class="op">=</span><span class="st">"dist/clipboard.min.js"</span><span class="dt">&gt;&lt;/</span><span class="kw">script</span><span class="dt">&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Now, you need to instantiate it by <a href="https://github.com/zenorocha/clipboard.js/blob/master/demo/constructor-selector.html#L18">passing a DOM selector</a>, <a href="https://github.com/zenorocha/clipboard.js/blob/master/demo/constructor-node.html#L16-L17">HTML element</a>, or <a href="https://github.com/zenorocha/clipboard.js/blob/master/demo/constructor-nodelist.html#L18-L19">list of HTML elements</a>.</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="kw">new</span> <span class="fu">ClipboardJS</span>(<span class="st">'.btn'</span>)<span class="op">;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Internally, we need to fetch all elements that matches with your selector and attach event listeners for each one. But guess what? If you have hundreds of matches, this operation can consume a lot of memory.</p>
+<p>For this reason we use <a href="https://stackoverflow.com/questions/1687296/what-is-dom-event-delegation">event delegation</a> which replaces multiple event listeners with just a single listener. After all, <a href="https://twitter.com/hashtag/perfmatters">#perfmatters</a>.</p>
+</section>
+</section>
+<section id="usage" class="level1">
+<h1>Usage</h1>
+<p>We’re living a <em>declarative renaissance</em>, that’s why we decided to take advantage of <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes">HTML5 data attributes</a> for better usability.</p>
+<section id="copy-text-from-another-element" class="level3">
+<h3 class="anchored" data-anchor-id="copy-text-from-another-element">Copy text from another element</h3>
+<p>A pretty common use case is to copy content from another element. You can do that by adding a <code>data-clipboard-target</code> attribute in your trigger element.</p>
+<p>The value you include on this attribute needs to match another’s element selector.</p>
+<p><a href="https://clipboardjs.com/#example-target"><img width="473" alt="example-2" src="https://cloud.githubusercontent.com/assets/398893/9983467/a4946aaa-5fb1-11e5-9780-f09fcd7ca6c8.png"></a></p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode html code-with-copy"><code class="sourceCode html"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- Target --&gt;</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">input</span><span class="ot"> id</span><span class="op">=</span><span class="st">"foo"</span><span class="ot"> value</span><span class="op">=</span><span class="st">"https://github.com/zenorocha/clipboard.js.git"</span><span class="ot"> </span><span class="dt">/&gt;</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- Trigger --&gt;</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">button</span><span class="ot"> class</span><span class="op">=</span><span class="st">"btn"</span><span class="ot"> data-clipboard-target</span><span class="op">=</span><span class="st">"#foo"</span><span class="dt">&gt;</span></span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&lt;</span><span class="kw">img</span><span class="ot"> src</span><span class="op">=</span><span class="st">"assets/clippy.svg"</span><span class="ot"> alt</span><span class="op">=</span><span class="st">"Copy to clipboard"</span><span class="ot"> </span><span class="dt">/&gt;</span></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;/</span><span class="kw">button</span><span class="dt">&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="cut-text-from-another-element" class="level3">
+<h3 class="anchored" data-anchor-id="cut-text-from-another-element">Cut text from another element</h3>
+<p>Additionally, you can define a <code>data-clipboard-action</code> attribute to specify if you want to either <code>copy</code> or <code>cut</code> content.</p>
+<p>If you omit this attribute, <code>copy</code> will be used by default.</p>
+<p><a href="https://clipboardjs.com/#example-action"><img width="473" alt="example-3" src="https://cloud.githubusercontent.com/assets/398893/10000358/7df57b9c-6050-11e5-9cd1-fbc51d2fd0a7.png"></a></p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode html code-with-copy"><code class="sourceCode html"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- Target --&gt;</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">textarea</span><span class="ot"> id</span><span class="op">=</span><span class="st">"bar"</span><span class="dt">&gt;</span>Mussum ipsum cacilds...<span class="dt">&lt;/</span><span class="kw">textarea</span><span class="dt">&gt;</span></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- Trigger --&gt;</span></span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">button</span><span class="ot"> class</span><span class="op">=</span><span class="st">"btn"</span><span class="ot"> data-clipboard-action</span><span class="op">=</span><span class="st">"cut"</span><span class="ot"> data-clipboard-target</span><span class="op">=</span><span class="st">"#bar"</span><span class="dt">&gt;</span></span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a>  Cut to clipboard</span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;/</span><span class="kw">button</span><span class="dt">&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>As you may expect, the <code>cut</code> action only works on <code>&lt;input&gt;</code> or <code>&lt;textarea&gt;</code> elements.</p>
+</section>
+<section id="copy-text-from-attribute" class="level3">
+<h3 class="anchored" data-anchor-id="copy-text-from-attribute">Copy text from attribute</h3>
+<p>Truth is, you don’t even need another element to copy its content from. You can just include a <code>data-clipboard-text</code> attribute in your trigger element.</p>
+<p><a href="https://clipboardjs.com/#example-text"><img width="147" alt="example-1" src="https://cloud.githubusercontent.com/assets/398893/10000347/6e16cf8c-6050-11e5-9883-1c5681f9ec45.png"></a></p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode html code-with-copy"><code class="sourceCode html"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- Trigger --&gt;</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">button</span></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="ot">  class</span><span class="op">=</span><span class="st">"btn"</span></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a><span class="ot">  data-clipboard-text</span><span class="op">=</span><span class="st">"Just because you can doesn't mean you should — clipboard.js"</span></span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a><span class="dt">&gt;</span></span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a>  Copy to clipboard</span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;/</span><span class="kw">button</span><span class="dt">&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="events" class="level2">
+<h2 class="anchored" data-anchor-id="events">Events</h2>
+<p>There are cases where you’d like to show some user feedback or capture what has been selected after a copy/cut operation.</p>
+<p>That’s why we fire custom events such as <code>success</code> and <code>error</code> for you to listen and implement your custom logic.</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> clipboard <span class="op">=</span> <span class="kw">new</span> <span class="fu">ClipboardJS</span>(<span class="st">'.btn'</span>)<span class="op">;</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>clipboard<span class="op">.</span><span class="fu">on</span>(<span class="st">'success'</span><span class="op">,</span> <span class="kw">function</span> (e) {</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>  <span class="bu">console</span><span class="op">.</span><span class="fu">info</span>(<span class="st">'Action:'</span><span class="op">,</span> e<span class="op">.</span><span class="at">action</span>)<span class="op">;</span></span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>  <span class="bu">console</span><span class="op">.</span><span class="fu">info</span>(<span class="st">'Text:'</span><span class="op">,</span> e<span class="op">.</span><span class="at">text</span>)<span class="op">;</span></span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>  <span class="bu">console</span><span class="op">.</span><span class="fu">info</span>(<span class="st">'Trigger:'</span><span class="op">,</span> e<span class="op">.</span><span class="at">trigger</span>)<span class="op">;</span></span>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a>  e<span class="op">.</span><span class="fu">clearSelection</span>()<span class="op">;</span></span>
+<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span>
+<span id="cb7-10"><a href="#cb7-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-11"><a href="#cb7-11" aria-hidden="true" tabindex="-1"></a>clipboard<span class="op">.</span><span class="fu">on</span>(<span class="st">'error'</span><span class="op">,</span> <span class="kw">function</span> (e) {</span>
+<span id="cb7-12"><a href="#cb7-12" aria-hidden="true" tabindex="-1"></a>  <span class="bu">console</span><span class="op">.</span><span class="fu">error</span>(<span class="st">'Action:'</span><span class="op">,</span> e<span class="op">.</span><span class="at">action</span>)<span class="op">;</span></span>
+<span id="cb7-13"><a href="#cb7-13" aria-hidden="true" tabindex="-1"></a>  <span class="bu">console</span><span class="op">.</span><span class="fu">error</span>(<span class="st">'Trigger:'</span><span class="op">,</span> e<span class="op">.</span><span class="at">trigger</span>)<span class="op">;</span></span>
+<span id="cb7-14"><a href="#cb7-14" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>For a live demonstration, go to this <a href="https://clipboardjs.com/">site</a> and open your console.</p>
+</section>
+<section id="tooltips" class="level2">
+<h2 class="anchored" data-anchor-id="tooltips">Tooltips</h2>
+<p>Each application has different design needs, that’s why clipboard.js does not include any CSS or built-in tooltip solution.</p>
+<p>The tooltips you see on the <a href="https://clipboardjs.com/">demo site</a> were built using <a href="https://primer.style/css/components/tooltips">GitHub’s Primer</a>. You may want to check that out if you’re looking for a similar look and feel.</p>
+</section>
+<section id="advanced-options" class="level2">
+<h2 class="anchored" data-anchor-id="advanced-options">Advanced Options</h2>
+<p>If you don’t want to modify your HTML, there’s a pretty handy imperative API for you to use. All you need to do is declare a function, do your thing, and return a value.</p>
+<p>For instance, if you want to dynamically set a <code>target</code>, you’ll need to return a Node.</p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="kw">new</span> <span class="fu">ClipboardJS</span>(<span class="st">'.btn'</span><span class="op">,</span> {</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">target</span><span class="op">:</span> <span class="kw">function</span> (trigger) {</span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> trigger<span class="op">.</span><span class="at">nextElementSibling</span><span class="op">;</span></span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>If you want to dynamically set a <code>text</code>, you’ll return a String.</p>
+<div class="sourceCode" id="cb9"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="kw">new</span> <span class="fu">ClipboardJS</span>(<span class="st">'.btn'</span><span class="op">,</span> {</span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">text</span><span class="op">:</span> <span class="kw">function</span> (trigger) {</span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> trigger<span class="op">.</span><span class="fu">getAttribute</span>(<span class="st">'aria-label'</span>)<span class="op">;</span></span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>  }<span class="op">,</span></span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>For use in Bootstrap Modals or with any other library that changes the focus you’ll want to set the focused element as the <code>container</code> value.</p>
+<div class="sourceCode" id="cb10"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="kw">new</span> <span class="fu">ClipboardJS</span>(<span class="st">'.btn'</span><span class="op">,</span> {</span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">container</span><span class="op">:</span> <span class="bu">document</span><span class="op">.</span><span class="fu">getElementById</span>(<span class="st">'modal'</span>)<span class="op">,</span></span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Also, if you are working with single page apps, you may want to manage the lifecycle of the DOM more precisely. Here’s how you clean up the events and objects that we create.</p>
+<div class="sourceCode" id="cb11"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> clipboard <span class="op">=</span> <span class="kw">new</span> <span class="fu">ClipboardJS</span>(<span class="st">'.btn'</span>)<span class="op">;</span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>clipboard<span class="op">.</span><span class="fu">destroy</span>()<span class="op">;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="browser-support" class="level2">
+<h2 class="anchored" data-anchor-id="browser-support">Browser Support</h2>
+<p>This library relies on both <a href="https://developer.mozilla.org/en-US/docs/Web/API/Selection">Selection</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/execCommand">execCommand</a> APIs. The first one is <a href="https://caniuse.com/#search=selection">supported by all browsers</a> while the second one is supported in the following browsers.</p>
+<table class="table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 15%">
+<col style="width: 16%">
+<col style="width: 17%">
+<col style="width: 16%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><img src="https://clipboardjs.com/assets/images/chrome.png" width="48px" height="48px" alt="Chrome logo"></th>
+<th style="text-align: center;"><img src="https://clipboardjs.com/assets/images/edge.png" width="48px" height="48px" alt="Edge logo"></th>
+<th style="text-align: center;"><img src="https://clipboardjs.com/assets/images/firefox.png" width="48px" height="48px" alt="Firefox logo"></th>
+<th style="text-align: center;"><img src="https://clipboardjs.com/assets/images/ie.png" width="48px" height="48px" alt="Internet Explorer logo"></th>
+<th style="text-align: center;"><img src="https://clipboardjs.com/assets/images/opera.png" width="48px" height="48px" alt="Opera logo"></th>
+<th style="text-align: center;"><img src="https://clipboardjs.com/assets/images/safari.png" width="48px" height="48px" alt="Safari logo"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">42+ ✔</td>
+<td style="text-align: center;">12+ ✔</td>
+<td style="text-align: center;">41+ ✔</td>
+<td style="text-align: center;">9+ ✔</td>
+<td style="text-align: center;">29+ ✔</td>
+<td style="text-align: center;">10+ ✔</td>
+</tr>
+</tbody>
+</table>
+<p>The good news is that clipboard.js gracefully degrades if you need to support older browsers. All you have to do is show a tooltip saying <code>Copied!</code> when <code>success</code> event is called and <code>Press Ctrl+C to copy</code> when <code>error</code> event is called because the text is already selected.</p>
+<p>You can also check if clipboard.js is supported or not by running <code>ClipboardJS.isSupported()</code>, that way you can hide copy/cut buttons from the UI.</p>
+</section>
+<section id="bonus" class="level2">
+<h2 class="anchored" data-anchor-id="bonus">Bonus</h2>
+<p>A browser extension that adds a “copy to clipboard” button to every code block on <em>GitHub, MDN, Gist, StackOverflow, StackExchange, npm, and even Medium.</em></p>
+<p>Install for <a href="https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg">Chrome</a> and <a href="https://addons.mozilla.org/en-US/firefox/addon/codecopy/">Firefox</a>.</p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<p><a href="https://zenorocha.mit-license.org/">MIT License</a> © Zeno Rocha</p>
 
-    
-  
-    
-  </div>
-  
 
+</section>
+</section>
 
-</header>
-
-
-<p>Learning how to study for your degree is a key part of your first year. As psychologists, we can use evidence-based techniques to help us learn more effectively. This theme covers important ideas and techniques that will help you to succeed in your studies.</p>
-<div id="sample-listings">
-
-</div>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list grid quarto-listing-cols-3">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

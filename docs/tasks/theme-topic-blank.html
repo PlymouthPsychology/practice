@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Anonymous Coward">
+<meta name="description" content="Describe_in_30_words">
 
-<title>Briefing, Practice &amp; Progress - Studying</title>
+<title>Briefing, Practice &amp; Progress - Title</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +25,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,9 +82,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image','listing-date',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title"],
+      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -130,7 +132,7 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -140,10 +142,10 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/bpplogo-notext-trans.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/bpplogo-notext-trans.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Briefing, Practice &amp; Progress</span>
     </a>
   </div>
@@ -154,15 +156,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./faqs.html" aria-current="page"> 
+    <a class="nav-link active" href="../faqs.html" aria-current="page"> 
 <span class="menu-text">FAQ</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./weekly.html"> 
+    <a class="nav-link" href="../weekly.html"> 
 <span class="menu-text">Tasks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./psylab-psybot.html"> 
+    <a class="nav-link" href="../psylab-psybot.html"> 
 <span class="menu-text">Upload</span></a>
   </li>  
 </ul>
@@ -177,7 +179,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./weekly.html">Practice themes</a></li><li class="breadcrumb-item"><a href="./theme-studying.html">Studying</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Title</li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -208,25 +210,25 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./briefings.html" class="sidebar-item-text sidebar-link">
+  <a href="../briefings.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Briefings</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practice.html" class="sidebar-item-text sidebar-link">
+  <a href="../practice.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Practice</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./progress.html" class="sidebar-item-text sidebar-link">
+  <a href="../progress.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Progress</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./faqs.html" class="sidebar-item-text sidebar-link">
+  <a href="../faqs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">FAQ</span></a>
   </div>
 </li>
@@ -243,43 +245,43 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./weekly.html" class="sidebar-item-text sidebar-link">
+  <a href="../weekly.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Week-by-week list</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-studying.html" class="sidebar-item-text sidebar-link active">
+  <a href="../theme-studying.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Studying</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-thinking.html" class="sidebar-item-text sidebar-link">
+  <a href="../theme-thinking.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Thinking</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-writing.html" class="sidebar-item-text sidebar-link">
+  <a href="../theme-writing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Writing</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-speaking.html" class="sidebar-item-text sidebar-link">
+  <a href="../theme-speaking.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Speaking</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-growth.html" class="sidebar-item-text sidebar-link">
+  <a href="../theme-growth.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Growth</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./extensions.html" class="sidebar-item-text sidebar-link">
+  <a href="../extensions.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Extension activities</span></a>
   </div>
 </li>
@@ -296,7 +298,7 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./staff-notes.html" class="sidebar-item-text sidebar-link">
+  <a href="../staff-notes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Notes for staff</span></a>
   </div>
 </li>
@@ -308,20 +310,44 @@ window.Quarto = {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a></li>
+  <li><a href="#recording-your-work" id="toc-recording-your-work" class="nav-link" data-scroll-target="#recording-your-work">Recording your work</a></li>
+  <li><a href="#extension-activities" id="toc-extension-activities" class="nav-link" data-scroll-target="#extension-activities">Extension activities</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./weekly.html">Practice themes</a></li><li class="breadcrumb-item"><a href="./theme-studying.html">Studying</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Studying</h1>
-</div>
+<h1 class="title">Title</h1>
+<p class="subtitle lead">Subtitle.</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">CATEGORY</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    Describe_in_30_words
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Anonymous Coward </p>
+          </div>
+  </div>
     
   
     
@@ -332,33 +358,99 @@ window.Quarto = {
 </header>
 
 
-<p>Learning how to study for your degree is a key part of your first year. As psychologists, we can use evidence-based techniques to help us learn more effectively. This theme covers important ideas and techniques that will help you to succeed in your studies.</p>
+<p><img src="../images/placeholder.webp" class="img-fluid"></p>
+<blockquote class="blockquote">
+<p>Short summary pull-quote which captures the point of the exercise and provides motivation</p>
+</blockquote>
+<hr>
+<p><a href="XXX" class="btn btn-primary">Record your work here</a></p>
+<hr>
+<section id="overview" class="level1">
+<h1>Overview</h1>
+<p>The overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.</p>
+<ul>
+<li>What is the thing to be practices</li>
+<li>Why is it important
+<ul>
+<li>In the degreee</li>
+<li>In mant professional careers/life</li>
+</ul></li>
+<li>What are the key ideas/concepts?</li>
+<li>What evidence is there that this specific practice is helpful?</li>
+<li>If possible, give a brief example of the thing in action.</li>
+</ul>
+</section>
+<section id="instructions" class="level1">
+<h1>Instructions</h1>
+<p>Instructions should be as brief as possible.</p>
+<p>Ideally there will be a</p>
+<ol type="1">
+<li>Numbered list</li>
+<li>Of steps to follow</li>
+<li>That is not too long</li>
+</ol>
+</section>
+<section id="recording-your-work" class="level1">
+<h1>Recording your work</h1>
+<p>Record your work on Psylab as usual.</p>
+<!-- Students will know that they can and should record their 
+
+Additional notes here might emphasise a particular format, or prompt them to ask their tutor specific questions in office hours, or things to look out for in later progress meetings.
+
+-->
+<p><a href="XXX" class="submit-work btn btn-primary">Record your work here</a></p>
+</section>
+<section id="extension-activities" class="level1">
+<h1>Extension activities</h1>
+<p>If you found this task helpful or XXX is something you struggle with, consider the following extension activities:</p>
 <div id="sample-listings">
 
 </div>
 
 
 
+</section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Writing,Extension" data-listing-file-modified-sort="1717412181421" data-listing-reading-time-sort="3" data-listing-word-count-sort="495">
+<div class="thumbnail">
+<p><a href="../tasks/writing-extension-shorter-sentences.html" class="no-external"></a></p><a href="../tasks/writing-extension-shorter-sentences.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../tasks/writing-extension-shorter-sentences.html" class="no-external"></a></p>
 </div>
-<div class="list grid quarto-listing-cols-3">
-
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../tasks/writing-extension-shorter-sentences.html" class="no-external">(Even) shorter sentences</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../tasks/writing-extension-shorter-sentences.html" class="no-external">Additional practice at writing concisely</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../tasks/writing-extension-shorter-sentences.html" class="no-external"></a></p><a href="../tasks/writing-extension-shorter-sentences.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="CATEGORY" data-listing-file-modified-sort="1717406015288" data-listing-reading-time-sort="3" data-listing-word-count-sort="423">
+<div class="thumbnail">
+<p><a href="../tasks/theme-extension-topic-blank.html" class="no-external"></a></p><a href="../tasks/theme-extension-topic-blank.html" class="no-external">
+<p class="card-img-top"><img src="../images/placeholder.webp"  class="thumbnail-image card-img"/></p>
+</a><p><a href="../tasks/theme-extension-topic-blank.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../tasks/theme-extension-topic-blank.html" class="no-external">Extension Activity Title</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../tasks/theme-extension-topic-blank.html" class="no-external">Another Subtitle.</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../tasks/theme-extension-topic-blank.html" class="no-external"></a></p><a href="../tasks/theme-extension-topic-blank.html" class="no-external">
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

@@ -2,8 +2,9 @@
   {
     "listing": "/theme-growth.html",
     "items": [
-      "/tasks/planning-first-progress-meeting.html",
-      "/tasks/planning-your-reference.html"
+      "/tasks/growth-planning-first-progress-meeting.html",
+      "/tasks/growth-goals-career-planning.html",
+      "/tasks/growth-planning-reference.html"
     ]
   },
   {
@@ -13,16 +14,25 @@
   {
     "listing": "/weekly.html",
     "items": [
+      "/tasks/theme-topic-blank.html",
       "/tasks/writing-concisely.html",
-      "/tasks/planning-first-progress-meeting.html",
-      "/tasks/planning-your-reference.html"
+      "/tasks/growth-planning-first-progress-meeting.html",
+      "/tasks/growth-goals-career-planning.html",
+      "/tasks/growth-planning-reference.html"
     ]
   },
   {
     "listing": "/theme-writing.html",
     "items": [
       "/tasks/writing-concisely.html",
-      "/tasks/writing-concisely-extension.html"
+      "/tasks/writing-extension-shorter-sentences.html"
+    ]
+  },
+  {
+    "listing": "/tasks/theme-topic-blank.html",
+    "items": [
+      "/tasks/writing-extension-shorter-sentences.html",
+      "/tasks/theme-extension-topic-blank.html"
     ]
   },
   {
@@ -36,7 +46,14 @@
   {
     "listing": "/extensions.html",
     "items": [
-      "/tasks/writing-concisely-extension.html"
+      "/tasks/theme-extension-topic-blank.html",
+      "/tasks/writing-extension-shorter-sentences.html"
+    ]
+  },
+  {
+    "listing": "/tasks/writing-concisely.html",
+    "items": [
+      "/tasks/writing-extension-shorter-sentences.html"
     ]
   }
 ]
