@@ -4,30 +4,18 @@ bibliography: refs.bib
 csl: apa.csl
 ---
 
+![](images/PNG%20UoP%20Logo_LA_Colour_School%20of%20Psychology.png){width="10em"}
 
-
-![](images/PNG UoP Logo_LA_Colour_School of Psychology.png){width="10em"}
-
-
-::: {.column-margin}
-
-
-
+::: column-margin
 <!-- ![](images/bpplogo.png){width=80%} -->
-
 :::
 
 ### What you need to know
 
-In Stage 1, we run a scheme called "Briefing, Practice and Progress".
-Each week we make regular times to:
+In Stage 1, we run a scheme called "Briefing, Practice and Progress". Each week we make regular times to:
 
 1.  [Brief](briefings.html) you on what is coming up in lectures, workshops and assessments, and
-2.  Introduce a [task to 'Practice'](practice.html): these activities build the skills you need to succeed on the course.
+2.  Introduce a [task to 'practice'](practice.html): these activities build the skills you need to succeed on the course.
 3.  Provide an opportunity to review your work with your tutor.
 
-In each semester you will have two [Progress meetings](progress.html) with your tutor. These are to reflect on feedback, and make plans to structure your work in the coming weeks.
-
-
-
-
+In each semester you will have two [progress meetings](progress.html) with your tutor. These are to reflect on feedback, and make plans to structure your work in the coming weeks.
