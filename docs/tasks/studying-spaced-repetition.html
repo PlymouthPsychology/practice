@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Use spaced repetition to beat the forgetting curve and save yourself time.">
 
-<title>Briefing, Practice &amp; Progress - Practice</title>
+<title>Briefing, Practice &amp; Progress - Spaced repetition</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,47 +21,29 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -88,22 +71,80 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="styles.css">
+    const options = {
+      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-sidebar floating nav-fixed slimcontent">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/uop-shield.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/uop-shield.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Briefing, Practice &amp; Progress</span>
     </a>
   </div>
@@ -114,15 +155,15 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./faqs.html" aria-current="page"> 
+    <a class="nav-link active" href="../faqs.html" aria-current="page"> 
 <span class="menu-text">FAQ</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./weekly.html"> 
+    <a class="nav-link" href="../weekly.html"> 
 <span class="menu-text">Tasks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./psylab-psybot.html"> 
+    <a class="nav-link" href="../psylab-psybot.html"> 
 <span class="menu-text">Upload</span></a>
   </li>  
 </ul>
@@ -137,7 +178,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./briefings.html">Basics</a></li><li class="breadcrumb-item"><a href="./practice.html">Practice</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Spaced repetition</li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -168,25 +209,25 @@ div.csl-indent {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./briefings.html" class="sidebar-item-text sidebar-link">
+  <a href="../briefings.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Briefings</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practice.html" class="sidebar-item-text sidebar-link active">
+  <a href="../practice.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Practice</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./progress.html" class="sidebar-item-text sidebar-link">
+  <a href="../progress.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Progress</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./faqs.html" class="sidebar-item-text sidebar-link">
+  <a href="../faqs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">FAQ</span></a>
   </div>
 </li>
@@ -203,43 +244,43 @@ div.csl-indent {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./weekly.html" class="sidebar-item-text sidebar-link">
+  <a href="../weekly.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Week-by-week list</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-studying.html" class="sidebar-item-text sidebar-link">
+  <a href="../theme-studying.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Studying</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-thinking.html" class="sidebar-item-text sidebar-link">
+  <a href="../theme-thinking.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Thinking</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-writing.html" class="sidebar-item-text sidebar-link">
+  <a href="../theme-writing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Writing</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-speaking.html" class="sidebar-item-text sidebar-link">
+  <a href="../theme-speaking.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Speaking</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./theme-growth.html" class="sidebar-item-text sidebar-link">
+  <a href="../theme-growth.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Growth</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./extensions.html" class="sidebar-item-text sidebar-link">
+  <a href="../extensions.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Extension activities</span></a>
   </div>
 </li>
@@ -256,7 +297,7 @@ div.csl-indent {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./staff-notes.html" class="sidebar-item-text sidebar-link">
+  <a href="../staff-notes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Notes for staff</span></a>
   </div>
 </li>
@@ -272,23 +313,34 @@ div.csl-indent {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#learning-to-practice" id="toc-learning-to-practice" class="nav-link active" data-scroll-target="#learning-to-practice">Learning to practice</a></li>
-  <li><a href="#themes" id="toc-themes" class="nav-link" data-scroll-target="#themes">Themes</a></li>
-  <li><a href="#practice-format" id="toc-practice-format" class="nav-link" data-scroll-target="#practice-format">How practice tasks work</a></li>
-  <li><a href="#recording-your-practice" id="toc-recording-your-practice" class="nav-link" data-scroll-target="#recording-your-practice">Recording your practice</a></li>
-  <li><a href="#getting-human-feedback" id="toc-getting-human-feedback" class="nav-link" data-scroll-target="#getting-human-feedback">Getting human feedback</a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#how-to-use-spaced-repetition" id="toc-how-to-use-spaced-repetition" class="nav-link" data-scroll-target="#how-to-use-spaced-repetition">How to use spaced repetition</a></li>
+  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a></li>
+  <li><a href="#using-anki" id="toc-using-anki" class="nav-link" data-scroll-target="#using-anki">Using Anki</a>
+  <ul class="collapse">
+  <li><a href="#installing-anki-and-adding-cards" id="toc-installing-anki-and-adding-cards" class="nav-link" data-scroll-target="#installing-anki-and-adding-cards">Installing Anki and adding cards</a></li>
+  </ul></li>
+  <li><a href="#writing-cards" id="toc-writing-cards" class="nav-link" data-scroll-target="#writing-cards">Writing good cards</a></li>
+  <li><a href="#extension-activities" id="toc-extension-activities" class="nav-link" data-scroll-target="#extension-activities">Extension activities</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./briefings.html">Basics</a></li><li class="breadcrumb-item"><a href="./practice.html">Practice</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Practice</h1>
-</div>
+<h1 class="title">Spaced repetition</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Studying</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    Use spaced repetition to beat the forgetting curve and save yourself time.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -303,109 +355,119 @@ div.csl-indent {
 </header>
 
 
-<blockquote class="blockquote">
-<p>“Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good.”</p>
-</blockquote>
-<p>— <span class="citation" data-cites="gladwell2008outliers">Gladwell (<a href="#ref-gladwell2008outliers" role="doc-biblioref">2008</a>)</span></p>
+<section id="overview" class="level1">
+<h1>Overview</h1>
+<p>Over time we forget things, but in the 19th century, Ebbinghaus discovered that we forget things in a predictable way.</p>
+<p>His work on the ‘forgetting curve’ showed that we forget things quickly at first, but then more slowly over time. Reviewing what we have learnt helps us remember things for longer. The forgetting curve diagram above shows this. Without reviewing what we learn, after 30 days we will have forgotten almost all of of it (the first line on the graph). But reviewing the material on day 2, 10, 30 and so on interrupts the forgetting process. The forgetting curve becomes less steep, and we remember more of what we have learnt for longer.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/2560px-Pop!Tech_2008_-_Malcolm_Gladwell.jpg" class="img-fluid figure-img" style="width:12em"></p>
-<figcaption>Source: Wikimedia</figcaption>
+<p><img src="../images/Forgetting_curve_and_work_of_Ebbinghaus.png" class="figure img-fluid figure-img"></p>
+<figcaption>TODO REPLACE/REDRAW IMAGE</figcaption>
 </figure>
 </div>
-<p>You might have heard of the “10,000 hour rule”; it suggests that it takes 10,000 hours of practice to become an expert in a field. However, recent research suggests that it is not just the quantity of practice that matters, but the quality of practice<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<p>If you are looking for a task to practice now, see the</p>
-<p><a href="weekly.html" class="btn btn-outline-primary">Full list of weekly tasks</a></p>
-</div></div><div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/10000_hours_2x.png" class="img-fluid figure-img" style="width:10em"></p>
-<figcaption>Cartoon: XKCD</figcaption>
-</figure>
-</div>
-<p>The idea of “Deliberate Practice” was described by Anders Ericsson to emphaise the importance of focused, structured practice in developing expertise <span class="citation" data-cites="ericsson1993role">(<a href="#ref-ericsson1993role" role="doc-biblioref">Ericsson et al., 1993</a>)</span>.</p>
-<section id="deliberate-practice" class="level4">
-<h4 class="anchored" data-anchor-id="deliberate-practice"></h4>
-<p>Deliberate Practice is:</p>
-<ul>
-<li><p><em>Purposeful and Structured</em>: Practice sessions are specifically designed to improve performance, often focusing on particular aspects of a skill.</p></li>
-<li><p><em>Includes Feedback</em>: Immediate feedback is essential, allowing the individual to understand their performance and make adjustments.</p></li>
-<li><p><em>Challenging</em>: The tasks undertaken are neither too easy nor too difficult but are optimally challenging to maximize learning, and require:</p></li>
-<li><p><em>Focus and Attention</em>: High levels of focus are required, and practice sessions are often mentally challenging rather than mechanically repetitive.</p></li>
-</ul>
+<p><strong>‘Spaced repetition’</strong> is a technique to do this as efficiently as possible. By reviewing things <em>just</em> before you are likely to forget them, research suggests that you can flatten the forgetting curve and retain information for much longer.</p>
 </section>
-<section id="learning-to-practice" class="level1">
-<h1>Learning to practice</h1>
-<p>At school, teachers take responsibility for designing a structured scheme of practice for children. At university, you are expected to take more responsibility for your own learning.</p>
-<p>The “Practice” element of this scheme is designed to help you develop some of the habits and skills you need to develop your own deliberate practice.</p>
+<section id="how-to-use-spaced-repetition" class="level1">
+<h1>How to use spaced repetition</h1>
+<p><strong>Use Anki!</strong></p>
+<p>Anki is a free, open-source flashcard app that uses spaced repetition to help you remember things.</p>
+<p>You can create your own flashcards, and Anki schedules a review of the cards at the best possible intervals. The algorithm saves you time, because you will only review material when it has the largest possible benefit to your memory.</p>
 </section>
-<section id="themes" class="level1">
-<h1>Themes</h1>
-<p>Practice activities are related to five core themes:</p>
+<section id="instructions" class="level1 instructions">
+<h1>Instructions</h1>
 <ol type="1">
-<li><p><a href="theme-studying.html">Studying</a>: What it means to be a “good student”.</p></li>
-<li><p><a href="theme-thinking.html">Thinking</a>: How to think like a psychologist.</p></li>
-<li><p><a href="theme-writing.html">Writing</a>: Improved writing through intentional practice.</p></li>
-<li><p><a href="theme-speaking.html">Speaking</a>: Confidence in oracy (again, explicitly via intentional practice).</p></li>
-<li><p><a href="theme-growth.html">Growth</a>: Personal development and planning.</p></li>
+<li><p>Download Anki to your computer: <a href="https://apps.ankiweb.net" class="uri">https://apps.ankiweb.net</a></p></li>
+<li><p>Add 10 flashcards to your “deck” based on information in lectures this week (see how below)</p></li>
+<li><p>Review the flashcards, and keep practicing over the next few weeks.</p></li>
+<li><p>Make a note on Psylab. Write a short paragraph describing how you found the process, and whether you think it will be useful for you in the future.</p></li>
 </ol>
 </section>
-<section id="practice-format" class="level1">
-<h1>How practice tasks work</h1>
+<section id="using-anki" class="level1">
+<h1>Using Anki</h1>
+<section id="installing-anki-and-adding-cards" class="level3">
+<h3 class="anchored" data-anchor-id="installing-anki-and-adding-cards">Installing Anki and adding cards</h3>
+<p>Once you have installed Anki from: <a href="https://apps.ankiweb.net" class="uri">https://apps.ankiweb.net</a>, open the Application.</p>
+<p>It should look like this:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/anki/1.png" class="img-fluid figure-img"></p>
+<figcaption>The Anki interface</figcaption>
+</figure>
+</div>
+<p>Click “Add” to create your first cards.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/anki/2a.png" class="img-fluid figure-img"></p>
+<figcaption>The Anki interface</figcaption>
+</figure>
+</div>
+<p>Enter what you want to see on the “Front” and the “Back” of the flashcard. This is what you will see when you test yourself.</p>
+<p>For example you might add something like this:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/anki/2b.png" class="img-fluid figure-img"></p>
+<figcaption>Adding a card</figcaption>
+</figure>
+</div>
+<p>Deciding what to add to your cards is a bit of an art. We have <a href="#writing-cards">some guidance below</a>, but as some suggestions from lectures this week:</p>
 <ul>
-<li><p>Each week, in the <a href="briefings.html">Briefing</a>, a member of staff will explain the task for the week.</p></li>
-<li><p>Some tasks must be completed individually. Others need cooperation among your tutor group.</p></li>
-<li><p>The main task should take no more than 30 minutes. <a href="extensions.html">Extension activities or extra practice</a> will be available if you for to focus on a particular area (see <a href="extensions.html">the list</a>).</p></li>
-<li><p>When you have completed the task, you will record your work on <a href="psylab-psybot.html#psylab">Psylab</a>. You will receive feedback on your work from the <a href="psylab-psybot.html#psybot">Psybot</a>, or your tutor (or both).</p></li>
-</ul>
-<p>All the materials needed for the tasks are available on this website. Tasks are linked from the theme pages in the menu, and from the <a href="weekly.html">weekly list of tasks</a>.</p>
-</section>
-<section id="recording-your-practice" class="level1">
-<h1>Recording your practice</h1>
-<p>… #TODO (but most likely this):</p>
-<ul>
-<li><p>Each week, you will record your practice on <a href="psylab-psybot.html#psylab">Psylab</a>.</p></li>
-<li><p>When you upload this work, we will use AI to provide instant feedback. For example, we might compare your answer to an ‘ideal’ answer written by staff. Or we may use the AI to ask you some followup questions to extend your thinking.</p></li>
-<li><p>You tutor will be able to see the work you have uploaded and the feedback you were given. We encourage students to visit staff in office hours to review their work, or if they need further help or clarification.</p></li>
+<li>XXX ADD a list of 3 facts from lectures we suggest here</li>
 </ul>
 </section>
-<section id="getting-human-feedback" class="level1">
-<h1>Getting human feedback</h1>
-<p>Each week, all staff in the school offer two “office hours” in which students can ask questions or seek feedback on the work they have done.</p>
-<ul>
-<li><a href="office-hours.html">See more about office hours in the handbook</a></li>
-</ul>
-<p>We recommend that students use office hours to review their practice tasks, and to ask for help if they are struggling with any aspect of the course.</p>
-<p>Tutors can work through practice tasks with you, give feedback, or make suggestions for additional resources or extended practice where they think this will be helpful.</p>
 </section>
-<section id="references" class="level1">
-
-
-
-
-</section>
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
-<div id="ref-ericsson1993role" class="csl-entry" role="listitem">
-Ericsson, K. A., Krampe, R. T., &amp; Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. <em>Psychological Review</em>, <em>100</em>(3), 363.
-</div>
-<div id="ref-gladwell2008outliers" class="csl-entry" role="listitem">
-Gladwell, M. (2008). <em>Outliers: The story of success</em>. Little, Brown.
-</div>
-<div id="ref-hambrick2020deliberate" class="csl-entry" role="listitem">
-Hambrick, D. Z., Macnamara, B. N., &amp; Oswald, F. L. (2020). Is the deliberate practice view defensible? A review of evidence and discussion of issues. <em>Frontiers in Psychology</em>, <em>11</em>, 518237.
-</div>
-<div id="ref-macnamara2014deliberate" class="csl-entry" role="listitem">
-Macnamara, B. N., Hambrick, D. Z., &amp; Oswald, F. L. (2014). Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis. <em>Psychological Science</em>, <em>25</em>(8), 1608–1618.
-</div>
-</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>The 10,000 rule was popularised by Malcom Gladwell in <em>Outliers</em>, based on the work of Anders Ericsson and others. A meta-analysis <span class="citation" data-cites="macnamara2014deliberate">(i.e.&nbsp;a review of all the quantitative studies available, <a href="#ref-macnamara2014deliberate" role="doc-biblioref">Macnamara et al., 2014</a>)</span> suggested that the relationship between practice and expertise was not as strong has had been claimed. However, deliberate practice remains the primary predictor of expertise in many fields, and is typically the only factor which we have individual <em>control</em> over. Inherited general intelligence or working memory capacity may also predict expertise, but we can’t choose our parents! For a detailed discussion of the evidence, see <span class="citation" data-cites="hambrick2020deliberate">Hambrick et al. (<a href="#ref-hambrick2020deliberate" role="doc-biblioref">2020</a>)</span>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<section id="writing-cards" class="level1">
+<h1>Writing good cards</h1>
+<p>Writing effective Anki cards is a skill. Here are some tips and best practices for creating high-quality cards:</p>
+<ol type="1">
+<li>Keep It Simple</li>
 </ol>
-</section></div></main> <!-- /main -->
+<p>One Fact Per Card: Each card should test only one piece of information. This makes it easier to focus on specific details and ensures that you thoroughly understand each concept. Clear and Concise: Use simple language and avoid unnecessary details. The goal is to make the question and answer as clear as possible.</p>
+<ol start="2" type="1">
+<li>Only Add Information You Understand</li>
+</ol>
+<p>Avoid Rote Memorization: Don’t add information to your cards if you don’t understand it. Focus on comprehension rather than memorization. A good tip is to add material as you cover it during the year (don’t try and add the textbook!)</p>
+<ol start="3" type="1">
+<li>Use Images and Mnemonics</li>
+</ol>
+<p>Visual Aids: Where possible, include images, diagrams, or charts. Visual information can enhance memory retention and make studying more engaging. Mnemonics: Use mnemonic devices to help remember complex information. Associating facts with memorable phrases or images can improve recall.</p>
+<ol start="4" type="1">
+<li>Active Recall</li>
+</ol>
+<p>Formulate Questions: Instead of simply noting down facts, turn them into questions. This engages your brain more actively and improves learning. Avoid Yes/No Questions: These don’t encourage deep thinking. Use open-ended questions that require a detailed answer.</p>
+<ol start="5" type="1">
+<li>Contextual Learning</li>
+</ol>
+<p>Add Context: Where applicable, provide a brief context or example to explain why the information is relevant or how it is used. Link Concepts: Create cards that connect related ideas, showing how different pieces of information fit together.</p>
+<ol start="6" type="1">
+<li>Personalize Your Cards</li>
+</ol>
+<p>Relate to Your Experiences: Customize cards with examples that are meaningful to you. This personal touch can make the information more memorable. Use Your Own Words: Writing in your own words helps ensure that you understand the material and makes it easier to recall.</p>
+</section>
+<section id="extension-activities" class="level1">
+<h1>Extension activities</h1>
+<p>Try adding Anki cards for things outside of your lectures. For example, you could add:</p>
+<ul>
+<li>Key terms from your reading</li>
+<li>Definitions of key concepts</li>
+</ul>
+<p>Make sure you review your cards regularly. You can also add and review cards on your phone:</p>
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.ichi2.anki&amp;pli=1">AnkiDroid for Android (free)</a></li>
+<li><a href="https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387">iPhone app (paid)</a></li>
+</ul>
+
+
+
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

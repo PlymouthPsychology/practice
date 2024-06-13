@@ -8,14 +8,30 @@
     ]
   },
   {
+    "listing": "/extensions.html",
+    "items": [
+      "/tasks/theme-extension-topic-blank.html",
+      "/tasks/writing-extension-shorter-sentences.html"
+    ]
+  },
+  {
+    "listing": "/theme-speaking.html",
+    "items": [
+      "/tasks/speaking-describe-lecture.html"
+    ]
+  },
+  {
     "listing": "/theme-studying.html",
-    "items": []
+    "items": [
+      "/tasks/studying-spaced-repetition.html"
+    ]
   },
   {
     "listing": "/weekly.html",
     "items": [
       "/tasks/theme-topic-blank.html",
       "/tasks/speaking-describe-lecture.html",
+      "/tasks/studying-spaced-repetition.html",
       "/tasks/writing-concisely.html",
       "/tasks/growth-planning-first-progress-meeting.html",
       "/tasks/growth-goals-career-planning.html",
@@ -40,6 +56,10 @@
     ]
   },
   {
+    "listing": "/tasks/studying-spaced-repetition.html",
+    "items": []
+  },
+  {
     "listing": "/tasks/theme-topic-blank.html",
     "items": [
       "/tasks/writing-extension-shorter-sentences.html",
@@ -49,18 +69,5 @@
   {
     "listing": "/theme-thinking.html",
     "items": []
-  },
-  {
-    "listing": "/theme-speaking.html",
-    "items": [
-      "/tasks/speaking-describe-lecture.html"
-    ]
-  },
-  {
-    "listing": "/extensions.html",
-    "items": [
-      "/tasks/theme-extension-topic-blank.html",
-      "/tasks/writing-extension-shorter-sentences.html"
-    ]
   }
 ]
