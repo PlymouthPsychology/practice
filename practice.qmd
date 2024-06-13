@@ -98,7 +98,7 @@ All the materials needed for the tasks are available on this website. Tasks are 
 
 Each week, all staff in the school offer two "office hours" in which students can ask questions or seek feedback on the work they have done.
 
--   [See more about office hours in the handbook](TODO.html)
+-   [See more about office hours in the handbook](office-hours.html)
 
 We recommend that students use office hours to review their practice tasks, and to ask for help if they are struggling with any aspect of the course.
 

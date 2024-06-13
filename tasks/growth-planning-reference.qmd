@@ -1,7 +1,6 @@
 ---
 title: "Planning your reference"
 subtitle: "How to plan to make sure your tutor can write you a great reference."
-author: Ben Whalley
 description: How to plan to make sure your tutor can write you a great reference
 Week: 18
 Stage: 1
@@ -9,7 +8,11 @@ categories: [Growth]
 reading-time: 15 minutes
 ---
 
-![](../images/towhom.png)
+
+
+![](../images/towhom.png){width=50%}
+
+
 
 # Planning your reference
 
@@ -22,3 +25,13 @@ You need to think about your reference early on in your time at university. You 
 -   You should think about when you want to ask for your reference. You need to ask for your reference at least a month before you need it. You need to ask for your reference in a polite and professional way (either in person or via email).
 
 -   You need to help the reference-writer do a good job for you! Provide as much information as you can about yourself, your skills, experience, and achievements. You should also provide the reference-writer with a copy of the job description or course you are applying for, and highlight anything you would like them to mention.
+
+
+
+
+:::{.instruction}
+
+
+TODO ADD INSTRUCTIONS HERE
+
+:::

@@ -55,6 +55,17 @@ h3, h4, h5, h6 { font-style: italic;}
   padding: 1em;
   border-radius: 10px;
 }
-};
 
+
+.instruction { 
+  
+  background-color: #faffff;
+  border: 3px dashed #06adad;
+  padding: 1em;
+  border-radius: 10px;
+  margin-top:2em;
+}
+
+
+};
 

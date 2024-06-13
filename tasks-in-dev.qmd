@@ -1,0 +1,128 @@
+---
+title: "Tasks to develop"
+---
+
+
+:::{.todo}
+
+TODO: This is a sketch list of tasks. To be fleshed out and completed. We need 20 in total, but with extensions 
+and additional practice were appropriate we may end up with more than 20. 
+
+:::
+
+
+### Strategies for practice tasks {#practice-task-design}
+
+-   Scaffolded tasks: pre-complete tricky elements of larger tasks to ensure studentsd can engage with the specific learning outcome in a short duration task.
+
+-   Get students to "fill in the gaps" to make makes tasks easier/more bounded. For example, provide a long-form piece of writing in which a single paragraph, or a number of sentences have been blacked-out. This provides context and constrains the task — students just need to fill in the gaps.
+
+-   Have a 'correct' or prototype answer for everything. This serves as a reference point in formative feedback (we can use LLMs to automate this, provided we keep things simple).
+
+-   One thing at a time: Keep tasks simple, focus on a single element at a time. E.g. if task is about writing, provide bullet points for all the content so that we don't conflate understanding with writing. If the task is about understanding, only require students to write in note form or bullet points to avoid writing skills being a barrier to the active objective.
+
+
+
+
+## Studying
+
+
+- *Making notes*: How to make notes on lectures (common strategies and evidence). Preparation (re-read course notes), understanding not transcribing, active participation (ask and note questions, even if just in your head); conceptualise, summarise. Review and reduce notes later. Activity: Practice the Cornell note-taking method on a single lecture and submit it to Psylab.
+
+- [How to use spaced practice/flashcards](tasks/studying-spaced-repetition.html). (Not sure about actually requiring them to use anki)
+
+- *Time management*: Run later in the year? Provide students with a list of topics they might encounter in exams and ask them to create a schedule for their revision (or mark off what they have already revised). Provide examples of effective revision materials and notes (i.e. show what good students actually do).
+
+- How to read a paper/where to look for specific bits of information
+
+- *Searching*: How to use google scholar effectively. Forward and backward citations. Tasks 1: Make the longest chain of citations you can (prize for 10 citation stretching > 100 years). Task 2: find a replication of a specific experimental paper through citing articles and in-text citations. Task 3: Find a list of experiments which were inspired by a classic experimental study, or papers which use a specific measurement technique or psychometric scale.
+
+- Lit searching in some form. Find something on social media... Think of a book?
+Or play them a YouTube video (of street magic?) What does psychology have to tell us about it? Spend 10 mins brainstormig and 10 mins using google scholar. Summarise what you found.
+
+- Could also do same for debunking psy "facts"- you only use 5% of yourbrain - purple makes you relaxed. Ask Jan about this - followup critical thinking task?
+
+- Peer review: Read a friend's assessment before the deadline. Give structured feedback/use the marking rubric.
+
+Other thoughts:  Revision techniques, Reading: Finding, reading and citing literature; Zotero; research/writing tools (ChatGPT); academic standards. GTD (getting things done): Personal organisation and time management. Task is to try GTD for 2 weeks.
+
+
+
+## Writing
+
+
+- Irrelevant information spotting 
+
+- *Chop chop!*: Practice shortening a section of prose by 10%, 30%, 50% and 80% without eliminating important information. Task 1 starts with a typical student essay style (so lots of easy verbiage to cut). Task 2 is more demanding: reduce a paper to an elevator pitch or single line. Give each student in the group a different audience when cutting words? Which words should we cut? Does our audience matter when cutting?
+
+- *Write like Boris*: Johnson wrote 2 articles in 2016, one pro one anti Brexit. Use this to introduce the idea of writing from opposing perspectives on the same question and practive exploring features of persuasive arguments. Maybe give them a set of facts/evidence which is ambiguous/balanced on some question and ask them to construct an argument in both directions? 
+
+- *"hiya!!! 💕🎉😂"*: (re)Introduce the concept of formal/informal written register. Cover writing a professional email and wow to ask a good question (give details, be specific, etc). Deal with informality and 'journalistic' phrasing in academic reports. When and how to use "I" or "we" etc. In scientific writing nobody cares about your opinion — they care about your argments. Task 1: write a letter applying for a job. Task 2: Write 2 summaries of a paper (building on "chop chop") for 2 different audiences (i.e. deliberately repeat the same task in different contexts as practice).
+
+- Persuasive writing practice: focus on answering the question (linked to thinking/argument). 
+
+- *Cite it right*: Ask students to proof read and correct text with incorrect citations (or show them how ChatGPT can fix this for them).
+
+
+
+
+## Speaking
+
+- ["describe a lecture slide in a whatsapp voice note"](tasks/speaking-describe-lecture.html)
+
+- a speak aloud task? Practice narrating or commentating on what you are seeing? Contrast this stream of consciousness type task with a more formal presentation where we have summarised and organised the material?
+
+- mock radio interview on a topic they have covered in lectures or an assignment?
+
+- active listening and question-asking practice?
+
+- ELI5: given some background information and facts/details/diagrams about a (technical?) area of psychology they have covered in a lecture.  Ask them to explain it to a 5 year old and record that.
+
+
+
+
+
+## Thinking
+
+- Cows and grass writing exercise (Jackie)
+- Interpret data table and identify the takeaway message. (Jackie, e.g. Jackie's Bahrick study slide on spaced practice)
+- Read this text: Is it nifty or shifty? (Jackie)
+- Match an experimental design to the research question it can answer
+- What did you come to uni to study psychology for? What prompted it? Do a lit search... do we know the answer yet? What sort of information have we gained about it? 
+
+
+- Experimental logic: Activity is to spot and correct errors of logic or reasoning in a text, given some background information on a study. Similar to Jackie's existing activity about inference from graphs. Cover ideas like generalisation from a small sample. Concrete outcome is to complete a section of an essay: e.g. give students the text of an essay where this study is discussed, but with the sentences where the study is described and used to support the argument obscured. Students don't need to read the original paper (they have the summary details) so the activity is scaffolded; the emphaisis on connecting the details of the study to the argument.
+
+- Extraordinary claims: Activity should make students think about and argue in relation to a hierarchy of evidence. Perhaps create a debate where students have to use evidence provided to them which is of different types: anecdotal (personal/family recommendations), observational (e.g. cohort study), experimental (small clinical trial), and synthesised (e.g. systematic review). Or a short writing activity where students given limited space so have to summarise and prioritise each type of evidence when making their case? Perhaps they have to select 2 of 5 sources and justify their selection? Craft the examples so the students have to trade-off study sample size against experimental rigour.
+
+
+- The replication game: Students get some information on what makes studies more/less likely to fail to replicate (e.g. recorded flipped classroom session based on Andy's materials). Then we give them 10 abstracts + details of the methods on real studies and the group activity is to read, discuss, decide which ones replicated and which ones didn't. We run it like a quiz/competition in a seminar.
+
+
+- Spot the logical fallacy: staff introduce a deliberate error of reasoning in their lecture that week and the task is to spot them. Examples would include argument from authority, 
+
+
+- Arguments: Changes from A-level. Why PEE isn't enough any more. Introduce Toulmin's model?
+
+
+- Evidence: Hierarchy of evidence; peer review. Distinguishing facts from opinions.
+
+
+- Exam planning (perhaps a choice of activities to complete in advance of of a progress meeting and review with their tutee). Perhaps more stage 2
+
+
+## Growth
+
+- planning agenda your first progress session
+- planning how to get a good reference
+
+- *Have you got what it takes?* Think about what career pathways you might be interested in. Pick one from a (constrained) list including Clinical psychology, teaching, graduate HR jobs etc. (matched to our graduates' profile). Task: Find out the formal and informal requirements for entry using prospects.ac.uk. Write 100 word reflection on whether they have what it takes, and what "one thing" they could do next to improve things.
+
+
+- Personal reflection; self-awareness; values and goal setting. Reflective/personal journalling.
+- Planning for life and careers. Linking goals to actions. Like the Effective Researcher course but for students.
+- Something that involves talking to other psych students... reporting on what they think. Consensus building/summarisation of multiple views?
+
+
+:::
+

@@ -41,13 +41,13 @@
 }
 
 
-
 /* css styles */
 
-body { font-family: "LibertinusSerif", "Times New Roman" ;
-font-size: 18pt;
-h1, h2, h3, h4, h5, h6 { font-weight: 300;}  
-h3, h4, h5, h6 { font-style: italic;}
+body { 
+  font-family: "LibertinusSerif", "Times New Roman" ;
+  font-size: 18pt;
+  h1, h2, h3, h4, h5, h6 { font-weight: 300;}  
+  h3, h4, h5, h6 { font-style: italic;}
 
 
 .tldr { 
@@ -55,6 +55,25 @@ h3, h4, h5, h6 { font-style: italic;}
   padding: 1em;
   border-radius: 10px;
 }
+
+.instruction {   
+  background-color: #faffff;
+  border: 3px dashed #06adad;
+  padding: 1em;
+  border-radius: 10px;
+  margin-top:2em;
+}
+
+
+
+
+
+.todo {
+    background-color: #fdd052;
+  border: 3px dashed #fdd052;
+  padding: 1em;
+  border-radius: 10px;
+  margin-top:2em;
+}
+
 };
-
-

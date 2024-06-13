@@ -1,28 +1,97 @@
 ---
 title: "Planning your first Progress meeting"
-subtitle: "Get prepared for your mid-semester progress meeeting."
+# subtitle: 
 author: Ben Whalley
-description: XXX
+description: "Get prepared for your mid-semester progress meeeting."
 Week: 5
 Stage: 1
 categories: [Growth]
 reading-time: 15 minutes
 ---
 
-![](../images/progress-bar-computer-icons-loading-screen-bar-line-text-rectangle-thumbnail.png)
 
-#TODO: UPDATE THIS TEXT
+# What are progress meetings for?
 
-## Planning the agenda
+Students often find that the transition from school to university is difficult. 
+This is rarely because the material you study is more complex; most of the time, 
+it is because the _way_ you are expected to learn is different, and because
+*you must take more responsibility for your own learning*.
 
-\#TODO talk about how to plan the agenda
+Progress meetings are regular 'checkpoints' in the year where you can:
 
-## Recording the minutes and taking minutes
+- review what you have done so far, and how successful it has been
+- ask questions about the course, or about the way you are working, and
+- work with your tutor to make plans for the weeks to come
+
+
+The aim is to provide space to reflect on your progress, and give you the confidence to take
+responsibility for your own learning.
+
+
+
+# Format and scheduling
+
+As a [reminder](../progress.html), progress meetings will
+
+- include your tutor and one other student
+- last around 45 minutes
+- be held face to face in your tutor’s office
+
+
+:::{.instruction}
+
+Book your meeting online, on the DLE here: XXX ADD DLE LINKS
+
+:::
+
+
+
+# Setting the agenda
+
+Before the meeting, it's important to know what you want to get from it.
+
+:::{.instruction}
+
+
+Part 1
+
+1. Make a list of 3 things you want to discuss in the meeting (see suggestions below)
+2. Upload this agenda to Psylab
+
+[Record the agenda for the meeting here](XXX){.submit-work .btn .btn-primary}
+
+
+(See part 2 below)
+
+:::
+
+
+
+# Making good notes
 
 ![Credit: “Dilbert” by Scott Adams (2015)](images/dilbert-meetings.jpg)
 
-\#TODO  talk about how to take minutes
 
-## Holding yourself accountable
+:::{.instruction}
 
-\#TODO  talk about how these notes should feed into the xmas meeting
+Part 2:
+
+After the meeting, make notes on:
+
+- what was discussed
+- any actions that were agreed (and a deadline if there is one)
+
+[Record the notes from the meeting here](XXX){.submit-work .btn .btn-primary}
+
+:::
+
+
+Remember, these notes are important because they will feed into your next progress meeting, and because they will help you to keep track of your progress throughout the year.
+
+
+
+
+
+
+
+
