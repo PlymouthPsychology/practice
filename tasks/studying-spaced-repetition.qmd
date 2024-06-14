@@ -1,5 +1,6 @@
 ---
 title: "Spaced repetition"
+bibliography: ../refs.bib
 description: Use spaced repetition to beat the forgetting curve and save yourself time.
 Week: 4
 Stage: 1
@@ -19,16 +20,31 @@ listing:
 ---
 
 
+![Hermann Ebbinghaus, 1850-1909](../images/Ebbinghaus2.jpg){.figure width=20% .float-end}
+
 # Overview
+
+
+XXX TODO ADD A VIDEO EXPLAINER OF ALL THIS MATERIAL AT THE HEAD OF THE PAGE
+
+
 
 Over time we forget things, but in the 19th century, Ebbinghaus discovered that we forget things in a predictable way.
 
-His work on the 'forgetting curve' showed that we forget things quickly at first, but then more slowly over time. Reviewing what we have learnt helps us remember things for longer. The forgetting curve diagram above shows this. Without reviewing what we learn, after 30 days we will have forgotten almost all of of it (the first line on the graph). But reviewing the material on day 2, 10, 30 and so on interrupts the forgetting process. The forgetting curve becomes less steep, and we remember more of what we have learnt for longer.
+His work on the 'forgetting curve', since replicated [@murre2015replication], showed that we forget things quickly at first, but then more slowly over time. 
+
+Reviewing and rehearsing what we have learnt at regular intervals helps us remember things for longer. 
+
+The forgetting curve diagram below shows this: Without reviewing what we learn, after 30 days we will have forgotten almost all of of it (the first line on the graph). But reviewing the material on day 2, 10, 30 and so on interrupts the forgetting process. The forgetting curve becomes less steep, and we remember more of what we have learnt for longer.
 
 ![TODO REPLACE/REDRAW IMAGE](../images/Forgetting_curve_and_work_of_Ebbinghaus.png){.figure}
 
+**'Spaced repetition'** is a technique that makes use of this property of memory. By reviewing things *just* before you are likely to forget them, research suggests that you can flatten the forgetting curve and retain information for much longer.
 
-**'Spaced repetition'** is a technique to do this as efficiently as possible. By reviewing things *just* before you are likely to forget them, research suggests that you can flatten the forgetting curve and retain information for much longer.
+
+@bahrick1993maintenance showed that spacing your learning over a longer time is **much** more effective than cramming. 
+They found that when students spaced their revision over 8 weeks, rather than just 2, they could spend _half_ as much time studying and still remember more of the material. Many other studies show the same effect.
+
 
 
 # How to use spaced repetition
@@ -39,9 +55,7 @@ Anki is a free, open-source flashcard app that uses spaced repetition to help yo
 
 You can create your own flashcards, and Anki schedules a review of the cards at the best possible intervals. The algorithm saves you time, because you will only review material when it has the largest possible benefit to your memory.
 
-
-:::{.instructions}
-
+::: instructions
 
 # Instructions
 
@@ -52,10 +66,7 @@ You can create your own flashcards, and Anki schedules a review of the cards at 
 3.  Review the flashcards, and keep practicing over the next few weeks.
 
 4.  Make a note on Psylab. Write a short paragraph describing how you found the process, and whether you think it will be useful for you in the future.
-
-
 :::
-
 
 # Using Anki
 
@@ -69,10 +80,9 @@ It should look like this:
 
 Click "Add" to create your first cards.
 
-![The Anki interface](../images/anki/2a.png) 
+![The Anki interface](../images/anki/2a.png)
 
-Enter what you want to see on the "Front" and the "Back" of the flashcard. 
-This is what you will see when you test yourself.
+Enter what you want to see on the "Front" and the "Back" of the flashcard. This is what you will see when you test yourself.
 
 For example you might add something like this:
 
@@ -82,60 +92,42 @@ Deciding what to add to your cards is a bit of an art. We have [some guidance be
 
 -   XXX ADD a list of 3 facts from lectures we suggest here
 
+# Writing good cards {#writing-cards}
 
-# Writing good cards  {#writing-cards}
+Writing effective Anki cards is a skill. Here are some tips and best practices for creating high-quality cards:
 
+1.  Keep It Simple
 
-Writing effective Anki cards is a skill.  Here are some tips and best practices for creating high-quality cards:
+One Fact Per Card: Each card should test only one piece of information. This makes it easier to focus on specific details and ensures that you thoroughly understand each concept. Clear and Concise: Use simple language and avoid unnecessary details. The goal is to make the question and answer as clear as possible.
 
-
-1. Keep It Simple
-
-One Fact Per Card: Each card should test only one piece of information. This makes it easier to focus on specific details and ensures that you thoroughly understand each concept.
-Clear and Concise: Use simple language and avoid unnecessary details. The goal is to make the question and answer as clear as possible.
-
-2. Only Add Information You Understand
+2.  Only Add Information You Understand
 
 Avoid Rote Memorization: Don’t add information to your cards if you don’t understand it. Focus on comprehension rather than memorization. A good tip is to add material as you cover it during the year (don't try and add the textbook!)
 
+3.  Use Images and Mnemonics
 
-3. Use Images and Mnemonics
+Visual Aids: Where possible, include images, diagrams, or charts. Visual information can enhance memory retention and make studying more engaging. Mnemonics: Use mnemonic devices to help remember complex information. Associating facts with memorable phrases or images can improve recall.
 
-Visual Aids: Where possible, include images, diagrams, or charts. Visual information can enhance memory retention and make studying more engaging.
-Mnemonics: Use mnemonic devices to help remember complex information. Associating facts with memorable phrases or images can improve recall.
+4.  Active Recall
 
-4. Active Recall
+Formulate Questions: Instead of simply noting down facts, turn them into questions. This engages your brain more actively and improves learning. Avoid Yes/No Questions: These don’t encourage deep thinking. Use open-ended questions that require a detailed answer.
 
-Formulate Questions: Instead of simply noting down facts, turn them into questions. This engages your brain more actively and improves learning.
-Avoid Yes/No Questions: These don’t encourage deep thinking. Use open-ended questions that require a detailed answer.
+5.  Contextual Learning
 
-5. Contextual Learning
+Add Context: Where applicable, provide a brief context or example to explain why the information is relevant or how it is used. Link Concepts: Create cards that connect related ideas, showing how different pieces of information fit together.
 
-Add Context: Where applicable, provide a brief context or example to explain why the information is relevant or how it is used.
-Link Concepts: Create cards that connect related ideas, showing how different pieces of information fit together.
+6.  Personalize Your Cards
 
-
-6. Personalize Your Cards
-
-Relate to Your Experiences: Customize cards with examples that are meaningful to you. This personal touch can make the information more memorable.
-Use Your Own Words: Writing in your own words helps ensure that you understand the material and makes it easier to recall.
-
-
+Relate to Your Experiences: Customize cards with examples that are meaningful to you. This personal touch can make the information more memorable. Use Your Own Words: Writing in your own words helps ensure that you understand the material and makes it easier to recall.
 
 # Extension activities
 
 Try adding Anki cards for things outside of your lectures. For example, you could add:
 
--  Key terms from your reading
--  Definitions of key concepts
+-   Key terms from your reading
+-   Definitions of key concepts
 
 Make sure you review your cards regularly. You can also add and review cards on your phone:
 
-- [AnkiDroid for Android (free)](https://play.google.com/store/apps/details?id=com.ichi2.anki&pli=1)
-- [iPhone app (paid)](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387)
-
-
-
-
-
-
+-   [AnkiDroid for Android (free)](https://play.google.com/store/apps/details?id=com.ichi2.anki&pli=1)
+-   [iPhone app (paid)](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387)

@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -355,17 +375,27 @@ window.Quarto = {
 </header>
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/Ebbinghaus2.jpg" class="figure float-end img-fluid figure-img" style="width:20.0%"></p>
+<figcaption>Hermann Ebbinghaus, 1850-1909</figcaption>
+</figure>
+</div>
 <section id="overview" class="level1">
 <h1>Overview</h1>
+<p>XXX TODO ADD A VIDEO EXPLAINER OF ALL THIS MATERIAL AT THE HEAD OF THE PAGE</p>
 <p>Over time we forget things, but in the 19th century, Ebbinghaus discovered that we forget things in a predictable way.</p>
-<p>His work on the ‘forgetting curve’ showed that we forget things quickly at first, but then more slowly over time. Reviewing what we have learnt helps us remember things for longer. The forgetting curve diagram above shows this. Without reviewing what we learn, after 30 days we will have forgotten almost all of of it (the first line on the graph). But reviewing the material on day 2, 10, 30 and so on interrupts the forgetting process. The forgetting curve becomes less steep, and we remember more of what we have learnt for longer.</p>
+<p>His work on the ‘forgetting curve’, since replicated <span class="citation" data-cites="murre2015replication">(<a href="#ref-murre2015replication" role="doc-biblioref">Murre and Dros 2015</a>)</span>, showed that we forget things quickly at first, but then more slowly over time.</p>
+<p>Reviewing and rehearsing what we have learnt at regular intervals helps us remember things for longer.</p>
+<p>The forgetting curve diagram below shows this: Without reviewing what we learn, after 30 days we will have forgotten almost all of of it (the first line on the graph). But reviewing the material on day 2, 10, 30 and so on interrupts the forgetting process. The forgetting curve becomes less steep, and we remember more of what we have learnt for longer.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../images/Forgetting_curve_and_work_of_Ebbinghaus.png" class="figure img-fluid figure-img"></p>
 <figcaption>TODO REPLACE/REDRAW IMAGE</figcaption>
 </figure>
 </div>
-<p><strong>‘Spaced repetition’</strong> is a technique to do this as efficiently as possible. By reviewing things <em>just</em> before you are likely to forget them, research suggests that you can flatten the forgetting curve and retain information for much longer.</p>
+<p><strong>‘Spaced repetition’</strong> is a technique that makes use of this property of memory. By reviewing things <em>just</em> before you are likely to forget them, research suggests that you can flatten the forgetting curve and retain information for much longer.</p>
+<p><span class="citation" data-cites="bahrick1993maintenance">Bahrick et al. (<a href="#ref-bahrick1993maintenance" role="doc-biblioref">1993</a>)</span> showed that spacing your learning over a longer time is <strong>much</strong> more effective than cramming. They found that when students spaced their revision over 8 weeks, rather than just 2, they could spend <em>half</em> as much time studying and still remember more of the material. Many other studies show the same effect.</p>
 </section>
 <section id="how-to-use-spaced-repetition" class="level1">
 <h1>How to use spaced repetition</h1>
@@ -458,6 +488,7 @@ window.Quarto = {
 
 
 
+
 </section>
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
@@ -467,7 +498,14 @@ window.Quarto = {
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-bahrick1993maintenance" class="csl-entry" role="listitem">
+Bahrick, Harry P, Lorraine E Bahrick, Audrey S Bahrick, and Phyllis E Bahrick. 1993. <span>“Maintenance of Foreign Language Vocabulary and the Spacing Effect.”</span> <em>Psychological Science</em> 4 (5): 316–21.
+</div>
+<div id="ref-murre2015replication" class="csl-entry" role="listitem">
+Murre, Jaap MJ, and Joeri Dros. 2015. <span>“Replication and Analysis of Ebbinghaus’ Forgetting Curve.”</span> <em>PloS One</em> 10 (7): e0120644.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
