@@ -79,7 +79,7 @@ Don't use WhatsApp because it's harder to upload later.
 
 
 
-[Upload your recording here](XXX){.submit-work .btn .btn-primary}
+[Upload your recording here](https://pp.llemma.net/){.submit-work .btn .btn-primary}
 
 
 :::

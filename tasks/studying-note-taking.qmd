@@ -1,0 +1,75 @@
+---
+title: "Make great notes"
+subtitle: "How to make the most of lectures and workshops."
+author: Ben Whalley
+description: Making notes in lectures and workshops is a key skill for university students. This activity will help you to make the most of your notes, and ensure they are useful when you come to revise.
+Week: 3
+Stage: 1
+categories: [Studying]
+reading-time: 20 minutes
+# provides a listing of related activities
+listing:
+  contents: "*.qmd"
+  type: default
+  categories: false
+  fields: [title, image]
+  page-size: 3
+  include:
+    extension: true
+    categories: "{Studying}*"
+---
+
+![](../images/DALL·E 2024-06-14 14.08.02 - A student sits at a desk in a modern classroom, attentively taking notes. The desk has a notebook open, filled with colorful and organized notes, incl.webp){width="50%"}
+
+A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE
+
+# Overview
+
+
+
+How to make notes on lectures (common strategies and evidence). Preparation (re-read course notes), understanding not transcribing, active participation (ask and note questions, even if just in your head); conceptualise, summarise. Review and reduce notes later. Activity: Practice the Cornell note-taking method on a single lecture and submit it to Psylab.
+
+
+
+
+
+
+The overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.
+
+-   What is the thing to be practices
+-   Why is it important
+    -   In the degreee
+    -   In mant professional careers/life
+-   What are the key ideas/concepts?
+-   What evidence is there that this specific practice is helpful?
+-   If possible, give a brief example of the thing in action.
+
+# Instructions
+
+Instructions should be as brief as possible.
+
+Ideally there will be a
+
+1.  Numbered list
+2.  Of steps to follow
+3.  That is not too long
+
+# Recording your work
+
+Record your work on Psylab as usual.
+
+```{=html}
+<!-- Students will know that they can and should record their 
+
+Additional notes here might emphasise a particular format, or prompt them to ask their tutor specific questions in office hours, or things to look out for in later progress meetings.
+
+-->
+```
+[Record your work here](XXX){.submit-work .btn .btn-primary}
+
+# Extension activitie s
+
+If you found this task helpful or XXX is something you struggle with, consider the following extension activities:
+
+::: {#sample-listings}
+:::
