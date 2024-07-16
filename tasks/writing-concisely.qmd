@@ -58,7 +58,8 @@ Additional notes here might emphasise a particular format, or prompt them to ask
 ```
 [Record your work here](XXX){.submit-work .btn .btn-primary}
 
-# Extension activitie s
+
+# Extension activities
 
 If you found this task helpful or XXX is something you struggle with, consider the following extension activities:
 
