@@ -81,247 +81,53 @@
     "text": "What you need to know\nIn Stage 1, we run a scheme called “Briefing, Practice and Progress”. Each week we make regular times to:\n\nBrief you on what is coming up in lectures, workshops and assessments, and\nIntroduce a task to ‘practice’: these activities build the skills you need to succeed on the course.\nProvide an opportunity to review your work with your tutor.\n\nIn each semester you will have two progress meetings with your tutor. These are to reflect on feedback, and make plans to structure your work in the coming weeks."
   },
   {
-    "objectID": "theme-studying.html",
-    "href": "theme-studying.html",
-    "title": "Studying",
+    "objectID": "staff-notes-briefings.html",
+    "href": "staff-notes-briefings.html",
+    "title": "Briefings - notes for staff",
     "section": "",
-    "text": "Learning how to study for your degree is a key part of your first year. As psychologists, we can use evidence-based techniques to help us learn more effectively. This theme covers important ideas and techniques that will help you to succeed in your studies.\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nMake great notes\n\n\nHow to make the most of lectures and workshops.\n\n\n\n\n\n\n\n\n\n\n\nSpaced repetition\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "FAQ",
-      "Practice themes",
-      "Studying"
-    ]
+    "text": "… #TODO\n\nExplain the format\nDocument responsibilities for collating content each week\nExample form to collect information from MLs and others on Discourse."
   },
   {
-    "objectID": "faqs.html",
-    "href": "faqs.html",
-    "title": "FAQs",
+    "objectID": "how-we-write-references.html",
+    "href": "how-we-write-references.html",
+    "title": "How we write references",
     "section": "",
-    "text": "… #TODO\n\n\n\nThe practice tasks are an integral part of your degree. Skipping them won’t cause you to fail a specific module, but\n\nthe knowledge and experience you gain through practice will be expected by your lecturers. You you may find later material hard if you do not complete them.\nthe tasks are focused on the core skills required to do well in the course.\ntutors will become concerned if you are not enaged with this important component of the course\nyour ability to practice regularly and reflect and act on feedback is a good indicator of your ability as a student. In stage 3, this information may be used to inform decisions about placements, and in stage 4 potential supervisors will use this information as part of their decision about which students to accept onto their research projects\npractice tasks and progress meetings are the main ways your tutor can get to know you, and will greatly help them when writing a job reference, or academic reference for further study (see why this matters)",
-    "crumbs": [
-      "FAQ",
-      "Basics",
-      "FAQ"
-    ]
+    "text": "#TODO\nAsk Jackie?\nHer content on how she writes a reference. An example of a template she uses (adapted to indicate that she’s using the practice tasks to inform what she writes in the reference)"
   },
   {
-    "objectID": "faqs.html#faqs",
-    "href": "faqs.html#faqs",
-    "title": "FAQs",
+    "objectID": "js/clipboard.js-master/contributing.html",
+    "href": "js/clipboard.js-master/contributing.html",
+    "title": "Contributing guide",
     "section": "",
-    "text": "… #TODO\n\n\n\nThe practice tasks are an integral part of your degree. Skipping them won’t cause you to fail a specific module, but\n\nthe knowledge and experience you gain through practice will be expected by your lecturers. You you may find later material hard if you do not complete them.\nthe tasks are focused on the core skills required to do well in the course.\ntutors will become concerned if you are not enaged with this important component of the course\nyour ability to practice regularly and reflect and act on feedback is a good indicator of your ability as a student. In stage 3, this information may be used to inform decisions about placements, and in stage 4 potential supervisors will use this information as part of their decision about which students to accept onto their research projects\npractice tasks and progress meetings are the main ways your tutor can get to know you, and will greatly help them when writing a job reference, or academic reference for further study (see why this matters)",
-    "crumbs": [
-      "FAQ",
-      "Basics",
-      "FAQ"
-    ]
+    "text": "Want to contribute to Clipboard.js? Awesome! There are many ways you can contribute, see below.\n\n\nOpen an issue to report bugs or to propose new features.\n\nReporting bugs: describe the bug as clearly as you can, including steps to reproduce, what happened and what you were expecting to happen. Also include browser version, OS and other related software’s (npm, Node.js, etc) versions when applicable.\nProposing features: explain the proposed feature, what it should do, why it is useful, how users should use it. Give us as much info as possible so it will be easier to discuss, access and implement the proposed feature. When you’re unsure about a certain aspect of the feature, feel free to leave it open for others to discuss and find an appropriate solution.\n\n\n\n\nPull requests are very welcome. Note that if you are going to propose drastic changes, be sure to open an issue for discussion first, to make sure that your PR will be accepted before you spend effort coding it.\nFork the Clipboard.js repository, clone it locally and create a branch for your proposed bug fix or new feature. Avoid working directly on the master branch.\nImplement your bug fix or feature, write tests to cover it and make sure all tests are passing (run a final npm test to make sure everything is correct). Then commit your changes, push your bug fix/feature branch to the origin (your forked repo) and open a pull request to the upstream (the repository you originally forked)’s master branch.\n\n\n\nDocumentation is extremely important and takes a fair deal of time and effort to write and keep updated. Please submit any and all improvements you can make to the repository’s docs.\n\n\n\nIf you’re using npm@3 you’ll probably face some issues related to peerDependencies. https://github.com/npm/npm/issues/9204"
   },
   {
-    "objectID": "practice.html",
-    "href": "practice.html",
-    "title": "Practice",
+    "objectID": "js/clipboard.js-master/contributing.html#opening-issues",
+    "href": "js/clipboard.js-master/contributing.html#opening-issues",
+    "title": "Contributing guide",
     "section": "",
-    "text": "“Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good.”\n— Gladwell (2008)\nYou might have heard of the “10,000 hour rule”; it suggests that it takes 10,000 hours of practice to become an expert in a field. However, recent research suggests that it is not just the quantity of practice that matters, but the quality of practice1\nThe idea of “Deliberate Practice” was described by Anders Ericsson to emphaise the importance of focused, structured practice in developing expertise (Ericsson et al., 1993).",
-    "crumbs": [
-      "FAQ",
-      "Basics",
-      "Practice"
-    ]
+    "text": "Open an issue to report bugs or to propose new features.\n\nReporting bugs: describe the bug as clearly as you can, including steps to reproduce, what happened and what you were expecting to happen. Also include browser version, OS and other related software’s (npm, Node.js, etc) versions when applicable.\nProposing features: explain the proposed feature, what it should do, why it is useful, how users should use it. Give us as much info as possible so it will be easier to discuss, access and implement the proposed feature. When you’re unsure about a certain aspect of the feature, feel free to leave it open for others to discuss and find an appropriate solution."
   },
   {
-    "objectID": "practice.html#footnotes",
-    "href": "practice.html#footnotes",
-    "title": "Practice",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe 10,000 rule was popularised by Malcom Gladwell in Outliers, based on the work of Anders Ericsson and others. A meta-analysis (i.e. a review of all the quantitative studies available, Macnamara et al., 2014) suggested that the relationship between practice and expertise was not as strong has had been claimed. However, deliberate practice remains the primary predictor of expertise in many fields, and is typically the only factor which we have individual control over. Inherited general intelligence or working memory capacity may also predict expertise, but we can’t choose our parents! For a detailed discussion of the evidence, see Hambrick et al. (2020).↩︎",
-    "crumbs": [
-      "FAQ",
-      "Basics",
-      "Practice"
-    ]
-  },
-  {
-    "objectID": "js/clipboard.js-master/readme.html",
-    "href": "js/clipboard.js-master/readme.html",
-    "title": "clipboard.js",
+    "objectID": "js/clipboard.js-master/contributing.html#proposing-pull-requests",
+    "href": "js/clipboard.js-master/contributing.html#proposing-pull-requests",
+    "title": "Contributing guide",
     "section": "",
-    "text": "Modern copy to clipboard. No Flash. Just 3kb gzipped.\n\n\n\n\nCopying text to the clipboard shouldn’t be hard. It shouldn’t require dozens of steps to configure or hundreds of KBs to load. But most of all, it shouldn’t depend on Flash or any bloated framework.\nThat’s why clipboard.js exists.\n\n\n\nYou can get it on npm.\nnpm install clipboard --save\nOr if you’re not into package management, just download a ZIP file.\n\n\n\nFirst, include the script located on the dist folder or load it from a third-party CDN provider.\n&lt;script src=\"dist/clipboard.min.js\"&gt;&lt;/script&gt;\nNow, you need to instantiate it by passing a DOM selector, HTML element, or list of HTML elements.\nnew ClipboardJS('.btn');\nInternally, we need to fetch all elements that matches with your selector and attach event listeners for each one. But guess what? If you have hundreds of matches, this operation can consume a lot of memory.\nFor this reason we use event delegation which replaces multiple event listeners with just a single listener. After all, #perfmatters."
+    "text": "Pull requests are very welcome. Note that if you are going to propose drastic changes, be sure to open an issue for discussion first, to make sure that your PR will be accepted before you spend effort coding it.\nFork the Clipboard.js repository, clone it locally and create a branch for your proposed bug fix or new feature. Avoid working directly on the master branch.\nImplement your bug fix or feature, write tests to cover it and make sure all tests are passing (run a final npm test to make sure everything is correct). Then commit your changes, push your bug fix/feature branch to the origin (your forked repo) and open a pull request to the upstream (the repository you originally forked)’s master branch."
   },
   {
-    "objectID": "js/clipboard.js-master/readme.html#why",
-    "href": "js/clipboard.js-master/readme.html#why",
-    "title": "clipboard.js",
+    "objectID": "js/clipboard.js-master/contributing.html#documentation",
+    "href": "js/clipboard.js-master/contributing.html#documentation",
+    "title": "Contributing guide",
     "section": "",
-    "text": "Copying text to the clipboard shouldn’t be hard. It shouldn’t require dozens of steps to configure or hundreds of KBs to load. But most of all, it shouldn’t depend on Flash or any bloated framework.\nThat’s why clipboard.js exists."
+    "text": "Documentation is extremely important and takes a fair deal of time and effort to write and keep updated. Please submit any and all improvements you can make to the repository’s docs."
   },
   {
-    "objectID": "js/clipboard.js-master/readme.html#install",
-    "href": "js/clipboard.js-master/readme.html#install",
-    "title": "clipboard.js",
+    "objectID": "js/clipboard.js-master/contributing.html#known-issues",
+    "href": "js/clipboard.js-master/contributing.html#known-issues",
+    "title": "Contributing guide",
     "section": "",
-    "text": "You can get it on npm.\nnpm install clipboard --save\nOr if you’re not into package management, just download a ZIP file."
-  },
-  {
-    "objectID": "js/clipboard.js-master/readme.html#setup",
-    "href": "js/clipboard.js-master/readme.html#setup",
-    "title": "clipboard.js",
-    "section": "",
-    "text": "First, include the script located on the dist folder or load it from a third-party CDN provider.\n&lt;script src=\"dist/clipboard.min.js\"&gt;&lt;/script&gt;\nNow, you need to instantiate it by passing a DOM selector, HTML element, or list of HTML elements.\nnew ClipboardJS('.btn');\nInternally, we need to fetch all elements that matches with your selector and attach event listeners for each one. But guess what? If you have hundreds of matches, this operation can consume a lot of memory.\nFor this reason we use event delegation which replaces multiple event listeners with just a single listener. After all, #perfmatters."
-  },
-  {
-    "objectID": "js/clipboard.js-master/readme.html#events",
-    "href": "js/clipboard.js-master/readme.html#events",
-    "title": "clipboard.js",
-    "section": "Events",
-    "text": "Events\nThere are cases where you’d like to show some user feedback or capture what has been selected after a copy/cut operation.\nThat’s why we fire custom events such as success and error for you to listen and implement your custom logic.\nvar clipboard = new ClipboardJS('.btn');\n\nclipboard.on('success', function (e) {\n  console.info('Action:', e.action);\n  console.info('Text:', e.text);\n  console.info('Trigger:', e.trigger);\n\n  e.clearSelection();\n});\n\nclipboard.on('error', function (e) {\n  console.error('Action:', e.action);\n  console.error('Trigger:', e.trigger);\n});\nFor a live demonstration, go to this site and open your console."
-  },
-  {
-    "objectID": "js/clipboard.js-master/readme.html#tooltips",
-    "href": "js/clipboard.js-master/readme.html#tooltips",
-    "title": "clipboard.js",
-    "section": "Tooltips",
-    "text": "Tooltips\nEach application has different design needs, that’s why clipboard.js does not include any CSS or built-in tooltip solution.\nThe tooltips you see on the demo site were built using GitHub’s Primer. You may want to check that out if you’re looking for a similar look and feel."
-  },
-  {
-    "objectID": "js/clipboard.js-master/readme.html#advanced-options",
-    "href": "js/clipboard.js-master/readme.html#advanced-options",
-    "title": "clipboard.js",
-    "section": "Advanced Options",
-    "text": "Advanced Options\nIf you don’t want to modify your HTML, there’s a pretty handy imperative API for you to use. All you need to do is declare a function, do your thing, and return a value.\nFor instance, if you want to dynamically set a target, you’ll need to return a Node.\nnew ClipboardJS('.btn', {\n  target: function (trigger) {\n    return trigger.nextElementSibling;\n  },\n});\nIf you want to dynamically set a text, you’ll return a String.\nnew ClipboardJS('.btn', {\n  text: function (trigger) {\n    return trigger.getAttribute('aria-label');\n  },\n});\nFor use in Bootstrap Modals or with any other library that changes the focus you’ll want to set the focused element as the container value.\nnew ClipboardJS('.btn', {\n  container: document.getElementById('modal'),\n});\nAlso, if you are working with single page apps, you may want to manage the lifecycle of the DOM more precisely. Here’s how you clean up the events and objects that we create.\nvar clipboard = new ClipboardJS('.btn');\nclipboard.destroy();"
-  },
-  {
-    "objectID": "js/clipboard.js-master/readme.html#browser-support",
-    "href": "js/clipboard.js-master/readme.html#browser-support",
-    "title": "clipboard.js",
-    "section": "Browser Support",
-    "text": "Browser Support\nThis library relies on both Selection and execCommand APIs. The first one is supported by all browsers while the second one is supported in the following browsers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n42+ ✔\n12+ ✔\n41+ ✔\n9+ ✔\n29+ ✔\n10+ ✔\n\n\n\nThe good news is that clipboard.js gracefully degrades if you need to support older browsers. All you have to do is show a tooltip saying Copied! when success event is called and Press Ctrl+C to copy when error event is called because the text is already selected.\nYou can also check if clipboard.js is supported or not by running ClipboardJS.isSupported(), that way you can hide copy/cut buttons from the UI."
-  },
-  {
-    "objectID": "js/clipboard.js-master/readme.html#bonus",
-    "href": "js/clipboard.js-master/readme.html#bonus",
-    "title": "clipboard.js",
-    "section": "Bonus",
-    "text": "Bonus\nA browser extension that adds a “copy to clipboard” button to every code block on GitHub, MDN, Gist, StackOverflow, StackExchange, npm, and even Medium.\nInstall for Chrome and Firefox."
-  },
-  {
-    "objectID": "js/clipboard.js-master/readme.html#license",
-    "href": "js/clipboard.js-master/readme.html#license",
-    "title": "clipboard.js",
-    "section": "License",
-    "text": "License\nMIT License © Zeno Rocha"
-  },
-  {
-    "objectID": "weekly.html",
-    "href": "weekly.html",
-    "title": "Stage 1 weekly list of tasks",
-    "section": "",
-    "text": "TODO: See this list of ideas for tasks\n\n\n\nIt’s currently week:\n\n\nThese are all the weekly tasks for Stage 1 that you are expected to complete each week.\nOther related tasks (including extensions or additional practice) are shown on the per-theme pages\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Week\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nTitle\n\n\nSubtitle.\n\n\n\n\nWeek\n\n\nXXX\n\n\n\n\n\n\n\n\n\n\n\n\n\nMake great notes\n\n\nHow to make the most of lectures and workshops.\n\n\n\n\nWeek\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\nDescribe a lecture in a voice note\n\n\n\n\nWeek\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpaced repetition\n\n\n\n\nWeek\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\nKeep it short\n\n\nWriting concisely in assignments.\n\n\n\n\nWeek\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlanning your first Progress meeting\n\n\n\n\nWeek\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinking goals to actions.\n\n\nPlanning for life and careers.\n\n\n\n\nWeek\n\n\n16\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlanning your reference\n\n\nHow to plan to make sure your tutor can write you a great reference.\n\n\n\n\nWeek\n\n\n18\n\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "FAQ",
-      "Practice themes",
-      "Week-by-week list"
-    ]
-  },
-  {
-    "objectID": "theme-writing.html",
-    "href": "theme-writing.html",
-    "title": "Writing",
-    "section": "",
-    "text": "“I would have written a shorter letter, but I did not have the time.” — Blaise Pascal\n\n\n\n\nImage: Wikimedia\n\n\nWriting effectively is a key skill for psychologists. This theme covers the basics of academic writing, including how to structure essays, how to reference your work, and how to write in an academic style. We also cover how to use generative AI effectively and enhance your studies — not only as a tool for writing, but also for learning and understanding complex ideas.\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nKeep it short\n\n\nWriting concisely in assignments.\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "FAQ",
-      "Practice themes",
-      "Writing"
-    ]
-  },
-  {
-    "objectID": "tasks/speaking-describe-lecture.html",
-    "href": "tasks/speaking-describe-lecture.html",
-    "title": "Describe a lecture in a voice note",
-    "section": "",
-    "text": "XXX TODO ADD A VIDEO EXPLAINER OF ALL THIS MATERIAL AT THE HEAD OF THE PAGE\n\nOverview\nAlbert Einstein is quoted as saying “If you can’t explain it simply, you don’t understand it well enough”, and it’s true that explaining a concept to someone else is a great way to consolidate your understanding of it.\nIn this task, we practice explaining a concept from a lecture to a friend, as if you were leaving them a voice note.\n\n\nInstructions\n\n\nChoose ONE of the slides from below (both are from lectures which happen this week)\nGo to the lecture and listen carefully\nWithout any of the other slides in front of you, imagine explaining it to a friend in a WhatsApp-style voice-note (see how to record below).\n\n\n\n\nSlides to explain\n\nSlide 1:\n\n(The full lecture is here if you want to listen to it again.)\nSlide 2:\n\n(The full lecture is here if you want to listen to it again.)\n\n\nRecording your work\n\nRecord your “voice note” using\n\nthe “Voice Memos” app on iPhone, or\nthe “Voice Recorder” app on Android\n\nDon’t use WhatsApp because it’s harder to upload later.\nUpload your recording here\nWhen you add your practice upload an audio file of your voice note. Psybot will listen to the audio and give you feedback.\n\nDEMO of ChatGPT feedback for this task\n\n\nExtension activities\n\nTry practicing the task more than once.\nYou could also try explaining the same concept to different friends or family members. Does it make a difference if you explain it to someone who knows the topic in general (e.g. another student), vs. someone who has never studied psychology?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "tasks/speaking-feedback-demo.html",
-    "href": "tasks/speaking-feedback-demo.html",
-    "title": "Describe a lecture in a voice note - FEEDBACK DEMO",
-    "section": "",
-    "text": "I wanted to see if we could provide auto-feedback on the describe a slide task\nAs a demo , I tried recording myself giving two explanations of this figure, one bad, one slightly better.\n\nbad\nbetter\n\nThese are easy to transcribe with whisper:\nBad:\n\nOh yeah, so this was one of the slides in Chris's lecture and it shows the \nlearning curve so you can see that as you do more trials then the strength \nof the response gets more and more and then after a while it doesn't get \nany stronger.\n\nSo that's what it shows.\n\nBetter\nSo this is a slide from one of Peter's lectures and the title is called Learning Curves,\nbut it's really about the strength of a conditioned response as you do an increasing\nnumber of conditioning trials.\n\nSo basically the graph is a curve and it starts really rising steeply and then it\nlevels off.\n\nSo to begin with you get a big change in the conditioned response for every extra\ntrial you do.\n\nBut after a while it tails off and you get something called an asymptote.\n\nSo that means that after a while you won't get any increase in the conditioned response\nno matter how many trials you do.\n\nAuto feedback\nAnd then I asked it for feedback. This could be made better by providing more context on what a good answer would be, but even with a simple query possibly useful?\n\nYour explanation of the learning curve graph was quite clear and concise! You did a great job describing the key elements of the graph and the concept it represents. Here are some specific points of feedback:\n\nPositives:\n\nClear Description: You clearly explained that the graph shows the strength of a conditioned response in relation to the number of conditioning trials.\nGood Use of Terminology: You correctly used terms like “conditioning trials” and “asymptote,” which are important for understanding the graph.\nLogical Flow: Your explanation followed a logical progression, from describing the initial steep increase to the eventual leveling off of the curve.\n\n\n\nAreas for Improvement:\n\nAvoiding Fillers: While your explanation was generally clear, there were a few instances where you used filler phrases like “So basically” and “But after a while.” These can be reduced to make your explanation even more precise.\nDetails on Asymptote: You mentioned the asymptote but could add a bit more detail on what it represents. For example, you could explain that the asymptote indicates the maximum strength of the conditioned response that can be achieved through conditioning, regardless of the number of additional trials.\n\n\n\nAdditional Points to Consider:\n\nInitial State: You might mention that the strength of the conditioned response starts at a very low level initially before increasing.\nReal-World Examples: Providing a real-world example of a conditioned response, such as Pavlov’s dogs salivating at the sound of a bell, could help to contextualize the graph for your audience.\n\nOverall, you did an excellent job! With a few minor adjustments, your explanation will be even more effective. Keep up the good work!"
-  },
-  {
-    "objectID": "tasks/theme-topic-blank.html",
-    "href": "tasks/theme-topic-blank.html",
-    "title": "Title",
-    "section": "",
-    "text": "Short summary pull-quote which captures the point of the exercise and provides motivation\n\n\nRecord your work here\n\n\nOverview\nThe overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.\n\nWhat is the thing to be practices\nWhy is it important\n\nIn the degreee\nIn mant professional careers/life\n\nWhat are the key ideas/concepts?\nWhat evidence is there that this specific practice is helpful?\nIf possible, give a brief example of the thing in action.\n\n\n\nInstructions\nInstructions should be as brief as possible.\nIdeally there will be a\n\nNumbered list\nOf steps to follow\nThat is not too long\n\n\n\nRecording your work\nRecord your work on Psylab as usual.\n\nRecord your work here\n\n\nExtension activities\nIf you found this task helpful or XXX is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExtension Activity Title\n\n\nAnother Subtitle.\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "tasks/theme-extension-topic-blank.html",
-    "href": "tasks/theme-extension-topic-blank.html",
-    "title": "Extension Activity Title",
-    "section": "",
-    "text": "Short summary pull-quote which captures the point of the exercise and provides motivation\n\n\nRecord your work here\n\n\nOverview\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet eleifend orci. Maecenas aliquet semper purus ac porta. Mauris erat ex, viverra sed mauris et, faucibus accumsan ex. Sed ut dolor vel odio mattis vulputate quis non metus. Quisque lobortis placerat erat, ut euismod nunc tempor a. Duis sit amet gravida elit, quis rutrum velit. In hac habitasse platea dictumst. Nam dapibus nibh magna, et tristique urna sagittis sit amet. Ut consectetur nisi ultricies purus mollis pulvinar.\n\n\nInstructions\nPhasellus et arcu in diam commodo vestibulum a quis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis nec dolor vitae sollicitudin. Nunc id feugiat massa. In id egestas elit. Quisque mattis eget turpis nec pretium. Nulla pharetra ex vitae urna tincidunt, nec imperdiet nulla vestibulum. Sed dignissim diam sed nibh commodo venenatis. Nunc dapibus mi vitae tincidunt tempor. Vestibulum ut sem gravida, viverra orci non, fringilla leo.\nMauris dapibus interdum velit. Donec eu semper libero. Suspendisse imperdiet justo lacus, pellentesque ultrices augue venenatis vitae. Suspendisse lobortis, neque sit amet porta lobortis, sem orci lobortis lectus, at egestas quam erat ac turpis. Nam venenatis congue gravida. Proin nulla arcu, tristique ut sollicitudin sagittis, scelerisque vestibulum enim. Aliquam erat volutpat. Vivamus ac mauris at nulla molestie vehicula nec id risus. Sed lacinia enim sit amet nulla bibendum, sed viverra sapien tincidunt. Suspendisse mattis, dui in malesuada finibus, urna nunc laoreet tortor, nec pretium massa mauris sit amet est. Nunc sed viverra mi, sed vestibulum ex. Integer ultricies purus eget lectus euismod, placerat rutrum erat egestas. Vivamus molestie magna ac quam laoreet aliquam sed eget ante. Maecenas nec dictum odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In id malesuada sem.\nAliquam malesuada sapien vel nunc porta pharetra. Suspendisse potenti. Nam vestibulum magna in ipsum molestie tempor eu vel augue. Mauris nec ante dolor. Aliquam a leo porttitor, hendrerit massa sit amet, finibus ligula. Praesent porta eleifend auctor. In lorem ligula, interdum sed imperdiet et, tincidunt eget lorem.\n\n\nRecording your work\nPhasellus et arcu in diam commodo vestibulum a quis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis nec dolor vitae sollicitudin. Nunc id feugiat massa. In id egestas elit. Quisque mattis eget turpis nec pretium. Nulla pharetra ex vitae urna tincidunt, nec imperdiet nulla vestibulum. Sed dignissim diam sed nibh commodo venenatis. Nunc dapibus mi vitae tincidunt tempor. Vestibulum ut sem gravida, viverra orci non, fringilla leo.\nRecord your work here"
-  },
-  {
-    "objectID": "tasks/studying-spaced-repetition.html",
-    "href": "tasks/studying-spaced-repetition.html",
-    "title": "Spaced repetition",
-    "section": "",
-    "text": "Hermann Ebbinghaus, 1850-1909\n\n\n\nOverview\nXXX TODO ADD A VIDEO EXPLAINER OF ALL THIS MATERIAL AT THE HEAD OF THE PAGE\nOver time we forget things, but in the 19th century, Ebbinghaus discovered that we forget things in a predictable way.\nHis work on the ‘forgetting curve’, since replicated (Murre and Dros 2015), showed that we forget things quickly at first, but then more slowly over time.\nReviewing and rehearsing what we have learnt at regular intervals helps us remember things for longer.\nThe forgetting curve diagram below shows this: Without reviewing what we learn, after 30 days we will have forgotten almost all of of it (the first line on the graph). But reviewing the material on day 2, 10, 30 and so on interrupts the forgetting process. The forgetting curve becomes less steep, and we remember more of what we have learnt for longer.\n\n\n\nTODO REPLACE/REDRAW IMAGE\n\n\n‘Spaced repetition’ is a technique that makes use of this property of memory. By reviewing things just before you are likely to forget them, research suggests that you can flatten the forgetting curve and retain information for much longer.\nBahrick et al. (1993) showed that spacing your learning over a longer time is much more effective than cramming. They found that when students spaced their revision over 8 weeks, rather than just 2, they could spend half as much time studying and still remember more of the material. Many other studies show the same effect.\n\n\nHow to use spaced repetition\nUse Anki!\nAnki is a free, open-source flashcard app that uses spaced repetition to help you remember things.\nYou can create your own flashcards, and Anki schedules a review of the cards at the best possible intervals. The algorithm saves you time, because you will only review material when it has the largest possible benefit to your memory.\n\n\nInstructions\n\nDownload Anki to your computer: https://apps.ankiweb.net\nAdd 10 flashcards to your “deck” based on information in lectures this week (see how below)\nReview the flashcards, and keep practicing over the next few weeks.\nMake a note on Psylab. Write a short paragraph describing how you found the process, and whether you think it will be useful for you in the future.\n\n\n\nUsing Anki\n\nInstalling Anki and adding cards\nOnce you have installed Anki from: https://apps.ankiweb.net, open the Application.\nIt should look like this:\n\n\n\nThe Anki interface\n\n\nClick “Add” to create your first cards.\n\n\n\nThe Anki interface\n\n\nEnter what you want to see on the “Front” and the “Back” of the flashcard. This is what you will see when you test yourself.\nFor example you might add something like this:\n\n\n\nAdding a card\n\n\nDeciding what to add to your cards is a bit of an art. We have some guidance below, but as some suggestions from lectures this week:\n\nXXX ADD a list of 3 facts from lectures we suggest here\n\n\n\n\nWriting good cards\nWriting effective Anki cards is a skill. Here are some tips and best practices for creating high-quality cards:\n\nKeep It Simple\n\nOne Fact Per Card: Each card should test only one piece of information. This makes it easier to focus on specific details and ensures that you thoroughly understand each concept. Clear and Concise: Use simple language and avoid unnecessary details. The goal is to make the question and answer as clear as possible.\n\nOnly Add Information You Understand\n\nAvoid Rote Memorization: Don’t add information to your cards if you don’t understand it. Focus on comprehension rather than memorization. A good tip is to add material as you cover it during the year (don’t try and add the textbook!)\n\nUse Images and Mnemonics\n\nVisual Aids: Where possible, include images, diagrams, or charts. Visual information can enhance memory retention and make studying more engaging. Mnemonics: Use mnemonic devices to help remember complex information. Associating facts with memorable phrases or images can improve recall.\n\nActive Recall\n\nFormulate Questions: Instead of simply noting down facts, turn them into questions. This engages your brain more actively and improves learning. Avoid Yes/No Questions: These don’t encourage deep thinking. Use open-ended questions that require a detailed answer.\n\nContextual Learning\n\nAdd Context: Where applicable, provide a brief context or example to explain why the information is relevant or how it is used. Link Concepts: Create cards that connect related ideas, showing how different pieces of information fit together.\n\nPersonalize Your Cards\n\nRelate to Your Experiences: Customize cards with examples that are meaningful to you. This personal touch can make the information more memorable. Use Your Own Words: Writing in your own words helps ensure that you understand the material and makes it easier to recall.\n\n\nExtension activities\nTry adding Anki cards for things outside of your lectures. For example, you could add:\n\nKey terms from your reading\nDefinitions of key concepts\n\nMake sure you review your cards regularly. You can also add and review cards on your phone:\n\nAnkiDroid for Android (free)\niPhone app (paid)\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\nReferences\n\nBahrick, Harry P, Lorraine E Bahrick, Audrey S Bahrick, and Phyllis E Bahrick. 1993. “Maintenance of Foreign Language Vocabulary and the Spacing Effect.” Psychological Science 4 (5): 316–21.\n\n\nMurre, Jaap MJ, and Joeri Dros. 2015. “Replication and Analysis of Ebbinghaus’ Forgetting Curve.” PloS One 10 (7): e0120644."
-  },
-  {
-    "objectID": "tasks/writing-concisely.html",
-    "href": "tasks/writing-concisely.html",
-    "title": "Keep it short",
-    "section": "",
-    "text": "A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE\n\nOverview\nThe overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.\n\nWhat is the thing to be practices\nWhy is it important\n\nIn the degreee\nIn mant professional careers/life\n\nWhat are the key ideas/concepts?\nWhat evidence is there that this specific practice is helpful?\nIf possible, give a brief example of the thing in action.\n\n\n\nInstructions\nInstructions should be as brief as possible.\nIdeally there will be a\n\nNumbered list\nOf steps to follow\nThat is not too long\n\n\n\nRecording your work\nRecord your work on Psylab as usual.\n\nRecord your work here\n\n\nExtension activitie s\nIf you found this task helpful or XXX is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "tasks/studying-note-taking.html",
-    "href": "tasks/studying-note-taking.html",
-    "title": "Make great notes",
-    "section": "",
-    "text": "A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE\n\nOverview\nHow to make notes on lectures (common strategies and evidence). Preparation (re-read course notes), understanding not transcribing, active participation (ask and note questions, even if just in your head); conceptualise, summarise. Review and reduce notes later. Activity: Practice the Cornell note-taking method on a single lecture and submit it to Psylab.\nThe overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.\n\nWhat is the thing to be practices\nWhy is it important\n\nIn the degreee\nIn mant professional careers/life\n\nWhat are the key ideas/concepts?\nWhat evidence is there that this specific practice is helpful?\nIf possible, give a brief example of the thing in action.\n\n\n\nInstructions\nInstructions should be as brief as possible.\nIdeally there will be a\n\nNumbered list\nOf steps to follow\nThat is not too long\n\n\n\nRecording your work\nRecord your work on Psylab as usual.\n\nRecord your work here\n\n\nExtension activitie s\nIf you found this task helpful or XXX is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "tasks/growth-planning-reference.html",
-    "href": "tasks/growth-planning-reference.html",
-    "title": "Planning your reference",
-    "section": "",
-    "text": "Planning your reference\n#TODO: UPDATE THIS TEXT\nYou need to think about your reference early on in your time at university. You need to plan to make sure your tutor can write you a great reference. Here are some tips to help you plan your reference.\n\nFirst, you need to think about who you want to write your reference. You need to choose someone who knows you well and can write a good reference for you — this will typically be your tutor, but could also be a project supervisor. You need to choose someone who can write about your skills, experience, and achievements.\nYou should think about when you want to ask for your reference. You need to ask for your reference at least a month before you need it. You need to ask for your reference in a polite and professional way (either in person or via email).\nYou need to help the reference-writer do a good job for you! Provide as much information as you can about yourself, your skills, experience, and achievements. You should also provide the reference-writer with a copy of the job description or course you are applying for, and highlight anything you would like them to mention.\n\n\nTODO ADD INSTRUCTIONS HERE"
-  },
-  {
-    "objectID": "tasks/growth-planning-first-progress-meeting.html",
-    "href": "tasks/growth-planning-first-progress-meeting.html",
-    "title": "Planning your first Progress meeting",
-    "section": "",
-    "text": "What are progress meetings for?\nStudents often find that the transition from school to university is difficult. This is rarely because the material you study is more complex; most of the time, it is because the way you are expected to learn is different, and because you must take more responsibility for your own learning.\nProgress meetings are regular ‘checkpoints’ in the year where you can:\n\nreview what you have done so far, and how successful it has been\nask questions about the course, or about the way you are working, and\nwork with your tutor to make plans for the weeks to come\n\nThe aim is to provide space to reflect on your progress, and give you the confidence to take responsibility for your own learning.\n\n\nFormat and scheduling\nAs a reminder, progress meetings will\n\ninclude your tutor and one other student\nlast around 45 minutes\nbe held face to face in your tutor’s office\n\n\nBook your meeting online, on the DLE here: XXX ADD DLE LINKS\n\n\n\nSetting the agenda\nBefore the meeting, it’s important to know what you want to get from it.\n\nPart 1\n\nMake a list of 3 things you want to discuss in the meeting (see suggestions below)\nUpload this agenda to Psylab\n\nRecord the agenda for the meeting here\n(See part 2 below)\n\n\n\nMaking good notes\n\n\n\nCredit: “Dilbert” by Scott Adams (2015)\n\n\n\nPart 2:\nAfter the meeting, make notes on:\n\nwhat was discussed\nany actions that were agreed (and a deadline if there is one)\n\nRecord the notes from the meeting here\n\nRemember, these notes are important because they will feed into your next progress meeting, and because they will help you to keep track of your progress throughout the year."
-  },
-  {
-    "objectID": "tasks/writing-extension-shorter-sentences.html",
-    "href": "tasks/writing-extension-shorter-sentences.html",
-    "title": "(Even) shorter sentences",
-    "section": "",
-    "text": "In the original concise-writing task we introduced a number of strategies to ensure that your writing is clear and concise. This activity provides additional practice at writing concisely for students who find it useful."
-  },
-  {
-    "objectID": "tasks/writing-extension-shorter-sentences.html#sentences-to-be-shortened",
-    "href": "tasks/writing-extension-shorter-sentences.html#sentences-to-be-shortened",
-    "title": "(Even) shorter sentences",
-    "section": "Sentences to be shortened",
-    "text": "Sentences to be shortened\n\nCopy examples\n\n\n\n\nIn many cases, it has been observed that individuals exhibit an increase in stress levels due to the fact that they are exposed to prolonged periods of noise.\n\n\n\n\nThere is a possibility that children who participate in group activities might develop better social skills compared to those who do not engage in such activities.\n\n\n\n\nIt is important to note that the research conducted on the effects of sleep deprivation on cognitive functions has been quite extensive.\n\n\n\n\nThe subjects who were involved in the experiment, which was carried out over a period of six months, showed significant improvements in their ability to recall information.\n\n\n\n\nStudies that focus on the relationship between diet and mental health can provide insights that are of considerable importance for clinical practices.\n\n\n\n\nThere is evidence to suggest that the techniques used for meditation can have a substantial effect on an individual’s level of anxiety.\n\n\n\n\nThe theory suggests that adolescents who receive adequate parental support are less likely to engage in risky behaviors.\n\n\n\n\nIt was concluded from the study that there are multiple factors which play a role in determining the success of educational interventions.\n\n\n\n\nIt is often argued by psychologists that early childhood experiences have a profound impact on personality development.\n\n\n\n\nThe researchers found that there was a correlation between the amount of physical activity engaged in by the subjects and their overall psychological well-being."
-  },
-  {
-    "objectID": "theme-thinking.html",
-    "href": "theme-thinking.html",
-    "title": "Thinking",
-    "section": "",
-    "text": "“The first principle is that you must not fool yourself – and you are the easiest person to fool.” — Richard Feyman\n\n\n\n\nImage: Wikimedia\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "FAQ",
-      "Practice themes",
-      "Thinking"
-    ]
+    "text": "If you’re using npm@3 you’ll probably face some issues related to peerDependencies. https://github.com/npm/npm/issues/9204"
   },
   {
     "objectID": "progress.html",
@@ -396,95 +202,261 @@
     ]
   },
   {
-    "objectID": "js/clipboard.js-master/contributing.html",
-    "href": "js/clipboard.js-master/contributing.html",
-    "title": "Contributing guide",
+    "objectID": "theme-thinking.html",
+    "href": "theme-thinking.html",
+    "title": "Thinking",
     "section": "",
-    "text": "Want to contribute to Clipboard.js? Awesome! There are many ways you can contribute, see below.\n\n\nOpen an issue to report bugs or to propose new features.\n\nReporting bugs: describe the bug as clearly as you can, including steps to reproduce, what happened and what you were expecting to happen. Also include browser version, OS and other related software’s (npm, Node.js, etc) versions when applicable.\nProposing features: explain the proposed feature, what it should do, why it is useful, how users should use it. Give us as much info as possible so it will be easier to discuss, access and implement the proposed feature. When you’re unsure about a certain aspect of the feature, feel free to leave it open for others to discuss and find an appropriate solution.\n\n\n\n\nPull requests are very welcome. Note that if you are going to propose drastic changes, be sure to open an issue for discussion first, to make sure that your PR will be accepted before you spend effort coding it.\nFork the Clipboard.js repository, clone it locally and create a branch for your proposed bug fix or new feature. Avoid working directly on the master branch.\nImplement your bug fix or feature, write tests to cover it and make sure all tests are passing (run a final npm test to make sure everything is correct). Then commit your changes, push your bug fix/feature branch to the origin (your forked repo) and open a pull request to the upstream (the repository you originally forked)’s master branch.\n\n\n\nDocumentation is extremely important and takes a fair deal of time and effort to write and keep updated. Please submit any and all improvements you can make to the repository’s docs.\n\n\n\nIf you’re using npm@3 you’ll probably face some issues related to peerDependencies. https://github.com/npm/npm/issues/9204"
+    "text": "“The first principle is that you must not fool yourself – and you are the easiest person to fool.” — Richard Feyman\n\n\n\n\nImage: Wikimedia\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "FAQ",
+      "Practice themes",
+      "Thinking"
+    ]
   },
   {
-    "objectID": "js/clipboard.js-master/contributing.html#opening-issues",
-    "href": "js/clipboard.js-master/contributing.html#opening-issues",
-    "title": "Contributing guide",
+    "objectID": "tasks/writing-extension-shorter-sentences.html",
+    "href": "tasks/writing-extension-shorter-sentences.html",
+    "title": "(Even) shorter sentences",
     "section": "",
-    "text": "Open an issue to report bugs or to propose new features.\n\nReporting bugs: describe the bug as clearly as you can, including steps to reproduce, what happened and what you were expecting to happen. Also include browser version, OS and other related software’s (npm, Node.js, etc) versions when applicable.\nProposing features: explain the proposed feature, what it should do, why it is useful, how users should use it. Give us as much info as possible so it will be easier to discuss, access and implement the proposed feature. When you’re unsure about a certain aspect of the feature, feel free to leave it open for others to discuss and find an appropriate solution."
+    "text": "In the original concise-writing task we introduced a number of strategies to ensure that your writing is clear and concise. This activity provides additional practice at writing concisely for students who find it useful."
   },
   {
-    "objectID": "js/clipboard.js-master/contributing.html#proposing-pull-requests",
-    "href": "js/clipboard.js-master/contributing.html#proposing-pull-requests",
-    "title": "Contributing guide",
+    "objectID": "tasks/writing-extension-shorter-sentences.html#sentences-to-be-shortened",
+    "href": "tasks/writing-extension-shorter-sentences.html#sentences-to-be-shortened",
+    "title": "(Even) shorter sentences",
+    "section": "Sentences to be shortened",
+    "text": "Sentences to be shortened\n\nCopy examples\n\n\n\n\nIn many cases, it has been observed that individuals exhibit an increase in stress levels due to the fact that they are exposed to prolonged periods of noise.\n\n\n\n\nThere is a possibility that children who participate in group activities might develop better social skills compared to those who do not engage in such activities.\n\n\n\n\nIt is important to note that the research conducted on the effects of sleep deprivation on cognitive functions has been quite extensive.\n\n\n\n\nThe subjects who were involved in the experiment, which was carried out over a period of six months, showed significant improvements in their ability to recall information.\n\n\n\n\nStudies that focus on the relationship between diet and mental health can provide insights that are of considerable importance for clinical practices.\n\n\n\n\nThere is evidence to suggest that the techniques used for meditation can have a substantial effect on an individual’s level of anxiety.\n\n\n\n\nThe theory suggests that adolescents who receive adequate parental support are less likely to engage in risky behaviors.\n\n\n\n\nIt was concluded from the study that there are multiple factors which play a role in determining the success of educational interventions.\n\n\n\n\nIt is often argued by psychologists that early childhood experiences have a profound impact on personality development.\n\n\n\n\nThe researchers found that there was a correlation between the amount of physical activity engaged in by the subjects and their overall psychological well-being."
+  },
+  {
+    "objectID": "tasks/growth-planning-first-progress-meeting.html",
+    "href": "tasks/growth-planning-first-progress-meeting.html",
+    "title": "Planning your first Progress meeting",
     "section": "",
-    "text": "Pull requests are very welcome. Note that if you are going to propose drastic changes, be sure to open an issue for discussion first, to make sure that your PR will be accepted before you spend effort coding it.\nFork the Clipboard.js repository, clone it locally and create a branch for your proposed bug fix or new feature. Avoid working directly on the master branch.\nImplement your bug fix or feature, write tests to cover it and make sure all tests are passing (run a final npm test to make sure everything is correct). Then commit your changes, push your bug fix/feature branch to the origin (your forked repo) and open a pull request to the upstream (the repository you originally forked)’s master branch."
+    "text": "What are progress meetings for?\nStudents often find that the transition from school to university is difficult. This is rarely because the material you study is more complex; most of the time, it is because the way you are expected to learn is different, and because you must take more responsibility for your own learning.\nProgress meetings are regular ‘checkpoints’ in the year where you can:\n\nreview what you have done so far, and how successful it has been\nask questions about the course, or about the way you are working, and\nwork with your tutor to make plans for the weeks to come\n\nThe aim is to provide space to reflect on your progress, and give you the confidence to take responsibility for your own learning.\n\n\nFormat and scheduling\nAs a reminder, progress meetings will\n\ninclude your tutor and one other student\nlast around 45 minutes\nbe held face to face in your tutor’s office\n\n\nBook your meeting online, on the DLE here: XXX ADD DLE LINKS\n\n\n\nSetting the agenda\nBefore the meeting, it’s important to know what you want to get from it.\n\nPart 1\n\nMake a list of 3 things you want to discuss in the meeting (see suggestions below)\nUpload this agenda to Psylab\n\nRecord the agenda for the meeting here\n(See part 2 below)\n\n\n\nMaking good notes\n\n\n\nCredit: “Dilbert” by Scott Adams (2015)\n\n\n\nPart 2:\nAfter the meeting, make notes on:\n\nwhat was discussed\nany actions that were agreed (and a deadline if there is one)\n\nRecord the notes from the meeting here\n\nRemember, these notes are important because they will feed into your next progress meeting, and because they will help you to keep track of your progress throughout the year."
   },
   {
-    "objectID": "js/clipboard.js-master/contributing.html#documentation",
-    "href": "js/clipboard.js-master/contributing.html#documentation",
-    "title": "Contributing guide",
+    "objectID": "tasks/growth-planning-reference.html",
+    "href": "tasks/growth-planning-reference.html",
+    "title": "Planning your reference",
     "section": "",
-    "text": "Documentation is extremely important and takes a fair deal of time and effort to write and keep updated. Please submit any and all improvements you can make to the repository’s docs."
+    "text": "Planning your reference\n#TODO: UPDATE THIS TEXT\nYou need to think about your reference early on in your time at university. You need to plan to make sure your tutor can write you a great reference. Here are some tips to help you plan your reference.\n\nFirst, you need to think about who you want to write your reference. You need to choose someone who knows you well and can write a good reference for you — this will typically be your tutor, but could also be a project supervisor. You need to choose someone who can write about your skills, experience, and achievements.\nYou should think about when you want to ask for your reference. You need to ask for your reference at least a month before you need it. You need to ask for your reference in a polite and professional way (either in person or via email).\nYou need to help the reference-writer do a good job for you! Provide as much information as you can about yourself, your skills, experience, and achievements. You should also provide the reference-writer with a copy of the job description or course you are applying for, and highlight anything you would like them to mention.\n\n\nTODO ADD INSTRUCTIONS HERE"
   },
   {
-    "objectID": "js/clipboard.js-master/contributing.html#known-issues",
-    "href": "js/clipboard.js-master/contributing.html#known-issues",
-    "title": "Contributing guide",
+    "objectID": "tasks/studying-note-taking.html",
+    "href": "tasks/studying-note-taking.html",
+    "title": "Make great notes",
     "section": "",
-    "text": "If you’re using npm@3 you’ll probably face some issues related to peerDependencies. https://github.com/npm/npm/issues/9204"
+    "text": "A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE\n\nOverview\nHow to make notes on lectures (common strategies and evidence). Preparation (re-read course notes), understanding not transcribing, active participation (ask and note questions, even if just in your head); conceptualise, summarise. Review and reduce notes later. Activity: Practice the Cornell note-taking method on a single lecture and submit it to Psylab.\nThe overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.\n\nWhat is the thing to be practices\nWhy is it important\n\nIn the degreee\nIn mant professional careers/life\n\nWhat are the key ideas/concepts?\nWhat evidence is there that this specific practice is helpful?\nIf possible, give a brief example of the thing in action.\n\n\n\nInstructions\nInstructions should be as brief as possible.\nIdeally there will be a\n\nNumbered list\nOf steps to follow\nThat is not too long\n\n\n\nRecording your work\nRecord your work on Psylab as usual.\n\nRecord your work here\n\n\nExtension activitie s\nIf you found this task helpful or XXX is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "how-we-write-references.html",
-    "href": "how-we-write-references.html",
-    "title": "How we write references",
+    "objectID": "tasks/writing-level-up.html",
+    "href": "tasks/writing-level-up.html",
+    "title": "Level up your writing",
     "section": "",
-    "text": "#TODO\nAsk Jackie?\nHer content on how she writes a reference. An example of a template she uses (adapted to indicate that she’s using the practice tasks to inform what she writes in the reference)"
+    "text": "You have got to university so you are probably pretty good at writing already, but sometimes focusing on new psychology content can distract you from the basics. This exercise is designed to help you write clearly by correcting errors made by other students. We have included some common mistakes that make us smile or groan.\n\n\nOverview\n[THE TEXT BELOW COMPRISES THE VIDEO EXPLAINER]\nYou have got to university so you are probably pretty good at writing already, but sometimes focusing on new psychology content can distract you from the basics of grammar. It’s upsetting when a student has clearly done lots of research but written it up poorly. I’m often thinking ‘I can guess what they wanted to say but they haven’t actually said it so I can’t give them the marks’.\nHear what some of my colleagues think about writing:\nBen Whalley: “I always feel a little sad when I start reading and essay and see a student who struggles with their writing… on one hand, I want to be able give them the benefit of the doubt and give them credit for the learning they have done. But on the other I know that someone who writes poorly is often hard to distinguish from someone who hasn’t quite grasped the ideas or has mixed them up.”\nSOMEONE ESLE: “when I’m tired at the end of a long stack of essays it’s hard not to interpret spelling mistakes and grammar errors as a lack of effort… they are so easily caught using Word’s grammar checker or online tools like chatgpt or grammarly that I never quite understand how they slip though”.\nANOD OTNER: “If someone’s applying for a job with me then they must be able to write clearly. If I have to check what they have written and correct it, that’s extra work for me”.\nI want you to write clearly and concisely so you can really show off the work that you are going to put into your essays and reports. This task will help you avoid some common mistakes and signpost the different sources of help for improving your writing as you progress through the course.\n\n\nInstructions\n\nMarking students’ work\nThe sentences below include common mistakes from students’ coursework. Can you explain what the problem with the sentence is and write a correct version that fixes it?\nWe have done the first one for you. Copy and paste the text below into a document, fill in the blanks, then upload it for feedback from psybot.\n\n\nFirst example:\n\n\nThe researchers found evidence of life on Mars, they also found pigs on Jupiter.\n\n\n\nProblem: The sentence is missing a full stop to separate two different ideas.\n\n\nRe-written: The researchers found evidence of life on Mars. They also found pigs on Jupiter.\n\nAdditional examples to complete for yourself…\n\nCopy Text\n\n\n\n\nEach child was seated at a table on which there was a display of ten faces.\n\nProblem: &lt; what is the problem with this sentence? &gt;\nRe-written: &lt; your corrected version here &gt;\n\nThe results for both experiments showed that hedgehogs scored 77% and wombats scored 62%.\n\nProblem: ?\nRe-written: &lt; your corrected version here &gt;\n\nSeventy marmosets partook in the study.\n\nProblem:\nRe-written:\n\nThe participants were half male and half female.\n\nProblem:\nRe-written:\n\nThere was no affect of rain on mood. However, mood was effected by videos of kittens.\n\nProblem:\nRe-written:\n\nThe results of this experiment showed that children in the sweets and caffeine condition performed better than children in the lettuce and broccoli condition.\n\nProblem:\nRe-written:\n\nA total of 71 people were used in this study.\n\nProblem:\nRe-written:\n\nQuestionnaires were completed by four participants.\n\nProblem:\nRe-written:\n\n\n\n\nRecording your work\nJust copy the sentences above, make your edits, and upload to Psylab as usual.\nRecord your work here\n\n\nExtension activities\nIf you found this task helpful or writing is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "staff-notes-briefings.html",
-    "href": "staff-notes-briefings.html",
-    "title": "Briefings - notes for staff",
+    "objectID": "tasks/theme-extension-topic-blank.html",
+    "href": "tasks/theme-extension-topic-blank.html",
+    "title": "Extension Activity Title",
     "section": "",
-    "text": "… #TODO\n\nExplain the format\nDocument responsibilities for collating content each week\nExample form to collect information from MLs and others on Discourse."
+    "text": "Short summary pull-quote which captures the point of the exercise and provides motivation\n\n\nRecord your work here\n\n\nOverview\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet eleifend orci. Maecenas aliquet semper purus ac porta. Mauris erat ex, viverra sed mauris et, faucibus accumsan ex. Sed ut dolor vel odio mattis vulputate quis non metus. Quisque lobortis placerat erat, ut euismod nunc tempor a. Duis sit amet gravida elit, quis rutrum velit. In hac habitasse platea dictumst. Nam dapibus nibh magna, et tristique urna sagittis sit amet. Ut consectetur nisi ultricies purus mollis pulvinar.\n\n\nInstructions\nPhasellus et arcu in diam commodo vestibulum a quis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis nec dolor vitae sollicitudin. Nunc id feugiat massa. In id egestas elit. Quisque mattis eget turpis nec pretium. Nulla pharetra ex vitae urna tincidunt, nec imperdiet nulla vestibulum. Sed dignissim diam sed nibh commodo venenatis. Nunc dapibus mi vitae tincidunt tempor. Vestibulum ut sem gravida, viverra orci non, fringilla leo.\nMauris dapibus interdum velit. Donec eu semper libero. Suspendisse imperdiet justo lacus, pellentesque ultrices augue venenatis vitae. Suspendisse lobortis, neque sit amet porta lobortis, sem orci lobortis lectus, at egestas quam erat ac turpis. Nam venenatis congue gravida. Proin nulla arcu, tristique ut sollicitudin sagittis, scelerisque vestibulum enim. Aliquam erat volutpat. Vivamus ac mauris at nulla molestie vehicula nec id risus. Sed lacinia enim sit amet nulla bibendum, sed viverra sapien tincidunt. Suspendisse mattis, dui in malesuada finibus, urna nunc laoreet tortor, nec pretium massa mauris sit amet est. Nunc sed viverra mi, sed vestibulum ex. Integer ultricies purus eget lectus euismod, placerat rutrum erat egestas. Vivamus molestie magna ac quam laoreet aliquam sed eget ante. Maecenas nec dictum odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In id malesuada sem.\nAliquam malesuada sapien vel nunc porta pharetra. Suspendisse potenti. Nam vestibulum magna in ipsum molestie tempor eu vel augue. Mauris nec ante dolor. Aliquam a leo porttitor, hendrerit massa sit amet, finibus ligula. Praesent porta eleifend auctor. In lorem ligula, interdum sed imperdiet et, tincidunt eget lorem.\n\n\nRecording your work\nPhasellus et arcu in diam commodo vestibulum a quis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris facilisis nec dolor vitae sollicitudin. Nunc id feugiat massa. In id egestas elit. Quisque mattis eget turpis nec pretium. Nulla pharetra ex vitae urna tincidunt, nec imperdiet nulla vestibulum. Sed dignissim diam sed nibh commodo venenatis. Nunc dapibus mi vitae tincidunt tempor. Vestibulum ut sem gravida, viverra orci non, fringilla leo.\nRecord your work here"
   },
   {
-    "objectID": "tasks-in-dev.html",
-    "href": "tasks-in-dev.html",
-    "title": "Tasks to develop",
+    "objectID": "tasks/studying-spaced-repetition.html",
+    "href": "tasks/studying-spaced-repetition.html",
+    "title": "Spaced repetition",
     "section": "",
-    "text": "TODO: This is a sketch list of tasks. To be fleshed out and completed. We need 20 in total, but with extensions and additional practice were appropriate we may end up with more than 20."
+    "text": "Hermann Ebbinghaus, 1850-1909\n\n\n\nOverview\nXXX TODO ADD A VIDEO EXPLAINER OF ALL THIS MATERIAL AT THE HEAD OF THE PAGE\nOver time we forget things, but in the 19th century, Ebbinghaus discovered that we forget things in a predictable way.\nHis work on the ‘forgetting curve’, since replicated (Murre and Dros 2015), showed that we forget things quickly at first, but then more slowly over time.\nReviewing and rehearsing what we have learnt at regular intervals helps us remember things for longer.\nThe forgetting curve diagram below shows this: Without reviewing what we learn, after 30 days we will have forgotten almost all of of it (the first line on the graph). But reviewing the material on day 2, 10, 30 and so on interrupts the forgetting process. The forgetting curve becomes less steep, and we remember more of what we have learnt for longer.\n\n\n\nTODO REPLACE/REDRAW IMAGE\n\n\n‘Spaced repetition’ is a technique that makes use of this property of memory. By reviewing things just before you are likely to forget them, research suggests that you can flatten the forgetting curve and retain information for much longer.\nBahrick et al. (1993) showed that spacing your learning over a longer time is much more effective than cramming. They found that when students spaced their revision over 8 weeks, rather than just 2, they could spend half as much time studying and still remember more of the material. Many other studies show the same effect.\n\n\nHow to use spaced repetition\nUse Anki!\nAnki is a free, open-source flashcard app that uses spaced repetition to help you remember things.\nYou can create your own flashcards, and Anki schedules a review of the cards at the best possible intervals. The algorithm saves you time, because you will only review material when it has the largest possible benefit to your memory.\n\n\nInstructions\n\nDownload Anki to your computer: https://apps.ankiweb.net\nAdd 10 flashcards to your “deck” based on information in lectures this week (see how below)\nReview the flashcards, and keep practicing over the next few weeks.\nMake a note on Psylab. Write a short paragraph describing how you found the process, and whether you think it will be useful for you in the future.\n\n\n\nUsing Anki\n\nInstalling Anki and adding cards\nOnce you have installed Anki from: https://apps.ankiweb.net, open the Application.\nIt should look like this:\n\n\n\nThe Anki interface\n\n\nClick “Add” to create your first cards.\n\n\n\nThe Anki interface\n\n\nEnter what you want to see on the “Front” and the “Back” of the flashcard. This is what you will see when you test yourself.\nFor example you might add something like this:\n\n\n\nAdding a card\n\n\nDeciding what to add to your cards is a bit of an art. We have some guidance below, but as some suggestions from lectures this week:\n\nXXX ADD a list of 3 facts from lectures we suggest here\n\n\n\n\nWriting good cards\nWriting effective Anki cards is a skill. Here are some tips and best practices for creating high-quality cards:\n\nKeep It Simple\n\nOne Fact Per Card: Each card should test only one piece of information. This makes it easier to focus on specific details and ensures that you thoroughly understand each concept. Clear and Concise: Use simple language and avoid unnecessary details. The goal is to make the question and answer as clear as possible.\n\nOnly Add Information You Understand\n\nAvoid Rote Memorization: Don’t add information to your cards if you don’t understand it. Focus on comprehension rather than memorization. A good tip is to add material as you cover it during the year (don’t try and add the textbook!)\n\nUse Images and Mnemonics\n\nVisual Aids: Where possible, include images, diagrams, or charts. Visual information can enhance memory retention and make studying more engaging. Mnemonics: Use mnemonic devices to help remember complex information. Associating facts with memorable phrases or images can improve recall.\n\nActive Recall\n\nFormulate Questions: Instead of simply noting down facts, turn them into questions. This engages your brain more actively and improves learning. Avoid Yes/No Questions: These don’t encourage deep thinking. Use open-ended questions that require a detailed answer.\n\nContextual Learning\n\nAdd Context: Where applicable, provide a brief context or example to explain why the information is relevant or how it is used. Link Concepts: Create cards that connect related ideas, showing how different pieces of information fit together.\n\nPersonalize Your Cards\n\nRelate to Your Experiences: Customize cards with examples that are meaningful to you. This personal touch can make the information more memorable. Use Your Own Words: Writing in your own words helps ensure that you understand the material and makes it easier to recall.\n\n\nExtension activities\nTry adding Anki cards for things outside of your lectures. For example, you could add:\n\nKey terms from your reading\nDefinitions of key concepts\n\nMake sure you review your cards regularly. You can also add and review cards on your phone:\n\nAnkiDroid for Android (free)\niPhone app (paid)\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\nReferences\n\nBahrick, Harry P, Lorraine E Bahrick, Audrey S Bahrick, and Phyllis E Bahrick. 1993. “Maintenance of Foreign Language Vocabulary and the Spacing Effect.” Psychological Science 4 (5): 316–21.\n\n\nMurre, Jaap MJ, and Joeri Dros. 2015. “Replication and Analysis of Ebbinghaus’ Forgetting Curve.” PloS One 10 (7): e0120644."
   },
   {
-    "objectID": "tasks-in-dev.html#studying",
-    "href": "tasks-in-dev.html#studying",
-    "title": "Tasks to develop",
-    "section": "Studying",
-    "text": "Studying\n\nMaking notes: How to make notes on lectures (common strategies and evidence). Preparation (re-read course notes), understanding not transcribing, active participation (ask and note questions, even if just in your head); conceptualise, summarise. Review and reduce notes later. Activity: Practice the Cornell note-taking method on a single lecture and submit it to Psylab.\nHow to use spaced practice/flashcards. (Not sure about actually requiring them to use anki)\nTime management: Run later in the year? Provide students with a list of topics they might encounter in exams and ask them to create a schedule for their revision (or mark off what they have already revised). Provide examples of effective revision materials and notes (i.e. show what good students actually do).\nHow to read a paper/where to look for specific bits of information\nSearching: How to use google scholar effectively. Forward and backward citations. Tasks 1: Make the longest chain of citations you can (prize for 10 citation stretching &gt; 100 years). Task 2: find a replication of a specific experimental paper through citing articles and in-text citations. Task 3: Find a list of experiments which were inspired by a classic experimental study, or papers which use a specific measurement technique or psychometric scale.\nLit searching in some form. Find something on social media… Think of a book? Or play them a YouTube video (of street magic?) What does psychology have to tell us about it? Spend 10 mins brainstormig and 10 mins using google scholar. Summarise what you found.\nCould also do same for debunking psy “facts”- you only use 5% of yourbrain - purple makes you relaxed. Ask Jan about this - followup critical thinking task?\nPeer review: Read a friend’s assessment before the deadline. Give structured feedback/use the marking rubric.\n\nOther thoughts: Revision techniques, Reading: Finding, reading and citing literature; Zotero; research/writing tools (ChatGPT); academic standards. GTD (getting things done): Personal organisation and time management. Task is to try GTD for 2 weeks."
+    "objectID": "tasks/writing-level-up-studentexample.html",
+    "href": "tasks/writing-level-up-studentexample.html",
+    "title": "Briefing, Practice & Progress",
+    "section": "",
+    "text": "GOOD EXAMPLE\nThe researchers found evidence of life on Mars, they also found pigs on Jupiter.\nProblem: Need to use a full stop to separate two different ideas.\nRe-written: The researchers found evidence of life on Mars. They also found pigs on Jupiter.\nEach child was seated at a table on which there was a display of ten faces.\nProblem: it’s clumsy\nRe-written: Each child was shown 10 faces.\nThe results for both experiments showed that hedgehogs scored 77% and wombats scored 62%.\nProblem: I don’t know?! It seems fine to me\nSeventy marmosets partook in the study.\nProblem: partook is a weird word\nRe-written: Seventy marmosets participated in the study.\nThe participants were half male and half female.\nProblem: no-one was a eunuch\nRe-written: Half the participants were male and half were female..\nThere was no affect of rain on mood. However, mood was effected by videos of kittens.\nRe-written: Rain did not effect changes in mood. However, mood was affected by videos of kittens.\nThe results of this experiment showed that children in the sweets and caffeine condition performed better than children in the lettuce and broccoli condition.\nProblem: too long\nRe-written: Children who ate sweets and caffeine performed better than those given lettuce and broccoli.\nA total of 71 people were used in this study. Re-written: 71 people took part in the study.\nQuestionnaires were completed by four participants. Re-written: 4 participant completed questionnaires.\n\nBAD EXAMPLE\nThe researchers found evidence of life on Mars, they also found pigs on Jupiter. Problem: Its a stupudf example.\nEach child was seated at a table on which there was a display of ten faces.\nProblem: don’t know\nRe-written: Each child was seated at a table. On the table was a display of 10 faces.\nThe results for both experiments showed that hedgehogs scored 77% and wombats scored 62%.\nSeventy marmosets partook in the study. Problem: capitalise Marmoset Re-written: Seventy Marmosets partook in the study.\nThe participants were half male and half female. Problem: we need to include more women in research Re-written: Two thirds of the partticipants were women.\nThere was no affect of rain on mood. However, mood was effected by videos of kittens. Re-written: Rain wasnt and kittens was and effector of mood.\nThe results of this experiment showed that children in the sweets and caffeine condition performed better than children in the lettuce and broccoli condition. Problem: not true Re-written: Children who ate brocolli and lettuce did better than kids who ate lettuce sweets and caffeine."
   },
   {
-    "objectID": "tasks-in-dev.html#writing",
-    "href": "tasks-in-dev.html#writing",
-    "title": "Tasks to develop",
-    "section": "Writing",
-    "text": "Writing\n\nIrrelevant information spotting\nChop chop!: Practice shortening a section of prose by 10%, 30%, 50% and 80% without eliminating important information. Task 1 starts with a typical student essay style (so lots of easy verbiage to cut). Task 2 is more demanding: reduce a paper to an elevator pitch or single line. Give each student in the group a different audience when cutting words? Which words should we cut? Does our audience matter when cutting?\nWrite like Boris: Johnson wrote 2 articles in 2016, one pro one anti Brexit. Use this to introduce the idea of writing from opposing perspectives on the same question and practive exploring features of persuasive arguments. Maybe give them a set of facts/evidence which is ambiguous/balanced on some question and ask them to construct an argument in both directions?\n“hiya!!! 💕🎉😂”: (re)Introduce the concept of formal/informal written register. Cover writing a professional email and wow to ask a good question (give details, be specific, etc). Deal with informality and ‘journalistic’ phrasing in academic reports. When and how to use “I” or “we” etc. In scientific writing nobody cares about your opinion — they care about your argments. Task 1: write a letter applying for a job. Task 2: Write 2 summaries of a paper (building on “chop chop”) for 2 different audiences (i.e. deliberately repeat the same task in different contexts as practice).\nPersuasive writing practice: focus on answering the question (linked to thinking/argument).\nCite it right: Ask students to proof read and correct text with incorrect citations (or show them how ChatGPT can fix this for them)."
+    "objectID": "tasks/writing-concisely.html",
+    "href": "tasks/writing-concisely.html",
+    "title": "Keep it short",
+    "section": "",
+    "text": "A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE\n\nOverview\nThe overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.\n\nWhat is the thing to be practices\nWhy is it important\n\nIn the degreee\nIn mant professional careers/life\n\nWhat are the key ideas/concepts?\nWhat evidence is there that this specific practice is helpful?\nIf possible, give a brief example of the thing in action.\n\n\n\nInstructions\nInstructions should be as brief as possible.\nIdeally there will be a\n\nNumbered list\nOf steps to follow\nThat is not too long\n\n\n\nRecording your work\nRecord your work on Psylab as usual.\n\nRecord your work here\n\n\nExtension activities\nIf you found this task helpful or XXX is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "tasks-in-dev.html#speaking",
-    "href": "tasks-in-dev.html#speaking",
-    "title": "Tasks to develop",
-    "section": "Speaking",
-    "text": "Speaking\n\n“describe a lecture slide in a whatsapp voice note”\na speak aloud task? Practice narrating or commentating on what you are seeing? Contrast this stream of consciousness type task with a more formal presentation where we have summarised and organised the material?\nmock radio interview on a topic they have covered in lectures or an assignment?\nactive listening and question-asking practice?\nELI5: given some background information and facts/details/diagrams about a (technical?) area of psychology they have covered in a lecture. Ask them to explain it to a 5 year old and record that."
+    "objectID": "tasks/theme-topic-blank.html",
+    "href": "tasks/theme-topic-blank.html",
+    "title": "Title",
+    "section": "",
+    "text": "Short summary pull-quote which captures the point of the exercise and provides motivation\n\n\nRecord your work here\n\n\nOverview\nThe overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.\n\nWhat is the thing to be practices\nWhy is it important\n\nIn the degreee\nIn mant professional careers/life\n\nWhat are the key ideas/concepts?\nWhat evidence is there that this specific practice is helpful?\nIf possible, give a brief example of the thing in action.\n\n\n\nInstructions\nInstructions should be as brief as possible.\nIdeally there will be a\n\nNumbered list\nOf steps to follow\nThat is not too long\n\n\n\nRecording your work\nRecord your work on Psylab as usual.\n\nRecord your work here\n\n\nExtension activities\nIf you found this task helpful or XXX is something you struggle with, consider the following extension activities:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExtension Activity Title\n\n\nAnother Subtitle.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "tasks-in-dev.html#thinking",
-    "href": "tasks-in-dev.html#thinking",
-    "title": "Tasks to develop",
-    "section": "Thinking",
-    "text": "Thinking\n\nCows and grass writing exercise (Jackie)\nInterpret data table and identify the takeaway message. (Jackie, e.g. Jackie’s Bahrick study slide on spaced practice)\nRead this text: Is it nifty or shifty? (Jackie)\nMatch an experimental design to the research question it can answer\nWhat did you come to uni to study psychology for? What prompted it? Do a lit search… do we know the answer yet? What sort of information have we gained about it?\nExperimental logic: Activity is to spot and correct errors of logic or reasoning in a text, given some background information on a study. Similar to Jackie’s existing activity about inference from graphs. Cover ideas like generalisation from a small sample. Concrete outcome is to complete a section of an essay: e.g. give students the text of an essay where this study is discussed, but with the sentences where the study is described and used to support the argument obscured. Students don’t need to read the original paper (they have the summary details) so the activity is scaffolded; the emphaisis on connecting the details of the study to the argument.\nExtraordinary claims: Activity should make students think about and argue in relation to a hierarchy of evidence. Perhaps create a debate where students have to use evidence provided to them which is of different types: anecdotal (personal/family recommendations), observational (e.g. cohort study), experimental (small clinical trial), and synthesised (e.g. systematic review). Or a short writing activity where students given limited space so have to summarise and prioritise each type of evidence when making their case? Perhaps they have to select 2 of 5 sources and justify their selection? Craft the examples so the students have to trade-off study sample size against experimental rigour.\nThe replication game: Students get some information on what makes studies more/less likely to fail to replicate (e.g. recorded flipped classroom session based on Andy’s materials). Then we give them 10 abstracts + details of the methods on real studies and the group activity is to read, discuss, decide which ones replicated and which ones didn’t. We run it like a quiz/competition in a seminar.\nSpot the logical fallacy: staff introduce a deliberate error of reasoning in their lecture that week and the task is to spot them. Examples would include argument from authority,\nArguments: Changes from A-level. Why PEE isn’t enough any more. Introduce Toulmin’s model?\nEvidence: Hierarchy of evidence; peer review. Distinguishing facts from opinions.\nExam planning (perhaps a choice of activities to complete in advance of of a progress meeting and review with their tutee). Perhaps more stage 2"
+    "objectID": "tasks/speaking-feedback-demo.html",
+    "href": "tasks/speaking-feedback-demo.html",
+    "title": "Describe a lecture in a voice note - FEEDBACK DEMO",
+    "section": "",
+    "text": "I wanted to see if we could provide auto-feedback on the describe a slide task\nAs a demo , I tried recording myself giving two explanations of this figure, one bad, one slightly better.\n\nbad\nbetter\n\nThese are easy to transcribe with whisper:\nBad:\n\nOh yeah, so this was one of the slides in Chris's lecture and it shows the \nlearning curve so you can see that as you do more trials then the strength \nof the response gets more and more and then after a while it doesn't get \nany stronger.\n\nSo that's what it shows.\n\nBetter\nSo this is a slide from one of Peter's lectures and the title is called Learning Curves,\nbut it's really about the strength of a conditioned response as you do an increasing\nnumber of conditioning trials.\n\nSo basically the graph is a curve and it starts really rising steeply and then it\nlevels off.\n\nSo to begin with you get a big change in the conditioned response for every extra\ntrial you do.\n\nBut after a while it tails off and you get something called an asymptote.\n\nSo that means that after a while you won't get any increase in the conditioned response\nno matter how many trials you do.\n\nAuto feedback\nAnd then I asked it for feedback. This could be made better by providing more context on what a good answer would be, but even with a simple query possibly useful?\n\nYour explanation of the learning curve graph was quite clear and concise! You did a great job describing the key elements of the graph and the concept it represents. Here are some specific points of feedback:\n\nPositives:\n\nClear Description: You clearly explained that the graph shows the strength of a conditioned response in relation to the number of conditioning trials.\nGood Use of Terminology: You correctly used terms like “conditioning trials” and “asymptote,” which are important for understanding the graph.\nLogical Flow: Your explanation followed a logical progression, from describing the initial steep increase to the eventual leveling off of the curve.\n\n\n\nAreas for Improvement:\n\nAvoiding Fillers: While your explanation was generally clear, there were a few instances where you used filler phrases like “So basically” and “But after a while.” These can be reduced to make your explanation even more precise.\nDetails on Asymptote: You mentioned the asymptote but could add a bit more detail on what it represents. For example, you could explain that the asymptote indicates the maximum strength of the conditioned response that can be achieved through conditioning, regardless of the number of additional trials.\n\n\n\nAdditional Points to Consider:\n\nInitial State: You might mention that the strength of the conditioned response starts at a very low level initially before increasing.\nReal-World Examples: Providing a real-world example of a conditioned response, such as Pavlov’s dogs salivating at the sound of a bell, could help to contextualize the graph for your audience.\n\nOverall, you did an excellent job! With a few minor adjustments, your explanation will be even more effective. Keep up the good work!"
   },
   {
-    "objectID": "tasks-in-dev.html#growth",
-    "href": "tasks-in-dev.html#growth",
-    "title": "Tasks to develop",
-    "section": "Growth",
-    "text": "Growth\n\nplanning agenda your first progress session\nplanning how to get a good reference\nHave you got what it takes? Think about what career pathways you might be interested in. Pick one from a (constrained) list including Clinical psychology, teaching, graduate HR jobs etc. (matched to our graduates’ profile). Task: Find out the formal and informal requirements for entry using prospects.ac.uk. Write 100 word reflection on whether they have what it takes, and what “one thing” they could do next to improve things.\nPersonal reflection; self-awareness; values and goal setting. Reflective/personal journalling.\nPlanning for life and careers. Linking goals to actions. Like the Effective Researcher course but for students.\nSomething that involves talking to other psych students… reporting on what they think. Consensus building/summarisation of multiple views?\n\n:::"
+    "objectID": "tasks/speaking-describe-lecture.html",
+    "href": "tasks/speaking-describe-lecture.html",
+    "title": "Describe a lecture in a voice note",
+    "section": "",
+    "text": "XXX TODO ADD A VIDEO EXPLAINER OF ALL THIS MATERIAL AT THE HEAD OF THE PAGE\n\nOverview\nAlbert Einstein is quoted as saying “If you can’t explain it simply, you don’t understand it well enough”, and it’s true that explaining a concept to someone else is a great way to consolidate your understanding of it.\nIn this task, we practice explaining a concept from a lecture to a friend, as if you were leaving them a voice note.\n\n\nInstructions\n\n\nChoose ONE of the slides from below (both are from lectures which happen this week)\nGo to the lecture and listen carefully\nWithout any of the other slides in front of you, imagine explaining it to a friend in a WhatsApp-style voice-note (see how to record below).\n\n\n\n\nSlides to explain\n\nSlide 1:\n\n(The full lecture is here if you want to listen to it again.)\nSlide 2:\n\n(The full lecture is here if you want to listen to it again.)\n\n\nRecording your work\n\nRecord your “voice note” using\n\nthe “Voice Memos” app on iPhone, or\nthe “Voice Recorder” app on Android\n\nDon’t use WhatsApp because it’s harder to upload later.\nUpload your recording here\nWhen you add your practice upload an audio file of your voice note. Psybot will listen to the audio and give you feedback.\n\nDEMO of ChatGPT feedback for this task\n\n\nExtension activities\n\nTry practicing the task more than once.\nYou could also try explaining the same concept to different friends or family members. Does it make a difference if you explain it to someone who knows the topic in general (e.g. another student), vs. someone who has never studied psychology?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "theme-writing.html",
+    "href": "theme-writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "“I would have written a shorter letter, but I did not have the time.” — Blaise Pascal\n\n\n\n\nImage: Wikimedia\n\n\nWriting effectively is a key skill for psychologists. This theme covers the basics of academic writing, including how to structure essays, how to reference your work, and how to write in an academic style. We also cover how to use generative AI effectively and enhance your studies — not only as a tool for writing, but also for learning and understanding complex ideas.\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nKeep it short\n\n\nWriting concisely in assignments.\n\n\n\n\n\n\n\n\n\n\n\n(Even) shorter sentences\n\n\nAdditional practice at writing concisely\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "FAQ",
+      "Practice themes",
+      "Writing"
+    ]
+  },
+  {
+    "objectID": "weekly.html",
+    "href": "weekly.html",
+    "title": "Stage 1 weekly list of tasks",
+    "section": "",
+    "text": "TODO: See this thread for ideas for tasks\n\n\n\nIt’s currently week:\n\n\nThese are all the weekly tasks for Stage 1 that you are expected to complete each week.\nOther related tasks (including extensions or additional practice) are shown on the per-theme pages\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Week\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nTitle\n\n\nSubtitle.\n\n\n\n\nWeek\n\n\nXXX\n\n\n\n\n\n\n\n\n\n\n\n\n\nMake great notes\n\n\nHow to make the most of lectures and workshops.\n\n\n\n\nWeek\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\nDescribe a lecture in a voice note\n\n\n\n\nWeek\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpaced repetition\n\n\n\n\nWeek\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\nKeep it short\n\n\nWriting concisely in assignments.\n\n\n\n\nWeek\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlanning your first Progress meeting\n\n\n\n\nWeek\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\nLevel up your writing\n\n\nLearn to write clearly by correcting errors made by other students.\n\n\n\n\nWeek\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinking goals to actions.\n\n\nPlanning for life and careers.\n\n\n\n\nWeek\n\n\n16\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlanning your reference\n\n\nHow to plan to make sure your tutor can write you a great reference.\n\n\n\n\nWeek\n\n\n18\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "FAQ",
+      "Practice themes",
+      "Week-by-week list"
+    ]
+  },
+  {
+    "objectID": "js/clipboard.js-master/readme.html",
+    "href": "js/clipboard.js-master/readme.html",
+    "title": "clipboard.js",
+    "section": "",
+    "text": "Modern copy to clipboard. No Flash. Just 3kb gzipped.\n\n\n\n\nCopying text to the clipboard shouldn’t be hard. It shouldn’t require dozens of steps to configure or hundreds of KBs to load. But most of all, it shouldn’t depend on Flash or any bloated framework.\nThat’s why clipboard.js exists.\n\n\n\nYou can get it on npm.\nnpm install clipboard --save\nOr if you’re not into package management, just download a ZIP file.\n\n\n\nFirst, include the script located on the dist folder or load it from a third-party CDN provider.\n&lt;script src=\"dist/clipboard.min.js\"&gt;&lt;/script&gt;\nNow, you need to instantiate it by passing a DOM selector, HTML element, or list of HTML elements.\nnew ClipboardJS('.btn');\nInternally, we need to fetch all elements that matches with your selector and attach event listeners for each one. But guess what? If you have hundreds of matches, this operation can consume a lot of memory.\nFor this reason we use event delegation which replaces multiple event listeners with just a single listener. After all, #perfmatters."
+  },
+  {
+    "objectID": "js/clipboard.js-master/readme.html#why",
+    "href": "js/clipboard.js-master/readme.html#why",
+    "title": "clipboard.js",
+    "section": "",
+    "text": "Copying text to the clipboard shouldn’t be hard. It shouldn’t require dozens of steps to configure or hundreds of KBs to load. But most of all, it shouldn’t depend on Flash or any bloated framework.\nThat’s why clipboard.js exists."
+  },
+  {
+    "objectID": "js/clipboard.js-master/readme.html#install",
+    "href": "js/clipboard.js-master/readme.html#install",
+    "title": "clipboard.js",
+    "section": "",
+    "text": "You can get it on npm.\nnpm install clipboard --save\nOr if you’re not into package management, just download a ZIP file."
+  },
+  {
+    "objectID": "js/clipboard.js-master/readme.html#setup",
+    "href": "js/clipboard.js-master/readme.html#setup",
+    "title": "clipboard.js",
+    "section": "",
+    "text": "First, include the script located on the dist folder or load it from a third-party CDN provider.\n&lt;script src=\"dist/clipboard.min.js\"&gt;&lt;/script&gt;\nNow, you need to instantiate it by passing a DOM selector, HTML element, or list of HTML elements.\nnew ClipboardJS('.btn');\nInternally, we need to fetch all elements that matches with your selector and attach event listeners for each one. But guess what? If you have hundreds of matches, this operation can consume a lot of memory.\nFor this reason we use event delegation which replaces multiple event listeners with just a single listener. After all, #perfmatters."
+  },
+  {
+    "objectID": "js/clipboard.js-master/readme.html#events",
+    "href": "js/clipboard.js-master/readme.html#events",
+    "title": "clipboard.js",
+    "section": "Events",
+    "text": "Events\nThere are cases where you’d like to show some user feedback or capture what has been selected after a copy/cut operation.\nThat’s why we fire custom events such as success and error for you to listen and implement your custom logic.\nvar clipboard = new ClipboardJS('.btn');\n\nclipboard.on('success', function (e) {\n  console.info('Action:', e.action);\n  console.info('Text:', e.text);\n  console.info('Trigger:', e.trigger);\n\n  e.clearSelection();\n});\n\nclipboard.on('error', function (e) {\n  console.error('Action:', e.action);\n  console.error('Trigger:', e.trigger);\n});\nFor a live demonstration, go to this site and open your console."
+  },
+  {
+    "objectID": "js/clipboard.js-master/readme.html#tooltips",
+    "href": "js/clipboard.js-master/readme.html#tooltips",
+    "title": "clipboard.js",
+    "section": "Tooltips",
+    "text": "Tooltips\nEach application has different design needs, that’s why clipboard.js does not include any CSS or built-in tooltip solution.\nThe tooltips you see on the demo site were built using GitHub’s Primer. You may want to check that out if you’re looking for a similar look and feel."
+  },
+  {
+    "objectID": "js/clipboard.js-master/readme.html#advanced-options",
+    "href": "js/clipboard.js-master/readme.html#advanced-options",
+    "title": "clipboard.js",
+    "section": "Advanced Options",
+    "text": "Advanced Options\nIf you don’t want to modify your HTML, there’s a pretty handy imperative API for you to use. All you need to do is declare a function, do your thing, and return a value.\nFor instance, if you want to dynamically set a target, you’ll need to return a Node.\nnew ClipboardJS('.btn', {\n  target: function (trigger) {\n    return trigger.nextElementSibling;\n  },\n});\nIf you want to dynamically set a text, you’ll return a String.\nnew ClipboardJS('.btn', {\n  text: function (trigger) {\n    return trigger.getAttribute('aria-label');\n  },\n});\nFor use in Bootstrap Modals or with any other library that changes the focus you’ll want to set the focused element as the container value.\nnew ClipboardJS('.btn', {\n  container: document.getElementById('modal'),\n});\nAlso, if you are working with single page apps, you may want to manage the lifecycle of the DOM more precisely. Here’s how you clean up the events and objects that we create.\nvar clipboard = new ClipboardJS('.btn');\nclipboard.destroy();"
+  },
+  {
+    "objectID": "js/clipboard.js-master/readme.html#browser-support",
+    "href": "js/clipboard.js-master/readme.html#browser-support",
+    "title": "clipboard.js",
+    "section": "Browser Support",
+    "text": "Browser Support\nThis library relies on both Selection and execCommand APIs. The first one is supported by all browsers while the second one is supported in the following browsers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n42+ ✔\n12+ ✔\n41+ ✔\n9+ ✔\n29+ ✔\n10+ ✔\n\n\n\nThe good news is that clipboard.js gracefully degrades if you need to support older browsers. All you have to do is show a tooltip saying Copied! when success event is called and Press Ctrl+C to copy when error event is called because the text is already selected.\nYou can also check if clipboard.js is supported or not by running ClipboardJS.isSupported(), that way you can hide copy/cut buttons from the UI."
+  },
+  {
+    "objectID": "js/clipboard.js-master/readme.html#bonus",
+    "href": "js/clipboard.js-master/readme.html#bonus",
+    "title": "clipboard.js",
+    "section": "Bonus",
+    "text": "Bonus\nA browser extension that adds a “copy to clipboard” button to every code block on GitHub, MDN, Gist, StackOverflow, StackExchange, npm, and even Medium.\nInstall for Chrome and Firefox."
+  },
+  {
+    "objectID": "js/clipboard.js-master/readme.html#license",
+    "href": "js/clipboard.js-master/readme.html#license",
+    "title": "clipboard.js",
+    "section": "License",
+    "text": "License\nMIT License © Zeno Rocha"
+  },
+  {
+    "objectID": "practice.html",
+    "href": "practice.html",
+    "title": "Practice",
+    "section": "",
+    "text": "“Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good.”\n— Gladwell (2008)\nYou might have heard of the “10,000 hour rule”; it suggests that it takes 10,000 hours of practice to become an expert in a field. However, recent research suggests that it is not just the quantity of practice that matters, but the quality of practice1\nThe idea of “Deliberate Practice” was described by Anders Ericsson to emphaise the importance of focused, structured practice in developing expertise (Ericsson et al., 1993).",
+    "crumbs": [
+      "FAQ",
+      "Basics",
+      "Practice"
+    ]
+  },
+  {
+    "objectID": "practice.html#footnotes",
+    "href": "practice.html#footnotes",
+    "title": "Practice",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe 10,000 rule was popularised by Malcom Gladwell in Outliers, based on the work of Anders Ericsson and others. A meta-analysis (i.e. a review of all the quantitative studies available, Macnamara et al., 2014) suggested that the relationship between practice and expertise was not as strong has had been claimed. However, deliberate practice remains the primary predictor of expertise in many fields, and is typically the only factor which we have individual control over. Inherited general intelligence or working memory capacity may also predict expertise, but we can’t choose our parents! For a detailed discussion of the evidence, see Hambrick et al. (2020).↩︎",
+    "crumbs": [
+      "FAQ",
+      "Basics",
+      "Practice"
+    ]
+  },
+  {
+    "objectID": "faqs.html",
+    "href": "faqs.html",
+    "title": "FAQs",
+    "section": "",
+    "text": "… #TODO\n\n\n\nThe practice tasks are an integral part of your degree. Skipping them won’t cause you to fail a specific module, but\n\nthe knowledge and experience you gain through practice will be expected by your lecturers. You you may find later material hard if you do not complete them.\nthe tasks are focused on the core skills required to do well in the course.\ntutors will become concerned if you are not enaged with this important component of the course\nyour ability to practice regularly and reflect and act on feedback is a good indicator of your ability as a student. In stage 3, this information may be used to inform decisions about placements, and in stage 4 potential supervisors will use this information as part of their decision about which students to accept onto their research projects\npractice tasks and progress meetings are the main ways your tutor can get to know you, and will greatly help them when writing a job reference, or academic reference for further study (see why this matters)",
+    "crumbs": [
+      "FAQ",
+      "Basics",
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faqs.html#faqs",
+    "href": "faqs.html#faqs",
+    "title": "FAQs",
+    "section": "",
+    "text": "… #TODO\n\n\n\nThe practice tasks are an integral part of your degree. Skipping them won’t cause you to fail a specific module, but\n\nthe knowledge and experience you gain through practice will be expected by your lecturers. You you may find later material hard if you do not complete them.\nthe tasks are focused on the core skills required to do well in the course.\ntutors will become concerned if you are not enaged with this important component of the course\nyour ability to practice regularly and reflect and act on feedback is a good indicator of your ability as a student. In stage 3, this information may be used to inform decisions about placements, and in stage 4 potential supervisors will use this information as part of their decision about which students to accept onto their research projects\npractice tasks and progress meetings are the main ways your tutor can get to know you, and will greatly help them when writing a job reference, or academic reference for further study (see why this matters)",
+    "crumbs": [
+      "FAQ",
+      "Basics",
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "theme-studying.html",
+    "href": "theme-studying.html",
+    "title": "Studying",
+    "section": "",
+    "text": "Learning how to study for your degree is a key part of your first year. As psychologists, we can use evidence-based techniques to help us learn more effectively. This theme covers important ideas and techniques that will help you to succeed in your studies.\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nMake great notes\n\n\nHow to make the most of lectures and workshops.\n\n\n\n\n\n\n\n\n\n\n\nSpaced repetition\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "FAQ",
+      "Practice themes",
+      "Studying"
+    ]
   },
   {
     "objectID": "about.html",

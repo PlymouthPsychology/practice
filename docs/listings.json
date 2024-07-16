@@ -21,41 +21,17 @@
     ]
   },
   {
-    "listing": "/theme-studying.html",
-    "items": [
-      "/tasks/studying-note-taking.html",
-      "/tasks/studying-spaced-repetition.html"
-    ]
-  },
-  {
-    "listing": "/weekly.html",
-    "items": [
-      "/tasks/theme-topic-blank.html",
-      "/tasks/studying-note-taking.html",
-      "/tasks/speaking-describe-lecture.html",
-      "/tasks/studying-spaced-repetition.html",
-      "/tasks/writing-concisely.html",
-      "/tasks/growth-planning-first-progress-meeting.html",
-      "/tasks/growth-goals-career-planning.html",
-      "/tasks/growth-planning-reference.html"
-    ]
-  },
-  {
-    "listing": "/theme-writing.html",
-    "items": [
-      "/tasks/writing-concisely.html",
-      "/tasks/writing-extension-shorter-sentences.html"
-    ]
-  },
-  {
-    "listing": "/tasks/speaking-describe-lecture.html",
+    "listing": "/theme-thinking.html",
     "items": []
   },
   {
-    "listing": "/tasks/theme-topic-blank.html",
+    "listing": "/tasks/studying-note-taking.html",
+    "items": []
+  },
+  {
+    "listing": "/tasks/writing-level-up.html",
     "items": [
-      "/tasks/writing-extension-shorter-sentences.html",
-      "/tasks/theme-extension-topic-blank.html"
+      "/tasks/writing-extension-shorter-sentences.html"
     ]
   },
   {
@@ -69,11 +45,42 @@
     ]
   },
   {
-    "listing": "/tasks/studying-note-taking.html",
+    "listing": "/tasks/theme-topic-blank.html",
+    "items": [
+      "/tasks/writing-extension-shorter-sentences.html",
+      "/tasks/theme-extension-topic-blank.html"
+    ]
+  },
+  {
+    "listing": "/tasks/speaking-describe-lecture.html",
     "items": []
   },
   {
-    "listing": "/theme-thinking.html",
-    "items": []
+    "listing": "/theme-writing.html",
+    "items": [
+      "/tasks/writing-concisely.html",
+      "/tasks/writing-extension-shorter-sentences.html"
+    ]
+  },
+  {
+    "listing": "/weekly.html",
+    "items": [
+      "/tasks/theme-topic-blank.html",
+      "/tasks/studying-note-taking.html",
+      "/tasks/speaking-describe-lecture.html",
+      "/tasks/studying-spaced-repetition.html",
+      "/tasks/writing-concisely.html",
+      "/tasks/growth-planning-first-progress-meeting.html",
+      "/tasks/writing-level-up.html",
+      "/tasks/growth-goals-career-planning.html",
+      "/tasks/growth-planning-reference.html"
+    ]
+  },
+  {
+    "listing": "/theme-studying.html",
+    "items": [
+      "/tasks/studying-note-taking.html",
+      "/tasks/studying-spaced-repetition.html"
+    ]
   }
 ]
