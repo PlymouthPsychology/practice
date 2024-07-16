@@ -210,7 +210,7 @@ document.addEventListener('DOMContentLoaded', function() {
 Just copy the sentences above, make your edits, and upload to Psylab as usual. 
 
 
-[Record your work here](psy){.submit-work .btn .btn-primary}
+[Record your work here](https://pp.llemma.net){.submit-work .btn .btn-primary}
 
 
 
