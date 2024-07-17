@@ -1,0 +1,25 @@
+---
+title: "Resources for better writing"
+bibliography: ../refs.bib
+csl: ../apa.csl
+---
+
+The writing exercises on this site are just the first steps to becoming an effective writer. 
+Other sources of support are available through [Student Learning Support](https://www.plymouth.ac.uk/services/student-learning) and include:
+
+- The Writing Café
+- Royal Literary Fund Writing Fellows
+- Peer Assisted Learning Scheme or PALS
+- Don’t forget Word’s useful spelling and grammar checks. 
+
+
+
+### Writing like a psychologist
+
+Psychology uses a style guide published by the American Psychological Association. 
+
+‘APA style’ helps writers to convey scientific ideas clearly and precisely. It covers the ways to cite and reference evidence and elements of phrasing and grammar that constitute good writing style. Help on APA style is available through these online resources as well as from your tutor
+
+- [Purdue Online Writing Lab](https://owl.purdue.edu)
+- [APA Academic Writer Tutorial](https://extras.apa.org/apastyle/basics-7e/#/lessons/cn3Cb6ANDrUSP9p-iF74eaXCwYJfJJV-)
+
