@@ -309,7 +309,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="CATEGORY">CATEGORY <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Growth">Growth <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Speaking">Speaking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Studying">Studying <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Writing">Writing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="writing">writing <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Growth">Growth <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Speaking">Speaking <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Studying">Studying <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Thinking">Thinking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Writing">Writing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="studying">studying <span class="quarto-category-count">(3)</span></div><div class="category" data-category="writing">writing <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -332,69 +332,6 @@ window.Quarto = {
 </header>
 
 
-<div class="todo">
-<p>TODO: <a href="https://discourse.psy.plymouth.ac.uk">See this thread for ideas for tasks</a></p>
-</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
-<h1>
-It’s currently week:
-</h1>
-<script>
-
-// warning - hokey chat-gpt generated function which seems to do what is required but may be wrong
-
-// this code counts the weeks from the start of term and allows us to display it in the page
-
-function countWeeks(startDateStr, excludeRanges) {
-  // Parse the start date
-  let startDate = moment(startDateStr);
-  let currentDate = moment();
-
-  // Calculate the number of weeks between the start date and current date
-  let totalWeeks = currentDate.diff(startDate, 'weeks');
-
-  // Function to check if a date range overlaps with a week range
-  function isOverlapping(startWeek, endWeek, range) {
-  let rangeStart = moment(range[0]);
-  let rangeEnd = moment(range[1]);
-  return startWeek.isBefore(rangeEnd) && endWeek.isAfter(rangeStart);
-  }
-
-  // Initialize count of valid weeks
-  let validWeeks = 0;
-
-  // Iterate through each week from start date to current date
-  for (let i = 0; i <= totalWeeks; i++) {
-    let startWeek = moment(startDate).add(i, 'weeks');
-    let endWeek = moment(startWeek).endOf('isoWeek');
-    let isExcluded = false;
-
-    // Check if the current week overlaps with any exclude ranges
-    for (let range of excludeRanges) {
-      if (isOverlapping(startWeek, endWeek, range)) {
-        isExcluded = true;
-        break;
-      }
-    }
-      // Count the week if it is not excluded
-      if (!isExcluded) {
-      validWeeks++;
-      }
-  }
-  return validWeeks;
-}
-
-// Example usage
-let startDate = "2023-09-23";
-let excludeRanges = [
-["2023-12-15", "2024-01-15"],
-];
-
-let weeksCount = countWeeks(startDate, excludeRanges);
-
-// Insert the result into the HTML element with id "H!"
-document.getElementById("current-week").innerText = weeksCount;
-</script>
 <p>These are all the weekly tasks for Stage 1 that you are expected to complete each week.</p>
 <p>Other related tasks (including extensions or additional practice) are shown on the <a href="practice.html#themes">per-theme pages</a></p>
 <div id="sample-listings">
@@ -425,16 +362,16 @@ document.getElementById("current-week").innerText = weeksCount;
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="CATEGORY" data-listing-file-modified-sort="1717408244557" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
-<a href="./tasks/theme-topic-blank.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="studying" data-listing-file-modified-sort="1726043902490" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
+<a href="./tasks/studying-learning-at-university.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<!-- img(9CEB782EFEE6)[progressive=false, height=150px]:tasks/theme-topic-blank.html -->
+<p class="card-img-top"><img src="images/DALL·E 2024-09-10 09.55.02 - studyinguni.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Title
+Learning at University
 </h5>
 <div class="card-subtitle listing-subtitle">
-Subtitle.
+YYY
 </div>
 <table class="card-other-values">
 <tbody><tr>
@@ -442,7 +379,7 @@ Subtitle.
 Week
 </td>
 <td class="Week">
-XXX
+1
 </td>
 </tr>
 </tbody></table>
@@ -450,10 +387,35 @@ XXX
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Studying" data-listing-file-modified-sort="1718370537195" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
+<div class="g-col-1" data-index="1" data-categories="studying" data-listing-file-modified-sort="1726042650830" data-listing-reading-time-sort="1" data-listing-word-count-sort="51">
+<a href="./tasks/studying-using-psychology-to-be-better-psychologist.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/DALL·E 2024-09-10 10.00.47 - using psychology to study.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Using psychology to learn psychology
+</h5>
+<div class="card-subtitle listing-subtitle">
+YYY
+</div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Week
+</td>
+<td class="Week">
+2
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Studying" data-listing-file-modified-sort="1726042632315" data-listing-reading-time-sort="2" data-listing-word-count-sort="256">
 <a href="./tasks/studying-note-taking.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<!-- img(9CEB782EFEE6)[progressive=false, height=150px]:tasks/studying-note-taking.html -->
+<p class="card-img-top"><img src="images/DALL·E 2024-06-14 14.08.02 - A student sits at a desk in a modern classroom, attentively taking notes. The desk has a notebook open, filled with colorful and organized notes, incl.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Make great notes
@@ -475,21 +437,24 @@ Week
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Speaking" data-listing-file-modified-sort="1718876971179" data-listing-reading-time-sort="2" data-listing-word-count-sort="281">
-<a href="./tasks/speaking-describe-lecture.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-categories="studying" data-listing-file-modified-sort="1726044906688" data-listing-reading-time-sort="1" data-listing-word-count-sort="42">
+<a href="./tasks/studying-differences-from-school.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<!-- img(9CEB782EFEE6)[progressive=false, height=150px]:tasks/speaking-describe-lecture.html -->
+<p class="card-img-top"><img src="images/DALL·E 2024-09-11 09.54.13 - unicomplex.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Describe a lecture in a voice note
+Differences between uni and school
 </h5>
+<div class="card-subtitle listing-subtitle">
+YYY
+</div>
 <table class="card-other-values">
 <tbody><tr>
 <td>
 Week
 </td>
 <td class="Week">
-3
+4
 </td>
 </tr>
 </tbody></table>
@@ -497,10 +462,32 @@ Week
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="Studying" data-listing-file-modified-sort="1718370172737" data-listing-reading-time-sort="5" data-listing-word-count-sort="808">
+<div class="g-col-1" data-index="4" data-categories="Growth" data-listing-file-modified-sort="1726042857330" data-listing-reading-time-sort="2" data-listing-word-count-sort="313">
+<a href="./tasks/growth-planning-progress-meeting.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/dilbert-meetings.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Planning your Progress meeting
+</h5>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Week
+</td>
+<td class="Week">
+5
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Studying" data-listing-file-modified-sort="1726042870896" data-listing-reading-time-sort="5" data-listing-word-count-sort="806">
 <a href="./tasks/studying-spaced-repetition.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<!-- img(9CEB782EFEE6)[progressive=false, height=150px]:tasks/studying-spaced-repetition.html -->
+<p class="card-img-top"><img src="images/Ebbinghaus2.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Spaced repetition
@@ -511,7 +498,7 @@ Spaced repetition
 Week
 </td>
 <td class="Week">
-4
+6
 </td>
 </tr>
 </tbody></table>
@@ -519,16 +506,38 @@ Week
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="Writing" data-listing-file-modified-sort="1718960279644" data-listing-reading-time-sort="2" data-listing-word-count-sort="205">
-<a href="./tasks/writing-concisely.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="6" data-categories="Speaking" data-listing-file-modified-sort="1726042888144" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
+<a href="./tasks/speaking-describe-lecture.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<!-- img(9CEB782EFEE6)[progressive=false, height=150px]:tasks/writing-concisely.html -->
+<p class="card-img-top"><img src="images/voicenote.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Describe a lecture in a voice note
+</h5>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Week
+</td>
+<td class="Week">
+7
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="Writing" data-listing-file-modified-sort="1726042964629" data-listing-reading-time-sort="2" data-listing-word-count-sort="205">
+<a href="./tasks/writing-concisely-abstracts.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/papers.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Keep it short
 </h5>
 <div class="card-subtitle listing-subtitle">
-Writing concisely in assignments.
+Writing concisely in abstracts.
 </div>
 <table class="card-other-values">
 <tbody><tr>
@@ -536,7 +545,7 @@ Writing concisely in assignments.
 Week
 </td>
 <td class="Week">
-4
+8
 </td>
 </tr>
 </tbody></table>
@@ -544,38 +553,16 @@ Week
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="Growth" data-listing-file-modified-sort="1717525014672" data-listing-reading-time-sort="2" data-listing-word-count-sort="271">
-<a href="./tasks/growth-planning-first-progress-meeting.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="8" data-categories="writing" data-listing-file-modified-sort="1726043007341" data-listing-reading-time-sort="6" data-listing-word-count-sort="1038">
+<a href="./tasks/writing-mean-marker.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<!-- img(9CEB782EFEE6)[progressive=false, height=150px]:tasks/growth-planning-first-progress-meeting.html -->
+<p class="card-img-top"><img src="images/DALL·E 2024-09-06 11.57.52 - A terrifying, female professor sitting at a cluttered desk, with an Edgar Allan Poe-inspired gothic atmosphere. The professor has sharp, intense featu.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Planning your first Progress meeting
-</h5>
-<table class="card-other-values">
-<tbody><tr>
-<td>
-Week
-</td>
-<td class="Week">
-5
-</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-categories="writing" data-listing-file-modified-sort="1721145479974" data-listing-reading-time-sort="5" data-listing-word-count-sort="841">
-<a href="./tasks/writing-level-up.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<!-- img(9CEB782EFEE6)[progressive=false, height=150px]:tasks/writing-level-up.html -->
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Level up your writing
+Think like a mean marker
 </h5>
 <div class="card-subtitle listing-subtitle">
-Learn to write clearly by correcting errors made by other students.
+Remove distractions from your writing.
 </div>
 <table class="card-other-values">
 <tbody><tr>
@@ -583,7 +570,7 @@ Learn to write clearly by correcting errors made by other students.
 Week
 </td>
 <td class="Week">
-5
+9
 </td>
 </tr>
 </tbody></table>
@@ -591,10 +578,60 @@ Week
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="Growth" data-listing-file-modified-sort="1717266321317" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="9" data-categories="Speaking" data-listing-file-modified-sort="1726043391785" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
+<a href="./tasks/speaking-prepare-viva.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/DALL·E 2024-09-11 09.27.27 - viva prep.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Prepare for your viva
+</h5>
+<div class="card-subtitle listing-subtitle">
+Practice for the PSYC423 oral assessment.
+</div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Week
+</td>
+<td class="Week">
+10
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-categories="Thinking" data-listing-file-modified-sort="1726043584710" data-listing-reading-time-sort="1" data-listing-word-count-sort="51">
+<a href="./tasks/thinking-bullshit-detection.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/DALL·E 2024-09-11 09.32.25 - bullshit.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bullshit detection!
+</h5>
+<div class="card-subtitle listing-subtitle">
+Use your psychological knowledge to sniff out bullshit
+</div>
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Week
+</td>
+<td class="Week">
+11
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-categories="Growth" data-listing-file-modified-sort="1726045069714" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
 <a href="./tasks/growth-goals-career-planning.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<!-- img(9CEB782EFEE6)[progressive=false, height=150px]:tasks/growth-goals-career-planning.html -->
+<p class="card-img-top"><img src="images/DALL-E- goalsactions.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Linking goals to actions.
@@ -608,32 +645,7 @@ Planning for life and careers.
 Week
 </td>
 <td class="Week">
-16
-</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="8" data-categories="Growth" data-listing-file-modified-sort="1717525166079" data-listing-reading-time-sort="2" data-listing-word-count-sort="209">
-<a href="./tasks/growth-planning-reference.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<!-- img(9CEB782EFEE6)[progressive=false, height=150px]:tasks/growth-planning-reference.html -->
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Planning your reference
-</h5>
-<div class="card-subtitle listing-subtitle">
-How to plan to make sure your tutor can write you a great reference.
-</div>
-<table class="card-other-values">
-<tbody><tr>
-<td>
-Week
-</td>
-<td class="Week">
-18
+12
 </td>
 </tr>
 </tbody></table>
@@ -1200,6 +1212,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script type="text/javascript" src="js/clipboard.js-master/dist/clipboard.min.js"></script>
 
 
 

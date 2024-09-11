@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Ben Whalley">
-<meta name="description" content="Get prepared for your mid-semester progress meeeting.">
+<meta name="author" content="Sean Fallon">
+<meta name="description" content="DDD">
 
-<title>Briefing, Practice &amp; Progress - Planning your first Progress meeting</title>
+<title>Briefing, Practice &amp; Progress - Reciprocating feedback</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -70,7 +72,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -119,7 +179,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Planning your first Progress meeting</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Reciprocating feedback</li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -254,10 +314,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#what-are-progress-meetings-for" id="toc-what-are-progress-meetings-for" class="nav-link active" data-scroll-target="#what-are-progress-meetings-for">What are progress meetings for?</a></li>
-  <li><a href="#format-and-scheduling" id="toc-format-and-scheduling" class="nav-link" data-scroll-target="#format-and-scheduling">Format and scheduling</a></li>
-  <li><a href="#setting-the-agenda" id="toc-setting-the-agenda" class="nav-link" data-scroll-target="#setting-the-agenda">Setting the agenda</a></li>
-  <li><a href="#making-good-notes" id="toc-making-good-notes" class="nav-link" data-scroll-target="#making-good-notes">Making good notes</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a>
+  <ul class="collapse">
+  <li><a href="#xxx" id="toc-xxx" class="nav-link" data-scroll-target="#xxx">XXX</a></li>
+  </ul></li>
+  <li><a href="#recording-your-work" id="toc-recording-your-work" class="nav-link" data-scroll-target="#recording-your-work">Recording your work</a></li>
+  <li><a href="#extension-activities" id="toc-extension-activities" class="nav-link" data-scroll-target="#extension-activities">Extension activities</a></li>
   </ul>
 </nav>
     </div>
@@ -266,15 +329,17 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Planning your first Progress meeting</h1>
+<h1 class="title">Reciprocating feedback</h1>
+<p class="subtitle lead">YYY</p>
   <div class="quarto-categories">
-    <div class="quarto-category">Growth</div>
+    <div class="quarto-category">growth</div>
+    <div class="quarto-category">studying</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    Get prepared for your mid-semester progress meeeting.
+    DDD
   </div>
 </div>
 
@@ -284,7 +349,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Ben Whalley </p>
+             <p>Sean Fallon </p>
           </div>
   </div>
     
@@ -297,65 +362,42 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="what-are-progress-meetings-for" class="level1">
-<h1>What are progress meetings for?</h1>
-<p>Students often find that the transition from school to university is difficult. This is rarely because the material you study is more complex; most of the time, it is because the <em>way</em> you are expected to learn is different, and because <em>you must take more responsibility for your own learning</em>.</p>
-<p>Progress meetings are regular ‘checkpoints’ in the year where you can:</p>
-<ul>
-<li>review what you have done so far, and how successful it has been</li>
-<li>ask questions about the course, or about the way you are working, and</li>
-<li>work with your tutor to make plans for the weeks to come</li>
-</ul>
-<p>The aim is to provide space to reflect on your progress, and give you the confidence to take responsibility for your own learning.</p>
+<p><img src="../images/DALL·E 2024-09-10 10.22.40 - Areciprocating feedback copy.png" class="img-fluid" style="width:60.0%"></p>
+<section id="overview" class="level1">
+<h1>Overview</h1>
+<p>[THE TEXT BELOW COMPRISES THE VIDEO EXPLAINER]</p>
 </section>
-<section id="format-and-scheduling" class="level1">
-<h1>Format and scheduling</h1>
-<p>As a <a href="../progress.html">reminder</a>, progress meetings will</p>
-<ul>
-<li>include your tutor and one other student</li>
-<li>last around 45 minutes</li>
-<li>be held face to face in your tutor’s office</li>
-</ul>
-<div class="instruction">
-<p>Book your meeting online, on the DLE here: XXX ADD DLE LINKS</p>
-</div>
+<section id="instructions" class="level1">
+<h1>Instructions</h1>
+<section id="xxx" class="level3 instruction">
+<h3 class="anchored" data-anchor-id="xxx">XXX</h3>
+<p>XXX</p>
 </section>
-<section id="setting-the-agenda" class="level1">
-<h1>Setting the agenda</h1>
-<p>Before the meeting, it’s important to know what you want to get from it.</p>
-<div class="instruction">
-<p>Part 1</p>
-<ol type="1">
-<li>Make a list of 3 things you want to discuss in the meeting (see suggestions below)</li>
-<li>Upload this agenda to Psylab</li>
-</ol>
-<p><a href="XXX" class="submit-work btn btn-primary">Record the agenda for the meeting here</a></p>
-<p>(See part 2 below)</p>
-</div>
 </section>
-<section id="making-good-notes" class="level1">
-<h1>Making good notes</h1>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/dilbert-meetings.jpg" class="img-fluid figure-img"></p>
-<figcaption>Credit: “Dilbert” by Scott Adams (2015)</figcaption>
-</figure>
+<section id="recording-your-work" class="level1">
+<h1>Recording your work</h1>
+<p>XXXINSTRUCTION, and upload to Psylab as usual.</p>
+<p><a href="https://pp.llemma.net" class="submit-work btn btn-primary">Record your work here</a></p>
+</section>
+<section id="extension-activities" class="level1">
+<h1>Extension activities</h1>
+<p>If you found this task helpful or writing is something you struggle with, consider the following extension activities:</p>
+<div id="sample-listings">
+
 </div>
-<div class="instruction">
-<p>Part 2:</p>
-<p>After the meeting, make notes on:</p>
-<ul>
-<li>what was discussed</li>
-<li>any actions that were agreed (and a deadline if there is one)</li>
-</ul>
-<p><a href="XXX" class="submit-work btn btn-primary">Record the notes from the meeting here</a></p>
-</div>
-<p>Remember, these notes are important because they will feed into your next progress meeting, and because they will help you to keep track of your progress throughout the year.</p>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -910,6 +952,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script type="text/javascript" src="js/clipboard.js-master/dist/clipboard.min.js"></script>
 
 
 
