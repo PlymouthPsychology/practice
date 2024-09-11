@@ -2,17 +2,14 @@
 title: "Planning your reference"
 subtitle: "How to plan to make sure your tutor can write you a great reference."
 description: How to plan to make sure your tutor can write you a great reference
-Week: 18
+# Week: 99
 Stage: 1
+Release: false
 categories: [Growth]
 reading-time: 15 minutes
 ---
 
-
-
-![](../images/towhom.png){width=50%}
-
-
+![](../images/towhom.png){width="50%"}
 
 # Planning your reference
 
@@ -26,12 +23,6 @@ You need to think about your reference early on in your time at university. You 
 
 -   You need to help the reference-writer do a good job for you! Provide as much information as you can about yourself, your skills, experience, and achievements. You should also provide the reference-writer with a copy of the job description or course you are applying for, and highlight anything you would like them to mention.
 
-
-
-
-:::{.instruction}
-
-
+::: instruction
 TODO ADD INSTRUCTIONS HERE
-
 :::

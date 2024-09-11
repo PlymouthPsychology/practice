@@ -19,20 +19,13 @@ listing:
     categories: "{Studying}*"
 ---
 
-![](../images/DALL·E 2024-06-14 14.08.02 - A student sits at a desk in a modern classroom, attentively taking notes. The desk has a notebook open, filled with colorful and organized notes, incl.webp){width="50%"}
+![](../images/DALL·E%202024-06-14%2014.08.02%20-%20A%20student%20sits%20at%20a%20desk%20in%20a%20modern%20classroom,%20attentively%20taking%20notes.%20The%20desk%20has%20a%20notebook%20open,%20filled%20with%20colorful%20and%20organized%20notes,%20incl.webp){width="50%"}
 
 A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE
 
 # Overview
 
-
-
 How to make notes on lectures (common strategies and evidence). Preparation (re-read course notes), understanding not transcribing, active participation (ask and note questions, even if just in your head); conceptualise, summarise. Review and reduce notes later. Activity: Practice the Cornell note-taking method on a single lecture and submit it to Psylab.
-
-
-
-
-
 
 The overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.
 

@@ -1,0 +1,56 @@
+---
+title: "Bullshit detection!"
+subtitle: "Use your psychological knowledge to sniff out bullshit"
+author: Julie Ji
+description: Put your research methods skills into practice to sniff out bullshit and work out what sort of evidence we would _actually_ need to make claims commonly seen on social media.
+Week: 11
+Stage: 1
+categories: [Thinking]
+Release: true
+reading-time: 15 minutes
+# provides a listing of related activities
+listing:
+  contents: "*.qmd"
+  type: default
+  categories: false
+  fields: [title, image]
+  page-size: 3
+  include:
+    extension: true
+    # REMEMBER TO UPDATE THIS FOR THE ACTIVITY - could include multiple categories
+    categories: "{Thinking}*"
+---
+
+![](../images/DALL·E 2024-09-11 09.32.25 - bullshit.webp){width="50%"}
+
+# Overview
+
+XXX
+
+# Instructions
+
+::: instruction
+1.  XXX
+2.  ...
+3.  ...
+:::
+
+# Recording your work
+
+::: instruction
+
+1. XXX
+2. ...
+3. ...
+
+[Show Psybot your work here](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
+
+When you add your practice upload an audio file of your voice note. Psybot will listen to the audio and give you feedback.
+:::
+
+# Extension activities
+
+XXX
+
+::: {#sample-listings}
+:::

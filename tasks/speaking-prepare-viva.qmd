@@ -1,0 +1,66 @@
+---
+title: "Prepare for your viva"
+subtitle: "Practice for the PSYC423 oral assessment."
+author: Julie Ji
+description: Next week you will need to describe your PSYC423 project to your tutor. This section is practice for that.
+Week: 10
+Stage: 1
+categories: [Speaking]
+Release: true
+reading-time: 15 minutes
+# provides a listing of related activities
+listing:
+  contents: "*.qmd"
+  type: default
+  categories: false
+  fields: [title, image]
+  page-size: 3
+  include:
+    extension: true
+    # REMEMBER TO UPDATE THIS FOR THE ACTIVITY - could include multiple categories
+    categories: "{Speaking}*"
+---
+
+
+![](../images/DALL·E 2024-09-11 09.27.27 - viva prep.webp){width=50%}
+
+# Overview
+
+XXX
+
+
+# Instructions
+
+::: instruction
+
+1. XXX
+2. ...
+3. ...
+
+:::
+
+# Recording your work
+
+::: instruction
+Record your practice using
+
+-   the "Voice Memos" app on iPhone, or
+-   the "Voice Recorder" app on Android
+
+We suggest you don't use WhatsApp because it's harder to upload later.
+
+
+[Show Psybot your work here](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
+
+When you add your practice upload an audio file of your voice note. Psybot will listen to the audio and give you feedback.
+
+:::
+
+
+# Extension activities
+
+XXX
+
+
+::: {#sample-listings}
+:::

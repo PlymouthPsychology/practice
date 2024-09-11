@@ -57,12 +57,11 @@ website:
 format:
   html:
     include-after-body:
-        - js/clipboard.js/clipboard.min.js
+      - text: |
+          <script type="text/javascript" src="js/clipboard.js-master/dist/clipboard.min.js"></script>
     theme:
       light: cosmo
       dark: cosmo
     css: styles.css
     toc: true
-
-#editor: visual
 

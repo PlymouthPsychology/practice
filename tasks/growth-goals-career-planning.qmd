@@ -3,11 +3,44 @@ title: "Linking goals to actions."
 subtitle: "Planning for life and careers."
 author: Ben Whalley
 description: XXX
-Week: 16
+Week: 12
 Stage: 1
+Release: true
 categories: [Growth]
 reading-time: 15 minutes
 ---
 
 
-![](../images/XXX.png)
+![](../images/DALL-E- goalsactions.png){width=50%}
+
+# Overview
+
+XXX
+
+# Instructions
+
+::: instruction
+1.  XXX
+2.  ...
+3.  ...
+:::
+
+# Recording your work
+
+::: instruction
+
+1. XXX
+2. ...
+3. ...
+
+[Show Psybot your work here](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
+
+When you add your practice upload an audio file of your voice note. Psybot will listen to the audio and give you feedback.
+:::
+
+# Extension activities
+
+XXX
+
+::: {#sample-listings}
+:::

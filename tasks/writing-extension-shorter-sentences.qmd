@@ -6,41 +6,35 @@ categories: [Writing, Extension]
 reading-time: 20 minutes
 ---
 
-
-
 # Overview
 
-In the [original concise-writing task](writing-concisely.html) we introduced a number of strategies
-to ensure that your writing is clear and concise. This activity provides additional practice at writing concisely for students who find it useful.
-
+In the [original concise-writing task](writing-concisely.html) we introduced a number of strategies to ensure that your writing is clear and concise. This activity provides additional practice at writing concisely for students who find it useful.
 
 # Instructions
 
+```{=html}
 <script>
 var clipboard = new ClipboardJS('.copy');
 clipboard.on('success', function(e) {
     alert('Copied!');
 });
 </script>
+```
+Rewrite the following sentences to be as clear and concise as possible, without changing their meaning.
 
-
-Rewrite the following sentences to be as clear and concise as possible, without changing their meaning. 
-
-
-1. Copy and paste the sentences below into a text editor (<a class='copy' href='#' data-clipboard-target="#examples">click to copy</a>)
-2. Edit each sentence
-3. Upload your edited versions to the link below for instant feedback
-
+1.  Copy and paste the sentences below into a text editor (<a class='copy' href='#' data-clipboard-target="#examples">click to copy</a>)
+2.  Edit each sentence
+3.  Upload your edited versions to the link below for instant feedback
 
 ## Sentences to be shortened
 
+<button class="copy mb-4 btn btn-outline-primary" data-clipboard-target="#examples">
 
-<button class="copy mb-4 btn btn-outline-primary" data-clipboard-target="#examples">Copy examples</button>
+Copy examples
 
+</button>
 
-
-:::{#examples}
-
+::: {#examples}
 > 1.  In many cases, it has been observed that individuals exhibit an increase in stress levels due to the fact that they are exposed to prolonged periods of noise.
 
 > 2.  There is a possibility that children who participate in group activities might develop better social skills compared to those who do not engage in such activities.
@@ -60,11 +54,7 @@ Rewrite the following sentences to be as clear and concise as possible, without 
 > 9.  It is often argued by psychologists that early childhood experiences have a profound impact on personality development.
 
 > 10. The researchers found that there was a correlation between the amount of physical activity engaged in by the subjects and their overall psychological well-being.
-
-
-
 :::
-
 
 ```{=html}
 <!--- 
@@ -95,16 +85,12 @@ NOTE: these are chatgpt generated and need checking/editing.
 
 --->
 ```
-
-
 # Reflection
 
 # Recording your work
 
-
 This is an example of what ChatGPT- mediated feedback could look like here:
 
 https://chatgpt.com/share/a98e85df-4b8f-4de1-b9ef-d06286d5e1db
-
 
 [Record your work here](XXX){.submit-work .btn .btn-primary}

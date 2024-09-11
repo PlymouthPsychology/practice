@@ -2,7 +2,7 @@
 title: "Spaced repetition"
 bibliography: ../refs.bib
 description: Use spaced repetition to beat the forgetting curve and save yourself time.
-Week: 4
+Week: 6
 Stage: 1
 categories: [Studying]
 reading-time: 30 minutes
@@ -19,21 +19,17 @@ listing:
     categories: "{Studying}*"
 ---
 
-
-![Hermann Ebbinghaus, 1850-1909](../images/Ebbinghaus2.jpg){.figure width=20% .float-end}
+![Hermann Ebbinghaus, 1850-1909](../images/Ebbinghaus2.jpg){.figure .float-end width="20%"}
 
 # Overview
 
-
 XXX TODO ADD A VIDEO EXPLAINER OF ALL THIS MATERIAL AT THE HEAD OF THE PAGE
-
-
 
 Over time we forget things, but in the 19th century, Ebbinghaus discovered that we forget things in a predictable way.
 
-His work on the 'forgetting curve', since replicated [@murre2015replication], showed that we forget things quickly at first, but then more slowly over time. 
+His work on the 'forgetting curve', since replicated [@murre2015replication], showed that we forget things quickly at first, but then more slowly over time.
 
-Reviewing and rehearsing what we have learnt at regular intervals helps us remember things for longer. 
+Reviewing and rehearsing what we have learnt at regular intervals helps us remember things for longer.
 
 The forgetting curve diagram below shows this: Without reviewing what we learn, after 30 days we will have forgotten almost all of of it (the first line on the graph). But reviewing the material on day 2, 10, 30 and so on interrupts the forgetting process. The forgetting curve becomes less steep, and we remember more of what we have learnt for longer.
 
@@ -41,11 +37,7 @@ The forgetting curve diagram below shows this: Without reviewing what we learn, 
 
 **'Spaced repetition'** is a technique that makes use of this property of memory. By reviewing things *just* before you are likely to forget them, research suggests that you can flatten the forgetting curve and retain information for much longer.
 
-
-@bahrick1993maintenance showed that spacing your learning over a longer time is **much** more effective than cramming. 
-They found that when students spaced their revision over 8 weeks, rather than just 2, they could spend _half_ as much time studying and still remember more of the material. Many other studies show the same effect.
-
-
+@bahrick1993maintenance showed that spacing your learning over a longer time is **much** more effective than cramming. They found that when students spaced their revision over 8 weeks, rather than just 2, they could spend *half* as much time studying and still remember more of the material. Many other studies show the same effect.
 
 # How to use spaced repetition
 
@@ -56,7 +48,6 @@ Anki is a free, open-source flashcard app that uses spaced repetition to help yo
 You can create your own flashcards, and Anki schedules a review of the cards at the best possible intervals. The algorithm saves you time, because you will only review material when it has the largest possible benefit to your memory.
 
 ::: instructions
-
 # Instructions
 
 1.  Download Anki to your computer: <https://apps.ankiweb.net>

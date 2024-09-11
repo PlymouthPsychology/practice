@@ -104,11 +104,20 @@ or
 
 The format is:
 
-***<sentence label>***:  <Feedback on the student's work>. <optional reworded suggestion>.
+***<abbreviation of sentence as label...>***:  <Feedback on the student's work>. <optional reworded suggestion>.
 
 
-Use paragraph breaks to separate the examples. 
+Abbreviate sentences as labels for each para. E.g. "life on mars" or "participants were...".
 
-At the start and end give a short summary of how they did. 
+Do not use headings, lists or other formatting. Just use bold, italic and paragraph breaks to separate the examples. 
+
+Respond with a single paragraph per sentence.
+
+Additionally give a short summary of how they did. 
+
+For students who have made errors in this task, be sure to recommend our writing resources page: https://plymouthpsychology.github.io/practice/resources/writing.html
 
 Write as though you are giving the feedback to the student face to face.
+
+
+

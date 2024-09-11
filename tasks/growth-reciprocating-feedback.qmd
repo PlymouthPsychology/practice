@@ -1,0 +1,49 @@
+---
+title: "Reciprocating feedback"
+subtitle: "YYY"
+author: Sean Fallon
+description: "DDD"
+# Week: 99
+Stage: 1
+Release: false
+categories: ["growth", "studying"]
+reading-time: 20 minutes
+# provides a listing of related activities
+listing:
+  contents: "*.qmd"
+  type: default
+  categories: false
+  fields: [title, image]
+  page-size: 3
+  include:
+    extension: true
+    # REMEMBER TO UPDATE THIS FOR THE ACTIVITY - could include multiple categories
+    categories: "{studying,growth}*"
+---
+
+![](../images/DALL·E 2024-09-10 10.22.40 - Areciprocating feedback copy.png){width=60%}
+
+# Overview
+
+\[THE TEXT BELOW COMPRISES THE VIDEO EXPLAINER\]
+
+# Instructions
+
+::: instruction
+### XXX
+
+XXX
+:::
+
+# Recording your work
+
+XXXINSTRUCTION, and upload to Psylab as usual.
+
+[Record your work here](https://pp.llemma.net){.submit-work .btn .btn-primary}
+
+# Extension activities
+
+If you found this task helpful or writing is something you struggle with, consider the following extension activities:
+
+::: {#sample-listings}
+:::

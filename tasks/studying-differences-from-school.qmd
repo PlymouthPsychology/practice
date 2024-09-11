@@ -1,0 +1,48 @@
+---
+title: "Differences between uni and school"
+subtitle: "YYY"
+author: AAA
+description: "DDD"
+Week: 4
+Stage: 1
+categories: studying
+reading-time: 20 minutes
+# provides a listing of related activities
+listing:
+  contents: "*.qmd"
+  type: default
+  categories: false
+  fields: [title, image]
+  page-size: 3
+  include:
+    extension: true
+    # REMEMBER TO UPDATE THIS FOR THE ACTIVITY - could include multiple categories
+    categories: "{studying}*"
+---
+
+![](../images/DALL·E 2024-09-11 09.54.13 - unicomplex.webp){width=40%}
+
+# Overview
+
+XXX
+
+# Instructions
+
+::: instruction
+### XXX
+
+XXX
+:::
+
+# Recording your work
+
+XXXINSTRUCTION, and upload to Psybot as usual.
+
+[Record your work here](https://psybot.llemma.net){.submit-work .btn .btn-primary}
+
+# Extension activities
+
+If you found this task helpful or writing is something you struggle with, consider the following extension activities:
+
+::: {#sample-listings}
+:::

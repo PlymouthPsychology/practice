@@ -3,8 +3,9 @@ title: "Level up your writing"
 subtitle: "Learn to write clearly by correcting errors made by other students."
 author: Jackie Andrade
 description: "Are you ready for university writing? This exercise is designed to help you write clearly through correcting errors made by other students. We have included some common mistakes that make us smile or groan."
-Week: 5
+# Week: 6
 Stage: 1
+Release: false
 categories: writing
 reading-time: 20 minutes
 # provides a listing of related activities
@@ -20,70 +21,64 @@ listing:
     categories: "{Writing}*"
 ---
 
-![](../images/DALL·E 2024-07-16 10.34.06 - A scientific scene on Mars with evidence of porcine life, such as pigs walking around the Martian landscape. The setting should look like a futuristic.webp)
+![](../images/DALL·E%202024-07-16%2010.34.06%20-%20A%20scientific%20scene%20on%20Mars%20with%20evidence%20of%20porcine%20life,%20such%20as%20pigs%20walking%20around%20the%20Martian%20landscape.%20The%20setting%20should%20look%20like%20a%20futuristic.webp)
 
 > You have got to university so you are probably pretty good at writing already, but sometimes focusing on new psychology content can distract you from the basics. This exercise is designed to help you write clearly by correcting errors made by other students. We have included some common mistakes that make us smile or groan.
 
-
-
 # Overview
 
-[THE TEXT BELOW COMPRISES THE VIDEO EXPLAINER]
+\[THE TEXT BELOW COMPRISES THE VIDEO EXPLAINER\]
 
-You have got to university so you are probably pretty good at writing already, but sometimes focusing on new psychology content can distract you from the basics of grammar. It’s upsetting when a student has clearly done lots of research but written it up poorly. I’m often thinking ‘I can guess what they wanted to say but they haven’t actually said it so I can’t give them the marks’. 
+You have got to university so you are probably pretty good at writing already, but sometimes focusing on new psychology content can distract you from the basics of grammar. It’s upsetting when a student has clearly done lots of research but written it up poorly. I’m often thinking ‘I can guess what they wanted to say but they haven’t actually said it so I can’t give them the marks’.
 
 Hear what some of my colleagues think about writing:
 
-Ben Whalley: "I always feel a little sad when I start reading and essay and see a student who struggles with their writing… on one hand, I want to be able give them the benefit of the doubt and give them credit for the learning they have done. But on the other I know that someone who writes poorly is often hard to distinguish from someone who hasn’t quite grasped the ideas or has mixed them up." 
+Ben Whalley: "I always feel a little sad when I start reading and essay and see a student who struggles with their writing… on one hand, I want to be able give them the benefit of the doubt and give them credit for the learning they have done. But on the other I know that someone who writes poorly is often hard to distinguish from someone who hasn’t quite grasped the ideas or has mixed them up."
 
-SOMEONE ESLE: “when I’m tired at the end of a long stack of essays it’s hard not to interpret spelling mistakes and grammar errors as a lack of effort… they are so easily caught using Word’s grammar checker or online tools like chatgpt or grammarly that I never quite understand how they slip though”. 
+SOMEONE ESLE: “when I’m tired at the end of a long stack of essays it’s hard not to interpret spelling mistakes and grammar errors as a lack of effort… they are so easily caught using Word’s grammar checker or online tools like chatgpt or grammarly that I never quite understand how they slip though”.
 
 ANOD OTNER: “If someone’s applying for a job with me then they must be able to write clearly. If I have to check what they have written and correct it, that’s extra work for me”.
 
 I want you to write clearly and concisely so you can really show off the work that you are going to put into your essays and reports. This task will help you avoid some common mistakes and signpost the different sources of help for improving your writing as you progress through the course.
 
-
-
 # Instructions
 
+::: instruction
+### Marking students’ work
 
-:::{.instruction}
-
-### Marking students’ work 
-
-
-The sentences below include common mistakes from students’ coursework. Can you explain what the problem with the sentence is and write a correct version that fixes it? 
+The sentences below include common mistakes from students’ coursework. Can you explain what the problem with the sentence is and write a correct version that fixes it?
 
 We have done the first one for you. Copy and paste the text below into a document, fill in the blanks, then upload it for feedback from psybot.
-
 :::
-
 
 <br><br><br><br>
 
+This is an example of an ambiguous sentence that needs to be re-written:
 
-First example:
+> 1.  The researchers found evidence of life on Mars, they also found pigs on Jupiter.
 
-> 1.	The researchers found evidence of life on Mars, they also found pigs on Jupiter. 
+The problem: The sentence is missing a full stop to separate two different ideas.
 
-> **Problem**: The sentence is missing a full stop to separate two different ideas.
+Re-written version:
 
-> **Re-written**: The researchers found evidence of life on Mars. They also found pigs on Jupiter.
+> The researchers found evidence of life on Mars. They also found pigs on Jupiter.
 
+### Additional examples to complete for yourself
 
+<button id="copy-button" class="float-end btn btn-sm btn-success">
 
+Copy the examples
 
-Additional examples to complete for yourself...
+</button>
 
-<button id="copy-button" class="float-end btn btn-sm btn-success">Copy Text</button>
-
+```{=html}
 <style>
 .copybox {
   margin-left:2em;
   width: 90% !important;
   font-size:.6em;
   white-space: pre-wrap; 
-  height:15em; 
+  height:25em; 
   overflow: scroll;
   line-height:.7em;
   font-family: mono;
@@ -95,83 +90,58 @@ Additional examples to complete for yourself...
 
 
 </style>
+```
+::: {.copybox .verbatim}
+2.  Each child was seated at a table on which there was a display of ten faces.
 
+Problem: \< what is the problem with this sentence? \>
 
+Re-written: \< your corrected version here \>
 
-:::{.copybox .verbatim}
-
-
-2.	Each child was seated at a table on which there was a display of ten faces.
-
-Problem: < what is the problem with this sentence? >
-
-Re-written: < your corrected version here >
-
-
-
-
-3.	The results for both experiments showed that hedgehogs scored 77% and wombats scored 62%.
+3.  The results for both experiments showed that hedgehogs scored 77% and wombats scored 62%.
 
 Problem: ?
 
-Re-written:  < your corrected version here >
+Re-written: \< your corrected version here \>
 
-
-
-
-4.	Seventy marmosets partook in the study. 
+4.  Seventy marmosets partook in the study.
 
 Problem:
 
 Re-written:
 
-
-
-5.	The participants were half male and half female. 
+5.  The participants were half male and half female.
 
 Problem:
 
 Re-written:
 
-
-
-6.	There was no affect of rain on mood. However, mood was effected by videos of kittens. 
+6.  There was no affect of rain on mood. However, mood was effected by videos of kittens.
 
 Problem:
 
 Re-written:
 
-
-
-
-7.	The results of this experiment showed that children in the sweets and caffeine condition performed better than children in the lettuce and broccoli condition. 
+7.  The results of this experiment showed that children in the sweets and caffeine condition performed better than children in the lettuce and broccoli condition.
 
 Problem:
 
 Re-written:
 
-
-
-
-8.	A total of 71 people were used in this study. 
+8.  A total of 71 people were used in this study.
 
 Problem:
 
 Re-written:
 
-
-
-
-9.	Questionnaires were completed by four participants. 
+9.  Questionnaires were completed by four participants.
 
 Problem:
 
 Re-written:
-
-
 :::
 
-
+```{=html}
 <script>
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -202,17 +172,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 </script>
-
-
-
+```
 # Recording your work
 
-Just copy the sentences above, make your edits, and upload to Psylab as usual. 
-
+Just copy the sentences above, make your edits, and upload to Psylab as usual.
 
 [Record your work here](https://pp.llemma.net){.submit-work .btn .btn-primary}
-
-
 
 # Extension activities
 
