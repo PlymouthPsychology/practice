@@ -66,14 +66,14 @@ The main results of this study were presented in a graph, shown below (Fig. 1). 
 
 ::: instruction
 
-1. Summarise the text and figure in your own words. Be concise: no more than 50 words. 
+1. Summarise the text and the result shown in the figure in your own words. Be concise: no more than 50 words. 
 
 2. Reflect on what the study tells us, and how it might influence what you do in lectures.
 
 
 ##### Summarising
 
-A good strategy for summarising is:
+A good strategy for summarising:
 
 First, copy and paste the section above into a new document
 
@@ -109,6 +109,9 @@ IMPORTANT: There may not be a simple 'right' answer to these questions. The goal
 
 Example answers:
 
+
+This one written by me:
+
 Summary: University students watched a TED Talk and were randomly assigned to take notes using either laptops or longhand. After the talk, their knowledge was tested. Performance on factual-recall questions was similar across methods, but laptop users did worse on conceptual-application questions.
 
 Reflection: The study seems like quite good evidence that making notes longhand might be helpful — at least for understanding the content in lectures. A TED talk isn’t the same as a lecture, but it’s similar enough to be an interesting test. It might be that using a laptop is helpful in other ways though — I like to use a computer to keep my notes organised, so it might be less efficient for me to write out notes longhand and then type them up later. And if I didn't spend that extra time then I might lose information and do worse in exams that were many months later.
@@ -126,6 +129,30 @@ Other things students might reflect on:
 - poor handwriting skills and how that might affect note-taking
 - variety between lecturers — some include lots of factual materials so might suit laptop method
 - physical strain of hand writing (or impact of disability)
+
+
+
+
+These onces ChatGPT simulated:
+
+Summary:
+
+Mueller and Oppenheimer (2014) conducted a study comparing the effectiveness of handwritten versus laptop note-taking. Participants watched TED Talks and were tested on both factual and conceptual recall. The study found that students who took longhand notes performed better on conceptual questions, suggesting that handwritten notes encourage deeper processing of information.
+
+Reflection:
+
+The study’s findings suggest that handwritten notes may lead to better understanding and retention of complex ideas, as they require more mental effort to process information. This evidence encourages me to reconsider my note-taking strategy. While laptops are convenient, I might switch to handwritten notes for lectures to improve my conceptual learning. However, it’s important to consider that every student learns differently, and this study may not reflect everyone’s experience. Additionally, in fast-paced lectures, laptops might still be more efficient for capturing large amounts of information. Therefore, a mixed approach could be more practical.
+
+
+
+Summary:
+
+The study by Mueller and Oppenheimer (2014) looked at how people take notes. It compared laptops and handwriting. They watched videos and answered questions. People who wrote notes by hand did better at answering harder questions. Writing notes on paper might be better.
+
+Reflection:
+
+I think this shows that writing notes is better than typing. I usually use my laptop because it’s faster, but maybe I should write instead. But I’m not sure if it will help me because I can’t write fast enough to keep up in class. So, it might not work for me, but the study says it’s good. I don’t know if it’s right for everyone.
+
 
 
 
