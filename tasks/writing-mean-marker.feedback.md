@@ -1,31 +1,9 @@
----
 title: "Think like a mean marker"
 subtitle: "Remove distractions from your writing."
 author: Jackie Andrade
 description: "This task helps you think more about the person who is reading your work. You will practice thinking like a very cynical marker and discover how unnecessary phrases or poorly worded sentences can distract from the point the writer is making."
-Week: 9
-Stage: 1
-Release: true
-categories: writing
-reading-time: 20 minutes
-# provides a listing of related activities
-listing:
-  contents: "*.qmd"
-  type: default
-  categories: false
-  fields: [title, image]
-  page-size: 3
-  include:
-    extension: true
-    # REMEMBER TO UPDATE THIS FOR THE ACTIVITY - could include multiple categories
-    categories: "{Writing}*"
----
-
-![](../images/DALL·E%202024-09-06%2011.57.52%20-%20A%20terrifying,%20female%20professor%20sitting%20at%20a%20cluttered%20desk,%20with%20an%20Edgar%20Allan%20Poe-inspired%20gothic%20atmosphere.%20The%20professor%20has%20sharp,%20intense%20featu.webp)
 
 We love clear, concise writing, like you practiced in the first Writing exercise. In this exercise, we want you to get inside the head of the meanest marker you can imagine. This marker has already marked a big stack of coursework. They are tired and grumpy. They have just picked up an essay that contains some of their pet hates. We’d like you to have some fun expressing their frustration. We would like you to act as a super-critical marker – Professor Perfect - and insert your thoughts about the writing. Professor Snippy has provided an example.
-
-
 
 This is the writing that Prof Snippy is marking:
 
@@ -45,7 +23,7 @@ In this activity, you will practice thinking like a mean marker.
 
 # Instructions
 
-:::{.instruction}
+
 
 This is the writing that Professor Perfect (that’s you!) is marking. 
 
@@ -60,56 +38,38 @@ An amazingly vast array of research (__________) has found affects (__________) 
 3. If you have time, you could also create an edited and improved version of this paragraph.
 
 
-:::
+
+# GIVING FEEDBACK
 
 
-# Recording your work
+# EXAMPLE OF A GOOD ANSWER
 
-[Upload your work to Psybot](https://psybot.llemma.net){.submit-work .btn .btn-primary}
+<<this is the sort of thing the student might have done. you can use this in your feedback to them to make suggestions to improve>>
 
-
-<!-- # Extension activities -->
-
-<!-- If you found this task helpful or writing is something you struggle with, consider the following extension activities: -->
-
-<!-- ::: {#sample-listings} -->
-<!-- ::: -->
+An amazingly vast array of research \[***Oh really? ‘Amazingly vast’? What does that even mean? Just say "a lot" if you're not going to be specific...***\] has found affects \[***It’s "effects" not "affects." Grammar, please!***\] of smoking on health (Pickle, 1990) \[***Pickle, 1990? One single study and we’re calling this a vast array?***\]. One study found that as many as 50% of all smokers die \[***50% of smokers die? Wow, how insightful. Care to elaborate? Of course, 100% of people die eventually!***\] . Another study tested if quitting smoking reduced death rates but unfortunately its results were insignificant \[***So we’re just leaving it at "insignificant"? How about telling us what "insignificant" means here? Statistical insignificance? Clinically irrelevant? Lazy writing.***\]. Some research has looked into genetic factors associated with smoking death rates \[***Some research? Be specific! Who did this research? When? How important are these factors?***\] . We looked for research into gender differences and smokers’ health but there was none, therefore there is a gap in the literature \[***None? Are you sure there’s NO research? You’re saying this like no one ever thought to look at gender and health before. Very doubtful...***\] and further research is needed on this fascinating topic \[***Oh, come on. "Fascinating topic"? This is such a cliché! Of course, research is always needed. Just say something meaningful instead of filling space.***\].
 
 
 
 
+<< this is an example of an edited and improved version>>
+
+Numerous studies have examined the effects of smoking on health (Pickle, 1990). One study suggested that up to 50% of smokers may eventually die from smoking-related causes, though further context is required. Another study aimed to determine whether quitting smoking could reduce mortality rates but found no statistically significant results. Research has also explored the genetic factors influencing smoking-related mortality. While we sought literature on gender differences in smoking-related health outcomes, there appears to be limited research in this area, highlighting a potential gap that warrants further investigation.
 
 
 
+# STUDENT WORK
 
+The student has attempted this task below:
 
+{source}
 
+# YOUR TASK
 
+Give the student feedback on the comments they added to the paragraph, or the 
+revised and updated version.
 
+Make sure they are sarcastic enough! the task is supposed to be fun, but by being mean they show they can be critical of the original writing and think like a tired marker might...
 
-<!--
+However, always be kind in the feedback you give. Don't confuse the task (they must be sarcastic) with your feedback ( you must be supportive)
 
-
-ID RPOMPT
-
-Students will have added comments into a paragraph on research on the effects of smoking on health, plus gender and genetic differences. They may be sarcastic and mean. 
-
-
-
-WEAKER EXAMPLES
-
-
-
-> An amazingly vast array of research (***Hmm, I think this means there’s a lot of research, but I'm not sure if "amazingly vast" is the right word... maybe too much?***) has found affects (***Wait, is "affects" the right word? Or is it "effects"? I always mix these up.***) of smoking on health (Pickle, 1990) (***I’m not sure if I’m allowed to just mention one study here. Should I find more?***). One study found that as many as 50% of all smokers die (***This number seems high. Should I explain more? I don’t know where this comes from.***) . Another study tested if quitting smoking reduced death rates but unfortunately its results were insignificant (***I’m not sure what "insignificant" means here. Does it mean it didn’t work? I should explain.***) . Some research has looked into genetic factors associated with smoking death rates (***I wish I knew which research this was. I probably should name it?***) . We looked for research into gender differences and smokers’ health but there was none, therefore there is a gap in the literature (***I feel like there might be some research, but I couldn’t find it. Maybe I should have checked more places...***) and further research is needed on this fascinating topic (***This sounds a bit too strong. I don’t know if "fascinating" is the right word to use. Maybe I should tone it down.***).
-
-
-> A lot of research (Pickle, 1990) has looked into the effects of smoking on health. One study found that 50% of smokers might die from smoking-related causes. Another study tried to see if quitting smoking would reduce death rates, but it didn’t find anything meaningful. Some research has explored genetic factors that affect smoking death rates. While I looked for studies on gender differences in smoking, I couldn’t find much information, suggesting that more research might be needed in this area.
-
-
-
-
-
-
-
-
--->
+Be brief: give feedback in 1 short paragraph. Be positive and encouraging, but use the examples given above as a reference to make suggestions.

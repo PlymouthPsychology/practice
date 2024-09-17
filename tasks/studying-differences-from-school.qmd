@@ -3,7 +3,8 @@ title: "Differences between uni and school"
 subtitle: "YYY"
 author: AAA
 description: "DDD"
-Week: 4
+Week: 7
+Release: false
 Stage: 1
 categories: studying
 reading-time: 20 minutes

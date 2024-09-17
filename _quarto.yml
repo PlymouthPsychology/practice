@@ -46,12 +46,12 @@ website:
             text: Speaking
           - href: theme-growth.qmd
             text: Growth
-          - href: extensions.qmd
-            text: Extension activities
+          # - href: extensions.qmd
+          #   text: Extension activities
       
-      - section: "Staff"
-        contents:
-          - href: staff-notes.qmd
+      # - section: "Staff"
+      #   contents:
+      #     - href: staff-notes.qmd
             
           
 format:

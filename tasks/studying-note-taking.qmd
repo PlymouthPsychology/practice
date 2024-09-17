@@ -21,48 +21,163 @@ listing:
 
 ![](../images/DALL·E%202024-06-14%2014.08.02%20-%20A%20student%20sits%20at%20a%20desk%20in%20a%20modern%20classroom,%20attentively%20taking%20notes.%20The%20desk%20has%20a%20notebook%20open,%20filled%20with%20colorful%20and%20organized%20notes,%20incl.webp){width="50%"}
 
-A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE
-
 # Overview
 
-How to make notes on lectures (common strategies and evidence). Preparation (re-read course notes), understanding not transcribing, active participation (ask and note questions, even if just in your head); conceptualise, summarise. Review and reduce notes later. Activity: Practice the Cornell note-taking method on a single lecture and submit it to Psylab.
+This activity will introduce you to the **Cornell Note-Taking Method**, a powerful tool for organizing and reviewing your notes effectively. You'll be guided through how to use the method, apply it in a lecture, and reflect on the experience.
 
-The overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.
+### Overview of the Cornell Note-Taking Method
 
--   What is the thing to be practices
--   Why is it important
-    -   In the degreee
-    -   In mant professional careers/life
--   What are the key ideas/concepts?
--   What evidence is there that this specific practice is helpful?
--   If possible, give a brief example of the thing in action.
+The Cornell Method divides your note page into three main sections:
+
+1.  **Note-taking area** (on the right side): During the lecture, use this large section to take detailed notes as you normally would. Write down key points, facts, and anything that stands out.
+
+2.  **Cue column** (on the left side): After the lecture, write down questions, keywords, or cues based on your notes. This helps to summarize and organize the main ideas.
+
+3.  **Summary section** (at the bottom): Write a brief summary of the lecture's key points. This helps consolidate the material and makes it easier to review later.
+
+Here's a visual breakdown of the Cornell method:
+
+
+![](../images/cornell.png)
+
+
+
+## How to use Cornell note-taking
+
+If this is your first time using the Cornell Method, don't worry! Follow these steps carefully during and after the lecture to get the most out of this new note-taking technique.
+
+
+#### Before the Lecture:
+
+Prepare your paper or digital template:
+
+- Print the Cornell Note-Taking Template or [open it digitally](cornell.dotm).
+
+- Notice the page is divided into the three key sections (if using blank paper):
+  - Note-taking area (Right, about 70% of the page)
+  - Cue column (Left, about 30% of the page)
+  - Summary section (Bottom, 2-3 lines across the whole width)
+
+
+#### During the Lecture:
+
+Take notes in the Note-taking area:
+
+- Write down the main points, key concepts, and important facts.
+- Use bullet points, shorthand, or whatever style you are comfortable with to capture the information.
+- Don't worry about organizing or filtering the information just yet—this section is for capturing the lecture as it happens.
+
+
+
+#### After the Lecture
+
+*Complete the Cue column*:
+
+- Review your notes and identify the main themes, ideas, or questions that emerge from the lecture.
+- Write down keywords, questions, or prompts in the left column that will help you recall the material when reviewing later.
+- For example, if your note says "Photosynthesis process," your cue could be “How does photosynthesis work?”
+
+
+*Write a Summary*: In the summary section at the bottom, condense the entire lecture into 1-2 sentences. This forces you to distill the most important ideas and creates a quick reference for future studying.
+
+
+### Top Tip
+
+*Review your notes soon after the lecture.*
+
+This method is especially powerful when you actively revisit your notes, use the cues to test yourself, and summarize regularly. 
+
 
 # Instructions
 
-Instructions should be as brief as possible.
 
-Ideally there will be a
+:::{.instruction}
 
-1.  Numbered list
-2.  Of steps to follow
-3.  That is not too long
+#### Get setup 
+
+- [Download the Word Template here (cornell.dotm)](cornell.dotm)
+
+- Print the template or set yourself up to use it digitally on your tablet or laptop.
+
+
+#### Use the Method in a Lecture
+
+- Choose at least one of your lectures this week to try out the Cornell method.
+
+
+#### Reflect on the Experience:
+
+After the lecture, write a brief reflection answering some of these questions:
+
+- How was your experience using this method compared to your usual note-taking?
+- Did dividing the page help you organize your thoughts better?
+- Do you think this method will help you in the future? Why or why not?
+- Would you make any changes to how you take notes using this method?
+- Could you see yourself using this method regularly, or would it need adjustments to work for you?
+
+:::
+
 
 # Recording your work
 
-Record your work on Psylab as usual.
 
-```{=html}
-<!-- Students will know that they can and should record their 
 
-Additional notes here might emphasise a particular format, or prompt them to ask their tutor specific questions in office hours, or things to look out for in later progress meetings.
+:::{.instruction}
+
+Upload your reflection to Psybot for feedback and extra suggestions.
+
+[Record your reflection with Psybot](XXX){.submit-work .btn .btn-primary}
+
+:::
+
+
+<!-- 
+
+EXAMPLE REFLECTIONS SIMUATED BY CHATGPT
+
+Using the Cornell Note-Taking Method was quite different from my usual approach. Normally, I just write everything down as it comes without much organization, but the Cornell method helped me structure my notes better. Dividing the page made it easier to spot key concepts and focus on what was most important. I especially found the cue column useful because it forced me to think about the material in a different way and identify questions I might not have considered otherwise. The summary at the bottom was helpful too—it gave me a quick way to review the whole lecture in just a few sentences. I think this method could be useful for me, but it might take some practice to do it more quickly in a fast-paced lecture. I could see myself using this method regularly, especially for more concept-heavy subjects.
+
+
+Using the Cornell Note-Taking Method was new for me. I usually just write everything down, but with this method, I had to split the page into sections. The cue column was a bit hard to do because I'm not used to thinking about questions while taking notes. Writing the summary was okay, and it helped me remember what the lecture was about. I think this method might help me, but it felt a bit slow, and I'm not sure I could keep up in a fast lecture. I might try it again, but I need more practice to get used to it.
+
+
+I tried the Cornell Note-Taking Method, but I didn't really find it useful. Splitting the page into sections didn't help me, and I prefer just writing everything down in one go. The cue column and summary didn't make a difference for me because I don't usually review my notes that way. I think I'll stick to my usual method because this one took more time, and I didn't see much benefit from it.
+
+
+
+MORE INSTRUCTIONS FOR CHATGPT WHEN EVALUATING THEIR REFLECTIONS
+
+
+It's important to guide students' reflection process so they can gain more insight from their experiences. Here are some suggestions we could offer for them to reflect on in the future, particularly after trying out new methods or strategies:
+
+Clarity on what didn't work:
+Why didn't the method feel useful? Was it difficult to follow, confusing, or time-consuming?
+Which part of the method was most challenging (cue column, summary section, etc.)? Why do you think that was?
+Benefits and drawbacks:
+Did the method help in organizing information, even if it didn't feel comfortable? Could it be useful in certain types of lectures (e.g., concept-heavy lectures)?
+Did they feel more engaged or less distracted compared to their usual note-taking method?
+Adaptability:
+Could the method be adjusted to suit their learning style better? For example, could they use fewer cues or take more time to complete the summary later?
+Is there a way to make the method quicker or more comfortable in a fast-paced lecture?
+Long-term benefits:
+Could this method help them in revising or reviewing their notes later, even if it feels slow during the lecture?
+Did they notice if the Cornell method made it easier to recall or understand the material after the lecture?
+Comparing with current method:
+What are the specific reasons they prefer their usual note-taking method? Is it simply because they are more used to it, or does it actually help them learn better?
+How does their current method help them when reviewing or preparing for exams? Could they integrate some elements of the Cornell method to improve their existing approach?
+Self-awareness:
+Did they feel more or less confident in understanding the material after using the Cornell method?
+What part of the learning process (listening, writing, reviewing) do they struggle with the most, and could this method help with that?
+Encouraging students to think more deeply about these aspects can help them better understand why a method may or may not work for them and what adjustments they might need to make.
+
+
 
 -->
-```
-[Record your work here](XXX){.submit-work .btn .btn-primary}
 
-# Extension activitie s
 
-If you found this task helpful or XXX is something you struggle with, consider the following extension activities:
 
-::: {#sample-listings}
-:::
+
+# Extension activities
+
+For a more detailed guide to the method, see: [Saran, Gober and McCarty (2022)](https://journals.sagepub.com/doi/full/10.1177/01455613221146457)
+

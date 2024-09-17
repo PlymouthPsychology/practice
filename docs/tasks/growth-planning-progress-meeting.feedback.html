@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Ben Whalley">
-<meta name="description" content="Making notes in lectures and workshops is a key skill for university students. This activity will help you to make the most of your notes, and ensure they are useful when you come to revise.">
 
-<title>Briefing, Practice &amp; Progress - Make great notes</title>
+<title>Briefing, Practice &amp; Progress</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -72,65 +68,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-image"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -179,7 +117,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Make great notes</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -314,208 +252,95 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a>
-  <ul class="collapse">
-  <li><a href="#overview-of-the-cornell-note-taking-method" id="toc-overview-of-the-cornell-note-taking-method" class="nav-link" data-scroll-target="#overview-of-the-cornell-note-taking-method">Overview of the Cornell Note-Taking Method</a></li>
-  <li><a href="#how-to-use-cornell-note-taking" id="toc-how-to-use-cornell-note-taking" class="nav-link" data-scroll-target="#how-to-use-cornell-note-taking">How to use Cornell note-taking</a>
-  <ul class="collapse">
-  <li><a href="#top-tip" id="toc-top-tip" class="nav-link" data-scroll-target="#top-tip">Top Tip</a></li>
-  </ul></li>
-  </ul></li>
-  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a></li>
-  <li><a href="#recording-your-work" id="toc-recording-your-work" class="nav-link" data-scroll-target="#recording-your-work">Recording your work</a></li>
-  <li><a href="#extension-activities" id="toc-extension-activities" class="nav-link" data-scroll-target="#extension-activities">Extension activities</a></li>
+  <li><a href="#what-to-look-for" id="toc-what-to-look-for" class="nav-link active" data-scroll-target="#what-to-look-for"><strong>What to Look For:</strong></a></li>
+  <li><a href="#how-to-write-the-feedback" id="toc-how-to-write-the-feedback" class="nav-link" data-scroll-target="#how-to-write-the-feedback"><strong>How to Write the Feedback:</strong></a></li>
+  <li><a href="#example-feedback" id="toc-example-feedback" class="nav-link" data-scroll-target="#example-feedback"><strong>Example Feedback:</strong></a></li>
+  <li><a href="#students-agenda" id="toc-students-agenda" class="nav-link" data-scroll-target="#students-agenda">STUDENTS AGENDA</a></li>
+  <li><a href="#your-task" id="toc-your-task" class="nav-link" data-scroll-target="#your-task">Your task</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Make great notes</h1>
-<p class="subtitle lead">How to make the most of lectures and workshops.</p>
-  <div class="quarto-categories">
-    <div class="quarto-category">Studying</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    Making notes in lectures and workshops is a key skill for university students. This activity will help you to make the most of your notes, and ensure they are useful when you come to revise.
-  </div>
-</div>
 
 
-<div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Ben Whalley </p>
-          </div>
-  </div>
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p><img src="../images/DALL·E 2024-06-14 14.08.02 - A student sits at a desk in a modern classroom, attentively taking notes. The desk has a notebook open, filled with colorful and organized notes, incl.webp" class="img-fluid" style="width:50.0%"></p>
-<section id="overview" class="level1">
-<h1>Overview</h1>
-<p>This activity will introduce you to the&nbsp;<strong>Cornell Note-Taking Method</strong>, a powerful tool for organizing and reviewing your notes effectively. You’ll be guided through how to use the method, apply it in a lecture, and reflect on the experience.</p>
-<section id="overview-of-the-cornell-note-taking-method" class="level3">
-<h3 class="anchored" data-anchor-id="overview-of-the-cornell-note-taking-method">Overview of the Cornell Note-Taking Method</h3>
-<p>The Cornell Method divides your note page into three main sections:</p>
+<p>ID INSTRUCTIONS</p>
+<p>The student is required to create an agenda outlining key topics they wish to discuss during a progress meeting with their tutor. Their submission will include specific areas where they need guidance, such as study techniques, understanding course material, or preparing for assessments. The agenda will typically be a mix of personal reflections on their learning challenges and questions seeking advice or clarification from their tutor.</p>
+<p>FEEDBACK INSTRUCTIONS</p>
+<p>As part of the student’s progress, they have been asked to create an agenda for their upcoming progress meeting. Your role is to review this agenda, provide feedback to help them clarify their goals, and guide them towards proactive steps for improvement. The aim is to support the student in taking ownership of their learning and addressing any challenges they may be facing.</p>
+<p>Here are instructions for a new university tutor on how to review and give feedback on a student’s agenda for a progress meeting:</p>
+<hr>
+<section id="what-to-look-for" class="level3">
+<h3 class="anchored" data-anchor-id="what-to-look-for"><strong>What to Look For:</strong></h3>
 <ol type="1">
-<li><p><strong>Note-taking area</strong>&nbsp;(on the right side): During the lecture, use this large section to take detailed notes as you normally would. Write down key points, facts, and anything that stands out.</p></li>
-<li><p><strong>Cue column</strong>&nbsp;(on the left side): After the lecture, write down questions, keywords, or cues based on your notes. This helps to summarize and organize the main ideas.</p></li>
-<li><p><strong>Summary section</strong>&nbsp;(at the bottom): Write a brief summary of the lecture’s key points. This helps consolidate the material and makes it easier to review later.</p></li>
-</ol>
-<p>Here’s a visual breakdown of the Cornell method:</p>
-<p><img src="../images/cornell.png" class="img-fluid"></p>
-</section>
-<section id="how-to-use-cornell-note-taking" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-use-cornell-note-taking">How to use Cornell note-taking</h2>
-<p>If this is your first time using the Cornell Method, don’t worry! Follow these steps carefully during and after the lecture to get the most out of this new note-taking technique.</p>
-<section id="before-the-lecture" class="level4">
-<h4 class="anchored" data-anchor-id="before-the-lecture">Before the Lecture:</h4>
-<p>Prepare your paper or digital template:</p>
+<li><strong>Clarity and Focus:</strong>
 <ul>
-<li><p>Print the Cornell Note-Taking Template or <a href="cornell.dotm">open it digitally</a>.</p></li>
-<li><p>Notice the page is divided into the three key sections (if using blank paper):</p>
-<ul>
-<li>Note-taking area (Right, about 70% of the page)</li>
-<li>Cue column (Left, about 30% of the page)</li>
-<li>Summary section (Bottom, 2-3 lines across the whole width)</li>
+<li>Check if the agenda items are clearly stated and specific. Vague or overly broad topics may need clarification. For example, instead of “I’m confused about the course,” it’s more useful to focus on specific challenges like “struggling with statistics concepts” or “managing my time better.”</li>
+<li>Ensure that the student has identified areas they want to discuss in relation to their learning, progress, or challenges.</li>
 </ul></li>
-</ul>
-</section>
-<section id="during-the-lecture" class="level4">
-<h4 class="anchored" data-anchor-id="during-the-lecture">During the Lecture:</h4>
-<p>Take notes in the Note-taking area:</p>
+<li><strong>Relevance to Academic Progress:</strong>
 <ul>
-<li>Write down the main points, key concepts, and important facts.</li>
-<li>Use bullet points, shorthand, or whatever style you are comfortable with to capture the information.</li>
-<li>Don’t worry about organizing or filtering the information just yet—this section is for capturing the lecture as it happens.</li>
-</ul>
-</section>
-<section id="after-the-lecture" class="level4">
-<h4 class="anchored" data-anchor-id="after-the-lecture">After the Lecture</h4>
-<p><em>Complete the Cue column</em>:</p>
+<li>Make sure the agenda covers important aspects of the student’s learning experience, such as study habits, understanding of course material, feedback on assignments, and preparation for assessments.</li>
+<li>Look for a balance between academic challenges and broader concerns like career planning or use of university resources.</li>
+</ul></li>
+<li><strong>Proactive Problem-Solving:</strong>
 <ul>
-<li>Review your notes and identify the main themes, ideas, or questions that emerge from the lecture.</li>
-<li>Write down keywords, questions, or prompts in the left column that will help you recall the material when reviewing later.</li>
-<li>For example, if your note says “Photosynthesis process,” your cue could be “How does photosynthesis work?”</li>
-</ul>
-<p><em>Write a Summary</em>: In the summary section at the bottom, condense the entire lecture into 1-2 sentences. This forces you to distill the most important ideas and creates a quick reference for future studying.</p>
-</section>
-<section id="top-tip" class="level3">
-<h3 class="anchored" data-anchor-id="top-tip">Top Tip</h3>
-<p><em>Review your notes soon after the lecture.</em></p>
-<p>This method is especially powerful when you actively revisit your notes, use the cues to test yourself, and summarize regularly.</p>
-</section>
-</section>
-</section>
-<section id="instructions" class="level1">
-<h1>Instructions</h1>
-<div class="instruction">
-<section id="get-setup" class="level4">
-<h4 class="anchored" data-anchor-id="get-setup">Get setup</h4>
+<li>See if the student is trying to address challenges proactively. Are they asking for advice on how to improve in specific areas (e.g., “How can I better organize my time?”) rather than simply expressing confusion?</li>
+<li>It’s a good sign if the student is showing initiative by asking how they can make improvements, rather than waiting for solutions to be given to them.</li>
+</ul></li>
+<li><strong>Use of Resources:</strong>
 <ul>
-<li><p><a href="cornell.dotm">Download the Word Template here (cornell.dotm)</a></p></li>
-<li><p>Print the template or set yourself up to use it digitally on your tablet or laptop.</p></li>
-</ul>
+<li>Check if the student is aware of and willing to use university resources (e.g., study support services, office hours, peer groups). If they don’t mention this, it may be worth suggesting that they look into those options.</li>
+</ul></li>
+</ol>
+<hr>
 </section>
-<section id="use-the-method-in-a-lecture" class="level4">
-<h4 class="anchored" data-anchor-id="use-the-method-in-a-lecture">Use the Method in a Lecture</h4>
+<section id="how-to-write-the-feedback" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-write-the-feedback"><strong>How to Write the Feedback:</strong></h3>
+<ol type="1">
+<li><strong>Start with Encouragement:</strong>
 <ul>
-<li>Choose at least one of your lectures this week to try out the Cornell method.</li>
-</ul>
-</section>
-<section id="reflect-on-the-experience" class="level4">
-<h4 class="anchored" data-anchor-id="reflect-on-the-experience">Reflect on the Experience:</h4>
-<p>After the lecture, write a brief reflection answering some of these questions:</p>
+<li>Begin with positive reinforcement. Highlight any parts of the agenda that show the student is being thoughtful or reflective about their learning. For example, you might say, “It’s great that you’ve already identified the areas you’re struggling with, like managing time and understanding statistics. Recognizing these challenges is a big first step!”</li>
+</ul></li>
+<li><strong>Offer Constructive Guidance:</strong>
 <ul>
-<li>How was your experience using this method compared to your usual note-taking?</li>
-<li>Did dividing the page help you organize your thoughts better?</li>
-<li>Do you think this method will help you in the future? Why or why not?</li>
-<li>Would you make any changes to how you take notes using this method?</li>
-<li>Could you see yourself using this method regularly, or would it need adjustments to work for you?</li>
-</ul>
+<li>For any vague or unfocused points, provide gentle suggestions on how to clarify or make them more actionable. For example: “You mentioned that you’re unsure how to approach the readings. It might help to identify specific chapters or topics that you find confusing and we can discuss strategies for tackling them.”</li>
+</ul></li>
+<li><strong>Provide Practical Solutions:</strong>
+<ul>
+<li>Suggest concrete steps they can take to address their concerns. If they’ve written about struggling with essay writing, offer advice like: “In our meeting, we can look at some specific examples from your essay and discuss how to develop a stronger argument. We’ll also talk about structuring your next assignment more effectively.”</li>
+</ul></li>
+<li><strong>Encourage Proactive Learning:</strong>
+<ul>
+<li>Encourage the student to take responsibility for their own learning by asking follow-up questions or suggesting further actions. For example: “You’re right to start thinking about how to prepare for the upcoming exams. It might be helpful to create a revision schedule—we can discuss how to organize one during our meeting.”</li>
+</ul></li>
+<li><strong>Keep the Tone Supportive:</strong>
+<ul>
+<li>Be understanding and supportive, especially if the student seems unsure or overwhelmed. Avoid being too critical. For instance: “It’s completely normal to feel a bit lost at this stage of your first year, and we can work together to get you on the right track.”</li>
+</ul></li>
+</ol>
+<p>Always remember that the student must send this to their tutor and fellow tutee before the meeting, and should keep good notes of the meeting and circulate these afterwards.</p>
+<hr>
 </section>
-</div>
+<section id="example-feedback" class="level3">
+<h3 class="anchored" data-anchor-id="example-feedback"><strong>Example Feedback:</strong></h3>
+<p>Thank you for sharing your agenda for our upcoming meeting. It’s great to see that you’ve identified […], especially with […]. For […], it might be helpful if we look at […]. I might suggest […].</p>
 </section>
-<section id="recording-your-work" class="level1">
-<h1>Recording your work</h1>
-<div class="instruction">
-<p>Upload your reflection to Psybot for feedback and extra suggestions.</p>
-<p><a href="XXX" class="submit-work btn btn-primary">Record your reflection with Psybot</a></p>
-</div>
-<!-- 
-
-EXAMPLE REFLECTIONS SIMUATED BY CHATGPT
-
-Using the Cornell Note-Taking Method was quite different from my usual approach. Normally, I just write everything down as it comes without much organization, but the Cornell method helped me structure my notes better. Dividing the page made it easier to spot key concepts and focus on what was most important. I especially found the cue column useful because it forced me to think about the material in a different way and identify questions I might not have considered otherwise. The summary at the bottom was helpful too—it gave me a quick way to review the whole lecture in just a few sentences. I think this method could be useful for me, but it might take some practice to do it more quickly in a fast-paced lecture. I could see myself using this method regularly, especially for more concept-heavy subjects.
-
-
-Using the Cornell Note-Taking Method was new for me. I usually just write everything down, but with this method, I had to split the page into sections. The cue column was a bit hard to do because I'm not used to thinking about questions while taking notes. Writing the summary was okay, and it helped me remember what the lecture was about. I think this method might help me, but it felt a bit slow, and I'm not sure I could keep up in a fast lecture. I might try it again, but I need more practice to get used to it.
-
-
-I tried the Cornell Note-Taking Method, but I didn't really find it useful. Splitting the page into sections didn't help me, and I prefer just writing everything down in one go. The cue column and summary didn't make a difference for me because I don't usually review my notes that way. I think I'll stick to my usual method because this one took more time, and I didn't see much benefit from it.
-
-
-
-MORE INSTRUCTIONS FOR CHATGPT WHEN EVALUATING THEIR REFLECTIONS
-
-
-It's important to guide students' reflection process so they can gain more insight from their experiences. Here are some suggestions we could offer for them to reflect on in the future, particularly after trying out new methods or strategies:
-
-Clarity on what didn't work:
-Why didn't the method feel useful? Was it difficult to follow, confusing, or time-consuming?
-Which part of the method was most challenging (cue column, summary section, etc.)? Why do you think that was?
-Benefits and drawbacks:
-Did the method help in organizing information, even if it didn't feel comfortable? Could it be useful in certain types of lectures (e.g., concept-heavy lectures)?
-Did they feel more engaged or less distracted compared to their usual note-taking method?
-Adaptability:
-Could the method be adjusted to suit their learning style better? For example, could they use fewer cues or take more time to complete the summary later?
-Is there a way to make the method quicker or more comfortable in a fast-paced lecture?
-Long-term benefits:
-Could this method help them in revising or reviewing their notes later, even if it feels slow during the lecture?
-Did they notice if the Cornell method made it easier to recall or understand the material after the lecture?
-Comparing with current method:
-What are the specific reasons they prefer their usual note-taking method? Is it simply because they are more used to it, or does it actually help them learn better?
-How does their current method help them when reviewing or preparing for exams? Could they integrate some elements of the Cornell method to improve their existing approach?
-Self-awareness:
-Did they feel more or less confident in understanding the material after using the Cornell method?
-What part of the learning process (listening, writing, reviewing) do they struggle with the most, and could this method help with that?
-Encouraging students to think more deeply about these aspects can help them better understand why a method may or may not work for them and what adjustments they might need to make.
-
-
-
--->
+<section id="students-agenda" class="level1">
+<h1>STUDENTS AGENDA</h1>
+<p>This is what the student submitted:</p>
+<p>{source}</p>
 </section>
-<section id="extension-activities" class="level1">
-<h1>Extension activities</h1>
-<p>For a more detailed guide to the method, see: <a href="https://journals.sagepub.com/doi/full/10.1177/01455613221146457">Saran, Gober and McCarty (2022)</a></p>
-
+<section id="your-task" class="level1">
+<h1>Your task</h1>
+<p>Give a short paragraph of feedback for the student as described above. Be brief and supportive.</p>
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

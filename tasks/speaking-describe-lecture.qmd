@@ -1,7 +1,7 @@
 ---
 title: "Describe a lecture in a voice note"
 description: Summarize a lecture slide in a voice note to consolidate your understanding and practice explaining concepts clearly.
-Week: 7
+Week: 6
 Stage: 1
 categories: [Speaking]
 Release: true
