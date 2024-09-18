@@ -68,7 +68,7 @@ Practice activities are related to five core themes:
 
 3.  [Writing](theme-writing.html): Improved writing through intentional practice.
 
-4.  [Speaking](theme-speaking.html): Confidence in oracy (again, explicitly via intentional practice).
+4.  [Speaking](theme-speaking.html): Confidence in oracy.
 
 5.  [Growth](theme-growth.html): Personal development and planning.
 
@@ -78,32 +78,27 @@ Practice activities are related to five core themes:
 
 -   Some tasks must be completed individually. Others need cooperation among your tutor group.
 
--   The main task should take no more than 30 minutes. [Extension activities or extra practice](extensions.html) will be available if you for to focus on a particular area (see [the list](extensions.html)).
+-   The main task should take no more than 30 minutes. [Extension activities or extra practice](extensions.html) will be available if you for to focus on a particular area.
 
--   When you have completed the task, you will record your work on [Psylab](psylab-psybot.html#psylab). You will receive feedback on your work from the [Psybot](psylab-psybot.html#psybot), or your tutor (or both).
+-   When you have completed the task, you will upload your work to [Psybot](psybot.html) for immediate feedback, and to keep a record of your learning.
 
 All the materials needed for the tasks are available on this website. Tasks are linked from the theme pages in the menu, and from the [weekly list of tasks](weekly.html).
 
 # Recording your practice
 
-... #TODO (but most likely this):
 
--   Each week, you will record your practice on [Psylab](psylab-psybot.html#psylab).
+-   Each week, you will record your practice with [PsyBot](psybot.html#psylab).
 
--   When you upload this work, we will use AI to provide instant feedback. For example, we might compare your answer to an 'ideal' answer written by staff. Or we may use the AI to ask you some followup questions to extend your thinking.
+-   When you upload this work, Psybot will provide instant feedback. For example, we might compare your answer to an 'ideal' answer written by staff. Or it may ask you some followup questions to extend your thinking.
 
--   You tutor will be able to see the work you have uploaded and the feedback you were given. We encourage students to visit staff in office hours to review their work, or if they need further help or clarification.
+-   You tutor will be able to see the work you have uploaded to PsyBot, and the feedback you were given. We encourage students to visit staff in office hours to review their work, or if they need further help or clarification.
+
 
 # Getting human feedback
 
-Each week, all staff in the school offer two "office hours" in which students can ask questions or seek feedback on the work they have done.
+In addition to progress meetings, all staff in the school offer two "office hours" each week during which students can ask questions or seek feedback on the work they have done.
 
--   [See more about office hours in the handbook](office-hours.html)
-
-We recommend that students use office hours to review their practice tasks, and to ask for help if they are struggling with any aspect of the course.
-
-Tutors can work through practice tasks with you, give feedback, or make suggestions for additional resources or extended practice where they think this will be helpful.
-
+-   [Find office hours for all staff on the DLE here](https://dle.plymouth.ac.uk/course/view.php?id=66067)
 
 
 

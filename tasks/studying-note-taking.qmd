@@ -3,7 +3,7 @@ title: "Make great notes"
 subtitle: "How to make the most of lectures and workshops."
 author: Ben Whalley
 description: Making notes in lectures and workshops is a key skill for university students. This activity will help you to make the most of your notes, and ensure they are useful when you come to revise.
-Week: 3
+Week: 2
 Stage: 1
 categories: [Studying]
 reading-time: 20 minutes
@@ -81,11 +81,11 @@ Take notes in the Note-taking area:
 *Write a Summary*: In the summary section at the bottom, condense the entire lecture into 1-2 sentences. This forces you to distill the most important ideas and creates a quick reference for future studying.
 
 
-### Top Tip
-
-*Review your notes soon after the lecture.*
+### Top Tip: Review your notes right after the lecture
 
 This method is especially powerful when you actively revisit your notes, use the cues to test yourself, and summarize regularly. 
+
+Try to review notes right after the lecture, and certainly on the same day while everything is fresh in your mind.
 
 
 # Instructions
@@ -126,7 +126,7 @@ After the lecture, write a brief reflection answering some of these questions:
 
 Upload your reflection to Psybot for feedback and extra suggestions.
 
-[Record your reflection with Psybot](XXX){.submit-work .btn .btn-primary}
+[Record your reflection with Psybot](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
 
 :::
 

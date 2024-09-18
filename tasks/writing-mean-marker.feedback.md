@@ -9,10 +9,9 @@ This is the writing that Prof Snippy is marking:
 
 > Since the time of evolution a plethora of research has shown that cows like grass. The first person to research the food preferences of cows was Bloggs (2014), who found that they chose grass more often than baked beans. It is therefore clear that cows like grass.
 
-Prof Snippy has inserted their thoughts while reading it:
+Prof Snippy is marking a student essay and  has inserted their thoughts while reading it in square brackets:
 
 > Since the time of evolution \[*What, has evolution stopped??*\] a plethora of research \[*How much is a plethora? Does the quantity matter???*\] has shown that cows like grass. The first person \[*I think I read an earlier study... Maybe this was the first one the student has heard of. Should I check??*\] to research the food preferences of cows was Bloggs (2014), who found that they chose grass more often than baked beans. It is therefore clear \[*It’s not clear to me... choosing grass doesn’t mean cows like it. Maybe they just don’t like baked beans?*\] that cows like grass.
-
 
 Notice how Prof Snippy’s comments are not just about the writing, but also about the content. The writing is not clear, and so the content is also unclear.
 By clearing up the writing Prof. Snippy is more likely to understand the content
@@ -23,9 +22,7 @@ In this activity, you will practice thinking like a mean marker.
 
 # Instructions
 
-
-
-This is the writing that Professor Perfect (that’s you!) is marking. 
+This is the writing that Professor Perfect (that’s you!) is marking next. 
 
 ```
 An amazingly vast array of research (__________) has found affects (__________) of smoking on health (Pickle, 1990) (__________). One study found that as many as 50% of all smokers die (__________). Another study tested if quitting smoking reduced death rates but unfortunately its results were insignificant (__________). Some research has looked into genetic factors associated with smoking death rates (__________). We looked for research into gender differences and smokers’ health but there was none, therefore there is a gap in the literature (__________) and further research is needed on this fascinating topic (__________).

@@ -3,7 +3,7 @@ title: "Learning at University"
 subtitle: "(Mostly) Beyond Behavioural Management"
 author: Sean Fallon
 description: "It's helpful to reflect on the differences between school and university as you develop into your roles as Psychologists and Citizens..."
-Week: 1
+Week: 3
 Stage: 1
 categories: studying
 reading-time: 20 minutes
@@ -24,10 +24,14 @@ listing:
 
 # Overview
 
-
 While some stage 1 students may have left school some time ago, it is important---both in your development as a Psychologist and Citizen---that you can reflect on how different these two institutions are. 
 
-There are many differences between school and universty, but one I would like to focus on is that in their training, teachers spend a great deal of time learning about **behavioural management**. This is not the case for the academics who will lead your workshops and lectures at Plymouth. [Although, we still expect people to be courteous and respectful in teaching sessions].
+This task will encourage this reflection and help you make plans for the semester.
+
+
+<!--
+
+There are many differences between school and university, but one I would like to focus on is that in their training, teachers spend a great deal of time learning about **behavioural management**. This is not the case for the academics who will lead your workshops and lectures at Plymouth. [Although, we still expect people to be courteous and respectful in teaching sessions].
 
 
 Please read this document which give a brief outline of what behavioural management involves. https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework/the-trainee-teacher-behavioural-toolkit-a-summary
@@ -46,7 +50,7 @@ XXX
 
 XXXINSTRUCTION, and upload to Psylab as usual.
 
-[Record your work here](https://pp.llemma.net){.submit-work .btn .btn-primary}
+[Record your work here](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
 
 # Extension activities
 
@@ -54,3 +58,6 @@ If you found this task helpful or writing is something you struggle with, consid
 
 ::: {#sample-listings}
 :::
+
+
+-->

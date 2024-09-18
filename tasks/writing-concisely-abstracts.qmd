@@ -4,23 +4,30 @@ subtitle: "Writing concisely in abstracts."
 author: Chris Mitchell
 description: Writing concisely is a valuable skill. It's needed to write good abstractys for practical reports, but it can improve your marks in essays and exams by helping you communicate more effectively.
 Week: 8
-Release: false
+Release: true
 Stage: 1
 categories: [Writing]
 reading-time: 20 minutes
 # provides a listing of related activities
-listing:
-  contents: "*.qmd"
-  type: default
-  categories: false
-  fields: [title, image]
-  page-size: 3
-  include:
-    extension: true
-    categories: "{Writing}*"
+# listing:
+#   contents: "*.qmd"
+#   type: default
+#   categories: false
+#   fields: [title, image]
+#   page-size: 3
+#   include:
+#     extension: true
+#     categories: "{Writing}*"
 ---
 
 ![](../images/papers.png){width="33%"}
+
+
+
+Writing concisely is a valuable skill. It's needed to write good abstracts for practical reports (like the one you will be submitting towards the end of semester 1), but it can improve your marks in essays and exams by helping you communicate more effectively. Check back soon for details of this task.
+
+<!--
+
 
 A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE
 
@@ -48,20 +55,6 @@ Ideally there will be a
 
 # Recording your work
 
-Record your work on Psylab as usual.
 
-```{=html}
-<!-- Students will know that they can and should record their 
-
-Additional notes here might emphasise a particular format, or prompt them to ask their tutor specific questions in office hours, or things to look out for in later progress meetings.
 
 -->
-```
-[Record your work here](XXX){.submit-work .btn .btn-primary}
-
-# Extension activities
-
-If you found this task helpful or XXX is something you struggle with, consider the following extension activities:
-
-::: {#sample-listings}
-:::

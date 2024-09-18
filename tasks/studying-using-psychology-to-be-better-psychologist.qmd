@@ -1,9 +1,9 @@
 ---
 title: "Using psychology to learn psychology"
-subtitle: "What to do in lectures might seem obvious, but is it?"
+subtitle: "How should we make notes in lectures? How "
 author: Sean Fallon
-description: "The goal of this Tutorial task is to examine how we should approach learning in Psychology."
-Week: 2
+description: "The goal of this Tutorial task is to examine how we should approach learning in Psychology, and whether we can use evidence to change our habits."
+Week: 1
 Stage: 1
 categories: studying
 reading-time: 20 minutes
@@ -35,12 +35,7 @@ Let's focus on a specific example:
 
 Specifically, should students use laptops or make handwritten notes?
 
-Please read the extract from [this journal article](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581), which describes a study conducted in 2014 with students at Princeton University
-
-
-Except from: Mueller & Oppenheimer (2014), *The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking*. Psychological Science, 25(6), 1159-1168.
-
----------------------
+Please read the extract below from [Mueller & Oppenheimer (2014)](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581), which describes a study conducted in 2014:
 
 
 > STUDY 1
@@ -55,6 +50,8 @@ Except from: Mueller & Oppenheimer (2014), *The Pen Is Mightier Than the Keyboar
 
 
 
+<br><br>
+
 The main results of this study were presented in a graph, shown below (Fig. 1). The y axis shows *z scores*, which are a way of comparing different scores on the same scale. Note that the average score of a z score will always be zero:
 
 
@@ -68,33 +65,12 @@ The main results of this study were presented in a graph, shown below (Fig. 1). 
 
 1. Summarise the text and the result shown in the figure in your own words. Be concise: no more than 50 words. 
 
-2. Reflect on what the study tells us, and how it might influence what you do in lectures.
+2. Reflect on what the study tells us, and how it might influence what you do in lectures. In particular, you might like to consider these questions:
 
-
-##### Summarising
-
-A good strategy for summarising:
-
-First, copy and paste the section above into a new document
-
-Then, summarise the text by: 
-
-- Cutting irrelevant information
-- Rephrasing sentences which remain to keep only the *sense* of the original text
-
-Aim for a very concise summary of about 3-4 short sentences (no more than 50 words).
-
-
-##### Reflect on what we learn
-
-When you have summarised the text, think carefully about what we can learn from this study. 
-
-In particular, you might like to consider these questions:
-
-- Is the study finding clear? 
-- Does the data gathered relate to your own circumstances?
-- Is this 'good' evidence?
-- Has it changed your mind about how you might take notes in lectures?
+  - Is the study finding clear? 
+  - Does the data gathered relate to your own circumstances?
+  - Is this 'good' evidence?
+  - Has it changed your mind about how you might take notes in lectures?
 
 
 IMPORTANT: There may not be a simple 'right' answer to these questions. The goal is to think critically about the study and how it might influence your own behaviour. 
@@ -164,6 +140,8 @@ I think this shows that writing notes is better than typing. I usually use my la
 
 # Recording your work and getting feedback
 
+:::{.instruction}
+
 The task is to:
 
 - write the summary (3 or 4 short sentences), and
@@ -171,7 +149,11 @@ The task is to:
 
 When complete, upload your answer to Psybot to get some feedback.
 
-[Show your work to Psybot](https://pp.llemma.net){.submit-work .btn .btn-primary}
+[Show your work to Psybot](https://psybot.llemma.net){.submit-work .btn .btn-primary}
+
+:::
+
+
 
 
 

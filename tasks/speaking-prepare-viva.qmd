@@ -1,5 +1,5 @@
 ---
-title: "Prepare for your viva"
+title: "Prepare for your oral assessment"
 subtitle: "Practice for the PSYC423 oral assessment."
 author: Julie Ji
 description: Next week you will need to describe your PSYC423 project to your tutor. This section is practice for that.
@@ -26,8 +26,12 @@ listing:
 
 # Overview
 
-XXX
+This task will help you prepare for the individual oral assessment with your tutor at the end of semester 1. 
 
+Check back for more details closer to the time.
+
+
+<!--
 
 # Instructions
 
@@ -64,3 +68,6 @@ XXX
 
 ::: {#sample-listings}
 :::
+
+
+-->

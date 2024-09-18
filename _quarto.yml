@@ -12,7 +12,7 @@ website:
         text: FAQ
       - href: weekly.qmd
         text: Tasks
-      - href: psylab-psybot.qmd
+      - href: psybot.qmd
         text: Upload
       
   sidebar:

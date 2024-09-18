@@ -32,8 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -72,65 +70,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -164,7 +104,7 @@ window.Quarto = {
 <span class="menu-text">Tasks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../psylab-psybot.html"> 
+    <a class="nav-link" href="../psybot.html"> 
 <span class="menu-text">Upload</span></a>
   </li>  
 </ul>
@@ -279,29 +219,6 @@ window.Quarto = {
  <span class="menu-text">Growth</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../extensions.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Extension activities</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
- <span class="menu-text">Staff</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../staff-notes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Notes for staff</span></a>
-  </div>
-</li>
       </ul>
   </li>
     </ul>
@@ -310,16 +227,7 @@ window.Quarto = {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
-  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a></li>
-  <li><a href="#recording-your-work" id="toc-recording-your-work" class="nav-link" data-scroll-target="#recording-your-work">Recording your work</a></li>
-  <li><a href="#extension-activities" id="toc-extension-activities" class="nav-link" data-scroll-target="#extension-activities">Extension activities</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -359,79 +267,43 @@ window.Quarto = {
 
 
 <p><img src="../images/papers.png" class="img-fluid" style="width:33.0%"></p>
-<p>A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE</p>
-<section id="overview" class="level1">
-<h1>Overview</h1>
-<p>The overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.</p>
-<ul>
-<li>What is the thing to be practices</li>
-<li>Why is it important
-<ul>
-<li>In the degreee</li>
-<li>In mant professional careers/life</li>
-</ul></li>
-<li>What are the key ideas/concepts?</li>
-<li>What evidence is there that this specific practice is helpful?</li>
-<li>If possible, give a brief example of the thing in action.</li>
-</ul>
-</section>
-<section id="instructions" class="level1">
-<h1>Instructions</h1>
-<p>Instructions should be as brief as possible.</p>
-<p>Ideally there will be a</p>
-<ol type="1">
-<li>Numbered list</li>
-<li>Of steps to follow</li>
-<li>That is not too long</li>
-</ol>
-</section>
-<section id="recording-your-work" class="level1">
-<h1>Recording your work</h1>
-<p>Record your work on Psylab as usual.</p>
-<!-- Students will know that they can and should record their 
+<p>Writing concisely is a valuable skill. It’s needed to write good abstracts for practical reports (like the one you will be submitting towards the end of semester 1), but it can improve your marks in essays and exams by helping you communicate more effectively. Check back soon for details of this task.</p>
+<!--
 
-Additional notes here might emphasise a particular format, or prompt them to ask their tutor specific questions in office hours, or things to look out for in later progress meetings.
+
+A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE
+
+# Overview
+
+The overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.
+
+-   What is the thing to be practices
+-   Why is it important
+    -   In the degreee
+    -   In mant professional careers/life
+-   What are the key ideas/concepts?
+-   What evidence is there that this specific practice is helpful?
+-   If possible, give a brief example of the thing in action.
+
+# Instructions
+
+Instructions should be as brief as possible.
+
+Ideally there will be a
+
+1.  Numbered list
+2.  Of steps to follow
+3.  That is not too long
+
+# Recording your work
+
+
 
 -->
-<p><a href="XXX" class="submit-work btn btn-primary">Record your work here</a></p>
-</section>
-<section id="extension-activities" class="level1">
-<h1>Extension activities</h1>
-<p>If you found this task helpful or XXX is something you struggle with, consider the following extension activities:</p>
-<div id="sample-listings">
-
-</div>
 
 
 
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Writing,Extension" data-listing-file-modified-sort="1726044223412" data-listing-reading-time-sort="3" data-listing-word-count-sort="499">
-<div class="thumbnail">
-<p><a href="../tasks/writing-extension-shorter-sentences.html" class="no-external"></a></p><a href="../tasks/writing-extension-shorter-sentences.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="../tasks/writing-extension-shorter-sentences.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../tasks/writing-extension-shorter-sentences.html" class="no-external">(Even) shorter sentences</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../tasks/writing-extension-shorter-sentences.html" class="no-external">Additional practice at writing concisely</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="../tasks/writing-extension-shorter-sentences.html" class="no-external"></a></p><a href="../tasks/writing-extension-shorter-sentences.html" class="no-external">
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

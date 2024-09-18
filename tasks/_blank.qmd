@@ -68,7 +68,7 @@ XXX
 XXXINSTRUCTION, and upload to Psylab as usual. 
 
 
-[Record your work here](https://pp.llemma.net){.submit-work .btn .btn-primary}
+[Record your work here](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
 
 
 

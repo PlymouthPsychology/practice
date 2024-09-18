@@ -1,5 +1,6 @@
 ---
 title: "Describe a lecture in a voice note"
+subtitle: Practice this key skill by explaining a lecture slide to a friend
 description: Summarize a lecture slide in a voice note to consolidate your understanding and practice explaining concepts clearly.
 Week: 6
 Stage: 1
@@ -15,47 +16,122 @@ listing:
   page-size: 3
   include:
     extension: true
-    # REMEMBER TO UPDATE THIS FOR THE ACTIVITY - could include multiple categories
     categories: "{Speaking}*"
 ---
 
-![](../images/voicenote.jpg){width="12em"}
+![](../images/Albert_Einstein_sticks_his_tongue_1951.jpg){width="30%"}
 
-XXX TODO ADD A VIDEO EXPLAINER OF ALL THIS MATERIAL AT THE HEAD OF THE PAGE
 
 # Overview
 
-Albert Einstein is quoted as saying "If you can't explain it simply, you don't understand it well enough", and it's true that explaining a concept to someone else is a great way to consolidate your understanding of it.
+Albert Einstein is quoted as saying:
 
-In this task, we practice explaining a concept from a lecture to a friend, as if you were leaving them a voice note.
+> "If you can't explain it simply, you don't understand it well enough"
+
+And it's true that explaining a concept to someone else is a great way to consolidate your understanding of it.
+
+In this task, we practice explaining a concept from a lecture to a friend, as if you were leaving them a voice note. 
+
 
 # Instructions
 
 ::: instruction
-1.  Choose ONE of the slides from below (both are from lectures which happen this week)
+
+1.  Choose ONE of the slides from below (both are from Peter Jones' lecture on Selective Attention).
+
 2.  Go to the lecture and listen carefully
+
 3.  *Without* any of the other slides in front of you, imagine explaining it to a friend in a WhatsApp-style voice-note (see how to record below).
+
 :::
 
 # Slides to explain
 
+
+Choose one of the following slides.
+
 <!-- todo: update with actual slides from the week -->
 
-Slide 1:
+Slide 1: Late selection model
 
-![](../images/craik-example-slide.png)
+![](../images/lectureslide1.png)
 
-(The full lecture is [here](xxx.html) if you want to listen to it again.)
 
-Slide 2:
+<!-- 
+Example of a description
 
-![](../images/learning-curve.png)
+This slide illustrates the "Late Selection" model proposed by Deutsch and Deutsch in 1963. According to this model, all incoming stimuli—whether attended to or not—undergo sensory processing and semantic analysis. The filtering of information happens only after semantic analysis, meaning selection occurs based on the meaning (or semantics) of the information rather than just physical properties (such as volume or pitch). Information is remembered if it is deemed important, especially if a response is required. The model contrasts with earlier theories where filtering was believed to happen earlier in the perceptual process. 
 
-(The full lecture is [here](xxx.html) if you want to listen to it again.)
+
+
+
+
+-->
+
+
+Slide 2: Attentive search
+
+![](../images/lectureslide2.png)
+
+<!--
+
+This slide illustrates two types of visual search tasks:
+
+Finding a red circle among blue circles (a task of preattentive search).
+Finding the letter F among E’s (a task of attentive search).
+The graph compares the reaction times for these two tasks as the number of distractors (irrelevant items) increases.
+
+For the first task, finding a red circle among blue circles relies on preattentive search. This type of search is fast and automatic because the red circle has a distinct feature (color) that makes it "pop out" immediately from the blue distractors. The red line on the graph shows that the reaction time for this task remains constant, even as the number of distractors increases. This indicates that the brain processes the red circle effortlessly without needing to scan each item individually.
+
+In contrast, the second task, finding the letter "F" among "E"s, requires attentive search. Since "F" and "E" share many visual features, they cannot be easily distinguished by a simple feature like color or shape. Instead, participants must carefully scan each letter to find the "F," making it a more effortful, serial process. The blue line on the graph shows that as the number of distractors increases, the reaction time also increases, indicating that the search becomes more difficult and takes longer with more "E"s present.
+
+In summary:
+
+Preattentive search (finding a red circle) is quick, automatic, and not affected by the number of distractors.
+Attentive search (finding an "F" among "E"s) is slower, requires focused attention, and becomes more time-consuming as the number of distractors increases.
+This distinction highlights how different types of searches place different cognitive demands on visual processing.
+
+
+
+
+
+
+
+BAD STUDENT EXAMPLES
+
+
+
+Uh, so this slide is about, like, a model from some guys named Deutsch and Deutsch in the 1960s or something. Basically, it says that all the stuff you hear or see goes into your brain, and then your brain figures out what it means. Only after that, it decides what's important or not, I guess.
+It doesn’t just throw away stuff right away, like some other ideas say. Instead, it waits until it understands what everything is before it gets rid of anything. If something's important, like if you need to respond to it, you remember it. That's pretty much it. So, yeah, it happens later or something compared to older ideas.
+
+
+
+So, um, this slide is about, like, finding stuff in a group of things. There are two tasks—one where you look for a red circle in a bunch of blue circles, and another where you try to find the letter "F" in a bunch of "E"s. 
+Uh, I think the red circle one is easy because, well, it's red, and the others are blue, so you can, like, see it right away. That's called pre-something, I forget. Anyway, it doesn't matter how many blue circles there are, you just find the red one quickly.
+The other one, with the "F" and the "E"s, is harder because they kinda look the same. So, you have to look at each letter one by one. The more "E"s there are, the longer it takes to find the "F." That's why the blue line goes up in the graph, I think. 
+Yeah, so basically, one task is easy and the other one is harder, and it takes more time if there are more letters.
+
+
+
+
+
+
+
+
+
+-->
+
+
+
+
+(The full lecture powerpoint is [here](Lecture 4 Attention.pptx), if you want to see any of the other slides.)
+
 
 # Recording your work
 
-::: instruction
+
+:::{.instruction}
+
 Record your "voice note" using
 
 -   the "Voice Memos" app on iPhone, or
@@ -63,18 +139,19 @@ Record your "voice note" using
 
 Don't use WhatsApp because it's harder to upload later.
 
-[Upload your recording here](https://pp.llemma.net/){.submit-work .btn .btn-primary}
+[Upload your recording here](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
 
-When you add your practice upload an audio file of your voice note. Psybot will listen to the audio and give you feedback.
+When you add your practice, upload an audio file of your voice note. PsyBot will listen to the audio and give you feedback.
+
 :::
 
-[DEMO of ChatGPT feedback for this task](speaking-feedback-demo.html)
+
+<!-- [DEMO of ChatGPT feedback for this task](speaking-feedback-demo.html) -->
+
 
 # Extension activities
 
--   Try practicing the task more than once.
+- Try practicing the task more than once (e.g. try the other slide)
 
--   You could also try explaining the same concept to different friends or family members. Does it make a difference if you explain it to someone who knows the topic in general (e.g. another student), vs. someone who has never studied psychology?
+- Try this in real life, rather than a voice note. Does it make a difference if you explain it to someone who knows the topic in general (e.g. another student), vs. someone who has never studied psychology?
 
-::: {#sample-listings}
-:::

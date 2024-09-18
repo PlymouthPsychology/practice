@@ -13,16 +13,14 @@ reading-time: 15 minutes
 
 # Planning your reference
 
-#TODO: UPDATE THIS TEXT
-
 You need to think about your reference early on in your time at university. You need to plan to make sure your tutor can write you a great reference. Here are some tips to help you plan your reference.
 
--   First, you need to think about who you want to write your reference. You need to choose someone who knows you well and can write a good reference for you — this will typically be your tutor, but could also be a project supervisor. You need to choose someone who can write about your skills, experience, and achievements.
-
--   You should think about when you want to ask for your reference. You need to ask for your reference at least a month before you need it. You need to ask for your reference in a polite and professional way (either in person or via email).
+-   First, you need to think about who you want to write your reference. You need to choose someone who knows you well and can write a good reference for you — this will typically be your tutor, but could also be a project supervisor from stage 4. *You need to choose someone who can write about your skills, experience, and achievements.*
 
 -   You need to help the reference-writer do a good job for you! Provide as much information as you can about yourself, your skills, experience, and achievements. You should also provide the reference-writer with a copy of the job description or course you are applying for, and highlight anything you would like them to mention.
 
-::: instruction
-TODO ADD INSTRUCTIONS HERE
+:::{.instruction}
+
+In this task we will start the process of planning your reference, and considering what you would like it to say. From there we'll work back to what you'll need to do to ensure it's a good one. Check back for more details soon.
+
 :::

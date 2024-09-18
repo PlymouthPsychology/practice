@@ -1,7 +1,8 @@
 ---
 title: "Spaced repetition"
+subtitle: "A memory hack to make revision easy"
 bibliography: ../refs.bib
-description: Use spaced repetition to beat the forgetting curve and save yourself time. In this activity we download the Anki app and create flashcards to help us remember what we have learnt.
+description: Learn to use spaced repetition to beat the forgetting curve and save yourself time when revising. In this activity we download the Anki app and create flashcards to help us remember what we have learnt.
 Week: 4
 Stage: 1
 categories: [Studying]

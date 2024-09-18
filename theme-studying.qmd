@@ -17,10 +17,9 @@ listing:
 ---
 
 
-<!-- > "I love deadlines. I love the whooshing noise they make as they go by." --- Douglas Adams -->
+> "I love deadlines. I love the whooshing noise they make as they go by."  --- Douglas Adams
 
-
-
+![Source: Wikimedia](images/Douglas_adams_portrait_(cropped_2).jpg){width="6em"}
 
 
 Learning how to study for your degree is a key part of your first year. As psychologists, we can use evidence-based techniques to help us learn more effectively. This theme covers important ideas and techniques that will help you to succeed in your studies.

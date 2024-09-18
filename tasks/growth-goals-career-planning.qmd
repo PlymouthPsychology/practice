@@ -2,7 +2,7 @@
 title: "Linking goals to actions."
 subtitle: "Planning for life and careers."
 author: Ben Whalley
-description: XXX
+description: Thinking about career can be daunting, and it can be hard to know where to start. Linking our plans to our values and goals can be a useful, and this activity challenges you to think about how you can do this.
 Week: 12
 Stage: 1
 Release: true
@@ -12,6 +12,13 @@ reading-time: 15 minutes
 
 
 ![](../images/DALL-E- goalsactions.png){width=50%}
+
+
+
+This activity is designed to start students thinking about their longer-term goals
+and to make connections between these goals and their current actions.  Check back for more details soon.
+
+<!--
 
 # Overview
 
@@ -44,3 +51,6 @@ XXX
 
 ::: {#sample-listings}
 :::
+
+
+-->

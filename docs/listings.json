@@ -11,7 +11,7 @@
     "listing": "/extensions.html",
     "items": [
       "/tasks/theme-extension-topic-blank.html",
-      "/tasks/writing-extension-shorter-sentences.html"
+      "/tasks/XXwriting-extension-shorter-sentences.html"
     ]
   },
   {
@@ -24,12 +24,13 @@
   {
     "listing": "/weekly.html",
     "items": [
-      "/tasks/studying-learning-at-university.html",
       "/tasks/studying-using-psychology-to-be-better-psychologist.html",
       "/tasks/studying-note-taking.html",
+      "/tasks/studying-learning-at-university.html",
       "/tasks/studying-spaced-repetition.html",
       "/tasks/growth-planning-progress-meeting.html",
       "/tasks/speaking-describe-lecture.html",
+      "/tasks/studying-differences-from-school.html",
       "/tasks/writing-concisely-abstracts.html",
       "/tasks/writing-mean-marker.html",
       "/tasks/speaking-prepare-viva.html",
@@ -41,7 +42,7 @@
     "listing": "/theme-writing.html",
     "items": [
       "/tasks/writing-concisely-abstracts.html",
-      "/tasks/writing-extension-shorter-sentences.html"
+      "/tasks/XXwriting-extension-shorter-sentences.html"
     ]
   },
   {
@@ -51,13 +52,13 @@
   {
     "listing": "/tasks/writing-concisely-abstracts.html",
     "items": [
-      "/tasks/writing-extension-shorter-sentences.html"
+      "/tasks/XXwriting-extension-shorter-sentences.html"
     ]
   },
   {
     "listing": "/tasks/writing-mean-marker.html",
     "items": [
-      "/tasks/writing-extension-shorter-sentences.html"
+      "/tasks/XXwriting-extension-shorter-sentences.html"
     ]
   },
   {
@@ -109,6 +110,12 @@
     "items": [
       "/tasks/studying-note-taking.html",
       "/tasks/studying-spaced-repetition.html"
+    ]
+  },
+  {
+    "listing": "/tasks/XXwriting-level-up.html",
+    "items": [
+      "/tasks/XXwriting-extension-shorter-sentences.html"
     ]
   }
 ]

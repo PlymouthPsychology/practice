@@ -49,15 +49,17 @@ In this activity, you will practice thinking like a mean marker.
 
 This is the writing that Professor Perfect (that’s you!) is marking. 
 
-```
-An amazingly vast array of research (__________) has found affects (__________) of smoking on health (Pickle, 1990) (__________). One study found that as many as 50% of all smokers die (__________). Another study tested if quitting smoking reduced death rates but unfortunately its results were insignificant (__________). Some research has looked into genetic factors associated with smoking death rates (__________). We looked for research into gender differences and smokers’ health but there was none, therefore there is a gap in the literature (__________) and further research is needed on this fascinating topic (__________).
-```
+<div class="wrapped-pre">
+An amazingly vast array of research [__________] has found affects [__________] of smoking on health [Pickle] 1990) [__________]. One study found that as many as 50% of all smokers die [__________]. Another study tested if quitting smoking reduced death rates but unfortunately its results were insignificant [__________]. Some research has looked into genetic factors associated with smoking death rates [__________]. We looked for research into gender differences and smokers’ health but there was none, therefore there is a gap in the literature [__________] and further research is needed on this fascinating topic [__________].
+</div>
+
 
 
 1. Copy it into a file, 
-2. Fill in the blanks with your thoughts (be as mean as you can!), and upload it to Psybot
 
-3. If you have time, you could also create an edited and improved version of this paragraph.
+2. Fill in the blanks with your thoughts (be as mean as you can!), and upload it to PsyBot for feedback.
+
+3. If you have time, you might also edit and improve the paragraph. You can show that to PsyBot too, to get feedback.
 
 
 :::

@@ -84,4 +84,39 @@ body {
   /* font-weight: 600; */
 }
 
-};
+.wrapped-pre {
+  white-space: pre-wrap; 
+  word-wrap: break-word; 
+  padding: .25em;
+  width: 20em; 
+  border-top: 2px dashed black;
+  padding-top: 10px;
+  border-bottom: 2px dashed black;
+  padding-bottom: 10px;
+  font-family: monospace;
+}
+
+p.wrapped-pre {
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+
+
+.blockquote { 
+  color: #731f1e;
+}
+
+
+
+.listing-subtitle { 
+  font-size: .7em;
+line-height: .9em;
+}
+
+
+.card-other-values td {
+  font-size: .6em;
+  margin-left: 0em;
+  padding-leftt:0px;
+}

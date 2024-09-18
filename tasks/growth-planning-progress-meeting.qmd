@@ -1,6 +1,6 @@
 ---
 title: "Planning your Progress meeting"
-# subtitle: 
+subtitle: "You will set the agenda for these meetings."
 author: Ben Whalley
 description: "Get prepared for your progress meeeting."
 Week: 5

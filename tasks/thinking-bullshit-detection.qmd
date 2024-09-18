@@ -23,6 +23,25 @@ listing:
 
 ![](../images/DALL·E 2024-09-11 09.32.25 - bullshit.webp){width="50%"}
 
+
+Detecting bullshit is a key skill in the modern world. The [wikipedia page on Bullshit](https://en.wikipedia.org/wiki/Bullshit) defines it as:
+
+> statements produced without particular concern for truth, clarity, or meaning, distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth
+
+
+Thankfully, studying psychology gives us some useful tools to detect bullshit and 
+can help us think about ways to use evidence and reasoning to avoid being misled.
+
+This exercise will put what you've learnt so far into practice. Check back soon for more details.
+
+
+
+
+
+
+
+<!--
+
 # Overview
 
 XXX
@@ -54,3 +73,6 @@ XXX
 
 ::: {#sample-listings}
 :::
+
+
+-->
