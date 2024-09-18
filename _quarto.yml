@@ -4,6 +4,7 @@ project:
 website:
   title: "Briefing, Practice & Progress"
   navbar:
+    background: "#327dbc"
     logo: "images/uop-shield.png"
     left:
       # - href: tldr.qmd
