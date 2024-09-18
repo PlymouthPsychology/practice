@@ -3,11 +3,82 @@ title: "Notes for staff"
 ---
 
 
-# Practice
+This page outlines what Staff need to do to make this system work.
+
 
 # Briefings
 
+Each Monday at 10am, there will be a live [Briefing](briefings.html) to orient students to the work that week. 
+
+Staff should add any information they'd like to be included in briefings to the relevant Discourse thread in this section of the site:
+
+- <https://discourse.psy.plymouth.ac.uk/c/support-resources/briefing/>
+
+
 # Progress
 
-... #TODO
+
+Staff should meet Stage 1 tutees three times in Semester 1, and Twice in semester 1.
+
+
+## Semester 1
+
+
+### Week 1/2: Gentle introductory meeting, 20 mins
+
+
+[See suggested content here](staff-notes-s1-progress-1.html)
+
+
+### Week 5/6: Student led meeting
+
+[Students set the agenda, see their task here](tasks/growth-planning-progress-meeting.html)
+
+
+### Week 11
+
+Individual oral assessments, followed by a progress meeting (pairs/3 students) to discuss progress and plans for the future.
+
+Staff should book individual assessments with students, and ask them to wait to have their progress meeting in pairs/threes.
+
+- In the previous week students will have completed [this preparatory task](tasks/speaking-prepare-viva.html)
+
+- Details of the assessment itself are found on the PSYC421 DLE pages
+
+
+Progress meeting agenda:
+
+- Student led business
+- Revision suggestions (details TBC)
+- Careers content (details TBC)
+
+
+
+## Semester 2
+
+Weeks and agenda for progress meetings TBC
+
+
+
+
+
+
+
+
+
+# Practice
+
+Tutors are not required to do anything specific for the practice component of the new system, but it would be helpful if tutors:
+
+- Encourage students to complete the [weekly practice tasks listed here](weekly.html)
+- Encourage them to try PsyBot for instant feedback on tasks
+- Collate comments and feedback from students (please forward to Ben Whalley)
+
+In future, tutors will be able to review progress on practice tasks with students during progress meetings. Features to be released soon.
+
+
+
+
+
+
 

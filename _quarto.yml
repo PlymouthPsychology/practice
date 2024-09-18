@@ -49,9 +49,9 @@ website:
           # - href: extensions.qmd
           #   text: Extension activities
       
-      # - section: "Staff"
-      #   contents:
-      #     - href: staff-notes.qmd
+      - section: "Staff"
+        contents:
+          - href: staff-notes.qmd
             
           
 format:
