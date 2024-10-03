@@ -21,7 +21,7 @@ This exercise is important for several reasons. Research shows that actively eng
 
 Additionally, practicing this skill mirrors real-world tasks where you often need to explain complex ideas clearly and concisely. Studies on "retrieval practice" [@roediger2011retrieval] suggest that actively recalling information improves both factual recall and the ability to apply knowledge in new contexts. Similarly, "elaborative rehearsal"—a method of actively reviewing material by explaining it in your own words—has been shown to foster deeper processing and stronger memory encoding [@craik1972levels].
 
-Overall, this task helps not just with memorizing facts, but also with connecting ideas conceptually, reinforcing the learning needed for more complex, higher-order thinking.
+So, this task helps not just with memorizing facts, but also with connecting ideas conceptually, reinforcing the learning needed for more complex, higher-order thinking. It's a good habit to get into for key concepts from all your lectures.
 
 
 # Instructions
@@ -83,7 +83,7 @@ Lack of detail: The explanation fails to mention the stages of the experiment or
 
 
 
-3. How a good stucent might summarise blocking from the lecture
+3. How a good student might summarise blocking from the lecture
 
 > "Blocking, demonstrated by Kamin (1969), refers to a situation in classical conditioning where a previously learned association prevents the learning of a new association. In his experiment, rats were conditioned with a noise (N) predicting a shock. When a light (L) was later paired with the noise (LN) and shock, the rats showed less fear of the light. This is because the noise had already been associated with the shock, 'blocking' the new learning about the light. The existing association 'blocks' the learning of the new cue."
 

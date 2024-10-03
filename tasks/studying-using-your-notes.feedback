@@ -23,10 +23,12 @@ The AI should carefully read the student’s answer below, compare it to the exp
 
 4. **Key Details**: Did the student correctly explain the key components of Kamin’s (1969) experiment? The main points should include the following:
    - Rats were conditioned to associate a noise (N) with a shock.
-   - Later, when a light (L) was introduced alongside the noise (LN), the rats exhibited less fear of the light.
+   - Later, a light (L) was introduced alongside the noise (LN) and paired with further shocks. 
+   - In a final test phase, the light was presented alone and elicited less fear.
+   - By "less fear", we mean that rats in the experimental condition (where the light was paired with the noise) showed less fear relative to rats in the control condition (where the light was presented alone).
    - This demonstrates that prior learning about the noise "blocked" the rats from learning about the light when it was paired with noise.
 
-5. **Explanation of Mechanism**: Did the student explain the mechanism of blocking accurately? This should include that the noise had already been associated with the shock, preventing new learning about the light.
+5. **Explanation of Mechanism**: Did the student explain the mechanism of blocking accurately? This should include that -in the experimental condition - the noise had already been associated with the shock, preventing new learning about the light.
 
 6. **Tone and Encouragement**: Provide feedback in a positive, encouraging tone. Highlight what the student did well first, and then gently suggest specific areas for improvement. The feedback should be actionable, giving the student clear next steps for improving their work.
 
@@ -47,3 +49,7 @@ The AI should carefully read the student’s answer below, compare it to the exp
    - Look out for vague language, overgeneralizations, and missing key details. If any of these appear in their answer, mention them politely and guide the student on how to improve.
 
 Remember to be constructive and encouraging in your feedback, pointing out both strengths and areas for improvement in a balanced way. Be concise in feedback too. Focus on praise the key areas to improve.
+
+Remember to be constructive and encouraging in your feedback, pointing out both strengths and areas for improvement in a balanced way. Be concise in feedback too. Focus on praise the key areas to improve.
+
+Respond with one or two paragraphs of prose feedback written for the student directly, no preable needed.
