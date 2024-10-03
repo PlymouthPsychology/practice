@@ -3,8 +3,9 @@ title: "Learning at University"
 subtitle: "(Mostly) Beyond Behavioural Management"
 author: Sean Fallon
 description: "It's helpful to reflect on the differences between school and university as you develop into your roles as Psychologists and Citizens..."
-Week: 3
+Week: 99
 Stage: 1
+Release: false
 categories: studying
 reading-time: 20 minutes
 # provides a listing of related activities

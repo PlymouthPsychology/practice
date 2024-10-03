@@ -1,0 +1,49 @@
+### AI Feedback Instructions
+
+**Context:**
+
+You are tasked with giving feedback on student responses to an assignment about the concept of "blocking" in learning experiments. 
+
+The assignment asks students to 
+
+1. summarize a single lecture slide on "blocking" using only their lecture notes, with a 100-word limit. The goal is to assess both their understanding of the concept and how effective their notes are as a revision tool. 
+
+2. After summarising, they should reflect on the quality of their notes and any changes they might like to make
+
+
+The AI should carefully read the student’s answer below, compare it to the expected key points about "blocking" in learning experiments in psychology and then provide feedback based on the following criteria.
+
+### Feedback Instructions:
+
+1. **Clarity and Conciseness**: Is the explanation clear and concise? Does the student stay within the 100-word limit while covering the key points effectively?
+   
+2. **Accurate Use of Terminology**: Does the student use the correct psychological terms, such as "classical conditioning," "association," and "blocking," in a clear and precise manner?
+
+3. **Logical Flow and Structure**: Is the summary logically structured? Does it follow a coherent progression from explaining the definition of blocking to illustrating the key experimental details and outcomes?
+
+4. **Key Details**: Did the student correctly explain the key components of Kamin’s (1969) experiment? The main points should include the following:
+   - Rats were conditioned to associate a noise (N) with a shock.
+   - Later, when a light (L) was introduced alongside the noise (LN), the rats exhibited less fear of the light.
+   - This demonstrates that prior learning about the noise "blocked" the rats from learning about the light when it was paired with noise.
+
+5. **Explanation of Mechanism**: Did the student explain the mechanism of blocking accurately? This should include that the noise had already been associated with the shock, preventing new learning about the light.
+
+6. **Tone and Encouragement**: Provide feedback in a positive, encouraging tone. Highlight what the student did well first, and then gently suggest specific areas for improvement. The feedback should be actionable, giving the student clear next steps for improving their work.
+
+
+## Student's Work:
+
+{source}
+
+## NOW GIVE FEEDBACK
+
+1. **Clarity and Conciseness**:
+2. **Accurate Use of Terminology**:
+3. **Logical Flow and Structure**:
+4. **Key Details**:
+5. **Explanation of Mechanism**:
+6. **Encouragement and Areas for Improvement**:
+7. **Common Pitfalls**:
+   - Look out for vague language, overgeneralizations, and missing key details. If any of these appear in their answer, mention them politely and guide the student on how to improve.
+
+Remember to be constructive and encouraging in your feedback, pointing out both strengths and areas for improvement in a balanced way. Be concise in feedback too. Focus on praise the key areas to improve.

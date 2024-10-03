@@ -1,0 +1,102 @@
+---
+title: "Using your notes"
+subtitle: "How well does your note-taking work for you?"
+author: Ben Whalley
+description: "It's helpful to test how well your notes work for you so you can adapt and improve early in the semester."
+Week: 3
+Stage: 1
+categories: studying
+reading-time: 20 minutes
+bibliography: ../refs.bib
+---
+
+![](../images/usingnotes.webp){width=60%}
+
+# Overview
+
+
+In this task, you'll describe a single slide from a lecture, focusing on the concept of "blocking" in learning experiments, using only the notes you took at the time. You'll have 100 words to summarize it. The key goal here is to test how well your notes serve as a resource for revision, helping you reflect on the quality of your note-taking and its effectiveness for later study.
+
+This exercise is important for several reasons. Research shows that actively engaging with material, such as by summarizing or explaining it, leads to deeper conceptual understanding and better factual recall. This contrasts with passive review strategies, like simply rereading notes, which tend to be less effective. By forcing yourself to retrieve and articulate concepts, you're strengthening neural connections related to that information, which aids long-term retention and understanding.
+
+Additionally, practicing this skill mirrors real-world tasks where you often need to explain complex ideas clearly and concisely. Studies on "retrieval practice" [@roediger2011retrieval] suggest that actively recalling information improves both factual recall and the ability to apply knowledge in new contexts. Similarly, "elaborative rehearsal"—a method of actively reviewing material by explaining it in your own words—has been shown to foster deeper processing and stronger memory encoding [@craik1972levels].
+
+Overall, this task helps not just with memorizing facts, but also with connecting ideas conceptually, reinforcing the learning needed for more complex, higher-order thinking.
+
+
+# Instructions
+
+::: instruction
+
+# Instructions
+
+1. **Consider the slide on "blocking" from Peter Jones' lecture shown below** ([ppt version](blocking.pptx))
+
+   ![Blocking slide](../images/blockingslide.png)
+
+    
+
+2. **Use only your notes.**  
+   Without referring back to the full lecture slides or Panopto, use only the notes you took at the time. This will help you evaluate how useful your notes are for revision purposes.
+
+3. **Summarize the slide in 100 words.**  
+   In your own words, describe the concept of "blocking" as it was explained in the lecture. Keep your summary concise, sticking to the 100-word limit.
+
+4. **Reflect on your notes.**  
+   Once you've written your summary, think about whether your notes were helpful. Did they contain the key points? Would they be useful if you were revising for an exam?
+
+
+:::
+
+# Recording your work
+
+[Record your explanation AND reflection with Psybot for instant feedback](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
+
+
+<!--
+
+
+EXAMPLES OF WORK STUDENTS MIGHT PRODUCE
+
+1. A WEAKER STUDENT
+
+> "So, blocking is like when an animal learns something and it stops them from learning something new. In the experiment, the rats heard a noise, then they got shocked, so they were scared of the noise. Then, later, a light was added, but the rats didn’t really get scared of the light. I think this is because they already learned the noise means a shock, so they couldn’t learn about the light anymore. Basically, once the rats learned the first thing, they couldn’t learn the second thing at all."
+
+In this version, the mistakes include:
+
+Vague language: "It stops them from learning something new" is imprecise.
+Overgeneralization: "They couldn’t learn the second thing at all" misses the nuance that learning is reduced, not eliminated.
+Unclear presentation of key terms: The explanation fails to clearly differentiate between the role of the noise and the light in the blocking effect.
+Inaccuracy: The idea that the rats "couldn't learn at all" is a misunderstanding, as some learning about the light still occurs, but it is overshadowed by the prior learning about the noise.
+
+
+2. Another example of a weaker student answer:
+
+> "Blocking is when an animal is trained with one thing and then it doesn’t react to something else. In the experiment, rats learned that a noise means a shock. Then a light was added, but because they already knew the noise, they just ignored the light completely. So basically, once they learn the first association, they don’t pay attention to anything new, like the light. The experiment shows that animals can only learn one thing at a time."
+
+In this version, the mistakes include:
+
+Oversimplification: "They just ignored the light completely" is inaccurate. Learning is reduced, but not completely blocked.
+Misunderstanding of attention: The idea that animals "don’t pay attention to anything new" misrepresents blocking as a total failure to process new stimuli, rather than a competition between cues.
+Incorrect conclusion: "Animals can only learn one thing at a time" is an overgeneralization and doesn’t capture the true complexity of blocking in learning experiments.
+Lack of detail: The explanation fails to mention the stages of the experiment or the comparison to the overshadowing group, leaving out critical details of the concept.
+
+
+
+3. How a good stucent might summarise blocking from the lecture
+
+> "Blocking, demonstrated by Kamin (1969), refers to a situation in classical conditioning where a previously learned association prevents the learning of a new association. In his experiment, rats were conditioned with a noise (N) predicting a shock. When a light (L) was later paired with the noise (LN) and shock, the rats showed less fear of the light. This is because the noise had already been associated with the shock, 'blocking' the new learning about the light. The existing association 'blocks' the learning of the new cue."
+
+This is a good example of a summary for several reasons:
+
+Clarity and Conciseness: The explanation is clear and sticks to the essential points without unnecessary details. It stays within the word limit (100 words), making it an effective summary that balances brevity with completeness.
+Accurate Use of Terminology: Terms like "classical conditioning," "association," and "blocking" are used correctly and in a way that clearly explains the concept without ambiguity. The terminology aligns with how these concepts are presented in psychology.
+Logical Flow: The summary follows a logical structure, starting with a definition of "blocking," then moving on to describe the experiment and how it demonstrates the concept. The progression from the conditioning of the noise to the introduction of the light is smooth and easy to follow.
+Key Details: It includes the critical components of Kamin's (1969) experiment—training with the noise, introducing the light, and the outcome (reduced fear response). These details are essential to understanding the mechanism of blocking, yet they are presented succinctly.
+Explanation of Mechanism: The summary not only describes the experiment but also explains why blocking occurs. It highlights that the prior association (noise with shock) "blocks" the new learning (light with shock), which is crucial for grasping the phenomenon.
+Accuracy: There are no misunderstandings or overgeneralizations. It correctly conveys that learning about the light is reduced, not entirely prevented, which is an important nuance in the concept of blocking.
+Overall, this summary demonstrates a solid understanding of the experiment and the blocking effect, providing just the right amount of detail and explanation to communicate the concept effectively.
+
+
+
+-->

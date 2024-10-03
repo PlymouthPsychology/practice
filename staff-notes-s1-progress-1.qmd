@@ -6,11 +6,22 @@ title: "Notes for staff on first stage 1 progress meeting"
 
 ### Week 1/2: Gentle introductory meeting, 15 mins
 
-The purpose of this meeting is to get to know students *individually* (subsequent meetings will be in pairs/threes).
+The purpose of this meeting is to 
+
+
+1. Make students feel welcome
+2. Get to know them in a little more detail, including allowing space for them to disclose any concerns or special requirements
+3. Set expectations for attendance and engagement (e.g. with email)
+
+Initial meetings will be *individual* (subsequent meetings will be in pairs/threes).
 
 We suggest adding more office hours slots to enable students to book a slot.
 
-Some general questions to ask:
+----
+
+
+Some general questions to ask/topics of conversation to serve these ends:
+
 
 
 ######  Getting to know tutees
@@ -18,7 +29,6 @@ Some general questions to ask:
 - How did you get interested in Psychology?
 - Did you study Psychology A level?
 - If so, which topics did you enjoy the most?
-
 
 
 Settling in...
@@ -56,7 +66,7 @@ Do they want to be a professional psychologist? Clinical/health
 Briefings
 
 - Did they attend the Briefing meeting on Monday morning at 10am on Zoom?
-- If so, did they find it useful?
+- If so, did they find it useful? (please forward feedback to Ben/Jeremy)
 - If not, what prevented them? Encourage future attendance. Briefings will be an important orientation for students through the semester.
 
 
@@ -66,12 +76,10 @@ Practice
 
 - Remind them these tasks are designed to be completed weekly
 
-- PsyBot is an experimental AI tool we are trialing to give targeted feedback.
-
-- They can upload work to <http://psybot.llemma.net> to get formative feedback on these tasks (and others in future).
+- PsyBot is an experimental AI tool we are trialing to give targeted feedback. They can upload work to <http://psybot.llemma.net> to get formative feedback on these tasks (and others in future). Ask them if they tried it.
 
 
-Progress meetings
+Future progress meetings
 
 - Mention that next meeting will be in week 5/6
 - Students will need to set the agenda for it, and make notes from it
@@ -96,4 +104,5 @@ Open/applicant days?
 
 
 
+Please forward and information gained on these topics to Gustav.
 
