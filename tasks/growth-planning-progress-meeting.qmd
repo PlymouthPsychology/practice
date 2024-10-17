@@ -35,12 +35,11 @@ As a [reminder](../progress.html), progress meetings will
 
 ::: instruction
 
-Contact your tutor to arrange the meeting now.
+Agree with 1 or 2 other students that you will attend the meeting with them. You should agree who you will pair-up with from the students in your workshop group.
 
-A good way to do this is to:
+You tutor will have given you instruction on how to arrange the meeting (if you haven't heard from them, drop them an email).
 
-- email your tutor with a few suggested dates and times
-- CC in the other student(s) who will be attending. You should agree who you will pair up with among the students in your tutor/workshop group.
+Coordinate with the other students to set the agenda and time for the meeting.
 
 :::
 
@@ -56,7 +55,7 @@ Part 1
 1.  Make a list of 3 things you want to discuss in the meeting (see suggestions below)
 2.  If you like, get feedback on your proposed agenda from Psybot
 
-[Record the agenda for the meeting here](https://psybot.llemma.net){.submit-work .btn .btn-primary}
+[Record the agenda for the meeting here](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 
 :::
@@ -100,7 +99,7 @@ After the meeting, all students should make notes on:
 Then, agree among the students in the meeting who will send out an email with notes from the meeting.
 
 
-[Save a copy of the notes from the meeting with Psybot](https://psybot.llemma.net){.submit-work .btn .btn-primary}
+[Save a copy of the notes from the meeting with Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 :::
 
