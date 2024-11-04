@@ -1,9 +1,9 @@
 ---
-title: "Bullshit detection!"
+title: "Junk science detector!"
 subtitle: "Use your psychological knowledge to sniff out bullshit"
 author: Julie Ji
-description: Put your research methods skills into practice to sniff out bullshit and work out what sort of evidence we would _actually_ need to make claims commonly seen on social media.
-Week: 11
+description: News articles about psychology findings sometimes seem too good to be true. How do you know if it's junk science?
+Week: 7
 Stage: 1
 categories: [Thinking]
 Release: true
@@ -24,55 +24,87 @@ listing:
 ![](../images/DALL·E 2024-09-11 09.32.25 - bullshit.webp){width="50%"}
 
 
-Detecting bullshit is a key skill in the modern world. The [wikipedia page on Bullshit](https://en.wikipedia.org/wiki/Bullshit) defines it as:
+> We often encounter news articles about psychology findings that seem like it might be too good to be true, from "power poses" to "manifesting" things into reality. How do you know if it’s junk science? 
 
-> statements produced without particular concern for truth, clarity, or meaning, distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth
+The good news is - leveling-up to become an expert consumer of scientific research will be one of the most useful superpowers you will acquire as you gain your degree in psychology!
+
+This tutorial will provide you with an example (fictional) article, and you will be asked to consider whether it is junk science.
 
 
-Thankfully, studying psychology gives us some useful tools to detect bullshit and 
-can help us think about ways to use evidence and reasoning to avoid being misled.
-
-This exercise will put what you've learnt so far into practice. Check back soon for more details.
-
+-----------------------------
 
 
 
+Let’s say a family member forwards you the following article: 
+
+> **"Scientists Discover the Secret to Happiness: It's All About Chocolate!**
+>
+> A groundbreaking new study has revealed the astonishing truth about happiness: the key lies in chocolate consumption. The study involved a group of volunteers who were given daily doses of chocolate for several weeks. Researchers monitored the participants' mood levels throughout the study. The results were astonishing: those who consumed chocolate regularly reported significantly higher levels of happiness and well-being compared to those who did not. The findings of this study suggest that incorporating chocolate into your diet may be a delicious and effective way to improve your overall well-being."
 
 
+You decide to track down the original research article to find out for yourself whether its conclusions are valid, so you can tell your family member whether they should start a chocolate binge or not.
 
-<!--
+You read over the Method section and find that the study was a correlational study which involved providing all participants with a large amount of chocolate at the start of a two-week period the study, and participants were asked to complete daily surveys about how much chocolate they ate that day, and what their happiness was that day on average. To analyse the results, the researchers simply correlated the amount of chocolate eaten with the happiness ratings on each day. The Results showed a positive correlation between amount of chocolate consumed and happiness ratings.  
 
-# Overview
 
-XXX
-
-# Instructions
-
-::: instruction
-1.  XXX
-2.  ...
-3.  ...
-:::
-
-# Recording your work
 
 ::: instruction
 
-1. XXX
-2. ...
-3. ...
+Think about the claim in the headline and the study design described in the article.
 
-[Show Psybot your work here](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
+- What might be some limitations to this design?
 
-When you add your practice upload an audio file of your voice note. Psybot will listen to the audio and give you feedback.
+- What are some external factors that could be confounded and influence both chocolate consumption and happiness?
+
+- How might you design the study if you wanted to know whether chocolate eating causes happiness?
+
+
+
+Make some notes on these questions. What have you learnt so far on the course that would help decide if this is junk science or useful information?
+
+[Add your notes to Psybot for instant feedback](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
+
 :::
 
-# Extension activities
-
-XXX
-
-::: {#sample-listings}
-:::
 
 
--->
+
+<!--- 
+
+
+
+# Information for giving feedback to students on the task:
+
+
+## What might be some limitations to this design?
+
+Lack of Control Group: Without a control group that does not receive chocolate, it’s difficult to determine whether the observed effects are due to chocolate consumption or some other confounding variable.
+Correlation vs. Causation: The study is correlational, meaning it can only show that there is a relationship between chocolate consumption and happiness, not that one causes the other. Other factors could be influencing both variables.
+
+
+## What are some external factors that could be confounded and influence both chocolate consumption and happiness?
+
+Stress Levels: Participants might eat more chocolate when they are stressed, and stress relief could lead to higher happiness ratings.
+
+Social Interactions: Eating chocolate might coincide with social activities (e.g., sharing chocolate with friends), which can boost happiness.
+
+Physical Activity: Levels of physical activity can influence mood. Participants who are more active might also indulge in chocolate as a treat, leading to higher happiness ratings.
+
+Personal Preferences: Individuals who enjoy chocolate more might naturally feel happier when they consume it, leading to a positive correlation.
+
+Daily Events: Positive or negative events occurring on specific days can impact both chocolate consumption and happiness ratings.
+
+Demand Characteristics: Participants might have guessed the study's hypothesis and adjust their behaviour or responses accordingly, i.e. they guessed that the study is about chocolate eating and happiness, and therefore when they ate more chocolate, they reported they were happier (because they think they “should” be happier).
+
+
+## How might you design the study if you wanted to know whether chocolate eating causes happiness?
+
+Randomly assign participants to either a chocolate consumption group or a control group, such as a fruit eating group (to control for eating sweet things), or mood diary only group (to control for the effects of reporting one’s mood as well as natural fluctuations in happiness over time). It would be even better to have more than one chocolate consumption groups, so you can vary the amount of chocolate they must consume per day to see if consuming higher amounts of chocolate leads to greater happiness than lower amounts. You will also want to ensure that the participants randomly assigned to each group are similar in background variables, such as gender, age, physical health, baseline happiness, etc. 
+
+
+
+
+
+
+
+--> 

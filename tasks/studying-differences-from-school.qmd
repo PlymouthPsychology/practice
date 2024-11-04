@@ -3,7 +3,7 @@ title: "Differences between university and school"
 subtitle: "How to make the most of your university course"
 author: Sean Fallon
 description: "There are big differences between studying at school and university. In this exercise we think about what they are and how they affect you, and make plans to make the most of university life."
-Week: 7
+Week: 11
 Release: true
 Stage: 1
 categories: studying
@@ -46,7 +46,7 @@ XXX
 
 XXXINSTRUCTION, and upload to Psybot as usual.
 
-[Record your work here](https://psybot.llemma.net){.submit-work .btn .btn-primary}
+[Record your work here](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 # Extension activities
 
