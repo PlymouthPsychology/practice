@@ -3,7 +3,7 @@ title: "Prepare for your oral assessment"
 subtitle: "Practice for the PSYC423 oral assessment."
 author: Julie Ji
 description: Next week you will need to describe your PSYC423 project to your tutor. This section is practice for that.
-Week: 10
+Week: 9
 Stage: 1
 categories: [Speaking]
 Release: true
@@ -24,50 +24,268 @@ listing:
 
 ![](../images/DALL·E 2024-09-11 09.27.27 - viva prep.webp){width=50%}
 
-# Overview
 
-This task will help you prepare for the individual oral assessment with your tutor at the end of semester 1. 
+This task will help you prepare for the individual oral assessment with your tutor at the end of semester 1. Your oral assessment involves a 5-minute conversation with your tutor about the study you ran for PSYC423. 
 
-Check back for more details closer to the time.
+In this conversation, you will need to tell your tutor 4 things: 1) what the study was about, 2) what methods you used, 3) what analysis you ran and why, and 4) what you found and what that means, all in 5 minutes!
 
 
-<!--
+# Practice task overview
+
+To help you practice for the viva, I have included information relevant to each of the four parts from an experimental study about the use of VR (virtual reality) in reducing public speaking anxiety. 
+
+You will need to figure out:
+
+A.	Which details are important enough to include if you were telling your tutor about the study
+
+B.	In which order these details should be told
+You will then record yourself talking about these details as if you are telling your tutor about the study.
+
+
+
+
+# Details of the study to summarise
+
+
+::: instruction
+
+Use the information below to make your practice presentation.  Some of the information is relevant, some less-important, and some is irrelevant for a short 5-minute presentation. Choose the points you want to cover, and prioritise them carefully.
+
+:::
+
+## What was the study about:
+
+- The study aimed to evaluate the effectiveness of 360° Video Virtual Reality Exposure Therapy (VRET) as a stand-alone intervention for public speaking anxiety (PSA).
+- Public Speaking Anxiety (PSA) is defined as experiencing high levels of distress when delivering, or anticipating the delivery, of a speech in front of a group of people.
+- PSA is recognized within the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) as a specific ‘performance only’ subtype of Social Anxiety Disorder (SAD), and it can be diagnosed by a clinical psychologist. 
+- Public speaking anxiety (PSA) has been a topic of interest since the early 20th century.
+- Up to 75% of the population experience public speaking anxiety, including famous historical figures.
+- PSA and SAD are highly interrelated. Both PSA and SAD are associated with negative occupational, educational, and social consequences.
+- Several studies have investigated the efficacy of various psychological interventions for PSA, with exposure therapy being particularly effective. 
+- Exposure therapy involves systematically progressing through a hierarchy of fearful situations to reduce fear responses. 
+- Recent trends include using virtual reality (VR) for delivering exposure therapy, which has been shown to be effective.
+- Previous studies had not investigated whether VR Exposure Therapy’s effectiveness depends on whether the participant is exposed to a VR public speaking event with versus without audiences.
+- The study hypothesised that with VR exposure with an audience will produce greater reductions in PSA due to higher fear activation.
+ 
+ 
+## What did the study do?
+
+- The study recruited people reporting high levels of self-reported public speaking anxiety (PSA), defined as scoring 60 or higher on the Public Speaking Anxiety Scale. 
+- Participants had to be willing to attend four intervention sessions in person, and to wait until the end of the study for their compensation.
+- Initial Screening: Participants were screened to ensure they met the inclusion criteria for PSA severity and general health.
+- Participants completed a series of baseline assessments to measure their levels of public speaking anxiety (PSA), social anxiety, and fear of negative evaluation (FNE).
+
+- Participants were randomly assigned to one of two groups: 
+    - one group was 360° VRET with Audience Stimuli where participants experienced virtual reality scenarios that included an audience, designed to simulate a public speaking environment. 
+    - The second group was assigned 360° VRET with Empty Room Stimuli: where participants experienced virtual reality scenarios with empty rooms, providing a less anxiety-provoking environment.
+
+- The sessions were structured to gradually increase in difficulty, helping participants build tolerance and reduce anxiety over time.
+- After completing the VRET sessions, participants were reassessed using the same measures as the baseline to evaluate changes in PSA, social anxiety, and FNE.
+- The IT department helped to set up the VR equipment and the cafeteria staff for providing refreshments during the sessions.
+- Participants received a certificate of participation at the end of the study.
+
+## What analysis did they conduct and why?
+
+- Data from the pre- and post-treatment assessments were collected and analysed to determine the effectiveness of the intervention and the impact of different video content.
+
+- To compare the effectiveness of 360° VRET with audience stimuli versus empty room stimuli, independent t-tests or ANOVA were used to compare the post-treatment scores between the two groups.
+
+- Statistical analyses were conducted using SPSS version 25.
+
+
+## What did they find and what does it mean?
+
+- Participants who experienced 360° VRET with audience stimuli showed a significant reduction in PSA. 
+- Participants who experienced 360° VRET with empty room stimuli also showed a reduction in PSA, but the effect was less pronounced compared to the audience group.
+- The results indicate that the presence of an audience in the VR scenarios led to greater fear activation and, consequently, more significant reductions in anxiety.
+- Some participants provided feedback on their experience with the VR equipment, mentioning that they found the headsets comfortable.
+- The author’s personal reflection on their experience conducting the study was that they found the process rewarding and insightful.
+
+
+
+
+
+
+::: instruction
 
 # Instructions
 
-::: instruction
+From the text above, figure out:
 
-1. XXX
-2. ...
-3. ...
+A.	Which details are important enough to include if you were telling your tutor about the study
 
-:::
-
-# Recording your work
-
-::: instruction
-Record your practice using
-
--   the "Voice Memos" app on iPhone, or
--   the "Voice Recorder" app on Android
-
-We suggest you don't use WhatsApp because it's harder to upload later.
+B.	In which order these details should be told (that is, prioritise what is most important, and think about the logical order of the information for someone who is unfamiliar with the study).
 
 
-[Show Psybot your work here](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
+Record yourself talking about these details as if you are telling your tutor about the study.
 
-When you add your practice upload an audio file of your voice note. Psybot will listen to the audio and give you feedback.
 
+[Upload your work to Psybot for feedback](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
+
+
+
+(Note: if you don't want to actually record yourself, you can write out what you would say instead and add this to PsyBot. It's good practice to try it spoken aloud though!)
 :::
 
 
-# Extension activities
-
-XXX
 
 
-::: {#sample-listings}
-:::
+
+
+<!---
+
+Feedback from Psybot
+
+
+
+In the tasks students were given a long list of points from a study on VR exposure therapy.
+
+From the text whey were asked to figure out:
+
+A.	Which details are important enough to include if you were telling your tutor about the study
+
+B.	In which order these details should be told (that is, prioritise what is most important, and think about the logical order of the information for someone who is unfamiliar with the study).
+
+
+They recorded a short presentation which has been transcribed. WE will give them feedback on this.
+
+
+
+# Information provided to students
+
+This info was given to students. Some was relevant. Other points are less relevant or irrelevant.
+
+
+## What was the study about
+
+(RELEVANT) •	The study aimed to evaluate the effectiveness of 360° Video Virtual Reality Exposure Therapy (VRET) as a stand-alone intervention for public speaking anxiety (PSA).
+(RELEVANT) •	Public Speaking Anxiety (PSA) is defined as experiencing high levels of distress when delivering, or anticipating the delivery, of a speech in front of a group of people.
+(RELEVANT) •	PSA is recognized within the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) as a specific ‘performance only’ subtype of Social Anxiety Disorder (SAD), and it can be diagnosed by a clinical psychologist. 
+(RELEVANT) •	Public speaking anxiety (PSA) has been a topic of interest since the early 20th century.
+(RELEVANT) •	Up to 75% of the population experience public speaking anxiety, including famous historical figures.
+(RELEVANT) •	PSA and SAD are highly interrelated. Both PSA and SAD are associated with negative occupational, educational, and social consequences.
+
+
+(IRRELEVANT) •	Several studies have investigated the efficacy of various psychological interventions for PSA, with exposure therapy being particularly effective. 
+(IRRELEVANT) •	Exposure therapy involves systematically progressing through a hierarchy of fearful situations to reduce fear responses. 
+(IRRELEVANT) •	Recent trends include using virtual reality (VR) for delivering exposure therapy, which has been shown to be effective.
+(IRRELEVANT) •	Previous studies had not investigated whether VR Exposure Therapy’s effectiveness depends on whether the participant is exposed to a VR public speaking event with versus without audiences.
+(IRRELEVANT) •	The study hypothesised that with VR exposure with an audience will produce greater reductions in PSA due to higher fear activation.
+
+
+
+## What did the study do:
+
+(IRRELEVANT) •	The study recruited people reporting high levels of self-reported public speaking anxiety (PSA), defined as scoring 60 or higher on the Public Speaking Anxiety Scale. 
+(RELEVANT)  •	Participants had to be willing to attend four intervention sessions in person, and to wait until the end of the study for their compensation.
+•	Initial Screening: Participants were screened to ensure they met the inclusion criteria for PSA severity and general health.
+(IRRRLEVANT)  •	Participants completed a series of baseline assessments to measure their levels of public speaking anxiety (PSA), social anxiety, and fear of negative evaluation (FNE).
+(RELEVANT)  •	Participants were randomly assigned to one of two groups: 
+(RELEVANT) o	one group was 360° VRET with Audience Stimuli where participants experienced virtual reality scenarios that included an audience, designed to simulate a public speaking environment. 
+(RELEVANT) o	The second group was assigned 360° VRET with Empty Room Stimuli: where participants experienced virtual reality scenarios with empty rooms, providing a less anxiety-provoking environment.
+(RELEVANT) •	The sessions were structured to gradually increase in difficulty, helping participants build tolerance and reduce anxiety over time.
+(RELEVANT) •	After completing the VRET sessions, participants were reassessed using the same measures as the baseline to evaluate changes in PSA, social anxiety, and FNE.
+(IRRRLEVANT) •	The IT department helped to set up the VR equipment and the cafeteria staff for providing refreshments during the sessions.
+(IRRRLEVANT) •	Participants received a certificate of participation at the end of the study.
+
+
+## What analysis did they conduct and why:
+(RELEVANT) •	Data from the pre- and post-treatment assessments were collected and analysed to determine the effectiveness of the intervention and the impact of different video content.
+(RELEVANT)  •	To compare the effectiveness of 360° VRET with audience stimuli versus empty room stimuli, independent t-tests or ANOVA were used to compare the post-treatment scores between the two groups.
+(IRRELEVANT) •	Statistical analyses were conducted using SPSS version 25.
+
+
+## What did they find and what does it mean:
+
+(RELEVANT) •	Participants who experienced 360° VRET with audience stimuli showed a significant reduction in PSA. 
+(RELEVANT) •	Participants who experienced 360° VRET with empty room stimuli also showed a reduction in PSA, but the effect was less pronounced compared to the audience group.
+(RELEVANT) •	The results indicate that the presence of an audience in the VR scenarios led to greater fear activation and, consequently, more significant reductions in anxiety.
+(IRRELEVANT) •	Some participants provided feedback on their experience with the VR equipment, mentioning that they found the headsets comfortable.
+(IRRELEVANT) •	The author’s personal reflection on their experience conducting the study was that they found the process rewarding and insightful.
+
+
+
+
+# A good/model student answer
+
+In the task students need to prioritise the points. A good answer would prioritise the following:
+
+1. What the study was about:
+The study aimed to evaluate the effectiveness of 360° Video Virtual Reality Exposure Therapy (VRET) as a stand-alone intervention for public speaking anxiety (PSA).
+Public Speaking Anxiety (PSA) is a high level of distress experienced when delivering or anticipating a speech.
+PSA is a subtype of Social Anxiety Disorder (SAD) and can have negative consequences on work, education, and social life.
+
+2. What the study did:
+Participants were assigned to one of two groups:
+The first group received 360° VRET with an audience in the VR environment.
+The second group received 360° VRET with empty rooms.
+Sessions gradually increased in difficulty to help reduce anxiety.
+After the intervention, participants were reassessed to measure changes in PSA.
+
+3. What analysis they conducted and why:
+Pre- and post-treatment assessments were analyzed to measure the intervention’s effectiveness.
+Independent t-tests or ANOVA compared post-treatment scores between the audience and empty-room groups to assess the impact of audience presence.
+
+4. What they found and what it means:
+The audience group showed a significant reduction in PSA compared to the empty-room group.
+This suggests that VR scenarios with an audience trigger greater fear activation, leading to more effective anxiety reduction.
+
+
+# STUDENT'S WORK
+
+This is the student's attempt at this task:
+
+----------------
+
+{source}
+
+----------------
+
+
+
+# YOUR TASK NOW -- GIVE FEEDBACK
+
+Give feedback to students on their work
+
+- If the student included irrelevant or less/relevant information be sure to point this out and explain why it is not necessary or important to explain the study in a brief 5 minute presentation.
+
+- Did the student present points in a logical order? Would it make sense to a listener who is unfamiliar with the study?
+
+Emphasise the importance of prioritising KEY information, and presenting in a logical order.
+
+Give fair minded feedback -- identifying shortcomings but be encouraging where possible.
+
+Respond in a few short paragraphs of feedback in UK English prose.
+
+
+
+
+
+
+
+
+
+
+# MODEL ANSWERS
+
+
+Good Student Response
+"This study aimed to assess the effectiveness of using 360° Video Virtual Reality Exposure Therapy (VRET) for reducing public speaking anxiety (PSA), which is distress related to speaking in front of an audience. PSA is part of Social Anxiety Disorder (SAD) and can impact social, educational, and career opportunities.
+For this study, participants with high PSA were assigned to two different VR exposure settings: one with an audience in the virtual environment and another with an empty room. Both groups went through multiple VR sessions, gradually increasing in difficulty, which is meant to help them manage anxiety. After completing the sessions, their anxiety levels were reassessed.
+The researchers analyzed pre- and post-treatment scores to see if VR with an audience had a greater effect on reducing anxiety compared to VR in an empty room. Results showed that participants in the audience group had a significantly greater reduction in PSA, likely due to a higher fear response, which enhanced the exposure effect.
+Overall, these findings suggest that VR scenarios with an audience might be more effective in reducing public speaking anxiety compared to empty-room VR sessions."
+
+
+
+Bad Student Response
+"This study was about public speaking anxiety and used VR. PSA is a type of anxiety. They used two groups of people: one with an audience and one without an audience. Both groups did sessions in VR and had to go through the steps. The study checked their anxiety before and after the sessions.
+They used some stats to see if there was a difference between the groups. The group with an audience did better. In the end, it showed that VR with an audience can help with PSA."
+
+
+In this example:
+The good student answers clearly and concisely, covering all essential points in a logical order.
+The bad student answer is vague, misses key details (like the purpose of using VR exposure therapy and the reasoning behind using different groups), and lacks structure.
 
 
 -->
+
