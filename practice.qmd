@@ -18,10 +18,9 @@ You might have heard of the "10,000 hour rule"; it suggests that it takes 10,000
 
 ::: {.column-margin}
 
-
 If you are looking for a task to practice now, see the
 
-[Full list of weekly tasks](weekly.html){.btn .btn-outline-primary}
+[All practice tasks](tasks.html){.btn .btn-outline-primary}
 
 :::
 
@@ -58,45 +57,46 @@ The "Practice" element of this scheme is designed to help you develop some of th
 and skills you need to develop your own deliberate practice.
 
 
-# Themes
+# Categories
 
-Practice activities are related to five core themes:
+Practice activities are organised into six categories:
 
-1.  [Studying](theme-studying.html): What it means to be a "good student".
+1.  [Studying](theme-studying.html): Developing effective study skills and learning strategies.
 
-2.  [Thinking](theme-thinking.html): How to think like a psychologist.
+2.  [Thinking](theme-thinking.html): Building critical thinking and psychological reasoning skills.
 
-3.  [Writing](theme-writing.html): Improved writing through intentional practice.
+3.  [Writing](theme-writing.html): Improving academic writing through practice.
 
-4.  [Speaking](theme-speaking.html): Confidence in oracy.
+4.  [Speaking](theme-speaking.html): Building confidence in oral communication.
 
-5.  [Growth](theme-growth.html): Personal development and planning.
+5.  [Growth](theme-growth.html): Personal development and career planning.
+
+6.  [Assessment Practice](theme-assessment.html): Formative practice for summative assignments.
 
 # How practice tasks work {#practice-format}
 
--   Each week, in the [Briefing](briefings.html), a member of staff will explain the task for the week.
+-   Tasks are available for self-paced completion. Staff may recommend specific tasks when they relate to current lecture or workshop content.
 
--   Some tasks must be completed individually. Others need cooperation among your tutor group.
+-   Some tasks are designed for individual work, others involve collaboration.
 
--   The main task should take no more than 30 minutes. [Extension activities or extra practice](extensions.html) will be available if you for to focus on a particular area.
+-   Most tasks should take no more than 30 minutes, though some assessment practice tasks may take longer.
 
--   When you have completed the task, you will upload your work to [Psybot](psybot.html) for immediate feedback, and to keep a record of your learning.
+-   When you have completed a task, you can upload your work to [Psybot](psybot.html) for immediate feedback.
 
-All the materials needed for the tasks are available on this website. Tasks are linked from the theme pages in the menu, and from the [weekly list of tasks](weekly.html).
+All materials needed for the tasks are available on this website. Tasks are organised by category and can be found on the [main tasks page](tasks.html).
 
 # Recording your practice
 
+-   You can record your practice work with [PsyBot](psybot.html#psylab) to receive feedback.
 
--   Each week, you will record your practice with [PsyBot](psybot.html#psylab).
+-   When you upload work, Psybot provides instant feedback, comparing your work to model answers or asking follow-up questions to extend your thinking.
 
--   When you upload this work, Psybot will provide instant feedback. For example, we might compare your answer to an 'ideal' answer written by staff. Or it may ask you some followup questions to extend your thinking.
-
--   You tutor will be able to see the work you have uploaded to PsyBot, and the feedback you were given. We encourage students to visit staff in office hours to review their work, or if they need further help or clarification.
+-   Staff can see the work you've uploaded and the feedback you received. Visit staff during office hours to discuss your work or seek additional help.
 
 
 # Getting human feedback
 
-In addition to progress meetings, all staff in the school offer two "office hours" each week during which students can ask questions or seek feedback on the work they have done.
+All staff in the school offer "office hours" each week where students can ask questions or seek feedback on their practice work.
 
 -   [Find office hours for all staff on the DLE here](https://dle.plymouth.ac.uk/course/view.php?id=66067)
 

@@ -3,24 +3,13 @@ title: "FAQs"
 ---
 
 
-#### When are the weekly briefings?
+#### Q: How do I know which practice tasks to complete?
 
-Mondays at 10am. [See the zoom link here](https://dle.plymouth.ac.uk/mod/url/view.php?id=1840804&forceview=1).
+Practice tasks are self-paced and can be completed in any order. Staff may recommend specific tasks when they relate to current lecture or workshop content. You can browse all tasks by [category](tasks.html) or explore specific themes using the menu.
 
+#### Q: Can I get help with practice tasks?
 
-
-
-
-#### Q: What should we discuss in my progress meetings?
-
-It's up to you! However we would suggest topics like:
-
-- reviewing the practice tasks from this site, and other work you have submitted
-- questions about your understanding of the course material
-- preparation for assessment and revision
-- career planning and plans for further study
-- any concerns you have about the course
-- any feedback you have about the course
+Yes! All staff offer office hours where you can discuss your practice work. You can also upload completed tasks to [PsyBot](psybot.html) for immediate AI feedback, or visit staff during their scheduled office hours for more detailed support.
 
 
 #### Q: Are the practice tasks compulsory?
@@ -35,4 +24,4 @@ The practice tasks are an integral part of your degree. Skipping them won't caus
 
 -   your ability to practice regularly and reflect and act on feedback is a good indicator of your ability as a student. In stage 3, this information may be used to inform decisions about placements, and in stage 4 potential supervisors will use this information as part of their decision about which students to accept onto their research projects
 
--   practice tasks and progress meetings are the main ways your tutor can get to know you, and will greatly help them when writing a job reference, or academic reference for further study.
+-   completing practice tasks and engaging with feedback shows your commitment to learning, which tutors value when writing job references or academic references for further study.

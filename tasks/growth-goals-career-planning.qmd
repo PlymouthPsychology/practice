@@ -7,6 +7,7 @@ Week: 12
 Stage: 1
 Release: true
 categories: [Growth]
+priority: 12
 reading-time: 15 minutes
 ---
 
@@ -40,7 +41,7 @@ XXX
 2. ...
 3. ...
 
-[Show Psybot your work here](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
+[Show Psybot your work here](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 When you add your practice upload an audio file of your voice note. Psybot will listen to the audio and give you feedback.
 :::

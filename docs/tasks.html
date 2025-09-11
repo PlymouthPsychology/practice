@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Briefing, Practice &amp; Progress - Notes for staff on first stage 1 progress meeting</title>
+<title>Psychology Practice Tasks - Practice Tasks</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,7 +70,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-subtitle','listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-title","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -84,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
     <img src="./images/uop-shield.png" alt="" class="navbar-logo">
     </a>
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Briefing, Practice &amp; Progress</span>
+    <span class="navbar-title">Psychology Practice Tasks</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -98,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">FAQ</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./weekly.html"> 
+    <a class="nav-link" href="./tasks.html"> 
 <span class="menu-text">Tasks</span></a>
   </li>  
   <li class="nav-item">
@@ -117,7 +177,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Notes for staff on first stage 1 progress meeting</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./tasks.html">Practice Categories</a></li><li class="breadcrumb-item"><a href="./tasks.html">All Tasks</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -148,20 +208,8 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./briefings.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Briefings</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./practice.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Practice</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./progress.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Progress</span></a>
+ <span class="menu-text">About Practice</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -175,7 +223,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Practice themes</span></a>
+ <span class="menu-text">Practice Categories</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -183,8 +231,8 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./weekly.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week-by-week list</span></a>
+  <a href="./tasks.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">All Tasks</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -217,6 +265,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Growth</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./theme-assessment.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Assessment Practice</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -246,16 +300,16 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#week-12-gentle-introductory-meeting-15-mins" id="toc-week-12-gentle-introductory-meeting-15-mins" class="nav-link active" data-scroll-target="#week-12-gentle-introductory-meeting-15-mins">Week 1/2: Gentle introductory meeting, 15 mins</a></li>
+  <li><a href="#categories" id="toc-categories" class="nav-link active" data-scroll-target="#categories">Categories</a></li>
   </ul>
 </nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Growth">Growth <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Speaking">Speaking <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Studying">Studying <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Thinking">Thinking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Writing">Writing <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./tasks.html">Practice Categories</a></li><li class="breadcrumb-item"><a href="./tasks.html">All Tasks</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Notes for staff on first stage 1 progress meeting</h1>
+<h1 class="title">Practice Tasks</h1>
 </div>
 
 
@@ -272,91 +326,284 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="week-12-gentle-introductory-meeting-15-mins" class="level3">
-<h3 class="anchored" data-anchor-id="week-12-gentle-introductory-meeting-15-mins">Week 1/2: Gentle introductory meeting, 15 mins</h3>
-<p>The purpose of this meeting is to</p>
-<ol type="1">
-<li>Make students feel welcome</li>
-<li>Get to know them in a little more detail, including allowing space for them to disclose any concerns or special requirements</li>
-<li>Set expectations for attendance and engagement (e.g.&nbsp;with email)</li>
-</ol>
-<p>Initial meetings will be <em>individual</em> (subsequent meetings will be in pairs/threes).</p>
-<p>We suggest adding more office hours slots to enable students to book a slot.</p>
-<hr>
-<p>Some general questions to ask/topics of conversation to serve these ends:</p>
-<section id="getting-to-know-tutees" class="level6">
-<h6 class="anchored" data-anchor-id="getting-to-know-tutees">Getting to know tutees</h6>
+<p>This page shows all available practice tasks organised by category. Tasks can be completed at your own pace, and some may be recommended by staff when they relate to current lecture or workshop content.</p>
+<section id="categories" class="level3">
+<h3 class="anchored" data-anchor-id="categories">Categories</h3>
 <ul>
-<li>How did you get interested in Psychology?</li>
-<li>Did you study Psychology A level?</li>
-<li>If so, which topics did you enjoy the most?</li>
+<li><strong>Studying</strong>: Developing effective study skills and learning strategies</li>
+<li><strong>Thinking</strong>: Building critical thinking and psychological reasoning skills<br>
+</li>
+<li><strong>Writing</strong>: Improving academic writing through practice</li>
+<li><strong>Speaking</strong>: Building confidence in oral communication</li>
+<li><strong>Growth</strong>: Personal development and career planning</li>
+<li><strong>Assessment Practice</strong>: Formative practice for summative assignments</li>
 </ul>
-<p>Settling in…</p>
-<ul>
-<li>Have they traveled far to come to Plymouth?</li>
-<li>Have the settled in, found friends in halls etc?</li>
-<li>Are they aware of the welcome event</li>
-</ul>
-<p>University information…</p>
-<ul>
-<li>Do they have computing account and card</li>
-<li>Do they have access to the DLE, timetable?</li>
-<li>Do they understand about workshop groups/allocations?</li>
-</ul>
-<p>Expectations…</p>
-<ul>
-<li><em>Tutors</em>: Explain what a personal tutor is for (academic and pastoral support, and a first port of call to access other university services)</li>
-<li><em>Office hours</em>: Remind them about office hours and booking them via the DLE or with you individually</li>
-<li><em>Attendance</em>: Explain the importance of attending monday briefings and workshops</li>
-<li><em>Email/comms</em>: Explain that most university communications will be via email — this needs to be checked daily, and preferably at the start and end of each day. (Could also mention about email ettiquette)</li>
-<li><em>Paid work</em>: Ask how much paid work they do. Remind them that this is a FT course and they will be expected to do around 37 hours per week, including recommended preparation and self study.</li>
-</ul>
-<p>Future directions</p>
-<p>Do they want to be a professional psychologist? Clinical/health /forensic? - Are they aware of the various training pathways for them? - Suggest that is something to investigate during the year, mention www.prospects.ac.uk</p>
-</section>
-<section id="practical-considerations" class="level6">
-<h6 class="anchored" data-anchor-id="practical-considerations">Practical considerations</h6>
-<p>Briefings</p>
-<ul>
-<li>Did they attend the Briefing meeting on Monday morning at 10am on Zoom?</li>
-<li>If so, did they find it useful? (please forward feedback to Ben/Jeremy)</li>
-<li>If not, what prevented them? Encourage future attendance. Briefings will be an important orientation for students through the semester.</li>
-</ul>
-<p>Practice</p>
-<ul>
-<li><p>Make sure students know about this site (<a href="http://plymouthpsychology.github.io/practice/weekly.html" class="uri">http://plymouthpsychology.github.io/practice/weekly.html</a>).</p></li>
-<li><p>Remind them these tasks are designed to be completed weekly</p></li>
-<li><p>PsyBot is an experimental AI tool we are trialing to give targeted feedback. They can upload work to <a href="http://psybot.llemma.net" class="uri">http://psybot.llemma.net</a> to get formative feedback on these tasks (and others in future). Ask them if they tried it.</p></li>
-</ul>
-<p>Future progress meetings</p>
-<ul>
-<li>Mention that next meeting will be in week 5/6</li>
-<li>Students will need to set the agenda for it, and make notes from it</li>
-<li>There is a practice task which covers this</li>
-</ul>
-</section>
-<section id="learning-about-students-choice-of-plymouth" class="level6">
-<h6 class="anchored" data-anchor-id="learning-about-students-choice-of-plymouth">Learning about students’ choice of Plymouth</h6>
-<p>As a school we are also very interested to hear from students on these topics:</p>
-<p>Why Plymouth?</p>
-<ul>
-<li>Was there anything special about the place?</li>
-<li>Was there anything special about the university?</li>
-<li>Was there anything special about the course?</li>
-</ul>
-<p>Open/applicant days?</p>
-<ul>
-<li>What did you like about them?</li>
-<li>Do you have any suggestions for improvements?</li>
-<li>What aspect of your degree are you most excited about?</li>
-</ul>
-<p>Please forward and information gained on these topics to Gustav.</p>
+<div id="sample-listings">
+
+</div>
+
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-categories" data-direction="asc">
+          Categories
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Studying" data-listing-file-modified-sort="1757606900272" data-listing-reading-time-sort="6" data-listing-word-count-sort="1135">
+<a href="./tasks/studying-using-psychology-to-be-better-psychologist.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/pen-mightier.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Using psychology to learn psychology
+</h5>
+<div class="card-subtitle listing-subtitle">
+How should we make notes in lectures? How
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Studying'); return false;">
+Studying
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Studying" data-listing-file-modified-sort="1757427979612" data-listing-reading-time-sort="7" data-listing-word-count-sort="1236">
+<a href="./tasks/studying-note-taking.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/DALL·E 2024-06-14 14.08.02 - A student sits at a desk in a modern classroom, attentively taking notes. The desk has a notebook open, filled with colorful and organized notes, incl.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Make great notes
+</h5>
+<div class="card-subtitle listing-subtitle">
+How to make the most of lectures and workshops.
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Studying'); return false;">
+Studying
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Studying" data-listing-file-modified-sort="1757427979622" data-listing-reading-time-sort="6" data-listing-word-count-sort="1106">
+<a href="./tasks/studying-using-your-notes.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/usingnotes.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Using your notes
+</h5>
+<div class="card-subtitle listing-subtitle">
+How well does your note-taking work for you?
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Studying'); return false;">
+Studying
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Studying" data-listing-file-modified-sort="1757427991278" data-listing-reading-time-sort="5" data-listing-word-count-sort="824">
+<a href="./tasks/studying-spaced-repetition.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/Ebbinghaus2.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Spaced repetition
+</h5>
+<div class="card-subtitle listing-subtitle">
+A memory hack to make revision easy
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Studying'); return false;">
+Studying
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Speaking" data-listing-file-modified-sort="1757428004602" data-listing-reading-time-sort="5" data-listing-word-count-sort="913">
+<a href="./tasks/speaking-describe-lecture.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/Albert_Einstein_sticks_his_tongue_1951.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Describe a lecture in a voice note
+</h5>
+<div class="card-subtitle listing-subtitle">
+Practice this key skill by explaining a lecture slide to a friend
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Speaking'); return false;">
+Speaking
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Writing" data-listing-file-modified-sort="1757428004617" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
+<a href="./tasks/writing-concisely-abstracts.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/papers.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Keep it short
+</h5>
+<div class="card-subtitle listing-subtitle">
+Writing concisely in abstracts.
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Writing'); return false;">
+Writing
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Writing" data-listing-file-modified-sort="1757428004633" data-listing-reading-time-sort="5" data-listing-word-count-sort="847">
+<a href="./tasks/writing-mean-marker.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/DALL·E 2024-09-06 11.57.52 - A terrifying, female professor sitting at a cluttered desk, with an Edgar Allan Poe-inspired gothic atmosphere. The professor has sharp, intense featu.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Think like a mean marker
+</h5>
+<div class="card-subtitle listing-subtitle">
+Remove distractions from your writing.
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Writing'); return false;">
+Writing
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="Speaking" data-listing-file-modified-sort="1757428018372" data-listing-reading-time-sort="12" data-listing-word-count-sort="2369">
+<a href="./tasks/speaking-prepare-viva.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/DALL·E 2024-09-11 09.27.27 - viva prep.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Prepare for your oral assessment
+</h5>
+<div class="card-subtitle listing-subtitle">
+Practice for the PSYC423 oral assessment.
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Speaking'); return false;">
+Speaking
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="Thinking" data-listing-file-modified-sort="1757428018388" data-listing-reading-time-sort="4" data-listing-word-count-sort="789">
+<a href="./tasks/thinking-bullshit-detection.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/DALL·E 2024-09-11 09.32.25 - bullshit.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Junk science detector!
+</h5>
+<div class="card-subtitle listing-subtitle">
+Use your psychological knowledge to sniff out bullshit
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Thinking'); return false;">
+Thinking
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="Growth" data-listing-file-modified-sort="1757428024038" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
+<a href="./tasks/growth-goals-career-planning.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/DALL-E- goalsactions.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Linking goals to actions.
+</h5>
+<div class="card-subtitle listing-subtitle">
+Planning for life and careers.
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Growth'); return false;">
+Growth
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-categories="Growth" data-listing-file-modified-sort="1757429040610" data-listing-reading-time-sort="4" data-listing-word-count-sort="612">
+<a href="./tasks/growth-planning-reference.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/towhom.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Planning your reference
+</h5>
+<div class="card-subtitle listing-subtitle">
+How to plan to make sure your tutor can write you a great reference.
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Growth'); return false;">
+Growth
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1757428056058" data-listing-reading-time-sort="3" data-listing-word-count-sort="487">
+<a href="./tasks/speaking-feedback-demo.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Describe a lecture in a voice note - FEEDBACK DEMO
+</h5>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

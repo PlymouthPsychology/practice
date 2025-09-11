@@ -3,10 +3,9 @@ title: "Differences between university and school"
 subtitle: "How to make the most of your university course"
 author: Sean Fallon
 description: "There are big differences between studying at school and university. In this exercise we think about what they are and how they affect you, and make plans to make the most of university life."
-Week: 11
 Release: true
-Stage: 1
-categories: studying
+categories: [Studying]
+priority: 4
 reading-time: 20 minutes
 # provides a listing of related activities
 listing:

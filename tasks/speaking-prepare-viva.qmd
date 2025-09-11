@@ -3,9 +3,8 @@ title: "Prepare for your oral assessment"
 subtitle: "Practice for the PSYC423 oral assessment."
 author: Julie Ji
 description: Next week you will need to describe your PSYC423 project to your tutor. This section is practice for that.
-Week: 9
-Stage: 1
 categories: [Speaking]
+priority: 10
 Release: true
 reading-time: 15 minutes
 # provides a listing of related activities
@@ -102,7 +101,7 @@ Use the information below to make your practice presentation.  Some of the infor
 - Participants received a certificate of participation at the end of the study.
 
 
-## What analysis did they conduct and why?
+## What analysis did they conduct and why?
 
 - Data from the pre- and post-treatment assessments were collected and analysed to determine the effectiveness of the intervention and the impact of different video content.
 

@@ -4,13 +4,13 @@ listing:
   contents: "tasks/*.qmd"
   type: grid
   categories: true
-  fields: [title, subtitle, image, date]
-  sort-ui: [title]
+  fields: [title, subtitle, image]
+  sort-ui: [priority, title]
   filter-ui: [title]
   page-size: 50
   sort: 
-    - "Week"
-    - "title desc"
+    - "priority"
+    - "title"
   include:
     categories: "{Writing}*"
 ---

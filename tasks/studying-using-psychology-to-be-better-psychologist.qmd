@@ -3,9 +3,8 @@ title: "Using psychology to learn psychology"
 subtitle: "How should we make notes in lectures? How "
 author: Sean Fallon
 description: "The goal of this Tutorial task is to examine how we should approach learning in Psychology, and whether we can use evidence to change our habits."
-Week: 1
-Stage: 1
-categories: studying
+categories: [Studying]
+priority: 1
 reading-time: 20 minutes
 # provides a listing of related activities
 listing:
@@ -149,7 +148,7 @@ The task is to:
 
 When complete, upload your answer to Psybot to get some feedback.
 
-[Show your work to Psybot](https://psybot.llemma.net){.submit-work .btn .btn-primary}
+[Show your work to Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 :::
 

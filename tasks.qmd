@@ -1,0 +1,32 @@
+---
+title: "Practice Tasks"
+listing:
+  contents: "tasks/*.qmd"
+  type: grid
+  categories: true
+  fields: [title, subtitle, image, categories]
+  sort-ui: [title, categories, priority]
+  filter-ui: [title, categories]
+  page-size: 50
+  sort: 
+    - "priority"
+    - "title"
+    - "categories"
+  exclude:
+    extension: true
+    Release: false
+---
+
+This page shows all available practice tasks organised by category. Tasks can be completed at your own pace, and some may be recommended by staff when they relate to current lecture or workshop content.
+
+### Categories
+
+- **Studying**: Developing effective study skills and learning strategies
+- **Thinking**: Building critical thinking and psychological reasoning skills  
+- **Writing**: Improving academic writing through practice
+- **Speaking**: Building confidence in oral communication
+- **Growth**: Personal development and career planning
+- **Assessment Practice**: Formative practice for summative assignments
+
+::: {#sample-listings}
+:::

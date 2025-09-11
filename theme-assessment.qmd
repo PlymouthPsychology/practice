@@ -1,0 +1,21 @@
+---
+title: "Assessment Practice"
+listing:
+  contents: "tasks/*.qmd"
+  type: grid
+  categories: false
+  fields: [title, subtitle, image]
+  page-size: 20
+  sort: 
+    - "priority"
+    - "title"
+  include:
+    categories: "*Assessment Practice*"
+---
+
+These tasks provide formative practice for elements of your summative assignments. Each task focuses on a specific skill or component that you'll need to master for your assessed work.
+
+Many of these tasks include opportunities to receive AI-powered formative feedback on your work before submitting your actual assignments.
+
+::: {#sample-listings}
+:::

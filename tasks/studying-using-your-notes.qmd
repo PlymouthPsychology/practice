@@ -3,9 +3,8 @@ title: "Using your notes"
 subtitle: "How well does your note-taking work for you?"
 author: Ben Whalley
 description: "It's helpful to test how well your notes work for you so you can adapt and improve early in the semester."
-Week: 3
-Stage: 1
-categories: studying
+categories: [Studying]
+priority: 3
 reading-time: 20 minutes
 bibliography: ../refs.bib
 ---
@@ -50,7 +49,7 @@ So, this task helps not just with memorizing facts, but also with connecting ide
 
 # Recording your work
 
-[Record your explanation AND reflection with Psybot for instant feedback](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
+[Record your explanation AND reflection with Psybot for instant feedback](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 
 <!--

@@ -3,10 +3,9 @@ title: "Reciprocating feedback"
 subtitle: "YYY"
 author: Sean Fallon
 description: "DDD"
-# Week: 99
-Stage: 1
 Release: false
-categories: ["growth", "studying"]
+categories: [Growth]
+priority: 99
 reading-time: 20 minutes
 # provides a listing of related activities
 listing:
@@ -18,7 +17,7 @@ listing:
   include:
     extension: true
     # REMEMBER TO UPDATE THIS FOR THE ACTIVITY - could include multiple categories
-    categories: "{studying,growth}*"
+    categories: "{growth}*"
 ---
 
 ![](../images/DALL·E 2024-09-10 10.22.40 - Areciprocating feedback copy.png){width=60%}

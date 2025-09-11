@@ -2,25 +2,110 @@
 title: "Planning your reference"
 subtitle: "How to plan to make sure your tutor can write you a great reference."
 description: How to plan to make sure your tutor can write you a great reference
-# Week: 99
-Stage: 1
-Release: false
+Release: true
 categories: [Growth]
-reading-time: 15 minutes
+priority: 18
+reading-time: 20 minutes
 ---
 
 ![](../images/towhom.png){width="50%"}
 
-# Planning your reference
+# Overview
 
-You need to think about your reference early on in your time at university. You need to plan to make sure your tutor can write you a great reference. Here are some tips to help you plan your reference.
+Getting a strong academic reference is crucial for your future applications, whether for jobs, postgraduate study, or training programmes. But many students only think about references at the last minute. This activity will help you plan ahead to ensure your tutors can write you the best possible reference.
 
--   First, you need to think about who you want to write your reference. You need to choose someone who knows you well and can write a good reference for you — this will typically be your tutor, but could also be a project supervisor from stage 4. *You need to choose someone who can write about your skills, experience, and achievements.*
+A great reference doesn't just happen by accident. It requires planning, building relationships, and giving your reference writer the information they need to showcase your strengths effectively.
 
--   You need to help the reference-writer do a good job for you! Provide as much information as you can about yourself, your skills, experience, and achievements. You should also provide the reference-writer with a copy of the job description or course you are applying for, and highlight anything you would like them to mention.
+## Why references matter
+
+References provide evidence of your academic ability, work ethic, and personal qualities that grades alone cannot capture. They can make the difference between getting an interview and having your application rejected. A well-planned reference will highlight specific examples of your achievements and demonstrate your potential to succeed.
+
+## Who should write your reference?
+
+Choose someone who:
+- Knows your work well (not just your attendance)
+- Has observed your academic and personal development over time
+- Can speak to your relevant skills and experiences
+- Has credibility in their field
+
+This is typically:
+- Your personal tutor
+- A module leader whose seminars you actively participated in
+- Your dissertation supervisor
+- A placement supervisor who worked closely with you
+
+## Building reference-worthy relationships
+
+Strong references come from strong relationships. You need to give your tutors opportunities to observe and remember your best qualities:
+
+- Attend office hours and ask thoughtful questions
+- Contribute meaningfully to seminars and discussions
+- Show initiative in your coursework and research
+- Seek feedback and act on it
+- Communicate professionally in all interactions
+
+# Instructions
 
 :::{.instruction}
 
-In this task we will start the process of planning your reference, and considering what you would like it to say. From there we'll work back to what you'll need to do to ensure it's a good one. Check back for more details soon.
+This activity will help you create a strategic plan for building strong references throughout your university career.
+
+### Part 1: Audit your current situation
+
+Think about your current relationships with academic staff:
+
+1. List all the academic staff who currently know you by name and could identify your work
+2. For each person, rate how well they know you (1-5 scale)
+3. Identify what specific evidence they have of your abilities
+4. Consider what gaps exist in their knowledge of your skills
+
+### Part 2: Create your reference profile
+
+Imagine the ideal reference for your career goals. Write down:
+
+1. **Key qualities** you want highlighted (e.g., analytical thinking, communication skills, reliability, creativity)
+2. **Specific examples** you'd want mentioned (projects, presentations, research, problem-solving instances)
+3. **Career-relevant skills** that match your target job or course requirements
+4. **Personal attributes** that make you stand out
+
+### Part 3: Bridge the gap
+
+Compare your current situation with your ideal reference profile:
+
+1. What evidence do your potential referees currently have about your key qualities?
+2. What opportunities could you create to demonstrate missing skills?
+3. Which staff members are you going to build stronger relationships with?
+4. What specific actions will you take this term to strengthen your reference potential?
+
+### Part 4: Create your reference plan
+
+Develop a concrete action plan:
+
+1. **Relationship building**: Which staff will you prioritise building relationships with?
+2. **Evidence creation**: What opportunities will you seek or create to demonstrate your abilities?
+3. **Timeline**: When will you ask for references, and when do you need to start preparing your referees?
+4. **Information package**: What materials will you provide to help your referees write strong references?
 
 :::
+
+# Recording your work
+
+:::{.instruction}
+
+Create a document outlining your reference strategy and action plan. Include:
+
+- Your current reference audit
+- Your ideal reference profile
+- Your specific action plan for the next academic year
+
+[Submit your reference plan to Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
+
+:::
+
+# Extension activities
+
+**Research your target careers**: Look at job descriptions or course requirements for your intended career path. What qualities and experiences do they repeatedly mention? Use this to refine your reference profile.
+
+**Practice describing your achievements**: Write brief descriptions of your best work, focusing on the skills demonstrated and impact achieved. This will help you provide clear examples to your referees.
+
+**Consider multiple referees**: Different applications may require different types of references. Plan to build relationships with referees who can speak to different aspects of your abilities.

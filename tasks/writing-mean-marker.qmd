@@ -3,10 +3,9 @@ title: "Think like a mean marker"
 subtitle: "Remove distractions from your writing."
 author: Jackie Andrade
 description: "This task helps you think more about the person who is reading your work. You will practice thinking like a very cynical marker and discover how unnecessary phrases or poorly worded sentences can distract from the point the writer is making."
-Week: 9
-Stage: 1
 Release: true
-categories: writing
+categories: [Writing]
+priority: 9
 reading-time: 20 minutes
 # provides a listing of related activities
 listing:
@@ -67,7 +66,7 @@ An amazingly vast array of research [__________] has found affects [__________] 
 
 # Recording your work
 
-[Upload your work to Psybot](https://psybot.llemma.net){.submit-work .btn .btn-primary}
+[Upload your work to Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 
 <!-- # Extension activities -->

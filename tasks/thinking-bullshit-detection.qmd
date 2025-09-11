@@ -6,6 +6,7 @@ description: News articles about psychology findings sometimes seem too good to 
 Week: 7
 Stage: 1
 categories: [Thinking]
+priority: 11
 Release: true
 reading-time: 15 minutes
 # provides a listing of related activities

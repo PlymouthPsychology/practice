@@ -3,10 +3,9 @@ title: "Keep it short"
 subtitle: "Writing concisely in abstracts."
 author: Chris Mitchell
 description: Writing concisely is a valuable skill. It's needed to write good abstractys for practical reports, but it can improve your marks in essays and exams by helping you communicate more effectively.
-Week: 8
 Release: true
-Stage: 1
 categories: [Writing]
+priority: 8
 reading-time: 20 minutes
 # provides a listing of related activities
 # listing:

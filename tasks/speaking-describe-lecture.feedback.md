@@ -85,7 +85,7 @@ Record your "voice note" using
 
 Don't use WhatsApp because it's harder to upload later.
 
-[Upload your recording here](https://psybot.llemma.net/){.submit-work .btn .btn-primary}
+[Upload your recording here](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 When you add your practice, upload an audio file of your voice note. PsyBot will listen to the audio and give you feedback.
 

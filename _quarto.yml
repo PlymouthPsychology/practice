@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Briefing, Practice & Progress"
+  title: "Psychology Practice Tasks"
   navbar:
     background: "#327dbc"
     logo: "images/uop-shield.png"
@@ -11,7 +11,7 @@ website:
       #   text: TLDR
       - href: faqs.qmd
         text: FAQ
-      - href: weekly.qmd
+      - href: tasks.qmd
         text: Tasks
       - href: psybot.qmd
         text: Upload
@@ -21,22 +21,16 @@ website:
     contents:
       - section: "Basics"
         contents:
-          # - href: tldr.qmd
-          #   text: TLDR version
-          - href: briefings.qmd
-            text: Briefings
           - href: practice.qmd
-            text: Practice
-          - href: progress.qmd
-            text: Progress
+            text: About Practice
           - href: faqs.qmd
             text: FAQ
           
           
-      - section: "Practice themes"
+      - section: "Practice Categories"
         contents:
-          - href: weekly.qmd
-            text: Week-by-week list
+          - href: tasks.qmd
+            text: All Tasks
           - href: theme-studying.qmd
             text: Studying
           - href: theme-thinking.qmd
@@ -47,8 +41,8 @@ website:
             text: Speaking
           - href: theme-growth.qmd
             text: Growth
-          # - href: extensions.qmd
-          #   text: Extension activities
+          - href: theme-assessment.qmd
+            text: Assessment Practice
       
       - section: "Staff"
         contents:

@@ -3,10 +3,9 @@ title: "Level up your writing"
 subtitle: "Learn to write clearly by correcting errors made by other students."
 author: Jackie Andrade
 description: "Are you ready for university writing? This exercise is designed to help you write clearly through correcting errors made by other students. We have included some common mistakes that make us smile or groan."
-# Week: 6
-Stage: 1
 Release: false
-categories: writing
+categories: [Writing]
+priority: 5
 reading-time: 20 minutes
 # provides a listing of related activities
 listing:

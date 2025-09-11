@@ -3,78 +3,39 @@ title: "Notes for staff"
 ---
 
 
-This page outlines what Staff need to do to make this system work.
+This page outlines how staff can support the new self-paced practice task system.
 
+# Practice Task System
 
-# Briefings
+The practice tasks are now self-paced and category-based rather than weekly. Students can access all tasks through the [main tasks page](tasks.html) organised by:
 
-Each Monday at 10am, there will be a live [Briefing](briefings.html) to orient students to the work that week. 
+- [Studying](theme-studying.html)
+- [Thinking](theme-thinking.html)  
+- [Writing](theme-writing.html)
+- [Speaking](theme-speaking.html)
+- [Growth](theme-growth.html)
+- [Assessment Practice](theme-assessment.html)
 
-Staff should add any information they'd like to be included in briefings to the relevant Discourse thread in this section of the site:
+# Staff Role
 
-- <https://discourse.psy.plymouth.ac.uk/c/support-resources/briefing/>
+Tutors can support this system by:
 
+- **Recommending relevant tasks**: When topics in your lectures or workshops align with practice tasks, mention them to students
+- **Encouraging PsyBot use**: Students can get instant AI feedback by uploading completed tasks to [PsyBot](psybot.html)
+- **Office hours support**: Use your regular office hours to discuss practice work with students
+- **Feedback collection**: Please forward any student comments about the system to Ben Whalley
 
-# Progress
+# Assessment Practice Tasks
 
+The new [Assessment Practice](theme-assessment.html) category contains tasks designed to provide formative feedback on elements of summative assignments. These tasks:
 
-Staff should meet Stage 1 tutees three times in Semester 1, and Twice in semester 1.
+- Target specific skills needed for assessed work
+- Provide AI-powered formative feedback
+- Help students improve before submitting actual assignments
 
+# Monitoring Progress
 
-## Semester 1
-
-
-### Week 1/2: Gentle introductory meeting, 20 mins
-
-
-[See suggested content here](staff-notes-s1-progress-1.html)
-
-
-### Week 5/6: Student led meeting
-
-[Students set the agenda, see their task here](tasks/growth-planning-progress-meeting.html)
-
-
-### Week 11
-
-Individual oral assessments, followed by a progress meeting (pairs/3 students) to discuss progress and plans for the future.
-
-Staff should book individual assessments with students, and ask them to wait to have their progress meeting in pairs/threes.
-
-- In the previous week students will have completed [this preparatory task](tasks/speaking-prepare-viva.html)
-
-- Details of the assessment itself are found on the PSYC421 DLE pages
-
-
-Progress meeting agenda:
-
-- Student led business
-- Revision suggestions (details TBC)
-- Careers content (details TBC)
-
-
-
-## Semester 2
-
-Weeks and agenda for progress meetings TBC
-
-
-
-
-
-
-
-
-
-# Practice
-
-Tutors are not required to do anything specific for the practice component of the new system, but it would be helpful if tutors:
-
-- Encourage students to complete the [weekly practice tasks listed here](weekly.html)
-- Encourage them to try PsyBot for instant feedback on tasks
-- Collate comments and feedback from students (please forward to Ben Whalley)
-
-In future, tutors will be able to review progress on practice tasks with students during progress meetings. Features to be released soon.
+You can see which tasks students have completed via PsyBot submissions. Students are encouraged to visit office hours to discuss their practice work and any feedback they've received.
 
 
 

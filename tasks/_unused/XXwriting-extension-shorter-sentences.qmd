@@ -3,6 +3,7 @@ title: "(Even) shorter sentences"
 subtitle: "Additional practice at writing concisely"
 extension: true
 categories: [Writing, Extension]
+priority: 50
 reading-time: 20 minutes
 ---
 

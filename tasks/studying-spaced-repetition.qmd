@@ -3,9 +3,8 @@ title: "Spaced repetition"
 subtitle: "A memory hack to make revision easy"
 bibliography: ../refs.bib
 description: Learn to use spaced repetition to beat the forgetting curve and save yourself time when revising. In this activity we download the Anki app and create flashcards to help us remember what we have learnt.
-Week: 4
-Stage: 1
 categories: [Studying]
+priority: 6
 reading-time: 30 minutes
 # provides a listing of related activities
 listing:
@@ -61,7 +60,12 @@ You can create your own flashcards, and Anki schedules a review of the cards at 
 
 3.  Review these flashcards, and keep practicing over the next few weeks.
 
-4.  Tell Psybot how you got on. Write a short note describing how you found the process, and whether you think it will be useful for you in the future.
+4.  [Tell Psybot how you got on](https://psybot.llemma.net/add/). Write a short note describing how you found the process, and whether you think it will be useful for you in the future.
+
+
+[Record your reflection with Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
+
+
 
 :::
 

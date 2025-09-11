@@ -1,8 +1,24 @@
 [
   {
+    "listing": "/theme-growth.html",
+    "items": [
+      "/tasks/growth-goals-career-planning.html",
+      "/tasks/growth-planning-reference.html"
+    ]
+  },
+  {
+    "listing": "/theme-speaking.html",
+    "items": [
+      "/tasks/speaking-describe-lecture.html",
+      "/tasks/speaking-prepare-viva.html"
+    ]
+  },
+  {
     "listing": "/theme-studying.html",
     "items": [
+      "/tasks/studying-using-psychology-to-be-better-psychologist.html",
       "/tasks/studying-note-taking.html",
+      "/tasks/studying-using-your-notes.html",
       "/tasks/studying-spaced-repetition.html"
     ]
   },
@@ -13,39 +29,40 @@
     ]
   },
   {
-    "listing": "/tasks/growth-reciprocating-feedback.html",
+    "listing": "/tasks/thinking-bullshit-detection.html",
     "items": []
   },
   {
-    "listing": "/tasks/studying-differences-from-school.html",
+    "listing": "/tasks/studying-using-psychology-to-be-better-psychologist.html",
     "items": []
-  },
-  {
-    "listing": "/tasks/writing-mean-marker.html",
-    "items": [
-      "/tasks/XXwriting-extension-shorter-sentences.html"
-    ]
-  },
-  {
-    "listing": "/tasks/studying-learning-at-university.html",
-    "items": []
-  },
-  {
-    "listing": "/tasks/studying-spaced-repetition.html",
-    "items": []
-  },
-  {
-    "listing": "/tasks/XXwriting-level-up.html",
-    "items": [
-      "/tasks/XXwriting-extension-shorter-sentences.html"
-    ]
   },
   {
     "listing": "/tasks/studying-note-taking.html",
     "items": []
   },
   {
-    "listing": "/tasks/studying-using-psychology-to-be-better-psychologist.html",
+    "listing": "/tasks.html",
+    "items": [
+      "/tasks/studying-using-psychology-to-be-better-psychologist.html",
+      "/tasks/studying-note-taking.html",
+      "/tasks/studying-using-your-notes.html",
+      "/tasks/studying-spaced-repetition.html",
+      "/tasks/speaking-describe-lecture.html",
+      "/tasks/writing-concisely-abstracts.html",
+      "/tasks/writing-mean-marker.html",
+      "/tasks/speaking-prepare-viva.html",
+      "/tasks/thinking-bullshit-detection.html",
+      "/tasks/growth-goals-career-planning.html",
+      "/tasks/growth-planning-reference.html",
+      "/tasks/speaking-feedback-demo.html"
+    ]
+  },
+  {
+    "listing": "/tasks/studying-spaced-repetition.html",
+    "items": []
+  },
+  {
+    "listing": "/tasks/writing-mean-marker.html",
     "items": []
   },
   {
@@ -57,53 +74,20 @@
     "items": []
   },
   {
-    "listing": "/tasks/thinking-bullshit-detection.html",
-    "items": []
-  },
-  {
     "listing": "/theme-writing.html",
     "items": [
       "/tasks/writing-concisely-abstracts.html",
-      "/tasks/XXwriting-extension-shorter-sentences.html"
-    ]
-  },
-  {
-    "listing": "/weekly.html",
-    "items": [
-      "/tasks/studying-using-psychology-to-be-better-psychologist.html",
-      "/tasks/studying-note-taking.html",
-      "/tasks/studying-using-your-notes.html",
-      "/tasks/studying-spaced-repetition.html",
-      "/tasks/growth-planning-progress-meeting.html",
-      "/tasks/speaking-describe-lecture.html",
-      "/tasks/thinking-bullshit-detection.html",
-      "/tasks/writing-concisely-abstracts.html",
-      "/tasks/speaking-prepare-viva.html",
-      "/tasks/writing-mean-marker.html",
-      "/tasks/studying-differences-from-school.html",
-      "/tasks/growth-goals-career-planning.html"
-    ]
-  },
-  {
-    "listing": "/theme-speaking.html",
-    "items": [
-      "/tasks/speaking-describe-lecture.html",
-      "/tasks/speaking-prepare-viva.html"
+      "/tasks/writing-mean-marker.html"
     ]
   },
   {
     "listing": "/extensions.html",
     "items": [
-      "/tasks/theme-extension-topic-blank.html",
-      "/tasks/XXwriting-extension-shorter-sentences.html"
+      "/tasks/theme-extension-topic-blank.html"
     ]
   },
   {
-    "listing": "/theme-growth.html",
-    "items": [
-      "/tasks/growth-planning-progress-meeting.html",
-      "/tasks/growth-goals-career-planning.html",
-      "/tasks/growth-planning-reference.html"
-    ]
+    "listing": "/theme-assessment.html",
+    "items": []
   }
 ]
