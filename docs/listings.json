@@ -94,5 +94,11 @@
   {
     "listing": "/tasks/assessment-practical-report.html",
     "items": []
+  },
+  {
+    "listing": "/tutorial_guides.html",
+    "items": [
+      "/tutorials/stage1_1.html"
+    ]
   }
 ]

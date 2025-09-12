@@ -47,6 +47,8 @@ website:
       - section: "For Staff"
         contents:
           - href: staff-notes.qmd
+          - href: tutorial_guides.qmd
+            text: Tutorial guides
             
           
 format:

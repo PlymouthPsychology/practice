@@ -1,0 +1,16 @@
+---
+title: "Assessment Practice"
+listing:
+  contents: "tutorials/*.qmd"
+  type: grid
+  categories: false
+  fields: [title, subtitle, image]
+  page-size: 20
+  sort: 
+    - "priority"
+    - "title"
+---
+
+
+::: {#sample-listings}
+:::

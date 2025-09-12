@@ -1,0 +1,146 @@
+---
+title: "Stage 1, Week 2: Using psychology to learn psychology"
+subtitle: "Guide for tutors"
+# author: Ben Whalley
+description: "The goal of this Tutorial task is to examine how we should approach learning in Psychology, and whether we can use evidence to change our habits."
+priority: 1
+---
+
+
+![](../images/pen-mightier.webp){width=33%}
+
+This is based on a [practice task here](../tasks/studying-using-psychology-to-be-better-psychologist.html)
+
+
+
+## Aims
+
+- Build group familiarity 
+- Set tutorial norms
+
+- Model how psychology helps move from hunches --> evidence
+- Discuss what makes *good evidence*.  
+- Practise concise writing
+
+- Reflect on study habits
+- Commit to a note-taking plan
+
+
+
+## Introductions
+
+- **Introductions**: Go round – name, where from. As them to think of one non-psychology interest BUT KEEP TO THEMSELVES FOR A MOMENT.
+
+- **Housekeeping**: how tutorials run, attendance, resources, how to ask for help.  
+
+
+
+## Warm-up: Pictionary
+
+> Icebreaker task illustrates a speed/accuracy tradeoff
+
+
+**Setup:**  
+
+- Two teams (~4 per team)
+- Timed games (suggest 60sec)
+- Each student draws a hobby/interest
+- Teammates guess; 1 point per correct guess. 
+- Rotate
+
+
+**Debrief**  
+
+- Tally up the scores and celebrate!
+- Ask: “When you guessed, what made you confident enough to shout out?” Did some students have a hunch, but kept quiet? 
+- Foreshadow: Mention this kind of speed/accuracy tradeoff is common. XXX WHERE IN STAGE 1 ... PETER??
+
+- Make the link: balancing speed vs accuracy is somewhat like deciding when we have *enough evidence* (i.e. in psychology). 
+
+
+## A question we want to answer
+
+> How should students take lecture notes—handwritten or typed?
+
+**Disucss**: did students use handwritten or typed notes for A-level?
+
+**Prompt:** We/they already have opinions. Today's we look at an experimental study and ask: **"is this evidence strong enough to change our our mind, or our behaviour?"**
+
+
+## Study Snapshot
+
+
+**Handout** the Mueller & Oppenheimer, 2014 excerpt. Make it clear it's not the whole paper.
+
+**Briefly** give time for students to skim the extract and figure.
+
+**Questions for students**:
+
+- Who were the participants?  
+- What did they do?  
+- What was measured?  
+- What was found?
+
+
+**[Answers]**  
+
+- Princeton undergrads
+- Randomised laptop vs longhand
+- Watched 15-min TED talk, took notes “as usual.”  
+- After 30 mins, given *factual* and *conceptual* questions.
+- Results: 
+    - factual ≈ same performance
+    - **conceptual  = lower performnce with laptops vs notes**
+
+
+## How useful was the plot?
+
+**Discuss**: What did the students learn by looking at the plot?
+
+**Prompts**
+
+- What is a z-score? If they don't know does it matter? Discuss how to read papers where they don't understand all the technical details.
+
+- Where are the differences? Are they big enough to matter?  What do we mean by "matter"? How can we judge?
+
+- Why might there be a difference, conceptual > factual? Can they think of topics from A-level which might be relevant here: In the UK syllabus they _could_ have covered:
+    - Depth of processing and impact on memory: do laptops encourage shallow verbatim transcription vs. longhand → elaborative rehearsal?
+    - Encoding specificity for retrieval cues: do handwritten notes create richer cues?
+    
+
+## How good and useful is this evidence? Should we change our habits?
+
+**Discuss**
+
+- Would you bet your exam results on this one study?
+- What else would you want to know?
+
+
+**Decide** 
+
+- "Based on this evidence, what will you try over the next few weeks?
+- Handwriting, laptop, or a mix?
+
+
+**Suggest**
+
+There are practice tasks on this site to encourage students to 
+
+- [Make better notes](../tasks/studying-note-taking.html)
+- [Check how good their notes are](../tasks/studying-using-your-notes.html)
+
+
+
+## Wrap-up
+
+**Go around all students. They need to answer**  
+
+1. What change (if any) they will make next week, and why.  
+2. One limitation of today’s evidence that stood out to them.
+
+
+
+**Remind**
+
+- Regular Monday briefings help them stay on track 
+- PETER???
