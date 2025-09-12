@@ -7,14 +7,8 @@ This page outlines how staff can support the new self-paced practice task system
 
 # Practice Task System
 
-The practice tasks are now self-paced and category-based rather than weekly. Students can access all tasks through the [main tasks page](tasks.html) organised by:
+The practice tasks are now self-paced and category-based rather than weekly. Students can access all tasks through the [main tasks page](tasks.html).
 
-- [Studying](theme-studying.html)
-- [Thinking](theme-thinking.html)  
-- [Writing](theme-writing.html)
-- [Speaking](theme-speaking.html)
-- [Growth](theme-growth.html)
-- [Assessment Practice](theme-assessment.html)
 
 # Staff Role
 
@@ -25,6 +19,7 @@ Tutors can support this system by:
 - **Office hours support**: Use your regular office hours to discuss practice work with students
 - **Feedback collection**: Please forward any student comments about the system to Ben Whalley
 
+
 # Assessment Practice Tasks
 
 The new [Assessment Practice](theme-assessment.html) category contains tasks designed to provide formative feedback on elements of summative assignments. These tasks:
@@ -33,13 +28,11 @@ The new [Assessment Practice](theme-assessment.html) category contains tasks des
 - Provide AI-powered formative feedback
 - Help students improve before submitting actual assignments
 
+
 # Monitoring Progress
 
-You can see which tasks students have completed via PsyBot submissions. Students are encouraged to visit office hours to discuss their practice work and any feedback they've received.
+You can see which tasks your tutees have completed via PsyBot submissions. 
 
+Login to Psybot (https://psybot.llemma.net/) and request a link to login. 
 
-
-
-
-
-
+If you are not recognised by the system, ask Ben Whalley to add you to the staff group.

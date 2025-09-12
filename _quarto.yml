@@ -44,7 +44,7 @@ website:
           - href: theme-assessment.qmd
             text: Assessment Practice
       
-      - section: "Staff"
+      - section: "For Staff"
         contents:
           - href: staff-notes.qmd
             

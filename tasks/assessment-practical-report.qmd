@@ -1,0 +1,42 @@
+---
+title: "PSYC421 Practical Report"
+subtitle: "Get formative feedback on your practical report."
+author: Ben Whalley
+description: "Use psybot to get formative feedback on your practical report."
+Release: true
+categories: [Assessment]
+priority: 6
+reading-time: 5 minutes
+listing:
+  contents: "*.qmd"
+  type: default
+  categories: false
+  fields: [title, image]
+  page-size: 3
+  include:
+    extension: true
+    categories: "{Assessment, Writing}*"
+---
+
+![](../images/memory.png){width=33%}
+
+
+
+
+# Instructions
+
+:::{.instruction}
+
+To get feedback on your report, copy and paste the text of your intro, results, and discussion into PsyBot for feedback.
+
+- If your report is a work in progress, add a note to the end and ask PsyBot to focus on specific parts of your report. It can give feedback on those parts only.
+
+- Repeat the process, and improve your report.
+
+
+[Upload your draft to Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
+
+
+
+:::
+

@@ -1,0 +1,157 @@
+PROMPT FOR PSYBOT
+
+## CONTEXT
+
+Students were given a task to re-write a badly written abstract to a paper.
+
+The abstract was deliberately bad to give students practice with making their writing clear and concise.
+
+Now, students have submitted the updated abstract and we will give them feedback on their efforts.
+
+
+### THE ORIGINAL (BAD) ABSTRACT GIVEN TO STUDENTS
+
+<example> 
+
+Loneliness has increasingly become recognised as a very serious, important, and significant issue that affects university students not only in China but also in many other countries and contexts across the world. At the very same time, and equally importantly, problematic social media use has been shown in the past literature to influence a wide range of outcomes including mood, sleep, academic achievement, anxiety, depression, stress, and interpersonal relationships. It is important to note that although many studies have previously examined these issues, there has been less work that has looked at how loneliness and problematic social media use develop and change over time together, and whether one influences the other or whether they influence each other.
+The main aim, objective, and purpose of the present study was to investigate whether loneliness and problematic social media use predict each other in Chinese college students, and also to examine the developmental trends of these two variables over a one-year period of time. A total of 877 students were recruited from four different Chinese universities, and participants were half male and half female. Participants were seated at tables on which there were questionnaires about loneliness and social media, and demographic details such as age, gender, and urban or rural residence were also collected. A total of 538 valid questionnaires were analysed at the end, after some participants dropped out of the study.
+The participants were tested by researchers using surveys on three occasions, at Time 1, Time 2, and Time 3, and analyses were then conducted by researchers using complex software including SPSS 26.0 and Mplus 8.3. The results of the study showed that loneliness predicted problematic social media use, and problematic social media use predicted loneliness, and both of these processes occurred together. The results for both analyses showed that loneliness increased over time and problematic social media use also increased over time, and the slopes and intercepts of each variable significantly predicted each other.
+These results and findings are very important and significant because they show that loneliness and problematic social media use have a bidirectional relationship, and both increase gradually during university. It is therefore suggested that educators, policymakers, and parents should be aware of these results, and interventions may perhaps be considered to reduce both loneliness and problematic social media use in order to improve student well-being.
+
+
+</example>
+
+
+## BRIEFING FOR FEEDBACK
+
+The abstract included examples of the following problems:
+
+1. Redundancy / repetition
+Problem: Multiple words or phrases saying the same thing.
+Example: “important and significant because...".
+
+2. Irrelevant detail
+Problem: Including information not needed for an abstract.
+Example: “Participants were seated at tables on which there were questionnaires about loneliness ...” (the seating arrangement isn’t relevant).
+
+Example: “analyses were then conducted by researchers using complex software including SPSS 26.0 and Mplus 8.3.” (the software isn’t needed in the abstract).
+
+3. Passive voice
+Problem: Makes writing wordy and less direct.
+Example: “The participants were tested by researchers using surveys.”
+Better: “Participants completed surveys.”
+
+4. Wordiness / long-winded phrasing
+Problem: Overloaded sentences that could be shorter.
+Example: “The main aim, objective, and purpose of the present study was to investigate whether loneliness and problematic social media use predict each other...”
+Better: We investigated the relationship between loneliness and social media...”
+
+5. Overuse of hedging and filler
+Problem: Adds length but no substance.
+Example: “It is important to note that although many studies have previously examined these issues...”
+Better: “Previous studies have found [...], but none have examined [...]” (be concrete about what is and isn't known from the literature).
+
+6. Repetition of results
+Problem: Saying the same result in multiple ways.
+Example: “The results of the study showed that loneliness predicted problematic social media use, and problematic social media use predicted loneliness...” followed immediately by: “The results for both analyses showed that loneliness increased over time and problematic social media use also increased over time...”
+
+7. Clumsy / unclear sentence structure
+Problem: Sentences hard to follow because they have too many clauses.
+Example: “At the very same time, and equally importantly, problematic social media use has been shown in the past literature to influence a wide range of outcomes including mood, sleep, academic achievement, anxiety, depression, stress, and interpersonal relationships.”
+Better: "Social media impacts on mood and sleep (\<citation\>), academic achievement (\<citation\>), and anxiety, depression and stress(\<citation\>). Interpersonal relationships may also be adversely affected (\<citation\>)" (shorter, and also gives citations for each claim made).
+
+9. Demographic detail that doesn’t contribute
+Problem: Abstracts should only include essential sample information.
+Example: “demographic details such as age, gender, and urban or rural residence were also collected” (these aren't mentioned or relevant to the result reported in the abstract).
+
+10. Overly vague conclusion
+Problem: Ends with generic advice rather than specific, evidence-based conclusions.
+Example: “interventions may perhaps be considered to reduce both loneliness and problematic social media use in order to improve student well-being.”
+Better: "Understanding the links between social media use and loneliness can help educators intervene more effectively, and promote well-being in students."
+
+## OTHER THINGS TO CONSIDER
+
+Students often struggle with:
+- gramatical errors
+- wordiness
+- spelling
+- imprevision/inconsistency
+
+Look out for these sort of errors in their amended abstract too.
+
+# THE STUDENTS WORK
+
+Now, read the students work carefully. Look out for examples of the problems above. Have they fixed all the errors in the original abstract? We will give them feedback below.
+
+<student work>
+
+{{source}}
+
+</student work>
+
+
+# FEEDBACK TASK
+
+
+¡BEGIN
+
+How has the student improved the original abstract? Very briefly and in abbreviated notes: Make a list of all the things they have done well (if any). Focus on the improvements we KNOW were needed in the original abstract (e.g. the wordiness, passive voice etc).
+
+[[improvements]]
+
+What is the best/most obvious improvement the student made to the original abstract?  Expand on one of the points above in a few sentences. Give examples.
+
+[[bestthing]]
+
+
+¡OBLIVIATE
+
+Are there things the student missed when re-writing? Did they introduce any new problems? Very briefly and in abbreviated notes: Make a list of all the things they could improve (if any):
+
+[[tofix]]
+
+Expand on one of the points above in a few sentences. Focus on the thing that is most obvious or useful for a student to improve. Pick the one that you think will have the biggest impact on their writing in general. Expand on one of the points above in a few sentences.
+
+[[toptip]]
+
+
+¡OBLIVIATE
+
+We read their work, and now we are summariisng the feedback.
+
+<feedback so far>
+
+#### things they did well:
+
+{{improvements}}
+
+#### best thing they did:
+
+{{bestthing}}
+
+#### things to work on:
+
+{{tofix}}
+
+#### main thing to improve:
+
+{{toptip}}
+
+
+</feedback so far>
+
+
+
+
+Now, in no more than two paragraphs, write a short piece of feedback for the student directly. Focus on what they did well and what could be improved. 
+
+examples (very brief excerted quotes, using ellipses to show only relevant parts). Be neutral to slightly positive in tone.
+
+- keep sentences simple and short
+- make it accesible and friendly
+- avoid complex phrasing, mutiple clauses
+- make suggestions clear
+
+
+[[fbk]]
+

@@ -1,0 +1,278 @@
+
+
+# CONTEXT
+
+Students were asked to complete a practical report for their results from an experimental psychology module. 
+
+
+# ASSIGNMENT BRIEF
+
+Students were given a report template that followed the regular structure of an academic paper reporting experimental results. The template was relatively simple and specified what should be included in each section and the lengths of text required for each section. 
+
+
+
+# REPORT TEMPLATE
+
+THIS WAS GIVEN TO STUDENTS TO GUIDE THE STRUCTURE OF THEIR REPORT
+THE STUDENT REPORTS SHOULD FOLLOW THIS STRUCTURE
+
+------------
+
+Insert your introduction here. It does not have a section heading (i.e. you do not write “Introduction”). It must start on its own page, and it must not exceed two pages in length. It must end with a page break. The following structure often works well:
+
+- Big picture overview (1 paragraph)
+- Introduction to specific research area (1-2 paragraphs)
+- Rationale for current experiment and hypothesis or specific research question (1-2 paragraph)
+
+Provide a Method and Results section for the experiment.
+There are no page limits for these sections, but you are expected to be clear and concise in your writing. Needlessly long writing will attract lower marks.
+These sections must be written in the past tense.
+
+Experiment
+
+Include a 1-2 sentence introduction of the experiment.
+
+Method
+
+Participants
+Describe the participants (including, sample size, relevant demographic details, how they were recruited). If relevant to the study, explain what type of design was used (e.g., within-subjects, between-subjects, correlational) and how participants were assigned to conditions or groups (e.g., random assignment).
+
+Apparatus and Materials
+Describe the materials that were used for data collection. If questionnaires were used, describe each one, citing its source publication. Describe any stimuli, and how they were sourced or created. If specialist equipment or apparatus was used such as an eye-tracker, specify it. You do not need to list ‘apparatus’ such as pencils and paper or briefing/debriefing documents.
+
+Procedure
+Describe the step-by-step procedure that was used to collect the data from participants, including a description of what they were instructed to do. Your aim is to allow another researcher to replicate your study, so do not include specific details that would not be needed in a replication (e.g., which room you used, or the briefing procedure).
+
+Results
+Write an account of your results. You must use connected prose, not note or bullet-point formats. Include a figure. The figure must be numbered and captioned, and must be referred to in the text (see Figure 1).
+
+Figure 1 
+Caption of the Figure Here
+[insert a figure here]
+ 
+Discussion
+Discuss your work here. This section must start on a fresh page and must not exceed two pages. The past tense should be used here, except when providing suggestions for future research.
+The following format often works well:
+- Summary of findings (1 paragraph)
+- Interpretation of findings, and relation to previous literature (1-2 paragraphs)
+- Limitations of your work, and possible extensions of your work (1-2 paragraphs)
+- Conclusion (1 paragraph)
+
+There is no page limit for the remaining sections of the report, and no need to use page breaks between these subsequent sections.
+ 
+References
+Provide APA-formatted references for everything you cite in your report – and only for those things you cite in your report. References should use hanging indents, like this paragraph.
+
+
+
+
+
+# BACKGROUND ON THE ASSIGNMENT
+
+## PSYC421 Practical Report Frequently Asked Questions
+
+[THESE WERE FAQS GIVEN TO STUDENTS TO GUIDE THEIR ANSWERS]
+
+Can I find my own sources and journal articles for the Introduction etc.?
+Yes, you can. Key references were provided in Lecture 9, but you can also conduct your own research on the topic by using the literature searching tools you’ve been taught on the course already (e.g. Google Scholar in Research Methods, Lecture 1); this is strongly encouraged and is good academic practice.
+
+In the Method, do we report the demographic details (e.g., mean age etc.) of the whole dataset that you gave us in Lecture 9?
+Yes, include the demographic details I gave for the whole dataset. You also need to give the number of participants in each condition in your dataset. The good report example on the DLE has a good example of this.
+
+What is the research question and hypothesis for the experiment?
+Use the information on Slide 15 of Lecture 9 (Practical Overview) to help you formulate either the specific research question or hypothesis.
+
+Do we create our own title that we think is most appropriate for our report?
+Yes, please create a title that you think is most appropriate for your report. To help, compare the titles in Good and Poor example reports.
+
+What should you report if both homogeneity of variance AND normality is violated for your independent samples test?
+If the normality assumption is violated then Mann Whitney should be used. This is because the Welch’s t test still assumes normality, so shouldn’t be used if this assumption has been violated. See also Lecture 7, slide 20, and jamovi genius.
+
+Did we test long-term or short-term memory in the experiment?
+Long-term memory. This is defined as memory that persists for more than seconds, minutes, hours, days, weeks or years. This is in contrast to short-term or working memory, which is the type of memory you might use to keep a phone number in your head if someone read it out to you, and does not last as long. The experiment had a 5-minute retention interval (the word fragment completion game) to ensure long-term memory was being tested.
+
+Do we report the demographic details you gave us in Lecture 9?
+Yes, report these demographic details for the whole dataset in the Participants section of the Methods. Then include a sentence at the end of this section where you say how many participants you had in each condition of your unique dataset. There is a good example of how to do this in the good-excellent report example.
+
+Do we write up the report as if we had conducted the experiment ourselves?
+Yes, although you can use the passive voice if you prefer (e.g., “There were two conditions”, rather than “We had two conditions”).
+
+How many references are we meant to include?
+There’s no fixed number to include. Remember that everything you cite (e.g., in the Introduction) should be referenced in the References section. Most reports will probably have a reference list in length somewhere between that of the good and poor example reports.
+
+I’m reporting median values in my results because my data violated the normality assumption. Should I report the median and IQR on my Excel bar chart too?
+This is not necessary for this report. You only need to produce a bar chart with the mean and SE shown in each condition, and won’t be penalised if you do this but have reported a non-parametric test (because normality was violated). This is because it more straightforward for the error bars in Excel to represent the SE than the IQR. The IQR value jamovi gives you is the difference between the 75th and 25th percentiles of data, and so if this value were to be used to create error bars, the total width of the error bars would be much greater than what we actually want to represent. What we’d actually want to represent on each bar is the difference between the 50th percentile (median) and the 25th and 75th percentile, for the height below and above the bar, respectively. Plotting this is beyond the scope of what you are expected to do in this report, so it is fine if your bar chart simply shows the mean and SE of each condition.
+
+
+How do you interpret the rank biserial correlation in terms of effect size?
+You can use Cohen’s (1992) guidelines for interpreting the absolute value of a correlation:
+Small effect	r = 0.20
+Medium effect	r = 0.30
+Large effect	r = 0.50
+
+Cohen, J. (1992). A power primer. Psychological Bulletin, 112(1), 155-159. https://doi.org/10.1037/0033-2909.112.1.155 
+
+How can I reference jamovi?
+As follows:
+The jamovi project (2024). jamovi (Version 2.5) [Computer Software]. Retrieved from https://www.jamovi.org 
+
+
+
+How many fragments were there in the retention interval task?
+The retention interval task advanced after 5 minutes, regardless of the number of questions that were completed. The number of questions answered by the participant was therefore not fixed, only the duration of the interval was.
+For the 7 participants whose demographic data was lost, was their experimental data still recorded?
+Yes. To clarify, the age and gender information was not recorded for 7 participants, but their experimental data was still recorded so we can still analyse their recognition data.
+
+Can I use the information in Lecture 9 to write the report? If so, how do I reference it?
+Yes, the expectation is that you’d use the information in Lecture 9 to help write your report. The reference for each source cited in the lecture is provided on the slide headed “References” towards the end of the slides. The other information (e.g., details of the experiment procedures, its timings, etc.) can be provided without citing Lecture 9 itself. The good-excellent report example demonstrates a good style of writing when information has been provided to the person writing the report under similar circumstances.
+
+Do we need to summarise the briefing process in the Method?
+For this report it is sufficient to say that participants were briefed and then gave consent to take part. You don’t need to say more than that to describe the initial briefing process, but if you want more information, the brief of this experiment informed participants that they would take part in an experiment designed to investigate cognitive processes and would involve making decisions to simple everyday objects and their memory for them would later be tested. Full instructions were given in each phase.
+
+
+How do we interpret and write up the results of two sample t-tests or Mann Whitney U tests?
+For examples, please look at the answer sheet for Worksheet 7 where these tests were covered. Lecture 7 should also be consulted.
+
+
+General
+
+I’m finding it challenging to write the report in general. Can you provide some tips or an overview?
+It can be challenging to write the practical report when you did not design the experiment yourself, but only took part in it. Remember that a goal is help familiarise you with the scientific process and with the basics of report writing, even if you did not conduct the research yourself. I encourage you to review the guidance materials carefully. To recap:
+
+- The report template provides specific details on what to write and how to structure each section.
+- Lecture 9 contains key information on why the experiment was conducted and all the details you need to include and write up for the Methods. It follows the same structure as the template (Intro, Method, Results, Discussion).
+-There is a Panopto Recording of Lecture 9
+- Worksheet 9 contains step-by-step guidance on how to generate the results and figure for your report.
+- Examples of good/excellent and poor reports have been provided on a similar topic (memory and attention) to help you see the style of writing, even though the writer did not conduct the experiment themselves. 
+
+Also:
+- Lecture 10 and worksheet 10 provide general guidance on writing Introduction and Methods sections.
+- Lecture 11 and worksheet 11 provide general guidance on writing Results, Discussion, and References.
+
+
+
+
+# RELEVANT BACKGROUN MATERIAL FROM THE LECTURES
+
+
+This information was extracted from lecture slides:
+
+
+---------
+
+Lecture 1 (Intro to Cognition)
+Lecture_1_Intro_
+Context: Why psychologists use experimental methods (objective, observable data vs. introspection).
+Relevance for report: Justifies why your Methods and Results must be precise, objective, and replicable.
+Key principles:
+State research questions/hypotheses clearly.
+Use theory to motivate predictions (e.g., cognitive models explain behaviour).
+Reports must connect theory → experiment → evidence.
+Lecture 7 (Stats & Interpretation)
+PSY421_Lec07r
+Guidance on interpreting t-tests and Mann–Whitney U tests.
+If normality is violated → use Mann–Whitney (not Welch’s t-test, which still assumes normality).
+When reporting:
+State test used, test statistic, df (if relevant), p-value, and effect size (use Cohen’s r for Mann–Whitney).
+Interpret effect size using Cohen (1992): r = .20 small, .30 medium, .50 large.
+Results section must be connected prose, not bullet points. Always link the text to your figure.
+Lecture 9 (Practical Overview & Long-Term Memory)
+PSY421_Lec09r
+Experiment tested long-term memory (5-minute retention interval to rule out working memory).
+Method section must include:
+Participants: N, demographics from Lecture 9 dataset, note missing demographic data for 7 participants, and report number per condition in your unique dataset.
+Design: Between-subjects, recognition memory task after filler task.
+Apparatus/Materials: Word list stimuli, filler task (word fragment completion), recognition test.
+Procedure: Briefing & consent, word list encoding, filler task (5 mins), recognition test, debrief.
+Results:
+Report means ± SE in each condition (bar chart with SE error bars even if you ran non-parametric test).
+If violated assumptions, report Mann–Whitney. Still plot means ± SE.
+Discussion: Must interpret findings in terms of long-term memory and prior literature, note limitations, suggest extensions.
+Lecture 11 (Writing Results, Discussion, References)
+PSY421_Lec11r
+Results writing:
+Use continuous prose, not lists.
+Always refer explicitly to your figure (e.g., “As shown in Figure 1…”).
+Include test used, descriptive stats, p-values, and effect sizes.
+Discussion structure:
+Open with a summary of findings (don’t re-report stats).
+Interpret in light of existing research (cite appropriately).
+Address limitations (e.g., sample, task design, generalisability).
+Suggest future directions.
+Conclude briefly, linking back to the research question.
+References: Must be APA, hanging indent, only works you actually cite.
+Core takeaway for students
+Intro: Motivate experiment with theory and research question.
+Method: Include participants, design, materials, procedure → concise but replicable.
+Results: Connected prose + figure; report test, descriptive stats, effect size, interpretation.
+Discussion: Summarise → interpret vs. literature → limitations/extensions → conclude.
+References: APA only for cited works.
+
+
+
+# OUR TASK NOW
+
+
+We want to 
+
+- read the student report
+- consider what they have done well, and how it might be improved
+- provide actionable feedback on key points the students should address
+
+
+# THE STUDENTS WORK
+
+
+<student work>
+
+{{source}}
+
+</student work>
+
+
+# FEEDBACK TASK
+
+¡BEGIN
+
+How well has the student completed this report?
+Make a brief list of all the things they did well (if any).
+Expand on the one thing they did best:
+
+
+[[good]]
+
+
+¡OBLIVIATE
+
+How well has the student completed this report?
+Make a brief list of all the things they could improve (if any).
+Focus on the things they could improve only.
+Expand on the one thing they could do to improve most, or which will benefit their other work
+
+
+[[toimprove]]
+
+
+¡OBLIVIATE
+
+We have read their work, and now we are summarising the feedback.
+
+<feedback so far>
+
+#### things they did well:
+
+{{good}}
+
+#### things they could improve:
+
+{{toimprove}}
+
+
+Write focussed, accessible, actionable feedback for the student.
+No more than 2 paragraphs.
+
+[[fbk]]
+
+
+
+

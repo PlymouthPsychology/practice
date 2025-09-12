@@ -5,7 +5,7 @@ author: Ben Whalley
 description: Thinking about career can be daunting, and it can be hard to know where to start. Linking our plans to our values and goals can be a useful, and this activity challenges you to think about how you can do this.
 Week: 12
 Stage: 1
-Release: true
+Release: false
 categories: [Growth]
 priority: 12
 reading-time: 15 minutes

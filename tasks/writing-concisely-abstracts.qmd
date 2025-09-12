@@ -1,59 +1,114 @@
 ---
 title: "Keep it short"
 subtitle: "Writing concisely in abstracts."
-author: Chris Mitchell
-description: Writing concisely is a valuable skill. It's needed to write good abstractys for practical reports, but it can improve your marks in essays and exams by helping you communicate more effectively.
+author: Ben WHalley
+description: Writing concisely is a valuable skill. It's needed to write good abstracts for practical reports, but it can improve your marks in essays and exams by helping you communicate more effectively.
 Release: true
 categories: [Writing]
 priority: 8
 reading-time: 20 minutes
-# provides a listing of related activities
-# listing:
-#   contents: "*.qmd"
-#   type: default
-#   categories: false
-#   fields: [title, image]
-#   page-size: 3
-#   include:
-#     extension: true
-#     categories: "{Writing}*"
 ---
+
 
 ![](../images/papers.png){width="33%"}
 
 
-
-Writing concisely is a valuable skill. It's needed to write good abstracts for practical reports (like the one you will be submitting towards the end of semester 1), but it can improve your marks in essays and exams by helping you communicate more effectively. Check back soon for details of this task.
-
-<!--
-
-
-A VIDEO EXPLAINER OF ALL THIS MATERIAL WOULD APPEAR AT THE HEAD OF THE PAGE
-
 # Overview
 
-The overview should be a general explanation of the problem AND provide some references (max 1 or 2) to support or motivate the technique being introduced.
+Writing concisely is a valuable skill that's essential for academic success. In psychology, you'll need to write abstracts for practical reports that summarise your entire study in just 200-250 words. 
 
--   What is the thing to be practices
--   Why is it important
-    -   In the degreee
-    -   In mant professional careers/life
--   What are the key ideas/concepts?
--   What evidence is there that this specific practice is helpful?
--   If possible, give a brief example of the thing in action.
+But concise writing isn't just about word limits - it helps you communicate more effectively in essays, exams, and throughout your career.
 
-# Instructions
 
-Instructions should be as brief as possible.
+----
 
-Ideally there will be a
 
-1.  Numbered list
-2.  Of steps to follow
-3.  That is not too long
+Abstracts are particularly challenging because they must include background, aims, method, results, and conclusions in very few words. Every word must earn its place. Students often struggle with:
+
+- Irrelevant information
+- Over-explaining
+- Filler words and redundant phrases
+- A 'passive voice', that uses extra words
+
+
+## Useful principles
+
+**Eliminate redundancy**: Remove words that repeat information or add nothing new. "In order to" becomes "to". Phrases like "it is important to note that" can be deleted entirely.
+
+**Prioritise**: Not all details are equally important. Focus on what your reader absolutely needs to know _here and now_. Cut the least important things first. Avoid repeating yourself.
+
+**Prefer verbs**: "This was an investigation of ..." is wordy and awkward. Much better to say "We investigated ...".
+
+**Use the active voice**: "We tested participants" is shorter and clearer than "Participants were tested by researchers".
+
+
+## Abstracts have a consistent structure
+
+A strong abstract always follows a clear structure:
+
+- **Background** (1-2 sentences): Essential context only
+- **Aim** (1 sentence): What you investigated
+- **Method** (2-3 sentences): Key details only — enough to understand the result.
+- **Results** (2-3 sentences): Main findings with key statistics (especially the size of the effect).
+- **Conclusion** (1-2 sentences): What it means
+
+The challenge is fitting all this into your word limit  --- we need to make every sentence count!
+
+
+# Task instructions
+
+:::{.instruction}
+
+Your task is to edit a wordy abstract to make it concise and effective. Below is an abstract that's far too long at 389 words - well over the typical 200-250 word limit.
+
+<div class="wrapped-pre">
+**Original Abstract (389 words):**
+
+Loneliness has increasingly become recognised as a very serious, important, and significant issue that affects university students not only in China but also in many other countries and contexts across the world. At the very same time, and equally importantly, problematic social media use has been shown in the past literature to influence a wide range of outcomes including mood, sleep, academic achievement, anxiety, depression, stress, and interpersonal relationships. It is important to note that although many studies have previously examined these issues, there has been less work that has looked at how loneliness and problematic social media use develop and change over time together, and whether one influences the other or whether they influence each other.
+The main aim, objective, and purpose of the present study was to investigate whether loneliness and problematic social media use predict each other in Chinese college students, and also to examine the developmental trends of these two variables over a one-year period of time. A total of 877 students were recruited from four different Chinese universities, and participants were half male and half female. Participants were seated at tables on which there were questionnaires about loneliness and social media, and demographic details such as age, gender, and urban or rural residence were also collected. A total of 538 valid questionnaires were analysed at the end, after some participants dropped out of the study.
+The participants were tested by researchers using surveys on three occasions, at Time 1, Time 2, and Time 3, and analyses were then conducted by researchers using complex software including SPSS 26.0 and Mplus 8.3. The results of the study showed that loneliness predicted problematic social media use, and problematic social media use predicted loneliness, and both of these processes occurred together. The results for both analyses showed that loneliness increased over time and problematic social media use also increased over time, and the slopes and intercepts of each variable significantly predicted each other.
+These results and findings are very important and significant because they show that loneliness and problematic social media use have a bidirectional relationship, and both increase gradually during university. It is therefore suggested that educators, policymakers, and parents should be aware of these results, and interventions may perhaps be considered to reduce both loneliness and problematic social media use in order to improve student well-being.
+
+
+
+</div>
+
+## Your task
+
+1. Edit this abstract down to approximately 200 words
+2. Keep all the essential information
+3. Remove redundancy and filler words  
+4. Ensure it follows the structure: background → aim → method → results → conclusion
+
+
+:::
+
 
 # Recording your work
 
+:::{.instruction}
+
+After editing the text, reflect on the process:
+
+- What were the biggest challenges in cutting the word count?
+- Which types of words or phrases were easiest to remove?
+- Did you have to sacrifice any important information?
+- How did the editing process change your understanding of the study?
+
+[Upload your edited abstract and reflection to Psybot for feedback](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 
--->
+
+
+:::
+
+
+
+If you'd like to compare your abstract to the original published paper [you can read it here](https://link.springer.com/article/10.1186/s40359-023-01498-4).
+
+
+<!---
+
+See sep prompt for psybot
+
+--->

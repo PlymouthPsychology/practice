@@ -46,15 +46,14 @@
       "/tasks/studying-using-psychology-to-be-better-psychologist.html",
       "/tasks/studying-note-taking.html",
       "/tasks/studying-using-your-notes.html",
+      "/tasks/assessment-practical-report.html",
       "/tasks/studying-spaced-repetition.html",
       "/tasks/speaking-describe-lecture.html",
       "/tasks/writing-concisely-abstracts.html",
       "/tasks/writing-mean-marker.html",
       "/tasks/speaking-prepare-viva.html",
       "/tasks/thinking-bullshit-detection.html",
-      "/tasks/growth-goals-career-planning.html",
-      "/tasks/growth-planning-reference.html",
-      "/tasks/speaking-feedback-demo.html"
+      "/tasks/growth-planning-reference.html"
     ]
   },
   {
@@ -88,6 +87,12 @@
   },
   {
     "listing": "/theme-assessment.html",
+    "items": [
+      "/tasks/assessment-practical-report.html"
+    ]
+  },
+  {
+    "listing": "/tasks/assessment-practical-report.html",
     "items": []
   }
 ]
