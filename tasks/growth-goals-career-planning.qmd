@@ -15,43 +15,150 @@ reading-time: 15 minutes
 ![](../images/DALL-E- goalsactions.png){width=50%}
 
 
-
-This activity is designed to start students thinking about their longer-term goals
-and to make connections between these goals and their current actions.  Check back for more details soon.
-
-<!--
-
 # Overview
 
-XXX
+Many students find it challenging to connect their daily actions with their long-term career goals. 
+
+You might know you're interested in psychology, but struggle to see how your current studies and activities link to your future aspirations.
+
+This activity uses a values-based approach to career planning. Rather than simply following opportunities as they arise, you'll identify what really matters to you and use these core values as a foundation for making decisions about how you spend your time.
+
+We'll be using psychological principles of self-reflection and goal-setting in your own life.
+
 
 # Instructions
 
 ::: instruction
-1.  XXX
-2.  ...
-3.  ...
+
+### Step 1: Values Discovery (5 minutes)
+
+From the list below, select **7 values** that resonate most strongly with you. These should be things you consider non-negotiable or deeply important:
+
+
+- **Accomplishment**: an act or instance of carrying into effect; fulfillment
+- **Accountability**: an obligation or willingness to accept responsibility for one’s  actions
+- **Charity**: generosity and helpfulness towards the needy
+- **Commitment**: an agreement to do something in the future; a pledge
+- **Community**: a social, religious, or occupational group sharing common interests
+- **Compassion**: feeling sympathy for those stricken by misfortune, with a desire to alleviate the suffering
+- **Competition**: a contest for some prize, honor, or advantage
+- **Conviction**: a fixed or firm belief
+- **Creativity**: the ability to transcend traditional ideas, rules, patterns, or relationships; originality
+- **Decisiveness**: displaying no or little hesitation; resolute; determined
+- **Discipline**: behavior in accord with rules of conduct; behavior maintained by training and control
+- **Diversity**: the inclusion of different types of people
+- **Effectiveness**: producing a purpose; producing the intended or expected result
+- **Efficiency**: able to accomplish something with the least waste of time and effort
+- **Excellence**: possessing outstanding quality or superior merit; remarkably good
+- **Faith**: belief in God or the doctrines or teachings of religion
+- **Freedom**: the power to determine action without restraint
+- **Fun**: what provides amusement or enjoyment
+- **Generosity**: readiness or liberality in giving
+- **Grace**: favor or goodwill; unmerited divine assistance
+- **Gratitude**: the quality or feeling of being grateful or thankful
+- **Growth**: development from a simpler to a more complex stage
+- **Harmony**: when people are able to work together
+- **Health**: the condition of being sound in body, mind, or spirit
+- **Honesty**: uprightness and fairness; truthfulness, sincerity, or frankness
+- **Honor**: high respect, as for worth, merit, or rank
+- **Humility**: freedom from pride or arrogance
+- **Imagination**: creative ability; ability to face and resolve difficulties; resourcefulness
+- **Independence**: freedom from the control, influence, support, or aid of others
+- **Innovation**: the introduction of something new
+- **Integrity**: firm adherence to a moral code and ethical principles; honesty
+- **Intelligence**: capacity for learning, reasoning, and understanding; aptitude in grasping truths, relationships, facts, meanings, etc.
+- **Justice**: righteousness, equitableness, or moral rightness
+- **Kindness**: having, showing, or proceeding from benevolence; indulgent, considerate, or helpful; humane
+- **Learning**: knowledge or skill acquired by instruction or study
+- **Love**: strong affection for another
+- **Loyalty**: faithfulness to commitments or obligations
+- **Optimism**: an inclination to believe the most favorable in actions and events
+- **Passion**: intense, driving, or conviction
+- **Perseverance**: to achieve something despite difficulties or failure
+- **Power**: ability to act or produce an effect; authority
+- **Professionalism**: the conduct, behavior, and attitude of someone in a work or business environment
+- **Prosperity**: a successful, flourishing, or thriving condition, especially in financial respects; good fortune
+- **Purpose**: the reason why something exists or is done, made, used, etc.
+- **Quality**: character with respect to fineness or degree of excellence
+- **Recognition**: special notice or attention; the acknowledgment of achievement, service, merit, etc.
+- **Relationships**: a connection, association, or involvement with those you care about
+- **Respect**: high regard; proper acceptance or courtesy; acknowledgment
+- **Responsibility**: the state being answerable or accountable for something within one’s power, control, or management
+- **Risk** Taking: the willingness to embrace challenges that may be hazardous
+- **Security**: freedom from fear and anxiety
+- **Service**: contribution to the welfare of others
+- **Spontaneity**: arising from a natural impulse or tendency; unplanned
+- **Stability**: steadfastness; constancy, as of character or purpose
+- **Success**: the accomplishment of one’s goals; the attainment of wealth, position, or honors
+- **Teamwork**: work done by several associates with each doing their part
+- **Tolerance**: a fair, objective, and permissive attitude toward opinions, beliefs, and practices that differ from one’s own
+- **Tradition**: an inherited or customary pattern of thought, behavior, or action
+- **Trust**: reliance on the integrity, strength, ability of a person or thing; confidence
+- **Wisdom**: knowledge of what is true or right coupled with just judgment as to action; discernment, or insight
+
+
+
+**If something you think is important isn't here, add your own.**
+
+
+
 :::
 
-# Recording your work
 
 ::: instruction
 
-1. XXX
-2. ...
-3. ...
+### Step 2: Identify Your Top 3 Core Values (3 minutes)
+
+From your 7 selected values, rank them in order of importance. Your top 3 become your **core values** - the principles that will guide your decisions about your studies and career.
+
+For each of your top 3, write one sentence explaining why this value is important to you and how it should influence your choices and goals.
+
+:::
+
+
+::: instruction
+
+### Step 3: Career Alignment Check (5 minutes)
+
+Think about potential career paths in psychology (clinical, research, education, business, etc.) or other fields that interest you.
+
+For each career direction you're considering, ask:
+
+- Does this path align with my core values?
+- Which of my values would be fulfilled by this work?
+- What values might be compromised?
+
+:::
+
+
+::: instruction
+
+### Step 4: Action Planning (2 minutes)
+
+Based on your values and career interests, identify:
+
+- One thing you're currently doing that aligns with your values and career goals (continue doing)
+- One new action you could take this week to move closer to your goals (start doing)
+- One activity or habit you should stop because it doesn't serve your values or goals (you'll stop doing it!)
+
+:::
+
+
+
+# Recording your thinking
+
+::: instruction
+
+Create a voice note (2-3 minutes), or a short piece of writing reflecting. Include:
+
+1. Your top 3 core values, and why they matter to you.
+2. How this exercise has clarified (or changed) your thinking about career planning.
+3. The one new action you plan to take this week.
+
+
+Then, upload your voice note or text. Psybot will listen and provide feedback on the clarity of your values-career connections and the practicality of your action plan.
 
 [Show Psybot your work here](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
-When you add your practice upload an audio file of your voice note. Psybot will listen to the audio and give you feedback.
 :::
 
-# Extension activities
-
-XXX
-
-::: {#sample-listings}
-:::
-
-
--->
