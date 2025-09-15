@@ -546,14 +546,14 @@
     "href": "index.html",
     "title": "Psychology Practice Tasks",
     "section": "",
-    "text": "What you need to know\nThis website provides a collection of practice tasks designed to help you develop the skills you need to succeed on the psychology course.\nTasks are organised by theme and can be completed at your own pace. Some tasks may be recommended by staff during the year when they link with workshop or lecture content.\nYou’ll also find assessment practice tasks that help you work on specific elements of your summative assignments, with opportunities for formative feedback.\nView all practice tasks"
+    "text": "What you need to know\nThis website provides a collection of practice tasks designed to help you develop the skills you need to succeed on the psychology course.\nTasks are organised by theme and can be completed at your own pace. Some tasks may be recommended by staff during the year when they link with workshop or lecture content.\nYou’ll also find assessment practice tasks that help you work on specific elements of your summative assignments, with opportunities for formative feedback.\nView all practice tasks What are these tasks for?"
   },
   {
     "objectID": "psybot.html",
     "href": "psybot.html",
-    "title": "Psylab",
+    "title": "PsyBot",
     "section": "",
-    "text": "XXX: #TODO"
+    "text": "PsyBot\nPsyBot is an AI tool run by the school which gives structured and tailored feedback for students on our programmes.\nEnrolled students can request a login here: https://psybot.llemma.net/\nStaff can also request a login link at the same address, and will be able to see work uploaded by students."
   },
   {
     "objectID": "psybot.html#psylab",
@@ -647,7 +647,7 @@
     "href": "staff-notes.html",
     "title": "Notes for staff",
     "section": "",
-    "text": "This page outlines how staff can support the new self-paced practice task system.\n\nPractice Task System\nThe practice tasks are now self-paced and category-based rather than weekly. Students can access all tasks through the main tasks page.\n\n\nStaff Role\nTutors can support this system by:\n\nRecommending relevant tasks: When topics in your lectures or workshops align with practice tasks, mention them to students\nEncouraging PsyBot use: Students can get instant AI feedback by uploading completed tasks to PsyBot\nOffice hours support: Use your regular office hours to discuss practice work with students\nFeedback collection: Please forward any student comments about the system to Ben Whalley\n\n\n\nAssessment Practice Tasks\nThe new Assessment Practice category contains tasks designed to provide formative feedback on elements of summative assignments. These tasks:\n\nTarget specific skills needed for assessed work\nProvide AI-powered formative feedback\nHelp students improve before submitting actual assignments\n\n\n\nMonitoring Progress\nYou can see which tasks your tutees have completed via PsyBot submissions.\nLogin to Psybot (https://psybot.llemma.net/) and request a link to login.\nIf you are not recognised by the system, ask Ben Whalley to add you to the staff group.",
+    "text": "Practice Tasks in Stage 1 and 2\nThe practice tasks are now self-paced and category-based rather than weekly. Students can access all tasks through the main tasks page.\n\n\nPsybot\nPsyBot is a tool that allows students to get instant formative feedback on their practice tasks and some stage 1 assessments. More here\n\n\nGroup tutorials\nThese occur for stage 1 in week 2 and 5. More information here\n\n\nStaff Role\nTutors should support students by:\n\nRecommending relevant tasks: When topics in your lectures or workshops align with practice tasks, mention them to students\nEncouraging PsyBot use: Students can get instant AI feedback by uploading completed tasks to PsyBot\nOffice hours support: Use your regular office hours to discuss practice work with students\nFeedback collection: Please forward any student comments about the system to Ben Whalley\n\n\n\nAssessment Practice Tasks\nThe new Assessment Practice category contains tasks designed to provide formative feedback on elements of summative assignments. These tasks:\n\nTarget specific skills needed for assessed work\nProvide AI-powered formative feedback\nHelp students improve before submitting actual assignments\n\n\n\nMonitoring Progress\nYou can see which tasks your tutees have completed via PsyBot submissions.\nLogin to Psybot (https://psybot.llemma.net/) and request a link to login.\nIf you are not recognised by the system, ask Ben Whalley to add you to the staff group.",
     "crumbs": [
       "FAQ",
       "For Staff",

@@ -3,16 +3,25 @@ title: "Notes for staff"
 ---
 
 
-This page outlines how staff can support the new self-paced practice task system.
 
-# Practice Task System
+### Practice Tasks in Stage 1 and 2
 
 The practice tasks are now self-paced and category-based rather than weekly. Students can access all tasks through the [main tasks page](tasks.html).
 
 
-# Staff Role
+### Psybot
 
-Tutors can support this system by:
+PsyBot is a tool that allows students to get instant formative feedback on their practice tasks and some stage 1 assessments. [More here](psybot.html)
+
+
+### Group tutorials
+
+These occur for stage 1 in week 2 and 5. [More information here](tutorial_guides.html)
+
+
+### Staff Role
+
+Tutors should support students by:
 
 - **Recommending relevant tasks**: When topics in your lectures or workshops align with practice tasks, mention them to students
 - **Encouraging PsyBot use**: Students can get instant AI feedback by uploading completed tasks to [PsyBot](psybot.html)

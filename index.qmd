@@ -19,3 +19,4 @@ Tasks are organised by theme and can be completed at your own pace. Some tasks m
 You'll also find assessment practice tasks that help you work on specific elements of your summative assignments, with opportunities for formative feedback.
 
 [View all practice tasks](tasks.html){.btn .btn-primary .btn-lg}
+[What are these tasks for?](practice.html){.btn .btn-success .btn-lg}

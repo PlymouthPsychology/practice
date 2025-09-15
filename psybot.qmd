@@ -1,16 +1,14 @@
 ---
-title: "Psylab"
+title: "PsyBot"
 ---
 
 
-XXX: #TODO
-
-## Psylab {#psylab}
-
-TODO: An online system to submit your practice tasks
+### PsyBot {#psybot}
 
 
-## Psybot {#psybot}
 
+PsyBot is an AI tool run by the school which gives _structured_ and _tailored_ feedback for students on our programmes.
 
-TODO: An AI bot which will give you feedback on your work each week.
+Enrolled students can request a login here: [https://psybot.llemma.net/](https://psybot.llemma.net/)
+
+Staff can also request a login link at the same address, and will be able to see work uploaded by students.
