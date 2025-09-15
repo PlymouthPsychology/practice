@@ -1,5 +1,5 @@
 ---
-title: "Stage 1, Week 2: Using psychology to learn psychology"
+title: "Stage 1, Week 1: Using psychology to learn psychology"
 subtitle: "Guide for tutors"
 priority: 1
 categories: ["stage1", "tutorial"]
