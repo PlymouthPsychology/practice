@@ -51,7 +51,10 @@ website:
           - href: tutorial_guides.qmd
             text: Tutorial guides
             
-          
+
+extensions:
+  - email-link
+            
 format:
   html:
     include-after-body:

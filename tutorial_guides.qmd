@@ -1,16 +1,46 @@
 ---
 title: "Assessment Practice"
-listing:
-  contents: "tutorials/*.qmd"
-  type: grid
-  categories: false
-  fields: [title, subtitle, image]
-  page-size: 20
-  sort: 
-    - "priority"
-    - "title"
+listing: 
+  - id: stage1
+    contents: "tutorials/*.qmd"
+    type: grid
+    fields: [title, image]
+    include:
+      categories: [stage1]
+    sort: ['priority', 'title']
+  - id: stage2
+    contents: "tutorials/*.qmd"
+    type: grid
+    fields: [title, image]
+    include:
+      categories: [stage2]
+    sort: ['priority', 'title']
+    
+  - id: stage4
+    contents: "tutorials/*.qmd"
+    type: grid
+    fields: [title, image]
+    include:
+      categories: [stage4]
+    sort: ['priority', 'title']
 ---
 
 
-::: {#sample-listings}
+
+### Stage 1
+  
+:::{#stage1}
+:::
+
+
+
+### Stage 2
+
+:::{#stage2}
+:::
+
+
+### Stage 4
+
+:::{#stage4}
 :::

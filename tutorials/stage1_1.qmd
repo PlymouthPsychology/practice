@@ -1,15 +1,37 @@
 ---
 title: "Stage 1, Week 2: Using psychology to learn psychology"
 subtitle: "Guide for tutors"
-# author: Ben Whalley
-description: "The goal of this Tutorial task is to examine how we should approach learning in Psychology, and whether we can use evidence to change our habits."
 priority: 1
+categories: ["stage1", "tutorial"]
+filters:
+  - email-link
+email_title: "Stage 1 Tutorial Suggestion"
+email_body: |
+  Dear [tutee],
+
+  Sorry to miss you in our tutorial today. In the session we looked at some evidence relating to different strategies for taking notes in lectures. The idea was to think about how we can use psychological evidence to enhance our own learning.
+
+  You can complete the task for yourself, and there are notes on how to do that here: https://plymouthpsychology.github.io/practice/tasks/studying-using-psychology-to-be-better-psychologist.html
+
+  I hope to see you in our next tutorial session in week 5.
+
+  All the best,
+
+  YOU NAME
 ---
+
+
+
 
 
 ![](../images/pen-mightier.webp){width=33%}
 
-This is based on a [practice task here](../tasks/studying-using-psychology-to-be-better-psychologist.html)
+
+
+### Tutor tasks
+
+[Print this handout for tutees](muller-oppenheimer-2014.pdf){.btn .btn-success} [Log this tutorial in S4](https://plymuni.lightning.force.com/lightning/n/My_Tutees_LWC){.btn .btn-danger} `Send email to missing students`{.email-link} 
+
 
 
 
@@ -27,54 +49,80 @@ This is based on a [practice task here](../tasks/studying-using-psychology-to-be
 
 
 
-## Introductions
+# Task 1: Introductions
 
-- **Introductions**: Go round – name, where from. As them to think of one non-psychology interest BUT KEEP TO THEMSELVES FOR A MOMENT.
+- **Introductions**: 
 
-- **Housekeeping**: how tutorials run, attendance, resources, how to ask for help.  
+- Go round the group – ask names, where they are from etc. 
+- Ask them to think of one non-psychology interest (but keep this to themselves for the moment)
+
+
+- **Housekeeping**:
+
+- Explain how tutorials run, 
+- Attendance expectations
+- Highlight resources like the DLE, timetable. Check all can 
 
 
 
-## Warm-up: Pictionary
+**How to ask for help**
 
-> Icebreaker task illustrates a speed/accuracy tradeoff
+- Check the handbook
+- Check with peers
+- Ask the staff member delivering a session (questions at the end)
+- Ask a TARA in a workshop
+- Ask their tutor
+    
 
+
+# Task 2: Pictionary icebreaker
+
+An icebreaker task that illustrates a speed/accuracy tradeoff
 
 **Setup:**  
 
 - Two teams (~4 per team)
 - Timed games (suggest 60sec)
-- Each student draws a hobby/interest
-- Teammates guess; 1 point per correct guess. 
-- Rotate
+- Each student must draw/doodle their hobby/interest
+- Teammates must guess
+- 1 point per correct guess. 
+- Rotate around the team members
 
 
 **Debrief**  
 
 - Tally up the scores and celebrate!
-- Ask: “When you guessed, what made you confident enough to shout out?” Did some students have a hunch, but kept quiet? 
+- Ask: “When you guessed, what made you confident enough to shout out?” 
+- Did some students have a hunch, but kept quiet becaue they weren't sure? 
 - Foreshadow: Mention this kind of speed/accuracy tradeoff is common. XXX WHERE IN STAGE 1 ... PETER??
 
-- Make the link: balancing speed vs accuracy is somewhat like deciding when we have *enough evidence* (i.e. in psychology). 
+
+**Link to next task**: Balancing speed vs accuracy is somewhat like deciding when we have *enough evidence* (i.e. in psychology). 
 
 
-## A question we want to answer
+# Task 3: "Should students write or type their notes?"
 
-> How should students take lecture notes—handwritten or typed?
+**Discuss**: 
 
-**Disucss**: did students use handwritten or typed notes for A-level?
+- Did students use handwritten or typed notes for their A-levels?
+- Any other techniques they found useful in class?
 
-**Prompt:** We/they already have opinions. Today's we look at an experimental study and ask: **"is this evidence strong enough to change our our mind, or our behaviour?"**
+**Prompt:** 
+
+- We/they already have opinions. 
+- In this task we look at an experimental study
+- We want to decide: **"is this evidence strong enough to change our our mind, or our behaviour?"**
 
 
-## Study Snapshot
 
+## Mueller & Oppenheimer, 2014 excerpt
 
-**Handout** the Mueller & Oppenheimer, 2014 excerpt. Make it clear it's not the whole paper.
+Print this handout for students:  [Mueller & Oppenheimer, 2014 excerpt](muller-oppenheimer-2014.pdf)
+
 
 **Briefly** give time for students to skim the extract and figure.
 
-**Questions for students**:
+**Questions**:
 
 - Who were the participants?  
 - What did they do?  
@@ -99,16 +147,18 @@ This is based on a [practice task here](../tasks/studying-using-psychology-to-be
 
 **Prompts**
 
-- What is a z-score? If they don't know does it matter? Discuss how to read papers where they don't understand all the technical details.
+- What is a z-score? If they don't know does it matter? Probably not... If time, extend with a discussion about how to read papers where they don't understand all the technical details.
 
-- Where are the differences? Are they big enough to matter?  What do we mean by "matter"? How can we judge?
+- Where are the differences between groups? Are they big enough to matter?  What do we mean by "matter"? How can we judge? Aim is to highlight that the effect size is what really matters. We could be very sure about a tiny (irrelevant) effect.
 
 - Why might there be a difference, conceptual > factual? Can they think of topics from A-level which might be relevant here: In the UK syllabus they _could_ have covered:
     - Depth of processing and impact on memory: do laptops encourage shallow verbatim transcription vs. longhand → elaborative rehearsal?
     - Encoding specificity for retrieval cues: do handwritten notes create richer cues?
     
 
-## How good and useful is this evidence? Should we change our habits?
+## Should we change our habits?
+
+How good and useful is this evidence? 
 
 **Discuss**
 
@@ -131,16 +181,15 @@ There are practice tasks on this site to encourage students to
 
 
 
-## Wrap-up
+# Task 4: Wrap-up
 
-**Go around all students. They need to answer**  
+**Ask all students in turn (they should all have an answer)**  
 
-1. What change (if any) they will make next week, and why.  
-2. One limitation of today’s evidence that stood out to them.
+1. What change (if any) they will make to note taking next week, and why?
+2. One strength/limitation of today’s evidence that stood out to them and influenced their decision.
 
 
-
-**Remind**
+**Reminders**
 
 - Regular Monday briefings help them stay on track 
-- PETER???
+- PETER ANYTHING ELSE???

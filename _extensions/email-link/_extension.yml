@@ -1,0 +1,6 @@
+name: email-link
+title: "Dynamic mailto links"
+version: 0.1.0
+contributes:
+  filters:
+    - email-link.lua
