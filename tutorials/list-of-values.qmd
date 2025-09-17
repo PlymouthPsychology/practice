@@ -29,361 +29,421 @@ input[type="checkbox"] {
 <ul style="list-style-type:none;">
 <li><label>
     <input type="checkbox">
-    **Accomplishment**: an act or instance of carrying into effect; fulfillment
+    **Accomplishment**: 
+    <!-- an act or instance of carrying into effect; fulfillment -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Accountability**: an obligation or willingness to accept responsibility for one’s  actions
+    **Accountability**: 
+    <!-- an obligation or willingness to accept responsibility for one’s  actions -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Charity**: generosity and helpfulness towards the needy
+    **Charity**: 
+    <!-- generosity and helpfulness towards the needy -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Commitment**: an agreement to do something in the future; a pledge
+    **Commitment**: 
+    <!-- an agreement to do something in the future; a pledge -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Community**: a social, religious, or occupational group sharing common interests
+    **Community**: 
+    <!-- a social, religious, or occupational group sharing common interests -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Compassion**: feeling sympathy for those stricken by misfortune, with a desire to alleviate the suffering
+    **Compassion**: 
+    <!-- feeling sympathy for those stricken by misfortune, with a desire to alleviate the suffering -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Competition**: a contest for some prize, honor, or advantage
+    **Competition**: 
+    <!-- a contest for some prize, honor, or advantage -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Conviction**: a fixed or firm belief
+    **Conviction**: 
+    <!-- a fixed or firm belief -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Creativity**: the ability to transcend traditional ideas, rules, patterns, or relationships; originality
+    **Creativity**: 
+    <!-- the ability to transcend traditional ideas, rules, patterns, or relationships; originality -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Decisiveness**: displaying no or little hesitation; resolute; determined
+    **Decisiveness**: 
+    <!-- displaying no or little hesitation; resolute; determined -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Discipline**: behavior in accord with rules of conduct; behavior maintained by training and control
+    **Discipline**: 
+    <!-- behavior in accord with rules of conduct; behavior maintained by training and control -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Diversity**: the inclusion of different types of people
+    **Diversity**: 
+    <!-- the inclusion of different types of people -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Effectiveness**: producing a purpose; producing the intended or expected result
+    **Effectiveness**: 
+    <!-- producing a purpose; producing the intended or expected result -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Efficiency**: able to accomplish something with the least waste of time and effort
+    **Efficiency**: 
+    <!-- able to accomplish something with the least waste of time and effort -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Excellence**: possessing outstanding quality or superior merit; remarkably good
+    **Excellence**: 
+    <!-- possessing outstanding quality or superior merit; remarkably good -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Faith**: belief in God or the doctrines or teachings of religion
+    **Faith**: 
+    <!-- belief in God or the doctrines or teachings of religion -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Freedom**: the power to determine action without restraint
+    **Freedom**: 
+    <!-- the power to determine action without restraint -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Fun**: what provides amusement or enjoyment
+    **Fun**: 
+    <!-- what provides amusement or enjoyment -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Generosity**: readiness or liberality in giving
+    **Generosity**: 
+    <!-- readiness or liberality in giving -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Grace**: favor or goodwill; unmerited divine assistance
+    **Grace**: 
+    <!-- favor or goodwill; unmerited divine assistance -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Gratitude**: the quality or feeling of being grateful or thankful
+    **Gratitude**: 
+    <!-- the quality or feeling of being grateful or thankful -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Growth**: development from a simpler to a more complex stage
+    **Growth**: 
+    <!-- development from a simpler to a more complex stage -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Harmony**: when people are able to work together
+    **Harmony**: 
+    <!-- when people are able to work together -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Health**: the condition of being sound in body, mind, or spirit
+    **Health**: 
+    <!-- the condition of being sound in body, mind, or spirit -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Honesty**: uprightness and fairness; truthfulness, sincerity, or frankness
+    **Honesty**: 
+    <!-- uprightness and fairness; truthfulness, sincerity, or frankness -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Honor**: high respect, as for worth, merit, or rank
+    **Honor**: 
+    <!-- high respect, as for worth, merit, or rank -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Humility**: freedom from pride or arrogance
+    **Humility**: 
+    <!-- freedom from pride or arrogance -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Imagination**: creative ability; ability to face and resolve difficulties; resourcefulness
+    **Imagination**: 
+    <!-- creative ability; ability to face and resolve difficulties; resourcefulness -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Independence**: freedom from the control, influence, support, or aid of others
+    **Independence**: 
+    <!-- freedom from the control, influence, support, or aid of others -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Innovation**: the introduction of something new
+    **Innovation**: 
+    <!-- the introduction of something new -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Integrity**: firm adherence to a moral code and ethical principles; honesty
+    **Integrity**: 
+    <!-- firm adherence to a moral code and ethical principles; honesty -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Intelligence**: capacity for learning, reasoning, and understanding; aptitude in grasping truths, relationships, facts, meanings, etc.
+    **Intelligence**: 
+    <!-- capacity for learning, reasoning, and understanding; aptitude in grasping truths, relationships, facts, meanings, etc. -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Justice**: righteousness, equitableness, or moral rightness
+    **Justice**: 
+    <!-- righteousness, equitableness, or moral rightness -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Kindness**: having, showing, or proceeding from benevolence; indulgent, considerate, or helpful; humane
+    **Kindness**: 
+    <!-- having, showing, or proceeding from benevolence; indulgent, considerate, or helpful; humane -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Learning**: knowledge or skill acquired by instruction or study
+    **Learning**: 
+    <!-- knowledge or skill acquired by instruction or study -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Love**: strong affection for another
+    **Love**: 
+    <!-- strong affection for another -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Loyalty**: faithfulness to commitments or obligations
+    **Loyalty**: 
+    <!-- faithfulness to commitments or obligations -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Optimism**: an inclination to believe the most favorable in actions and events
+    **Optimism**: 
+    <!-- an inclination to believe the most favorable in actions and events -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Passion**: intense, driving, or conviction
+    **Passion**: 
+    <!-- intense, driving, or conviction -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Perseverance**: to achieve something despite difficulties or failure
+    **Perseverance**: 
+    <!-- to achieve something despite difficulties or failure -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Power**: ability to act or produce an effect; authority
+    **Power**: 
+    <!-- ability to act or produce an effect; authority -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Professionalism**: the conduct, behavior, and attitude of someone in a work or business environment
+    **Professionalism**: 
+    <!-- the conduct, behavior, and attitude of someone in a work or business environment -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Prosperity**: a successful, flourishing, or thriving condition, especially in financial respects; good fortune
+    **Prosperity**: 
+    <!-- a successful, flourishing, or thriving condition, especially in financial respects; good fortune -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Purpose**: the reason why something exists or is done, made, used, etc.
+    **Purpose**: 
+    <!-- the reason why something exists or is done, made, used, etc. -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Quality**: character with respect to fineness or degree of excellence
+    **Quality**: 
+    <!-- character with respect to fineness or degree of excellence -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Recognition**: special notice or attention; the acknowledgment of achievement, service, merit, etc.
+    **Recognition**: 
+    <!-- special notice or attention; the acknowledgment of achievement, service, merit, etc. -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Relationships**: a connection, association, or involvement with those you care about
+    **Relationships**: 
+    <!-- a connection, association, or involvement with those you care about -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Respect**: high regard; proper acceptance or courtesy; acknowledgment
+    **Respect**: 
+    <!-- high regard; proper acceptance or courtesy; acknowledgment -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Responsibility**: the state being answerable or accountable for something within one’s power, control, or management
+    **Responsibility**: 
+    <!-- the state being answerable or accountable for something within one’s power, control, or management -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Risk** Taking: the willingness to embrace challenges that may be hazardous
+    **Risk** Taking: 
+    <!-- the willingness to embrace challenges that may be hazardous -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Security**: freedom from fear and anxiety
+    **Security**: 
+    <!-- freedom from fear and anxiety -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Service**: contribution to the welfare of others
+    **Service**: 
+    <!-- contribution to the welfare of others -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Spontaneity**: arising from a natural impulse or tendency; unplanned
+    **Spontaneity**: 
+    <!-- arising from a natural impulse or tendency; unplanned -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Stability**: steadfastness; constancy, as of character or purpose
+    **Stability**: 
+    <!-- steadfastness; constancy, as of character or purpose -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Success**: the accomplishment of one’s goals; the attainment of wealth, position, or honors
+    **Success**: 
+    <!-- the accomplishment of one’s goals; the attainment of wealth, position, or honors -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Teamwork**: work done by several associates with each doing their part
+    **Teamwork**: 
+    <!-- work done by several associates with each doing their part -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Tolerance**: a fair, objective, and permissive attitude toward opinions, beliefs, and practices that differ from one’s own
+    **Tolerance**: 
+    <!-- a fair, objective, and permissive attitude toward opinions, beliefs, and practices that differ from one’s own -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Tradition**: an inherited or customary pattern of thought, behavior, or action
+    **Tradition**: 
+    <!-- an inherited or customary pattern of thought, behavior, or action -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Trust**: reliance on the integrity, strength, ability of a person or thing; confidence
+    **Trust**: 
+    <!-- reliance on the integrity, strength, ability of a person or thing; confidence -->
     </label>
 </li>
 
 <li><label>
     <input type="checkbox">
-    **Wisdom**: knowledge of what is true or right coupled with just judgment as to action; discernment, or insight
+    **Wisdom**: 
+    <!-- knowledge of what is true or right coupled with just judgment as to action; discernment, or insight -->
     </label>
 </li>
 </ul>
