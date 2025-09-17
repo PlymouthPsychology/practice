@@ -1,10 +1,6 @@
 ---
-geometry: top=25mm,left=20mm,right=20mm,bottom=30mm
-fontsize: 11pt
+title: An except from Mueller & Oppenheimer, 2014
 ---
-
-
-# An except from Mueller & Oppenheimer, 2014
 
 
 > STUDY 1
@@ -18,15 +14,12 @@ fontsize: 11pt
 > The first author scored all responses blind to condition. An independent rater, blind to the purpose of the study and condition, also scored all open-ended questions. Initial interrater reliability was good ($\alpha = .89$); score disputes between raters were resolved by discussion. Longhand notes were transcribed into text files.
 
 
+The main results of this study were presented in a graph, shown below (Fig. 1). 
 
-\vskip 3em
-
-
-The main results of this study were presented in a graph, shown below (Fig. 1). The y axis shows *z scores*, which are a way of comparing different scores on the same scale. The *average* value of data converted to a *z score* will always be zero.
+The y axis shows *z scores*, which are a way of comparing different scores on the same scale. The *average* value of data converted to a *z score* will always be zero.
 
 
-![Fig 1. from Mueller et al.](images/penmightyfig1.png)
-
+![Fig 1. from Mueller et al.](../images/penmightyfig1.png)
 
 
 Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. Psychological science, 25(6), 1159-1168.

@@ -1,0 +1,111 @@
+---
+title: "Write your own obituary!"
+subtitle: "Discover what truly matters by reflecting on your life's meaning"
+author: Ben Whalley
+description: "This task helps you gain perspective on your life by imagining how it might be remembered. By writing your own obituary, you'll clarify your values, reflect on what gives your life meaning, and consider what changes you might want to make."
+Release: false
+categories: [Growth]
+priority: 15
+reading-time: 45 minutes
+---
+
+![](../images/DALL·E%202024-09-06%2011.57.52%20-%20A%20terrifying,%20female%20professor%20sitting%20at%20a%20cluttered%20desk,%20with%20an%20Edgar%20Allan%20Poe-inspired%20gothic%20atmosphere.%20The%20professor%20has%20sharp,%20intense%20featu.webp)
+
+Writing your own obituary might sound morbid, but can be a powerful tool for self-reflection and life planning. 
+
+This technique, studied by psychologist Andrew Bland, helps people move beyond surface-level goals to discover their deeper values and authentic aspirations. Students who complete this exercise often report initial discomfort followed by a profound shift in perspective—greater appreciation for life, clearer sense of purpose, and motivation to live more intentionally.
+
+The process works by helping you step outside your day-to-day concerns and see your life from a broader perspective. What would you want people to remember about you? What kind of person do you want to have been? What legacy do you want to leave?
+
+This connects well with other growth activities—if you've done the career planning task, you might notice how your core values show up in both exercises.
+
+# Instructions
+
+:::{.instruction}
+
+This exercise has three parts. Find a quiet space where you won't be interrupted for about 45 minutes.
+
+### Part 1: Preparation (5 minutes)
+
+Sit quietly and imagine you are much older, looking back on your life. Someone who knows you well is going to write your obituary. This person understands not just what you accomplished, but what your life meant:  how you lived, what you valued, how you treated others, what you contributed and so on.
+
+Take a few deep breaths and allow yourself to think about your life as a complete story.
+
+### Part 2: Write your obituary (25 minutes)
+
+Write your obituary as if written by someone who knew you well. Focus on the **meaning** of your life rather than just listing achievements. Consider:
+
+- What kind of person were you?
+- What values guided your choices?
+- How did you grow and change over your lifetime?
+- What did you contribute to others' lives?
+- What challenges did you overcome?
+- What brought you joy and fulfillment?
+
+Keep it to less than one page. 
+Don't worry about making it perfect. Focus on what feels authentic and meaningful to you.
+
+### Part 3: Reflection (15 minutes)
+
+After writing, reflect on the experience:
+
+- What feelings came up as you wrote this?
+- What surprised you about what you wrote?
+- How does this connect to your current choices and priorities?
+- What does this make you want to change or focus on in your life right now?
+
+:::
+
+# Recording your work
+
+:::{.instruction}
+
+Create a short reflection (written or voice note) that includes:
+
+1. A brief summary of the main themes that emerged in your obituary
+2. What this exercise revealed about your values and priorities
+3. One specific way this reflection might influence your choices going forward
+
+[Submit your reflection to Psybot for feedback](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
+
+:::
+
+
+<!--
+
+# Information for giving feedback to students on the task:
+
+## What to look for in good responses:
+
+**Obituary content:**
+- Focus on character and relationships rather than just achievements
+- Evidence of values and personal growth
+- Authentic voice that reflects genuine self-reflection
+- Balance between aspirations and realistic self-awareness
+
+**Reflection quality:**
+- Honest acknowledgment of emotions during the exercise
+- Specific insights about values or life priorities
+- Clear connection between the exercise and current life choices
+- Concrete plans for change or growth
+
+## Common patterns:
+
+**Initial responses often include:**
+- Some discomfort with the exercise
+- Difficulty knowing where to start
+- Focus on career achievements initially
+
+**Deeper responses typically show:**
+- Shift toward relationships and personal qualities
+- Recognition of gap between current life and ideal life
+- Clearer sense of what matters most
+- Motivation for authentic living
+
+## Red flags:
+- Purely achievement-focused obituary with no personal reflection
+- Dismissive attitude toward the exercise
+- No connection between reflection and current choices
+- Extremely unrealistic or grandiose self-description
+
+-->

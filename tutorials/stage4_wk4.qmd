@@ -1,0 +1,35 @@
+---
+title: "Stage 4, Week 4: Thinking about PROJECTS"
+subtitle: "Guide for tutors"
+priority: 1
+categories: ["stage4", "tutorial"]
+filters:
+  - email-link
+email_title: "Stage 4 Tutorial"
+email_body: |
+  Dear [tutee],
+
+  Sorry to miss you in our tutorial today. In the session we looked at some evidence relating to different strategies for taking notes in lectures. 
+  
+  The idea was to XXX
+
+  You can complete the task for yourself, and there are notes on how to do that here: XXX
+
+  I hope to see you in our next tutorial session.
+
+  All the best,
+
+  YOUR NAME
+---
+
+
+
+TODO _ SESSION ON PROJECTS AND DEADLINES AND TIMELINES
+
+
+MAKE A NEW PRACTICE TASK ON GANTT CHARTS?
+
+
+ANDY DOES SKILLS PACKAGE ON PROJECT MANAGEMENT - CHECK THAT
+
+

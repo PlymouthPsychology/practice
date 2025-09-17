@@ -9,7 +9,7 @@ email_title: "Stage 1 Tutorial Suggestion"
 email_body: |
   Dear [tutee],
 
-  Sorry to miss you in our tutorial today. In the session we looked at some evidence relating to different strategies for taking notes in lectures. The idea was to think about how we can use psychological evidence to enhance our own learning.
+  Sorry to miss you in our tutorial today. In the session we looked at some evidence relating to different strategies for taking notes in lectures. The idea was to think about how we can use psychological evidence to improve our own learning.
 
   You can complete the task for yourself, and there are notes on how to do that here: https://plymouthpsychology.github.io/practice/tasks/studying-using-psychology-to-be-better-psychologist.html
 
@@ -17,10 +17,8 @@ email_body: |
 
   All the best,
 
-  YOU NAME
+  YOUR NAME
 ---
-
-
 
 
 
@@ -30,7 +28,11 @@ email_body: |
 
 ### Tutor tasks
 
-[Print this handout for tutees](muller-oppenheimer-2014.pdf){.btn .btn-success} [Log this tutorial in S4](https://plymuni.lightning.force.com/lightning/n/My_Tutees_LWC){.btn .btn-danger} `Send email to missing students`{.email-link} 
+[Log this tutorial in S4](https://plymuni.lightning.force.com/lightning/n/My_Tutees_LWC){.btn .btn-danger} 
+
+Did your tutees come to the tutorial. If not, use this link to send a form email:
+
+`Send email to missing students`{.email-link} 
 
 
 
@@ -40,9 +42,9 @@ email_body: |
 - Build group familiarity 
 - Set tutorial norms
 
-- Model how psychology helps move from hunches --> evidence
-- Discuss what makes *good evidence*.  
-- Practise concise writing
+- Model how psychology helps move from hunches → evidence
+- Discuss what makes *good evidence*.
+- Practice concise writing
 
 - Reflect on study habits
 - Commit to a note-taking plan
@@ -53,15 +55,15 @@ email_body: |
 
 - **Introductions**: 
 
-- Go round the group – ask names, where they are from etc. 
+- Go round the group -- ask names, where they are from etc. 
 - Ask them to think of one non-psychology interest (but keep this to themselves for the moment)
 
 
 - **Housekeeping**:
 
-- Explain how tutorials run, 
-- Attendance expectations
-- Highlight resources like the DLE, timetable. Check all can 
+- Explain how tutorials run.
+- Attendance expectations.
+- Highlight resources like the DLE, timetable. Check all can access etc.
 
 
 
@@ -77,30 +79,42 @@ email_body: |
 
 # Task 2: Pictionary icebreaker
 
-An icebreaker task that illustrates a speed/accuracy tradeoff
+An icebreaker task that illustrates a speed/accuracy trade-off
 
 **Setup:**  
 
-- Two teams (~4 per team)
-- Timed games (suggest 60sec)
-- Each student must draw/doodle their hobby/interest
-- Teammates must guess
-- 1 point per correct guess. 
-- Rotate around the team members
+- In turn, each student draws/doodles their hobby/interest
+- There are 90 seconds to draw
+- Other students must guess what it is
+- 1 point per correct guess
+- **Only one guess per student** (if you guess wrong, you can't guess again)
+- Rotate around the group
+
+Scoring can either be done individually (small groups) or by creating 2 teams first (will work better if 6 or more student).
+
 
 
 **Debrief**  
 
-- Tally up the scores and celebrate!
-- Ask: “When you guessed, what made you confident enough to shout out?” 
-- Did some students have a hunch, but kept quiet becaue they weren't sure? 
-- Foreshadow: Mention this kind of speed/accuracy tradeoff is common. XXX WHERE IN STAGE 1 ... PETER??
+- *Tally* up the scores and celebrate!
+- *Ask*: “When you guessed, what made you confident enough to shout out?” 
+  - Did some students have a hunch, but kept quiet because they weren't sure? 
+- *Foreshadow*: This trade-off when making decisions is part of the reason we use statistics to analyse data. It helps us quantify uncertainty and make decisions.
+
+- *Possible extension*: discuss how this is similar to.a speed/accuracy trade-off in perception or decision making. Ask whether the person who shouted first actually had the most evidence, or just a lower threshold for action?
 
 
-**Link to next task**: Balancing speed vs accuracy is somewhat like deciding when we have *enough evidence* (i.e. in psychology). 
+
+**Link to next task**: 
+
+- The aim of the next task is to show students some 'evidence' and ask them to consider if it would lead them to change their own behaviour. If not, why not?
+
+- The example is in the area of study habits so has obvious relevance to them.
+
+- There are 2 follow-up practice tasks (on note taking and studying) 
 
 
-# Task 3: "Should students write or type their notes?"
+# Task 3: "Should we write or type our notes in lectures?"
 
 **Discuss**: 
 
@@ -111,13 +125,18 @@ An icebreaker task that illustrates a speed/accuracy tradeoff
 
 - We/they already have opinions. 
 - In this task we look at an experimental study
-- We want to decide: **"is this evidence strong enough to change our our mind, or our behaviour?"**
+- We want to decide: **"is this evidence strong enough to change our mind, or our behaviour?"**
 
 
 
 ## Mueller & Oppenheimer, 2014 excerpt
 
-Print this handout for students:  [Mueller & Oppenheimer, 2014 excerpt](muller-oppenheimer-2014.pdf)
+Show this handout for students:  [Mueller & Oppenheimer, 2014 excerpt](muller-oppenheimer-2014.html)
+
+
+Or show them this QR code and ask them to open it on their phones:
+
+![QR code for Mueller & Oppenheimer, 2014 excerpt](../images/qr_muller.png){width=80%}
 
 
 **Briefly** give time for students to skim the extract and figure.
@@ -138,7 +157,7 @@ Print this handout for students:  [Mueller & Oppenheimer, 2014 excerpt](muller-o
 - After 30 mins, given *factual* and *conceptual* questions.
 - Results: 
     - factual ≈ same performance
-    - **conceptual  = lower performnce with laptops vs notes**
+    - **conceptual  = lower performance with laptops vs notes**
 
 
 ## How useful was the plot?
@@ -147,7 +166,7 @@ Print this handout for students:  [Mueller & Oppenheimer, 2014 excerpt](muller-o
 
 **Prompts**
 
-- What is a z-score? If they don't know does it matter? Probably not... If time, extend with a discussion about how to read papers where they don't understand all the technical details.
+- What is a z-score? If they don't know does it matter? Probably not... If time, extend with a discussion about how to read papers where they don't understand all the technical details (hint: you can still think critically about studies, even when technical details are unfamiliar - we all do this all the time).
 
 - Where are the differences between groups? Are they big enough to matter?  What do we mean by "matter"? How can we judge? Aim is to highlight that the effect size is what really matters. We could be very sure about a tiny (irrelevant) effect.
 
@@ -183,7 +202,7 @@ There are practice tasks on this site to encourage students to
 
 # Task 4: Wrap-up
 
-**Ask all students in turn (they should all have an answer)**  
+**Ask all students --- they should all have their own answer**  
 
 1. What change (if any) they will make to note taking next week, and why?
 2. One strength/limitation of today’s evidence that stood out to them and influenced their decision.
@@ -192,4 +211,5 @@ There are practice tasks on this site to encourage students to
 **Reminders**
 
 - Regular Monday briefings help them stay on track 
-- PETER ANYTHING ELSE???
+
+- Pointer for next week: They will have an introduction to stats and research methods, so begin to learn how to analyse data like this and answer question like this more formally. 
