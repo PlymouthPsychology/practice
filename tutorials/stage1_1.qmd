@@ -133,7 +133,6 @@ Scoring can either be done individually (small groups) or by creating 2 teams fi
 
 Show this handout for students:  [Mueller & Oppenheimer, 2014 excerpt](muller-oppenheimer-2014.html)
 
-
 Or show them this QR code and ask them to open it on their phones:
 
 ![QR code for Mueller & Oppenheimer, 2014 excerpt](../images/qr_muller.png){width=80%}

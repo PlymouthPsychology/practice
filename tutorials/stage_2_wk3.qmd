@@ -30,49 +30,51 @@ email_body: |
 
 This tutorial helps students connect their core values to their career planning and daily actions. 
 
-
 Students often struggle to see how their current studies link to future goals; this session provides a practical framework for values-based decision making, and setting SMART goals for the next weeks and months.
 
 It starts with an icebreaker: We use the things that most frustrate/anger us to identify what matters most (core values).
 
 
 
-# Session Structure
 
-### Introduction (3 minutes)
+# Introduction
 
 Welcome students
 
-Explain that today's session focuses on values-based career planning. 
+Explain that today's session focuses on **values-based career planning**. 
 
 Many students feel overwhelmed by career choices or disconnected from their daily actions. 
 
-This session helps them identify what truly matters to them and use these insights to guide decisions.
+This session will help identify what truly matters to them, and use these insights to guide their activity.
 
 
 
-### Ice Breaker: Using Outrage for Good! (7 minutes)
+### Ice Breaker: Using Outrage for Good!
 
-**Tutor guidance**: These days, everyone seems angry about something — from big global issues to trivial internet spats. 
+These days, everyone seems angry about something.
 
-Rather than dismissing that anger, let's use it. Our strongest frustrations sometimes point to the values that matter most to us.
+Rather than dismissing that anger, let's use it. 
+
+Our strongest frustrations sometimes point to the values that matter most to us.
 
 
-**Instructions**
+**Prompt students**
 
-- Think back over the past year. What are 2–3 things that really annoyed you — moments when you felt genuinely frustrated or outraged? 
+- Think back over the past year. 
+- What are 2–3 things that really annoyed you — moments when you felt genuinely frustrated or outraged? 
+- They don’t have to be "serious"; it could be anything from climate inaction to people jumping queues. 
 
-- They don’t have to be serious; it could be anything from climate inaction to people cutting in queues. Share one example with the person next to you.
-
-**Discuss in pairs** Perhaps 3-4 minutes
+**Discuss in pairs** Share examples with the person next to you. Perhaps 3-4 minutes
 
 **As a group** Invite 2–3 volunteers (min) to share examples. 
 
-**Prompt reflection** Outrage can be a shortcut to finding what matters most.
+**Prompt reflection** 
 
-- What do these annoyances reveal about what you actually care about? 
-- For example, if lateness drives you mad, perhaps you really value respect or reliability?  If online arguments over misinformation wind you up, maybe you care deeply about truth and accuracy? 
+- What do these annoyances reveal about what you actually care for? 
 
+- For example, if stealing milk from the fridge drives you mad, perhaps you really value respect or honesty?
+
+- If online misinformation winds you up, maybe you care deeply about truth and accuracy? 
 
 **Discuss in pairs again** ~3-4 minutes again
 
@@ -80,120 +82,120 @@ Rather than dismissing that anger, let's use it. Our strongest frustrations some
 
 
 
-## Values Discovery (15 minutes)
+# Values Discovery
 
-### Individual Values Selection (8 minutes)
-Direct students to the comprehensive values list (available as handout or digital version). Ask them to:
 
-1. **First pass (3 minutes):** Quickly scan and circle values that immediately resonate
-2. **Second pass (3 minutes):** Narrow down to exactly 7 values
-3. **Final selection (2 minutes):** Add any important values not on the list
+**Open the list of values**
 
-**Tutor guidance:** Circulate and help students who seem stuck. Remind them there are no right or wrong answers.
+- Direct students to the [long list of values here](list-of-values.html), or scan this QR code to open the list on a phone:
 
-### Small Group Sharing (7 minutes)
-Groups of 3-4 students share their 7 values. Each person has 1-2 minutes to explain why they chose particular values.
+![](../images/qr_values.png){width=80%}
 
-**Discussion prompt:** "Notice any patterns in your group? Any surprising differences?"
 
----
+**Instructions**:
 
-## Core Values Identification (12 minutes)
+1. Quickly scan and select all values that resonate with them (2-3 mins)
+    - Check they have all highlighted at least 7 values, preferably more
 
-### Individual Ranking (5 minutes)
-Students rank their 7 values in order of importance and identify their top 3 core values. For each core value, they write one sentence explaining its importance and how it should influence their choices.
+2. Second pass (1-2 minutes): Narrow down to exactly 7 values
 
-### Pair Discussion (7 minutes)
+3. Final check: Note any important values not on the list? 
+
+
+**Tutor notes:** 
+
+- Help students who seem stuck.
+- Remind them there are no right or wrong answers.
+
+
+
+**Sharing values** 
+
+- Individuals or pairs share their 7 values
+- Notice any patterns in your group? Any surprising differences?
+
+
+# Ranking values
+
+**Instructions**
+
+- Students rank their 7 values in order of importance and 
+- Identify their top 3 core values. 
+
+
+**Pair Discussion**
+
 Students share their top 3 values with a partner, discussing:
+
 - Why these values matter most to them
-- How these might influence career decisions
 - Any challenges in narrowing down to just 3
+- How/why it should influence their choices of career, and their activities in daily life.
 
----
 
-## Career Exploration & Alignment (15 minutes)
+# Values and careers
 
-### Careers Information Input (5 minutes)
-**Tutor guidance:** Provide brief overview of psychology career paths and direct students to resources.
+**Discussion**
 
-"Before we explore alignment, let's ensure everyone knows their options. Psychology careers include clinical, educational, research, business/organisational, forensic, health psychology, and many others. If you're unsure about specific paths, check out the [BPS careers website](https://www.bps.org.uk/careers-education/careers) or your university careers service."
+- Ask all students what career plans they have (if any)? Go around the group to share.
 
-### Values-Career Alignment Activity (10 minutes)
-Students work individually (5 minutes) then in pairs (5 minutes) to consider:
+- Remind them that there are good psychology-specific resources on the [Prospects website](https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/psychology)
+
 
 **For each career path you're considering:**
+
 - Which of your core values would this work fulfil?
 - What values might be compromised?
 - How well does this align with who you are?
 
-**Tutor guidance:** Encourage honest reflection. Some students may discover misalignments - this is valuable learning.
 
----
 
-## Imagery and Goal Visualisation (5 minutes)
+# Values and *goals*
 
-**Tutor guidance:** This incorporates Jackie's functional imagery training suggestion.
+Our values only influence our lives if they guide what we do each day. 
 
-"Research shows that having a clear mental image of your goals and the steps toward them helps maintain motivation. We're going to do a brief visualisation exercise."
+**Instructions**
 
-Guide students through imagery:
-1. "Close your eyes and imagine yourself in 5 years, working in a role that aligns with your core values"
-2. "Picture a typical day - what are you doing? Who are you helping? How do you feel?"
-3. "Now trace backwards - what steps brought you here? What did you do this year? This month? This week?"
-4. "Open your eyes and jot down the key steps you visualised"
+- Take your top 3 core values.
 
----
+- For each value, brainstorm 1-2 possible goals that would help you live that value out in practice.
+    - Example: If one of your top values is Creativity, a goal might be "Find a dissertation topic that allows me to have input on the design of the study" or "Join a student society that lets me make art/music."
+    - If your value is Justice, a goal might be "Apply for a placement or volunteer in an organisation focused on advocacy or policy change"
 
-## Action Planning & Commitment (3 minutes)
+- Now choose one goal per value that feels most realistic and motivating right now.
 
-Students identify:
-- **Continue:** One thing they're currently doing that aligns with values and goals
-- **Start:** One new action they'll take this week to move closer to their goals
-- **Stop:** One activity or habit they'll stop because it doesn't serve their values
+- Turn each one into a SMART goal: It must be **Specific, Measurable, Achievable, Relevant, and Time-bound**.
+    - Example: “By the end of this term, I will attend two careers events to explore organisations working on mental health equity.”
 
-**Tutor guidance:** Encourage specific, achievable actions for the "start" item.
 
----
+**Pair Discussion**
 
-# Wrap-up and Reflection Assignment
+- Share one of your SMART goals with your partner.
+- Ask: Does this goal clearly reflect the underlying value? 
+- Does it meet the SMART criteria? Is it:
+    - Specific? 
+    - Measurable? 
+    - Achievable? 
+    - Relevant? 
+    - Time-bound?
+- Can you think of ways to make this goal more realistic?
 
-**In tutorial:** Students share their weekly action commitment with one other person as accountability.
 
-**Follow-up task:** Students create a voice note or written reflection (2-3 minutes) including:
-1. Their top 3 core values and why they matter
-2. How this exercise clarified or changed their career thinking
-3. Their specific weekly action plan
-4. What gives them confidence they can succeed
+# Imagining our future
 
-They submit this to PsyBot for feedback on values-career connections and action plan practicality.
+Research ([conducted at Plymouth](https://www.plymouth.ac.uk/research/psychology/applied-psychology/functional-imagery-training)) shows that having a clear mental image of your goals and the steps toward them helps maintain motivation. 
 
----
+We're going to do a brief visualisation exercise to solidify the goals we just identified.
 
-# Materials Needed
+INSERT JACKIE'S IMAGERY GUIDANCE RECORDING HERE.
 
-- Values list handouts (or digital access)
-- BPS careers information or links
-- PsyBot submission link
-- Timer for activities
+**Discuss as a group**
 
----
+- what they will do this week to get started?
+- what gives them confidence they can succeed at this?
 
-# Tutor Notes
 
-**Common challenges:**
-- Students overwhelmed by choice - remind them values evolve and this isn't permanent
-- Perfectionism in values selection - emphasise exploration over getting it "right"
-- Vague career knowledge - direct to specific resources and encourage careers service appointments
 
-**Extension activities if time allows:**
-- Discuss how values might change over time
-- Explore how different contexts (work, relationships, personal time) might prioritise different values
 
-**Key learning outcomes:**
-- Students can identify their core values
-- Students understand connection between values and career satisfaction
-- Students have concrete weekly action plan
-- Students recognise importance of ongoing reflection and adjustment
 
 
 
