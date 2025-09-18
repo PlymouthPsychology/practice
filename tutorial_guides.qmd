@@ -4,22 +4,25 @@ listing:
   - id: stage1
     contents: "tutorials/*.qmd"
     type: grid
-    fields: [title, image]
+    grid-columns: 2
+    fields: [title, image, subtitle]
     include:
       categories: [stage1]
     sort: ['priority', 'title']
   - id: stage2
     contents: "tutorials/*.qmd"
     type: grid
-    fields: [title, image]
+    grid-columns: 2
+    fields: [title, image, subtitle]
     include:
       categories: [stage2]
-    sort: ['priority', 'title']
+    sort: ['priority', 'title', ]
     
   - id: stage4
     contents: "tutorials/*.qmd"
     type: grid
-    fields: [title, image]
+    grid-columns: 2
+    fields: [title, image, subtitle]
     include:
       categories: [stage4]
     sort: ['priority', 'title']

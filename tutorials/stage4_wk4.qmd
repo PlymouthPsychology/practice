@@ -1,35 +1,41 @@
 ---
-title: "Stage 4, Week 4: Thinking about PROJECTS"
-subtitle: "Guide for tutors"
+title: "Reviewing project progress"
+subtitle: "Stage 4, Week 4 tutorial."
 priority: 1
 categories: ["stage4", "tutorial"]
 filters:
   - email-link
 email_title: "Stage 4 Tutorial"
 email_body: |
-  Dear [tutee],
+  Dear [NAME],
 
-  Sorry to miss you in our tutorial today. In the session we looked at some evidence relating to different strategies for taking notes in lectures. 
+  Sorry to miss you in our tutorial today. In the session we reviewed where people were at in their projects, and whether they were behind or ahead of schedule.
   
-  The idea was to XXX
-
-  You can complete the task for yourself, and there are notes on how to do that here: XXX
+  You can complete part of the task for yourself, and there are notes on how to do that here: XXX
 
   I hope to see you in our next tutorial session.
 
   All the best,
 
-  YOUR NAME
+  [YOUR NAME]
 ---
 
 
 
-TODO _ SESSION ON PROJECTS AND DEADLINES AND TIMELINES
+Did your tutees miss the tutorial? If so, use this link to send a pre-written email:
+
+`Send email to missing students`{.email-link} 
 
 
-MAKE A NEW PRACTICE TASK ON GANTT CHARTS?
 
+![](../images/planning.png){width=33%}
 
-ANDY DOES SKILLS PACKAGE ON PROJECT MANAGEMENT - CHECK THAT
+# Projects and project management
 
+ 
+This tutorial will help students understand how much progress they have made on their project, and what still needs to be done.
 
+The teaching materials will be based on Andy's existing Stage 4 project package, which covers project management and Gantt charts. 
+
+Check back soon for details.
+ 

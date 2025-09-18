@@ -21,15 +21,11 @@ listing:
 ![](../images/Albert_Einstein_sticks_his_tongue_1951.jpg){width="30%"}
 
 
-# Overview
-
-Albert Einstein is quoted as saying:
 
 > "If you can't explain it simply, you don't understand it well enough"
+> *Albert Einstein*
 
-And it's true that explaining a concept to someone else is a great way to consolidate your understanding of it.
-
-In this task, we practice explaining a concept from a lecture to a friend, as if you were leaving them a voice note. 
+Explaining a concept to another person is a great way to consolidate your understanding. In this task, we practice explaining a concept from a lecture to a friend, as if you were leaving them a voice note.  
 
 
 # Instructions

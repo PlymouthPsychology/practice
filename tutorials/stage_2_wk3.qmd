@@ -1,6 +1,6 @@
 ---
 title: "Using Outrage for Good! Thinking about our values"
-subtitle: "Stage 2, Week 3 tutorial. Guide for staff"
+subtitle: "Stage 2, Week 3 tutorial."
 priority: 3
 categories: ["stage2", "tutorial"]
 filters:
