@@ -1,7 +1,7 @@
 ---
-title: "Stage 2, Week 3: Using Outrage for Good! Thinking about our values"
-subtitle: "Guide for tutors"
-priority: 1
+title: "Using Outrage for Good! Thinking about our values"
+subtitle: "Stage 2, Week 3 tutorial. Guide for staff"
+priority: 3
 categories: ["stage2", "tutorial"]
 filters:
   - email-link
@@ -49,7 +49,9 @@ This session will help identify what truly matters to them, and use these insigh
 
 
 
-### Ice Breaker: Using Outrage for Good!
+# 1. Ice Breaker
+
+## Using Outrage for Good!
 
 These days, everyone seems angry about something.
 
@@ -60,9 +62,10 @@ Our strongest frustrations sometimes point to the values that matter most to us.
 
 **Prompt students**
 
-- Think back over the past year. 
-- What are 2–3 things that really annoyed you — moments when you felt genuinely frustrated or outraged? 
-- They don’t have to be "serious"; it could be anything from climate inaction to people jumping queues. 
+- Over the past year...
+- What 2–3 things that really annoyed you?
+- Moments when you felt genuinely frustrated or outraged? 
+- Don’t have to be "serious"; anything from climate inaction to queue jumping. 
 
 **Discuss in pairs** Share examples with the person next to you. Perhaps 3-4 minutes
 
@@ -72,27 +75,23 @@ Our strongest frustrations sometimes point to the values that matter most to us.
 
 - What do these annoyances reveal about what you actually care for? 
 
-- For example, if stealing milk from the fridge drives you mad, perhaps you really value respect or honesty?
+- For example, if stealing milk from the fridge drives you mad, perhaps you really value *respect* or *honesty*?
 
-- If online misinformation winds you up, maybe you care deeply about truth and accuracy? 
+- If online misinformation winds you up, maybe you care deeply about *truth* and *accuracy*? 
 
-**Discuss in pairs again** ~3-4 minutes again
-
-**As a group again** Share what the students think 
+**As a group**  Invite discussion about what their annoyances reveal.
 
 
 
-# Values Discovery
+# 2. Values Discovery
 
 
-**Open the list of values**
-
-- Direct students to the [long list of values here](list-of-values.html), or scan this QR code to open the list on a phone:
+Direct students to the [long list of values here](list-of-values.html), or scan this QR code to open the list on a phone:
 
 ![](../images/qr_values.png){width=80%}
 
 
-**Instructions**:
+**Instructions for students, individually**:
 
 1. Quickly scan and select all values that resonate with them (2-3 mins)
     - Check they have all highlighted at least 7 values, preferably more
@@ -102,85 +101,89 @@ Our strongest frustrations sometimes point to the values that matter most to us.
 3. Final check: Note any important values not on the list? 
 
 
-**Tutor notes:** 
 
-- Help students who seem stuck.
-- Remind them there are no right or wrong answers.
+If students are stuck, remind them there are no right or wrong answers.
 
 
 
-**Sharing values** 
+**As a group** 
 
-- Individuals or pairs share their 7 values
-- Notice any patterns in your group? Any surprising differences?
+- Individuals or pairs share their 7 values they identified
 
+Once everyone has shared?
 
-# Ranking values
+- Notice any patterns in your group? 
+- Any surprises/conflicts?
 
-**Instructions**
-
-- Students rank their 7 values in order of importance and 
-- Identify their top 3 core values. 
-
-
-**Pair Discussion**
-
-Students share their top 3 values with a partner, discussing:
-
-- Why these values matter most to them
-- Any challenges in narrowing down to just 3
-- How/why it should influence their choices of career, and their activities in daily life.
-
-
-# Values and careers
-
-**Discussion**
-
-- Ask all students what career plans they have (if any)? Go around the group to share.
-
-- Remind them that there are good psychology-specific resources on the [Prospects website](https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/psychology)
-
-
-**For each career path you're considering:**
-
-- Which of your core values would this work fulfil?
-- What values might be compromised?
-- How well does this align with who you are?
+- If we had to pick our the top 3 values, what would they be?
+- Why do these values matter most to us?
 
 
 
-# Values and *goals*
+# 3. Values and careers
 
-Our values only influence our lives if they guide what we do each day. 
+**As a group**
 
-**Instructions**
+- Ask each student what career plans they have (if any)? 
+- Go around the group to share plans...
 
-- Take your top 3 core values.
 
-- For each value, brainstorm 1-2 possible goals that would help you live that value out in practice.
+Students are likely to be unsure/vague on plans. Remind them about good psychology-specific resources on the [Prospects website](https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/psychology)
+
+
+**Discuss in pairs**:  "For each career path you are considering..."
+
+- Which of your core values (especially the 'top 3') would this work fulfil? How/why?
+- What values might be compromised or in conflict?
+
+
+**Prompt reflection** 
+
+- Had students considered _why_ particular career paths appealed to them?
+- Could thinking about their values help as they research careers?
+
+
+
+# 4. Values and *goals*
+
+Career choices and jobs might feel quite distant. But our values can only influence our lives if they guide what we do **each day**. 
+
+In this part we try and find more immediate goals that serve our values (and help us move towards careers that align with them).
+
+
+**Discussion in pairs**
+
+- Take turns with your partner
+- Recap your **top 3** core values, the ones most important to you.
+
+- For each value, brainstorm 1-2 possible **goals** that would help you live that value out in practice.
     - Example: If one of your top values is Creativity, a goal might be "Find a dissertation topic that allows me to have input on the design of the study" or "Join a student society that lets me make art/music."
     - If your value is Justice, a goal might be "Apply for a placement or volunteer in an organisation focused on advocacy or policy change"
 
-- Now choose one goal per value that feels most realistic and motivating right now.
+
+**As a group**
+
+- Elicit some examples of goals
+
+
+**Further discussion in pairs**:
+
+- "Choose one goal per value that feels most realistic and motivating right now"
 
 - Turn each one into a SMART goal: It must be **Specific, Measurable, Achievable, Relevant, and Time-bound**.
     - Example: “By the end of this term, I will attend two careers events to explore organisations working on mental health equity.”
 
+- Ask your partner: Does this goal clearly link to the value? If not, explain the link to them.
 
-**Pair Discussion**
-
-- Share one of your SMART goals with your partner.
-- Ask: Does this goal clearly reflect the underlying value? 
-- Does it meet the SMART criteria? Is it:
+- Is the goal SMART? That is,
     - Specific? 
     - Measurable? 
     - Achievable? 
     - Relevant? 
     - Time-bound?
-- Can you think of ways to make this goal more realistic?
 
 
-# Imagining our future
+# 5. Imagining our future
 
 Research ([conducted at Plymouth](https://www.plymouth.ac.uk/research/psychology/applied-psychology/functional-imagery-training)) shows that having a clear mental image of your goals and the steps toward them helps maintain motivation. 
 

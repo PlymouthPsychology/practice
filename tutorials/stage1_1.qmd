@@ -1,6 +1,6 @@
 ---
-title: "Stage 1, Week 1: Using psychology to learn psychology"
-subtitle: "Guide for tutors"
+title: "Using psychology to learn psychology"
+subtitle: "Stage 1, Week 1 tutorial. Guide for staff"
 priority: 1
 categories: ["stage1", "tutorial"]
 filters:
