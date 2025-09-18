@@ -7,23 +7,28 @@ filters:
   - email-link
 email_title: "Stage 2 Tutorial"
 email_body: |
-  Dear [tutee],
+  Dear [NAME],
 
   Sorry to miss you in our tutorial today. In the session we explored how to connect your core values with your career planning and daily actions.
 
-  We worked through identifying your most important values and thinking about how different psychology career paths might align with what matters most to you. The goal was to help you make more intentional decisions about how you spend your time and energy.
-
-  You can complete the values exercise and reflection task yourself using the materials here: [link to growth-goals-career-planning task]
+  If you'd like to catch up, the tutorial practice site has a similar acitivity you can complete in your own time here: https://plymouthpsychology.github.io/practice/tasks/growth-goals-career-planning.html
 
   I hope to see you in our next tutorial session.
 
   All the best,
 
-  YOUR NAME
+  [YOUR NAME]
 ---
 
 
 ![](../images/angry.png){width=33%}
+
+
+
+Did your tutees miss the tutorial? If so, use this link to send a pre-written email:
+
+`Send email to missing students`{.email-link} 
+
 
 
 # Session Overview
@@ -171,7 +176,7 @@ In this part we try and find more immediate goals that serve our values (and hel
 - "Choose one goal per value that feels most realistic and motivating right now"
 
 - Turn each one into a SMART goal: It must be **Specific, Measurable, Achievable, Relevant, and Time-bound**.
-    - Example: “By the end of this term, I will attend two careers events to explore organisations working on mental health equity.”
+    - Example: "By the end of this term, I will attend two careers events to explore organisations working on mental health equity."
 
 - Ask your partner: Does this goal clearly link to the value? If not, explain the link to them.
 
@@ -189,10 +194,40 @@ Research ([conducted at Plymouth](https://www.plymouth.ac.uk/research/psychology
 
 We're going to do a brief visualisation exercise to solidify the goals we just identified.
 
-INSERT JACKIE'S IMAGERY GUIDANCE RECORDING HERE. TUTORS CAN PLAY THE AUDIO FROM THEIR PHONE WITHOUT MESSING AROUND WITH THE AV EQUIPMENT
+
+<!-- 
+
+Close your eyes, take a breath, relax. 
+
+Recall your goal. Remember that you chose it so that you would know when you had achieved it, and that it was achievable.
+
+Imagine taking the first few steps towards your goal -- doing something today, or in the next few days, to work on your plan. 
+
+Some actions will be small — perhaps sending an email or reading a web page. Others will involve more steps — perhaps contacting someone, making a call, or a meeting in person. Some steps will be quick, and others will take longer.
+
+Picture yourself in the moment, actively working towards your goal. Where are you? What is around you? What do you see?
+
+Now, play forward several weeks or even a month.  
+Notice how you feel to have made a start.
+
+Imagine yourself during this period, working on your plan successfully. 
+Use all your senses to make it vivid and real. 
+Notice any small things that are getting better in these first days and weeks of work.  
+
+How do you feel in yourself? 
+
+Play forward to the future, perhaps even several months away. 
+You have achieved your goal. Notice where you are, what you can hear, what is around you. What has changed?  Imagine how you feel in yourself. 
+
+Take a minute to enjoy a feeling of success and accomplishment.
+And when you are ready, open your eyes and take a deep breath.
+
+-->
+
 
 **Discuss as a group**
 
+- how vivid was the imagery they created?
 - what they will do this week to get started?
 - what gives them confidence they can succeed at this?
 

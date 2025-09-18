@@ -7,7 +7,7 @@ filters:
   - email-link
 email_title: "Stage 1 Tutorial Suggestion"
 email_body: |
-  Dear [tutee],
+  Dear [NAME],
 
   Sorry to miss you in our tutorial today. In the session we looked at some evidence relating to different strategies for taking notes in lectures. The idea was to think about how we can use psychological evidence to improve our own learning.
 
@@ -17,24 +17,20 @@ email_body: |
 
   All the best,
 
-  YOUR NAME
+  [YOUR NAME]
 ---
 
 
-
 ![](../images/pen-mightier.webp){width=33%}
-
 
 
 ### Tutor tasks
 
 [Log this tutorial in S4](https://plymuni.lightning.force.com/lightning/n/My_Tutees_LWC){.btn .btn-danger} 
 
-Did your tutees come to the tutorial. If not, use this link to send a form email:
+Did your tutees miss the tutorial? If so, use this link to send a pre-written email:
 
 `Send email to missing students`{.email-link} 
-
-
 
 
 ## Aims
