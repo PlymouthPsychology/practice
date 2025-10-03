@@ -86,7 +86,7 @@ An icebreaker task that illustrates a speed/accuracy trade-off
 - **Only one guess per student** (if you guess wrong, you can't guess again)
 - Rotate around the group
 
-Scoring can either be done individually (small groups) or by creating 2 teams first (will work better if 6 or more student).
+Scoring can either be done individually (small groups) or by creating 2 teams first (will work better if there are 6 or more students).
 
 
 
@@ -105,7 +105,7 @@ Scoring can either be done individually (small groups) or by creating 2 teams fi
 
 - The aim of the next task is to show students some 'evidence' and ask them to consider if it would lead them to change their own behaviour. If not, why not?
 
-- The example is in the area of study habits so has obvious relevance to them.
+- The example relates to their own study habits.
 
 - There are 2 follow-up practice tasks (on note taking and studying) 
 
@@ -161,11 +161,11 @@ Or show them this QR code and ask them to open it on their phones:
 
 **Prompts**
 
-- What is a z-score? If they don't know does it matter? Probably not... If time, extend with a discussion about how to read papers where they don't understand all the technical details (hint: you can still think critically about studies, even when technical details are unfamiliar - we all do this all the time).
+- What is a z-score? If they don't know does it matter? Probably not... If time, extend with a discussion about how to read papers where they don't understand all the technical details (hint: you can still think critically about studies, even when technical details are unfamiliar --- academics do this all the time).
 
-- Where are the differences between groups? Are they big enough to matter?  What do we mean by "matter"? How can we judge? Aim is to highlight that the effect size is what really matters. We could be very sure about a tiny (irrelevant) effect.
+- Where are the differences between groups? Are they big enough to matter?  What do we mean by "matter"? How can we judge? Aim is to highlight that the effect size is what we care about. Contrast: we could be _very_ sure about a tiny (and irrelevant) effect.
 
-- Why might there be a difference, conceptual > factual? Can they think of topics from A-level which might be relevant here: In the UK syllabus they _could_ have covered:
+- Why might there be a difference, conceptual > factual? Can they think of topics from A-level which might be relevant here? In the UK syllabus they _might_ have covered:
     - Depth of processing and impact on memory: do laptops encourage shallow verbatim transcription vs. longhand → elaborative rehearsal?
     - Encoding specificity for retrieval cues: do handwritten notes create richer cues?
     
@@ -177,7 +177,12 @@ How good and useful is this evidence?
 **Discuss**
 
 - Would you bet your exam results on this one study?
-- What else would you want to know?
+- Does it change things that the results could link to existing theory (e.g. depth of processing)? Or should we consider this data in isolation? 
+- What else would _they_ want to know to make a decision?
+
+
+## 
+
 
 
 **Decide** 
@@ -205,6 +210,6 @@ There are practice tasks on this site to encourage students to
 
 **Reminders**
 
-- Regular Monday briefings help them stay on track 
+- Regular Monday online "Briefings" (with Jeremy/Peter) will help them stay on track.
 
 - Pointer for next week: They will have an introduction to stats and research methods, so begin to learn how to analyse data like this and answer question like this more formally. 

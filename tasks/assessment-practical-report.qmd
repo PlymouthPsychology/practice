@@ -1,8 +1,7 @@
 ---
 title: "PSYC421 Practical Report"
 subtitle: "Get formative feedback on your practical report."
-author: Ben Whalley
-description: "Use psybot to get formative feedback on your practical report."
+# description: "Use psybot to get formative feedback on your practical report."
 Release: true
 categories: [Assessment]
 priority: 6
@@ -15,19 +14,25 @@ listing:
   page-size: 3
   include:
     extension: true
-    categories: "{Assessment, Writing}*"
+    categories: "{Assessment,Writing}*"
 ---
 
-![](../images/memory.png){width=33%}
+![](../images/practicalreportfeedback.png){width=33%}
 
+# Formative feedback from PsyBot
 
+PsyBot has been designed To help you improve your work by giving formative feedback before you submit. 
 
+The feedback the system gives is tailored to the assignments you are completing, and PsyBot knows what we expect from stronger or weaker student answers. 
 
-# Instructions
+However, the system is not perfect. Please don't rely on the suggestions it makes alone. You need to think for yourself and check your work thoroughly before.
+
+**PsyBot can also make mistakes: if you see something that looks wrong, please check it yourself, or ask one of the TARAs for clarification.**
+
 
 :::{.instruction}
 
-To get feedback on your report, copy and paste the text of your intro, results, and discussion into PsyBot for feedback.
+To get feedback on your report, copy and paste the text of your intro, method, results, and discussion into PsyBot for feedback.
 
 - If your report is a work in progress, add a note to the end and ask PsyBot to focus on specific parts of your report. It can give feedback on those parts only.
 

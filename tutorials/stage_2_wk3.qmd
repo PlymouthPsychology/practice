@@ -98,13 +98,13 @@ Direct students to the [long list of values here](list-of-values.html), or scan 
 
 **Instructions for students, individually**:
 
-1. Quickly scan and select all values that resonate with them (2-3 mins)
+1. Quickly scan and select **all** the values that resonate with them (2-3 mins)
     - Check they have all highlighted at least 7 values, preferably more
 
-2. Second pass (1-2 minutes): Narrow down to exactly 7 values
+2. Second pass (1-2 minutes): Narrow down to exactly 7 values. 
+  - Be sure these are values they desire _for themselves_, rather than admiring as qualities in other people.
 
-3. Final check: Note any important values not on the list? 
-
+3. Final check: Are there any important values that were not on the list? 
 
 
 If students are stuck, remind them there are no right or wrong answers.
@@ -115,10 +115,13 @@ If students are stuck, remind them there are no right or wrong answers.
 
 - Individuals or pairs share their 7 values they identified
 
-Once everyone has shared?
+**While sharing (or after)...**
 
 - Notice any patterns in your group? 
 - Any surprises/conflicts?
+
+
+**Followup**
 
 - If we had to pick our the top 3 values, what would they be?
 - Why do these values matter most to us?
@@ -132,7 +135,6 @@ Once everyone has shared?
 - Ask each student what career plans they have (if any)? 
 - Go around the group to share plans...
 
-
 Students are likely to be unsure/vague on plans. Remind them about good psychology-specific resources on the [Prospects website](https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/psychology)
 
 
@@ -141,11 +143,17 @@ Students are likely to be unsure/vague on plans. Remind them about good psycholo
 - Which of your core values (especially the 'top 3') would this work fulfil? How/why?
 - What values might be compromised or in conflict?
 
+If they don't have specific career plans, ask
+
+- What career paths might connect them to the values they have identified?
+
+
 
 **Prompt reflection** 
 
 - Had students considered _why_ particular career paths appealed to them?
 - Could thinking about their values help as they research careers?
+- How much do the students feel they know about their chosen careers? Are they aware of training pathways, difficulty to access the profession, rates of pay, work-environment, etc?
 
 
 
@@ -153,39 +161,39 @@ Students are likely to be unsure/vague on plans. Remind them about good psycholo
 
 Career choices and jobs might feel quite distant. But our values can only influence our lives if they guide what we do **each day**. 
 
-In this part we try and find more immediate goals that serve our values (and help us move towards careers that align with them).
+In this part we find more *immediate* goals that serve our values (and might help us move towards careers that align with them).
 
 
 **Discussion in pairs**
 
 - Take turns with your partner
+
 - Recap your **top 3** core values, the ones most important to you.
 
-- For each value, brainstorm 1-2 possible **goals** that would help you live that value out in practice.
-    - Example: If one of your top values is Creativity, a goal might be "Find a dissertation topic that allows me to have input on the design of the study" or "Join a student society that lets me make art/music."
-    - If your value is Justice, a goal might be "Apply for a placement or volunteer in an organisation focused on advocacy or policy change"
+- For each value, brainstorm 1-2 possible **goals** that would serve that value in practice.
+
+- Goals can relate to study, work, or personal life.
+
+- The goals should be SMART: that is **Specific, Measurable, Achievable, Relevant, and Time-bound**.
+
+    - Example: If the value is *Creativity*, goals might be "Find a dissertation topic that allows me help design the study" or "Start a daily writing habit."
+    
+    - For *Justice*, perhaps "Apply to volunteer in charity X by the end of the month."
 
 
 **As a group**
 
 - Elicit some examples of goals
-
-
-**Further discussion in pairs**:
-
-- "Choose one goal per value that feels most realistic and motivating right now"
-
-- Turn each one into a SMART goal: It must be **Specific, Measurable, Achievable, Relevant, and Time-bound**.
-    - Example: "By the end of this term, I will attend two careers events to explore organisations working on mental health equity."
-
-- Ask your partner: Does this goal clearly link to the value? If not, explain the link to them.
-
-- Is the goal SMART? That is,
-    - Specific? 
-    - Measurable? 
-    - Achievable? 
-    - Relevant? 
-    - Time-bound?
+- Encourage students that these can relate to any aspect of their life (not just careers/study)
+- Discuss: are the goals SMART?  
+- Work through some examples, checking
+  - Specific?
+  - Measurable?
+  - Achievable?
+  - Relevant?
+  - Time-bound? 
+  
+- Can we make them more concrete, actionable, and realistic? 
 
 
 # 5. Imagining our future
@@ -193,6 +201,19 @@ In this part we try and find more immediate goals that serve our values (and hel
 Research ([conducted at Plymouth](https://www.plymouth.ac.uk/research/psychology/applied-psychology/functional-imagery-training)) shows that having a clear mental image of your goals and the steps toward them helps maintain motivation. 
 
 We're going to do a brief visualisation exercise to solidify the goals we just identified.
+
+To prepare, think: "What could you do to get started?". Some actions will be small — perhaps sending an email or looking up some information. Others will involve more steps — perhaps contacting someone, making a call, or a meeting in person. Is there something you could do today?
+ 
+<audio 
+  controls 
+  preload="none" 
+  playsinline 
+  style="width:100%; max-width:400px;"
+>
+  <source src="Goalandstepsimagery.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+
 
 
 <!-- 
@@ -227,13 +248,8 @@ And when you are ready, open your eyes and take a deep breath.
 
 **Discuss as a group**
 
-- how vivid was the imagery they created?
-- what they will do this week to get started?
-- what gives them confidence they can succeed at this?
-
-
-
-
-
+- How vivid was the imagery they created?
+- What they will do this week to get started?
+- What gives them confidence they can succeed at this?
 
 
