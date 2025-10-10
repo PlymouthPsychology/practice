@@ -1,5 +1,5 @@
 ---
-title: "Reviewing project progress"
+title: "Planning your project timeline"
 subtitle: "Stage 4, Week 4 tutorial."
 priority: 1
 categories: ["stage4", "tutorial"]
@@ -9,9 +9,11 @@ email_title: "Stage 4 Tutorial"
 email_body: |
   Dear [NAME],
 
-  Sorry to miss you in our tutorial today. In the session we reviewed where people were at in their projects, and whether they were behind or ahead of schedule.
-  
-  You can complete part of the task for yourself, and there are notes on how to do that here: XXX
+  Sorry to miss you in our tutorial today. In the session we summarised our projects to each other and created timelines to plan when each step will happen.
+
+  You can think about your own project timeline using the planning sheet here: [LINK TO TIMELINE PDF]
+
+  It would be worth discussing your timeline with your supervisor and any students you're working with.
 
   I hope to see you in our next tutorial session.
 
@@ -21,21 +23,97 @@ email_body: |
 ---
 
 
+![](../images/planning.png){width=33%}
+
+
+### Tutor tasks
+
+[Log this tutorial in S4](https://plymuni.lightning.force.com/lightning/n/My_Tutees_LWC){.btn .btn-danger}
 
 Did your tutees miss the tutorial? If so, use this link to send a pre-written email:
 
-`Send email to missing students`{.email-link} 
+`Send email to missing students`{.email-link}
+
+
+# Session overview
+
+This tutorial gives students an opportunity to review their project progress and plan their future activities.
+
+It should give students a more concrete idea of how much time there is to fit everything in, and where the pinch points might be.
+
+It also gives students practice communicating the outline of their projects, which they will need to do in their presentations later this semester.
+
+A few students have done Andy's project management skills package. Those students will have a head start on the second task, but it is not an exact repeat. Andy's session focused on identifying the steps required and putting them in order, whereas the second task in this tutorial is about planning when each step will happen. Students who did not do the skills package could watch the recording after the tutorial, via the [PSYC605 DLE page](https://dle.plymouth.ac.uk/).
+
+
+# Introduction
+
+***Welcome...***
+
+***Ask***: Did any of your students go on placement last year? If so, you could ask them to give a one-minute summary of what they did and what they learned.
+
+***Explain***: The purpose today is for each student to **review** their project progress and **plan** when they will carry out each of the steps required to complete their project.
+
+- Some students will have made more progress than others. 
+- Reassure students -- this is normal. 
+- This tutorial is not a competition! 
+
+If students are behind there is plenty of time to catch up, and this tutorial allows them to start planning when they will do that.
+
+
+# 1. Project topics
+
+***Begin in pairs***
+
+- Give them five to ten minutes 
+- They should describe their projects to each other
+- Stick to the key points: what the **research question** is and **how they will answer it**.
+
+You can give an example from your own research, aiming to talk for less than a minute.
+
+
+***As a group***
+
+- Choose a few students to describe *their partner's* research. 
+- Perhaps pick somebody who seems confident to begin?
+
+Some students will not be able to describe their partner's research, either because the student running the project does not yet know the details of their project or because they were not able to communicate them effectively. Reassure students that this is normal, and that the aim of the exercise is to help them get an idea of their progress so far.
+
+
+***Timecheck***: Aim to finish this task halfway through the tutorial.
+
+
+# 2. Project timeline
+
+***Purpose***: Students will plan when each step of their project will happen.
+
+- Give each student a copy of the project timeline. T
+- This shows how many weeks there are until the deadline, and includes key events that take place in those weeks: 
+  - the deadline for the project, 
+  - the formative feedback week, 
+  - assessment timings for other modules. 
+  
+- The dates on the left are the *beginnings* of each week, and the events might be later in that week (e.g. the PSYC601 deadline is actually Friday 31st October).
+
+***Activity***  Cut or tear out labels for tasks, and place on the timeline.
+
+There are a series of labels that students can cut or tear out and place on the timeline. These are suggestive, and students can modify them. Many of the labels are duplicated to run across multiple weeks, and students can use as many of these as they need. There are blank labels for students to add activities not represented here.
+
+**Prompt**: Students might notice that there are more labels than weeks. This is partly because some of the duplication runs across more weeks than they are likely to need (e.g. there are six "collect data" labels, but few students should expect to spend six weeks collecting data). Even so, students will need to place multiple labels in some weeks. For instance, they could plan to write their introduction while waiting for their ethics to be returned, or they could write their method in the same weeks as collecting data. This will make clear that students have to multi-task, rather than waiting to complete each step before moving on to the next one.
+
+***Mention presentations***: The presentation is not written on the timeline, though there is a label for it. Students must complete the presentation by the end of the January exam period, but they should place it on the timeline at an appropriate point, usually before Christmas. They will need to confirm arrangements with their supervisor.
+
+***Ask students***: During the activity, talk to students about how they plan to fit everything in. A key question is when they will collect their data: can they fit that in before Christmas, or will they do it at the start of Semester 2?
+
+***Afterwards***:  Allow time for students to either take a photo of their timeline, or to write activities onto the sheet. They should discuss the timeline with their supervisor and any other students they are working with and modify their plans if needed.
+
+
+***The timeline is here***: [Stage 4 _tutorial_dissertation_timeline.pdf](../docs/Stage 4 _tutorial_dissertation_timeline.pdf)
+
+- Recommended print size is A3, though A4 will work. 
+- There are some A3 printed copies in the print room opposite the School office. 
+- Please return spares!
 
 
 
-![](../images/planning.png){width=33%}
-
-# Projects and project management
-
- 
-This tutorial will help students understand how much progress they have made on their project, and what still needs to be done.
-
-The teaching materials will be based on Andy's existing Stage 4 project package, which covers project management and Gantt charts. 
-
-Check back soon for details.
- 
+<!-- TODO - make a psybot for this? -->
