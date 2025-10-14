@@ -3,7 +3,7 @@ title: "Prepare for your oral assessment"
 subtitle: "Practice for the PSYC423 oral assessment."
 author: Julie Ji
 description: Next week you will need to describe your PSYC423 project to your tutor. This section is practice for that.
-categories: [Speaking]
+categories: [Speaking, Assessment]
 priority: 10
 Release: true
 reading-time: 15 minutes
