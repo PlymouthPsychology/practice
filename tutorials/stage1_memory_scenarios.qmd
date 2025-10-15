@@ -1,0 +1,184 @@
+---
+title: "Memory Study Scenarios"
+subtitle: "Materials for Stage 1 Tutorial"
+categories: ["tutorial_materials"]
+---
+
+<style>
+/* make checkboxes larger */
+input[type="checkbox"] {
+    transform: scale(1.5);
+    margin-right: 8px;
+}
+</style>
+
+# Scenario 1: Method A vs Method B
+
+Imagine that you ran a study in which you tested Plymouth students on their memory for a study list of 10 words.
+
+You **randomly allocate** the students to two groups:
+
+- One group were asked to study using **Method A**
+- The other group were asked to study using **Method B**
+
+Overall, you find that on average people studying using Method A recalled more (Mean = 5.9/10) than those in Method B (Mean = 4.0/10).
+
+The results looked like this:
+
+```{r}
+#| label: fig-memory-scenario1
+#| fig-cap: "Frequency distribution showing the number of words recalled (out of 10) for participants in Method A vs Method B. Method A: *M* = 5.9, Method B: *M* = 4.0."
+#| fig-width: 7
+#| fig-height: 5
+#| echo: false
+#| warning: false
+
+library(ggplot2)
+library(tibble)
+
+df_scenario1 <- tribble(
+  ~number_words, ~method, ~N,
+  0, "Method A", 1,
+  1, "Method A", 0,
+  2, "Method A", 0,
+  3, "Method A", 0,
+  4, "Method A", 5,
+  5, "Method A", 8,
+  6, "Method A", 14,
+  7, "Method A", 8,
+  8, "Method A", 5,
+  9, "Method A", 1,
+  10, "Method A", 0,
+  0, "Method B", 0,
+  1, "Method B", 1,
+  2, "Method B", 5,
+  3, "Method B", 8,
+  4, "Method B", 14,
+  5, "Method B", 8,
+  6, "Method B", 5,
+  7, "Method B", 0,
+  8, "Method B", 0,
+  9, "Method B", 0,
+  10, "Method B", 1
+)
+
+ggplot(df_scenario1, aes(x = factor(number_words), y = N, fill = method)) +
+  geom_col(position = "dodge", color = "black", linewidth = 0.3) +
+  scale_fill_manual(values = c("Method A" = "#4472C4", "Method B" = "#ED7D31"),
+                    labels = c("Method A", "Method B")) +
+  scale_x_discrete(drop = FALSE) +
+  scale_y_continuous(limits = c(0, 15), breaks = seq(0, 15, 5)) +
+  labs(
+    x = "Number of words recalled (out of 10)",
+    y = "Number of participants",
+    fill = NULL
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(
+    panel.grid.major = element_line(color = "grey85"),
+    panel.grid.minor = element_blank(),
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 0.5),
+    axis.text = element_text(color = "black"),
+    axis.title = element_text(color = "black"),
+    legend.position = "bottom"
+  )
+```
+
+## Question
+
+**What can you conclude from this study?** Check the boxes for the conclusions you agree with.
+
+<ul style="list-style-type:none;">
+<li><label><input type="checkbox"> a) That for the study list, on average method A leads to better memory than method B.</label></li>
+<li><label><input type="checkbox"> b) Nothing, because the best performing person used method B, and the worst performing person used method A.</label></li>
+<li><label><input type="checkbox"> c) Nothing, because the study did not control for other factors that influence memory (such as how old the people were, how drunk the people were, or how much attention they were paying...)</label></li>
+<li><label><input type="checkbox"> d) Nothing because people with a verbal learning style are likely to do better than those with a visual learning style on this test.</label></li>
+<li><label><input type="checkbox"> e) Nothing because the study list wasn't very unusual or important.</label></li>
+<li><label><input type="checkbox"> f) Nothing, because these were just Plymouth students</label></li>
+</ul>
+
+
+# Scenario 2: Immediate vs Delayed Recall
+
+Imagine that you ran a study in which you tested Plymouth students on their memory for a study list of 10 words.
+
+You **randomly allocate** the students to two groups:
+
+- One group were tested **1 minute** after the list had been presented
+- The other group were tested **1 year** after the list had been presented
+
+Overall, you find that people tested immediately have better memory (Mean = 5.9/10) than those tested after 1 year (Mean = 0/10).
+
+The results looked like this:
+
+```{r}
+#| label: fig-memory-scenario2
+#| fig-cap: "Frequency distribution showing the number of words recalled (out of 10) for immediate (1 minute) vs delayed (1 year) testing. Immediate: *M* = 5.9, Delayed: *M* = 0."
+#| fig-width: 7
+#| fig-height: 5
+#| echo: false
+#| warning: false
+
+library(ggplot2)
+library(tibble)
+
+df_scenario2 <- tribble(
+  ~number_words, ~timing, ~N,
+  0, "Immediate (1 minute)", 1,
+  1, "Immediate (1 minute)", 0,
+  2, "Immediate (1 minute)", 0,
+  3, "Immediate (1 minute)", 0,
+  4, "Immediate (1 minute)", 5,
+  5, "Immediate (1 minute)", 8,
+  6, "Immediate (1 minute)", 14,
+  7, "Immediate (1 minute)", 8,
+  8, "Immediate (1 minute)", 5,
+  9, "Immediate (1 minute)", 1,
+  10, "Immediate (1 minute)", 0,
+  0, "Delayed (1 year)", 42,
+  1, "Delayed (1 year)", 0,
+  2, "Delayed (1 year)", 0,
+  3, "Delayed (1 year)", 0,
+  4, "Delayed (1 year)", 0,
+  5, "Delayed (1 year)", 0,
+  6, "Delayed (1 year)", 0,
+  7, "Delayed (1 year)", 0,
+  8, "Delayed (1 year)", 0,
+  9, "Delayed (1 year)", 0,
+  10, "Delayed (1 year)", 0
+)
+
+ggplot(df_scenario2, aes(x = factor(number_words), y = N, fill = timing)) +
+  geom_col(position = "dodge", color = "black", linewidth = 0.3) +
+  scale_fill_manual(values = c("Immediate (1 minute)" = "#4472C4", "Delayed (1 year)" = "#ED7D31"),
+                    labels = c("Delayed (1 year)", "Immediate (1 minute)")) +
+  scale_x_discrete(drop = FALSE) +
+  scale_y_continuous(limits = c(0, 45), breaks = seq(0, 45, 5)) +
+  labs(
+    x = "Number of words recalled (out of 10)",
+    y = "Number of participants",
+    fill = NULL
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(
+    panel.grid.major = element_line(color = "grey85"),
+    panel.grid.minor = element_blank(),
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 0.5),
+    axis.text = element_text(color = "black"),
+    axis.title = element_text(color = "black"),
+    legend.position = "bottom"
+  )
+```
+
+## Question
+
+**What can you conclude from this study?** Check the boxes for the conclusions you agree with.
+
+<ul style="list-style-type:none;">
+<li><label><input type="checkbox"> a) That for the study list, people have better memory after 1 minute than they do after 1 year.</label></li>
+<li><label><input type="checkbox"> b) Nothing, because one person couldn't even remember anything after 1 minute.</label></li>
+<li><label><input type="checkbox"> c) Nothing, because the study did not control for other factors that influence memory (such as how old the people were, how drunk the people were, or how much attention they were paying...)</label></li>
+<li><label><input type="checkbox"> d) Nothing because people with a verbal learning style are likely to do better than those with a visual learning style on this test.</label></li>
+<li><label><input type="checkbox"> e) Nothing because the study list wasn't very unusual or important.</label></li>
+<li><label><input type="checkbox"> f) Nothing, because these were just Plymouth students</label></li>
+</ul>

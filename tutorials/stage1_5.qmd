@@ -1,0 +1,212 @@
+---
+title: "Thinking critically about research"
+subtitle: "Stage 1, Week 5 tutorial."
+priority: 5
+categories: ["stage1", "tutorial"]
+filters:
+  - email-link
+email_title: "Stage 1 Week 5 Tutorial"
+email_body: |
+  Dear [NAME],
+
+  Sorry to miss you in our tutorial today. In the session we discussed critical thinking about research, including how to evaluate correlational studies and experimental findings.
+
+  You can review the materials we covered here: https://plymouthpsychology.github.io/practice/tutorials/stage1_2.html
+
+  I hope to see you in our next tutorial session.
+
+  All the best,
+
+  [YOUR NAME]
+---
+
+
+![](../images/DALL·E 2024-09-11 09.32.25 - bullshit.webp){width=70%}
+
+
+### Tutor tasks
+
+[Log this tutorial in S4](https://plymuni.lightning.force.com/lightning/n/My_Tutees_LWC){.btn .btn-danger}
+
+Did your tutees miss the tutorial? If so, use this link to send a pre-written email:
+
+`Send email to missing students`{.email-link}
+
+
+# Session overview
+
+
+
+This session gets students thinking critically about research. 
+
+- In Task 1 they discuss a mock news item
+- In Task 2 they interpret experimental data.
+
+
+**Why these tasks matter:**
+
+- Core critical thinking skills for PSYC421 research reports (especially the discussion section)
+- Practice interpreting figures (they recently learned about distributions)
+
+**Notes**:
+
+- Hypothesis testing is introduced in week 5 (students may or may not have covered it yet).
+- Correlations have not yet been taught (PSYC424, Semester 2), but should not be an obstacle for Task 1
+
+
+# Task 1: Pop science
+
+**Topic:** Reading a mock news item reporting a new study correlating chocolate consumption and happiness.
+
+
+## Materials
+
+[Chocolate and happiness study](stage1_chocolate_study.html) (handout or QR code below)
+
+![QR code for chocolate study](../images/qr_chocolate_study.png){width=50%}
+
+## Procedure
+
+**Show students the QR code** 
+
+- This links to a 'news' item which they can open on their phones
+- Read the news item aloud to the group.
+
+**Group discussion:**
+
+- Would they believe this story? Why?
+- Does it matter that it's about chocolate? 
+- Do their prior beliefs play a role? What if it was about washing dishes?
+
+**In small groups** (2-3 students):
+
+- Read the method and results sections. 
+- Students to discuss:
+  - What are the limitations of this design?
+  - What external factors could be confounded (i.e. influence both chocolate consumption and happiness)?
+  - How would you design a study to show chocolate eating **causes** happiness?
+  
+
+**Whole group discussion:**
+
+- Share ideas from the small groups
+- Did the study details change their views?
+- Lead discussion toward experimental design (chocolate as an indepdent variable)
+- This sets up Task 2: interpreting experimental data
+
+
+# Task 2: Drawing valid conclusions from experiments
+
+**Goal:** Move beyond 'A-level' critiques of evidence (e.g., "study shows $x$ but it was done in 1972 so we should ignore it", or  "but these were just Plymouth students...")
+
+**Key distinction:**
+
+- What was observed (*the effect* exists), vs. 
+- Why it happened (*the explanation*)
+
+
+**Notes:**
+
+Students often:
+
+- reject effects because they can think of alternative explanations
+- accept effects because they seem plausible (even when evidence doesn't support it)
+
+This task is
+
+-  ***not*** about replicability or statistical significance
+- links to Andy's critical thinking lectures
+- introduces *frequency distributions* (only covered in detail in next workshop, so give a gentle introduction here)
+
+
+## Part 1: What influences memory?
+
+**Ask students:** Which of the following statements do they agree with?
+
+All other things being equal, how much a person is likely to remember about a recent event is influenced by: 
+
+a) How old that person is
+b) How drunk that person is
+c) How much attention the person was paying
+d) The learning style that person has
+e) How unusual or important the event is
+
+**Ask:** What other factors might influence memory?
+
+- Generate 1-2 ideas in pairs, then share as a group
+
+**Agree with them!** Generally you should agree with the students: many things can influence memory.
+
+**Next:** Show Scenario 1. Students answer in pairs.
+
+
+
+## Part 2: Scenarios
+
+**Materials**
+
+[Memory study scenarios](stage1_memory_scenarios.html) (handout or QR code below)
+
+![QR code for memory scenarios](../images/qr_memory_scenarios.png){width=50%}
+
+
+**Questions, for pairs of students** In the scenario, students are asked:
+
+- What can you conclude from this study? 
+- The should tick the boxes for conclusions they agree with. 
+
+
+**Discussion**
+
+- Get each pair to say what they agreed with. 
+- Students often struggle and want to agree with most options
+
+
+**Correct answer: (a) only.**
+
+- Ask students if they can explain why this is the case?
+
+**Notes**:
+
+
+**Option b (best performing person used Method B...)** 
+
+- Anecdotal evidence, not based on all data
+- How psychologists draw conclusions vs media arguments
+- E.g., "Richard Branson is successful, so copy him" or "My gran smoked and lived to 120"
+
+**Options c (didn't control for other factors) and d (verbal learning style might influence...)** 
+
+- Factors that influence memory but irrelevant here because of **randomisation**
+- Often agreed with; common error in student essays
+- Ask: Can we ever control everything in psychology?
+
+**Options e (study list wasn't unusual/important) and f (just Plymouth students)**  
+
+- These are about generalisation.
+- All studies happen somewhere, with some materials
+
+- **Ask:** 
+
+- Where would the study need to be run for you to believe it? 
+- What materials would make the results more important? 
+
+
+**Extension**
+
+For more discussion, ask students to consider Scenario 2. 
+
+- This is an example where people "believe" the outcome, so think the conclusion is valid.  
+- It is 'obvious' that people won’t recall anything a year later, 
+- Consequently, many students will conclude that the study doesn’t need to be run under different conditions. 
+
+An alternative example (if preferred):
+
+- Use a clearer mechanism 
+- e.g., 100g chocolate raises blood sugar more than 100g rice-cakes
+- Would that need replicating elsewhere? 
+- Would it be important to test students in London as well as Plymouth?
+
+Or make up your own example.
+
+

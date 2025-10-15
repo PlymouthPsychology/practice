@@ -1,0 +1,90 @@
+---
+title: "Scientists Discover the Secret to Happiness: It's All About Chocolate!"
+subtitle: "A study on chocolate consumption and happiness"
+categories: ["tutorial_materials"]
+---
+
+
+# The news story
+
+> A groundbreaking new study has revealed the astonishing truth about happiness: the key lies in chocolate consumption. The study involved a group of volunteers who were given daily doses of chocolate for several weeks. Researchers monitored the participants' mood levels throughout the study. The results were astonishing: those who consumed chocolate regularly reported significantly higher levels of happiness and well-being compared to those who did not. The findings of this study suggest that incorporating chocolate into your diet may be a delicious and effective way to improve your overall well-being.
+
+
+# The original study
+
+## Method
+
+### Participants
+
+One hundred undergraduate students (65 females, 35 males; *M* age = 20.3 years, *SD* = 2.1) from the University of Plymouth voluntarily participated in the study. Participants were recruited through an online participant pool and received course credit for their involvement. All participants reported no known allergies to chocolate.
+
+### Materials
+
+Participants were each provided with a supply of milk chocolate (approximately 1 kg) at the beginning of the study, along with instructions that they could consume as much as they wished each day for the duration of the study (7 days).
+
+Each evening, participants received an online survey that asked two questions:
+
+1. "Approximately how many grams of chocolate did you consume today?" (open-ended numeric response)
+
+2. "How happy did you feel today, on average?" rated on a 7-point Likert scale from 1 (*Not at all happy*) to 7 (*Extremely happy*).
+
+### Procedure
+
+Participants completed the study remotely over one week. On Day 1, participants collected their chocolate and received study instructions. For the next 7 days, they were prompted by email at 8:00 p.m. each evening to complete the daily online survey. Participation was monitored to ensure compliance, and data from participants who failed to complete at least 5 of the 7 daily surveys were excluded from analysis.
+
+## Results
+
+Data were aggregated across the 7-day period for each participant. For each individual, the average daily amount of chocolate consumed (in grams) and the average daily happiness rating were calculated.
+
+A Pearson correlation coefficient was computed to assess the relationship between chocolate consumption and self-reported happiness. The results revealed a significant positive correlation, *r*(98) = .31, *p* = .002, indicating that higher average chocolate consumption was associated with higher reported happiness across the week.
+
+A scatterplot (Figure 1) illustrates the relationship between average chocolate intake and happiness ratings. While the correlation was modest, the trend suggests that participants who ate more chocolate tended to report greater overall happiness during the study period.
+
+
+
+
+```{r}
+#| label: fig-chocolate-happiness
+#| fig-cap: "Relationship between average daily chocolate consumption and self-reported happiness ratings on the 1-7 scale (7=very happy). Each point represents one participant's average across the 7-day study period. *N* = 100, *r* = .31, *p* = .002. "
+#| fig-width: 7
+#| fig-height: 5
+#| echo: false
+#| warning: false
+
+library(ggplot2)
+library(MASS)
+
+set.seed(123)
+n <- 100
+
+# Generate correlated data with r = 0.31
+mu <- c(40, 4.0)
+sigma_matrix <- matrix(c(
+  400, 0.31 * 20 * 0.8,
+  0.31 * 20 * 0.8, 0.64
+), nrow = 2)
+
+data <- mvrnorm(n = n, mu = mu, Sigma = sigma_matrix)
+df <- data.frame(
+  chocolate = pmax(0, pmin(90, data[,1])),
+  happiness = pmax(1, pmin(7, data[,2]))
+)
+
+ggplot(df, aes(x = chocolate, y = happiness)) +
+  geom_point(color = "#4472C4", size = 2.5, alpha = 0.7) +
+  geom_smooth(method = "lm", se = FALSE, color = "#4472C4", linewidth = 1) +
+  scale_x_continuous(limits = c(0, 90), breaks = seq(0, 90, 20)) +
+  scale_y_continuous( breaks = 1:7) +
+  labs(
+    x = "Daily chocolate consumption (grams)",
+    y = "Average happiness"
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(
+    panel.grid.major = element_line(color = "grey85"),
+    panel.grid.minor = element_blank(),
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 0.5),
+    axis.text = element_text(color = "black"),
+    axis.title = element_text(color = "black")
+  )
+```
