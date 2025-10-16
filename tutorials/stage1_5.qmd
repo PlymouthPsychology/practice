@@ -91,7 +91,7 @@ This session gets students thinking critically about research.
 
 - Share ideas from the small groups
 - Did the study details change their views?
-- Lead discussion toward experimental design (chocolate as an indepdent variable)
+- Lead discussion toward experimental design (chocolate as an independent variable)
 - This sets up Task 2: interpreting experimental data
 
 
@@ -115,7 +115,6 @@ Students often:
 This task is
 
 -  ***not*** about replicability or statistical significance
-- links to Andy's critical thinking lectures
 - introduces *frequency distributions* (only covered in detail in next workshop, so give a gentle introduction here)
 
 
@@ -175,13 +174,13 @@ e) How unusual or important the event is
 - How psychologists draw conclusions vs media arguments
 - E.g., "Richard Branson is successful, so copy him" or "My gran smoked and lived to 120"
 
-**Options c (didn't control for other factors) and d (verbal learning style might influence...)** 
+**Option c (didn't control for other factors) or d (verbal learning style might influence...)**
 
 - Factors that influence memory but irrelevant here because of **randomisation**
 - Often agreed with; common error in student essays
 - Ask: Can we ever control everything in psychology?
 
-**Options e (study list wasn't unusual/important) and f (just Plymouth students)**  
+**Option e (study list wasn't unusual/important) or f (just Plymouth students)**  
 
 - These are about generalisation.
 - All studies happen somewhere, with some materials
@@ -192,13 +191,13 @@ e) How unusual or important the event is
 - What materials would make the results more important? 
 
 
-**Extension**
+## Scenario 2
 
-For more discussion, ask students to consider Scenario 2. 
+Ask students to consider Scenario 2.
 
-- This is an example where people "believe" the outcome, so think the conclusion is valid.  
-- It is 'obvious' that people won’t recall anything a year later, 
-- Consequently, many students will conclude that the study doesn’t need to be run under different conditions. 
+- This is an example where people "believe" the outcome, so think the conclusion is valid.
+- It is 'obvious' that people won't recall anything a year later,
+- Consequently, many students will conclude that the study doesn't need to be run under different conditions. 
 
 An alternative example (if preferred):
 
@@ -209,4 +208,144 @@ An alternative example (if preferred):
 
 Or make up your own example.
 
+
+
+
+
+# Part 3: Spotting weak critiques
+
+**Goal:** Help students distinguish between generic and specific critical analysis.
+
+**Topic:** Identifying weak vs strong critiques of research findings.
+
+## Materials
+
+[Research critique examples](stage1_critique_examples.html) (handout or QR code below)
+
+![QR code for critique examples](../images/qr_critique_examples.png){width=50%}
+
+## Procedure
+
+**Show students the QR code or handout**
+
+- This shows 8 research findings with different critiques
+- Each example shows a study result followed by a limitation statement
+
+**Explain the task:**
+
+Students will see pairs of critiques on the same study. Their job is to:
+- Decide which critiques are **generic** (could apply to almost any study) vs **specific** (identifies particular features that matter)
+- Decide which are **weak** vs **strong**
+
+**In pairs (5 minutes):**
+
+- Students read through the examples
+- **For each pair:** Which critique is stronger? Why?
+- Mark their choices
+
+**Whole group discussion:**
+
+**Start with Examples 1 & 2** (Loftus & Palmer):
+
+- Which critique did you prefer? Why?
+- **Key point:** The weak one says "lacks ecological validity because videos not real accidents" - but the study is about how *question wording* affects memory, not about car accidents specifically. Using videos doesn't undermine that conclusion.
+- **Strong version:** Identifies *what* might matter (emotional involvement) and *why* (might interact with suggestibility).
+
+**Move through remaining examples** (select 2-3 more based on time):
+
+**Examples 3 & 4** (Milgram):
+- Weak: "Can't generalise, only American men" - stock phrase, doesn't explain why gender/nationality would matter for obedience
+- Strong: Identifies specific context features (scientific authority, lab) and why they might create unique demand characteristics
+
+**Examples 5 & 6** (Craik & Tulving):
+- Weak: "People don't learn word lists" - misses the point about testing general memory principles
+- Strong: Questions whether the principle scales to connected prose where processing works differently
+
+**Examples 7 & 8** (Asch):
+- Weak: Generic complaint about sample size
+- Strong: Identifies features (face-to-face, unambiguous task) that might influence effect size
+
+
+---
+
+**Key points:**
+
+- **Generic critiques** are swappable - you could say them about any study
+- **Specific critiques** identify *which* aspect of the method might limit *which* conclusion
+- **Strong critiques** explain *why* the limitation matters
+
+
+Notice the *language* in strong critiques: "may differ in important ways", "it's unclear whether", "could influence" --- acknowledging uncertainty rather than dismissing findings
+
+**Link to assessment:** When you write discussion sections, generic critiques don't earn marks, only strong specific ones.
+
+
+# Part 4: Writing better limitations
+
+**Goal:** Practice writing specific, thoughtful limitations rather than generic ones.
+
+**Topic:** Moving from A-level style critiques to university-level critical analysis.
+
+## Materials
+
+[Study descriptions for critical analysis](stage1_study_scenarios.html) (handout or QR code below)
+
+![QR code for study scenarios](../images/qr_study_scenarios.png){width=50%}
+
+## Procedure
+
+**Introduce the task:**
+
+"You're going to practice writing limitations as you would in a discussion section. Each study description includes enough methodological detail to identify real, specific limitations."
+
+**Reiterate the differences between strong and weak critiques** Specific critiques identify *which* aspect of the method might limit *which* conclusion
+
+
+**In pairs (10 minutes):**
+
+- Assign different studies to different pairs
+- They have 8 options - select 1 or 2 depending on time available
+
+For their chosen example(s) they will
+
+1. *Discuss*: What would you have written at A-level?
+2. *Focus* on: What aspect of the method might limit which conclusion? Why does it matter?
+3. *Write* 2-3 sentences identifying specific limitations
+
+
+**Whole group sharing:**
+
+- Each pair shares their study and limitations (1-2 minutes each)
+- Did they avoid generic critiques?
+- Did they identify specific methodological features?
+- Did they explain why it matters?
+
+#### Example discussion points for each study
+
+**Ainsworth - Strange Situation**
+- Weaker: "Might not generalise to other places" (too generic)
+- Better: "Brief lab separations may not reflect longer, real-world separations; behaviors might have different meanings in cultures with different independence values"
+
+**Baby Einstein**
+- Watch for: "Just a correlation" (too generic)
+- Better: "Parents self-selected; those buying educational media likely differed in unmeasured ways (e.g. reading/talking more to their children, having more free time and disposable income)."
+- Key: Identifying specific potential confounds.
+
+**Zimbardo - Prison**
+- Watch for: "Unethical, artificial" (true but too generic)
+- Better: "Zimbardo actively coached guards and set expectations; guards frequently asked what to do, suggesting demand characteristics rather than spontaneous role adoption"
+- Key: This is a case where the methods genuinely undermine the conclusion
+
+
+
+# Summary 
+
+**Ask**
+
+- What's one thing from today you'll remember when writing your practical report discussion?"
+
+
+**Remind**
+
+- You don't get credit for generic critiques, only strong specific ones
 

@@ -1,0 +1,61 @@
+---
+title: "Research critique examples"
+subtitle: "Which critiques are stronger?"
+---
+
+
+
+# Instructions
+
+Read each pair of examples below. For each one, decide:
+
+- Which critique is **generic** (could apply to almost any study)?
+- Which is **specific** (identifies particular features that matter)?
+- Which is **weak** and which is **strong**? 
+- What do the strong critiques have in common?
+
+
+
+# Examples
+
+## Loftus and Palmer, 1974
+
+> "Loftus and Palmer (1974) showed participants film clips of car accidents and asked them to estimate the speed of the vehicles. The verb used in the question ('smashed' vs 'contacted') significantly influenced speed estimates..."
+
+**Critique A:** *However, this study lacks ecological validity because it used video clips rather than real accidents. Additionally, the use of students as participants raises questions about generalisability to the wider population. The artificial laboratory setting may not reflect how memory works in everyday situations, which limits the real-world applicability of these findings.*
+
+
+**Critique B:** *However, viewing video clips may differ from witnessing real events in important ways - real witnesses experience emotional arousal and personal involvement, which could interact with the suggestibility effect. Whether leading questions have the same impact on emotionally-involved witnesses remains unclear.*
+
+
+
+## Milgram, 1963
+
+> "Milgram (1963) found that 65% of participants delivered what they believed were fatal electric shocks to a learner when instructed by an authority figure..."
+
+**Critique A:** *While the study demonstrates obedience to authority in this specific context, the presence of scientific authority and laboratory setting may have created unique demand characteristics. It's unclear whether similar obedience would occur in everyday hierarchical situations where the authority's legitimacy is less clear.*
+
+
+**Critique B:** *This study cannot be generalised because it only used American male participants. The sample was also recruited from a specific time period (1960s), which may reflect different cultural attitudes. Furthermore, the study was conducted in a university setting which may have attracted particular types of volunteers, limiting how widely we can apply these results.*
+
+
+
+## Craik and Tulving, 1975
+
+> "Craik and Tulving (1975) demonstrated that words processed for meaning (semantic encoding) were recalled better than words processed for visual appearance..."
+
+**Critique A:** *The use of single, unconnected words as stimuli may not reflect how semantic processing operates with connected prose or personally meaningful material. The depth-of-processing advantage might be reduced when remembering coherent narratives where surface features also carry meaning.*
+
+**Critique B:** *This study has low ecological validity as people don't normally learn random word lists in their daily lives. The laboratory environment was also artificial and unlike natural learning situations. Additionally, participants knew they were being tested, which may have affected their performance. These factors mean the results may not generalise to real-world memory situations.*
+
+
+
+## Asch, 1951
+
+> "Asch (1951) found that 37% of participants conformed to obviously incorrect group judgements about line lengths..."
+
+**Critique A:** *The sample size was quite small (123 participants) which limits the reliability of the findings. Moreover, the study was conducted in a particular cultural context that may not apply today. The artificial nature of the line-judging task also reduces ecological validity, as real-life conformity situations are usually more complex and meaningful.*
+
+**Critique B:** *The face-to-face setting and unambiguous nature of the task (line judgement) may have created particularly strong pressure to conform. Modern contexts where conformity occurs - such as online decision-making or ambiguous social judgements - differ in important ways that could influence the strength of conformity effects.*
+
+

@@ -4,7 +4,7 @@
     "href": "CLAUDE.html",
     "title": "Claude Code Preferences",
     "section": "",
-    "text": "RStudio Quarto document project\nBuilds website using Quarto\nHosted on GitHub Pages\nTarget audience: UK undergraduate psychology students\n\n\n\n\n\nSimple, straightforward language\nWritten for undergraduate level\nUK-focused content and terminology\nClear and accessible explanations\n\n\n\n\n\nKeep R/Rmd/qmd code simple and easy to follow\nNo comments unless absolutely necessary\nFocus on readability and learning\nUse basic, educational examples\n\n\n\n\n\nPrefer editing existing files over creating new ones\nOnly create files when absolutely necessary\nNo proactive documentation creation unless requested"
+    "text": "RStudio Quarto document project\nBuilds website using Quarto\nHosted on GitHub Pages\nTarget audience: UK undergraduate psychology students\n\n\n\n\n\nSimple, straightforward language\nWritten for undergraduate level\nUK-focused content and terminology\nClear and accessible explanations\n\n\n\n\n\nKeep R/Rmd/qmd code simple and easy to follow\nNo comments unless absolutely necessary\nFocus on readability and learning\nUse basic, educational examples\n\n\n\n\n\nPrefer editing existing files over creating new ones\nOnly create files when absolutely necessary\nNo proactive documentation creation unless requested\n\n\n\n\n\nStudent handout pages are created as separate .qmd files in the tutorials/ directory\nURLs in links use .html extension (e.g., [Material](stage1_example.html))\nQR code images are stored in images/ directory\nQR code image references use .png extension (e.g., ![QR code](../images/qr_example.png){width=50%})\nQR codes point to the full GitHub Pages URL: https://plymouthpsychology.github.io/practice/tutorials/[filename].html\nGenerate QR codes using online tools (e.g., qr-code-generator.com) pointing to the full URL\nName QR code images descriptively: qr_[page_name].png (e.g., qr_critique_examples.png)"
   },
   {
     "objectID": "CLAUDE.html#project-context",
@@ -729,7 +729,7 @@
     "href": "tutorials/stage1_5.html#procedure",
     "title": "Thinking critically about research",
     "section": "Procedure",
-    "text": "Procedure\nShow students the QR code\n\nThis links to a ‘news’ item which they can open on their phones\nRead the news item aloud to the group.\n\nGroup discussion:\n\nWould they believe this story? Why?\nDoes it matter that it’s about chocolate?\nDo their prior beliefs play a role? What if it was about washing dishes?\n\nIn small groups (2-3 students):\n\nRead the method and results sections.\nStudents to discuss:\n\nWhat are the limitations of this design?\nWhat external factors could be confounded (i.e. influence both chocolate consumption and happiness)?\nHow would you design a study to show chocolate eating causes happiness?\n\n\nWhole group discussion:\n\nShare ideas from the small groups\nDid the study details change their views?\nLead discussion toward experimental design (chocolate as an indepdent variable)\nThis sets up Task 2: interpreting experimental data"
+    "text": "Procedure\nShow students the QR code\n\nThis links to a ‘news’ item which they can open on their phones\nRead the news item aloud to the group.\n\nGroup discussion:\n\nWould they believe this story? Why?\nDoes it matter that it’s about chocolate?\nDo their prior beliefs play a role? What if it was about washing dishes?\n\nIn small groups (2-3 students):\n\nRead the method and results sections.\nStudents to discuss:\n\nWhat are the limitations of this design?\nWhat external factors could be confounded (i.e. influence both chocolate consumption and happiness)?\nHow would you design a study to show chocolate eating causes happiness?\n\n\nWhole group discussion:\n\nShare ideas from the small groups\nDid the study details change their views?\nLead discussion toward experimental design (chocolate as an independent variable)\nThis sets up Task 2: interpreting experimental data"
   },
   {
     "objectID": "tutorials/stage1_5.html#part-1-what-influences-memory",
@@ -743,7 +743,7 @@
     "href": "tutorials/stage1_5.html#part-2-scenarios",
     "title": "Thinking critically about research",
     "section": "Part 2: Scenarios",
-    "text": "Part 2: Scenarios\nMaterials\nMemory study scenarios (handout or QR code below)\n\n\n\nQR code for memory scenarios\n\n\nQuestions, for pairs of students In the scenario, students are asked:\n\nWhat can you conclude from this study?\nThe should tick the boxes for conclusions they agree with.\n\nDiscussion\n\nGet each pair to say what they agreed with.\nStudents often struggle and want to agree with most options\n\nCorrect answer: (a) only.\n\nAsk students if they can explain why this is the case?\n\nNotes:\nOption b (best performing person used Method B…)\n\nAnecdotal evidence, not based on all data\nHow psychologists draw conclusions vs media arguments\nE.g., “Richard Branson is successful, so copy him” or “My gran smoked and lived to 120”\n\nOptions c (didn’t control for other factors) and d (verbal learning style might influence…)\n\nFactors that influence memory but irrelevant here because of randomisation\nOften agreed with; common error in student essays\nAsk: Can we ever control everything in psychology?\n\nOptions e (study list wasn’t unusual/important) and f (just Plymouth students)\n\nThese are about generalisation.\nAll studies happen somewhere, with some materials\nAsk:\nWhere would the study need to be run for you to believe it?\nWhat materials would make the results more important?\n\nExtension\nFor more discussion, ask students to consider Scenario 2.\n\nThis is an example where people “believe” the outcome, so think the conclusion is valid.\n\nIt is ‘obvious’ that people won’t recall anything a year later,\nConsequently, many students will conclude that the study doesn’t need to be run under different conditions.\n\nAn alternative example (if preferred):\n\nUse a clearer mechanism\ne.g., 100g chocolate raises blood sugar more than 100g rice-cakes\nWould that need replicating elsewhere?\nWould it be important to test students in London as well as Plymouth?\n\nOr make up your own example."
+    "text": "Part 2: Scenarios\nMaterials\nMemory study scenarios (handout or QR code below)\n\n\n\nQR code for memory scenarios\n\n\nQuestions, for pairs of students In the scenario, students are asked:\n\nWhat can you conclude from this study?\nThe should tick the boxes for conclusions they agree with.\n\nDiscussion\n\nGet each pair to say what they agreed with.\nStudents often struggle and want to agree with most options\n\nCorrect answer: (a) only.\n\nAsk students if they can explain why this is the case?\n\nNotes:\nOption b (best performing person used Method B…)\n\nAnecdotal evidence, not based on all data\nHow psychologists draw conclusions vs media arguments\nE.g., “Richard Branson is successful, so copy him” or “My gran smoked and lived to 120”\n\nOption c (didn’t control for other factors) or d (verbal learning style might influence…)\n\nFactors that influence memory but irrelevant here because of randomisation\nOften agreed with; common error in student essays\nAsk: Can we ever control everything in psychology?\n\nOption e (study list wasn’t unusual/important) or f (just Plymouth students)\n\nThese are about generalisation.\nAll studies happen somewhere, with some materials\nAsk:\nWhere would the study need to be run for you to believe it?\nWhat materials would make the results more important?"
   },
   {
     "objectID": "theme-growth.html",
@@ -780,5 +780,369 @@
       "For Staff",
       "Overview"
     ]
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html",
+    "href": "tutorials/stage1_study_scenarios.html",
+    "title": "Study descriptions for critical analysis",
+    "section": "",
+    "text": "For each study below, read the study description carefully:\n\nThink: What would you have written about limitations at A-level?\nFocus on: What aspect of the method might limit which conclusion? Why does it matter?\nNow write 2-3 sentences identifying specific limitations\n\nRemember: Avoid generic critiques like “small sample” or “lacks ecological validity.” Be specific about what matters and why."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#your-task",
+    "href": "tutorials/stage1_study_scenarios.html#your-task",
+    "title": "Study descriptions for critical analysis",
+    "section": "",
+    "text": "For each study below:\n\nRead the study description carefully\nThink: What would you have written about limitations at A-level?\nNow write 2-3 sentences identifying specific limitations\nFocus on: What aspect of the method might limit which conclusion? Why does it matter?\n\nRemember: avoid generic critiques like “small sample” or “lacks ecological validity.” Be specific about what matters and why."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#study-a-peterson-and-peterson-1959",
+    "href": "tutorials/stage1_study_scenarios.html#study-a-peterson-and-peterson-1959",
+    "title": "Study descriptions for critical analysis",
+    "section": "Study A: Peterson and Peterson (1959)",
+    "text": "Study A: Peterson and Peterson (1959)\nPeterson and Peterson (1959) investigated the duration of short-term memory. Participants were shown consonant trigrams (e.g., XQF) and asked to recall them after delays of 3, 6, 9, 12, 15, or 18 seconds. During the delay, participants counted backwards in threes from a given number (e.g., 397, 394, 391…) to prevent rehearsal. Recall dropped from about 80% at 3 seconds to less than 10% at 18 seconds.\nWhat limitations can you identify? Write 2-3 sentences."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#study-b-godden-and-baddeley-1975",
+    "href": "tutorials/stage1_study_scenarios.html#study-b-godden-and-baddeley-1975",
+    "title": "Study descriptions for critical analysis",
+    "section": "Study B: Godden and Baddeley (1975)",
+    "text": "Study B: Godden and Baddeley (1975)\nGodden and Baddeley (1975) tested context-dependent memory with deep-sea divers. Participants learned word lists either on land or underwater (10 feet deep), and were later tested in either the same or different environment. This created four conditions: learn-land/test-land, learn-land/test-water, learn-water/test-land, learn-water/test-water. Recall was approximately 40% better when learning and testing contexts matched.\nWhat limitations can you identify? Write 2-3 sentences."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#study-c-baddeley-1966",
+    "href": "tutorials/stage1_study_scenarios.html#study-c-baddeley-1966",
+    "title": "Study descriptions for critical analysis",
+    "section": "Study C: Baddeley (1966)",
+    "text": "Study C: Baddeley (1966)\nBaddeley (1966) examined the effects of acoustic and semantic similarity on recall. Participants heard either acoustically similar words (man, cat, can, cap, mad) or acoustically dissimilar words (pit, few, cow, pen, sup), or semantically similar words (huge, big, great, large, wide) or semantically dissimilar words (good, huge, hot, safe, thin). They recalled them immediately or after a 20-minute delay. Acoustically similar words were harder to recall immediately; semantically similar words were harder to recall after delay."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#study-d-bartlett-1932",
+    "href": "tutorials/stage1_study_scenarios.html#study-d-bartlett-1932",
+    "title": "Study descriptions for critical analysis",
+    "section": "Study D: Bartlett (1932)",
+    "text": "Study D: Bartlett (1932)\nBartlett (1932) had British participants read ‘The War of the Ghosts’, a Native American folk tale with unfamiliar narrative structure and supernatural elements. When recalling the story after various delays (hours to years), participants systematically distorted it - omitting unusual details, rationalising supernatural elements, and making the narrative more conventional. For example, ‘canoes’ often became ‘boats’ and supernatural elements were explained away or forgotten."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#study-e-ainsworth-et-al.-1970s---strange-situation",
+    "href": "tutorials/stage1_study_scenarios.html#study-e-ainsworth-et-al.-1970s---strange-situation",
+    "title": "Study descriptions for critical analysis",
+    "section": "Study E: Ainsworth et al. (1970s) - Strange Situation",
+    "text": "Study E: Ainsworth et al. (1970s) - Strange Situation\nAinsworth and colleagues (1970s) developed the ‘Strange Situation’ to assess infant attachment. They recruited families from the local area near Johns Hopkins University in Baltimore. In the laboratory, infants (aged 12-18 months) were observed in an unfamiliar room during a series of brief episodes: the mother left the child with a stranger, returned, left again leaving the infant completely alone, then the stranger returned, and finally the mother returned. Researchers coded the infant’s behaviour during separations and reunions. Based on their responses - particularly how quickly infants were comforted when the mother returned - Ainsworth classified attachment styles as secure (about 65%), avoidant (about 20%), or anxious-resistant (about 15%). She concluded these patterns reflected the quality of care infants had received at home."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#study-f-harlow-1958---contact-comfort",
+    "href": "tutorials/stage1_study_scenarios.html#study-f-harlow-1958---contact-comfort",
+    "title": "Study descriptions for critical analysis",
+    "section": "Study F: Harlow (1958) - Contact Comfort",
+    "text": "Study F: Harlow (1958) - Contact Comfort\nHarlow (1958) investigated whether infant attachment is based on feeding or comfort. He separated infant rhesus monkeys from their biological mothers at birth and raised them in isolation with two artificial ‘mother’ surrogates. One surrogate was made of bare wire mesh with a bottle attached providing milk. The other was covered in soft terry cloth but provided no food. The researchers measured how much time infants spent with each surrogate and how they behaved when frightened (a mechanical toy was placed in the cage). Infant monkeys spent 15-18 hours per day clinging to the cloth mother and only 1 hour with the wire mother (just to feed). When frightened, they ran to the cloth mother for comfort. Harlow concluded that ‘contact comfort’ is more important than feeding for attachment bonds."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#study-g-educational-media-and-infant-development",
+    "href": "tutorials/stage1_study_scenarios.html#study-g-educational-media-and-infant-development",
+    "title": "Study descriptions for critical analysis",
+    "section": "Study G: Educational Media and Infant Development",
+    "text": "Study G: Educational Media and Infant Development\nResearchers in the early 2000s investigated whether educational media could enhance infant cognitive development. Parents of infants aged 12-18 months were surveyed about their child’s media use and completed vocabulary checklists (reporting how many words their infant could say or understand). The study found that infants whose parents reported more time watching educational DVDs (products marketed as ‘Baby Einstein’, ‘Brainy Baby’, etc.) had larger vocabularies than infants who watched less. The researchers concluded that educational media could support early language development, and these findings were widely publicised. The Baby Einstein company grew rapidly, marketing products as educational tools.\nWhat limitations can you identify? Write 2-3 sentences."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#study-h-zimbardo-1971---stanford-prison-experiment",
+    "href": "tutorials/stage1_study_scenarios.html#study-h-zimbardo-1971---stanford-prison-experiment",
+    "title": "Study descriptions for critical analysis",
+    "section": "Study H: Zimbardo (1971) - Stanford Prison Experiment",
+    "text": "Study H: Zimbardo (1971) - Stanford Prison Experiment\nZimbardo (1971) investigated how social roles influence behaviour in the Stanford Prison Experiment. Student volunteers were randomly assigned to be ‘prisoners’ or ‘guards’ in a mock prison created in the basement of Stanford’s psychology building. Guards were given uniforms, sunglasses, and batons, and told to maintain order without using physical violence. Zimbardo briefed guards to create an environment where prisoners would feel powerless and disoriented. Prisoners were ‘arrested’ at their homes, brought to the prison, strip-searched, given smocks and ID numbers. Within 36 hours, some guards became aggressive - waking prisoners at night, forcing them to do press-ups, using stress positions, and humiliating them. Some prisoners showed extreme stress reactions. The study was stopped after 6 days. Zimbardo concluded that ordinary people will conform to brutal social roles when placed in institutional settings with power imbalances.\nWhat limitations can you identify? Write 2-3 sentences."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html",
+    "href": "tutorials/stage1_critique_examples.html",
+    "title": "Research critique examples",
+    "section": "",
+    "text": "Read each pair of examples below. For each one, decide:\n\nWhich critique is generic (could apply to almost any study)?\nWhich is specific (identifies particular features that matter)?\nWhich is weak and which is strong?\nWhat do the strong critiques have in common?"
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#example-1",
+    "href": "tutorials/stage1_critique_examples.html#example-1",
+    "title": "Research critique examples",
+    "section": "Example 1",
+    "text": "Example 1\n“Loftus and Palmer (1974) showed participants film clips of car accidents and asked them to estimate the speed of the vehicles. The verb used in the question (‘smashed’ vs ‘contacted’) significantly influenced speed estimates…”\nCritique A: However, this study lacks ecological validity because it used video clips rather than real accidents.\n\nCritique B: However, viewing video clips may differ from witnessing real events in important ways - real witnesses experience emotional arousal and personal involvement, which could interact with the suggestibility effect. Whether leading questions have the same impact on emotionally-involved witnesses remains unclear."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#example-2",
+    "href": "tutorials/stage1_critique_examples.html#example-2",
+    "title": "Research critique examples",
+    "section": "Example 2",
+    "text": "Example 2\n“Loftus and Palmer (1974) showed participants film clips of car accidents and asked them to estimate the speed of the vehicles. The verb used in the question (‘smashed’ vs ‘contacted’) significantly influenced speed estimates…”\nCritique B: However, viewing video clips may differ from witnessing real events in important ways - real witnesses experience emotional arousal and personal involvement, which could interact with the suggestibility effect. Whether leading questions have the same impact on emotionally-involved witnesses remains unclear."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#example-3",
+    "href": "tutorials/stage1_critique_examples.html#example-3",
+    "title": "Research critique examples",
+    "section": "Example 3",
+    "text": "Example 3\n“Milgram (1963) found that 65% of participants delivered what they believed were fatal electric shocks to a learner when instructed by an authority figure…”\nCritique A: This study cannot be generalised because it only used American male participants.\nCritique B: While the study demonstrates obedience to authority in this specific context, the presence of scientific authority and laboratory setting may have created unique demand characteristics. It’s unclear whether similar obedience would occur in everyday hierarchical situations where the authority’s legitimacy is less clear."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#example-4",
+    "href": "tutorials/stage1_critique_examples.html#example-4",
+    "title": "Research critique examples",
+    "section": "Example 4",
+    "text": "Example 4\n“Milgram (1963) found that 65% of participants delivered what they believed were fatal electric shocks to a learner when instructed by an authority figure…”\nCritique B: While the study demonstrates obedience to authority in this specific context, the presence of scientific authority and laboratory setting may have created unique demand characteristics. It’s unclear whether similar obedience would occur in everyday hierarchical situations where the authority’s legitimacy is less clear."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#example-5",
+    "href": "tutorials/stage1_critique_examples.html#example-5",
+    "title": "Research critique examples",
+    "section": "Example 5",
+    "text": "Example 5\n“Craik and Tulving (1975) demonstrated that words processed for meaning (semantic encoding) were recalled better than words processed for visual appearance…”\nCritique A: This study has low ecological validity as people don’t normally learn random word lists.\nCritique B: The use of single, unconnected words as stimuli may not reflect how semantic processing operates with connected prose or personally meaningful material. The depth-of-processing advantage might be reduced when remembering coherent narratives where surface features also carry meaning."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#example-6",
+    "href": "tutorials/stage1_critique_examples.html#example-6",
+    "title": "Research critique examples",
+    "section": "Example 6",
+    "text": "Example 6\n“Craik and Tulving (1975) demonstrated that words processed for meaning (semantic encoding) were recalled better than words processed for visual appearance…”\nCritique B: The use of single, unconnected words as stimuli may not reflect how semantic processing operates with connected prose or personally meaningful material. The depth-of-processing advantage might be reduced when remembering coherent narratives where surface features also carry meaning."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#example-7",
+    "href": "tutorials/stage1_critique_examples.html#example-7",
+    "title": "Research critique examples",
+    "section": "Example 7",
+    "text": "Example 7\n“Asch (1951) found that 37% of participants conformed to obviously incorrect group judgements about line lengths…”\nCritique A: The sample size was quite small (123 participants) which limits the reliability of the findings."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#example-8",
+    "href": "tutorials/stage1_critique_examples.html#example-8",
+    "title": "Research critique examples",
+    "section": "Example 8",
+    "text": "Example 8\n“Asch (1951) found that 37% of participants conformed to obviously incorrect group judgements about line lengths…”\nCritique B: The face-to-face setting and unambiguous nature of the task (line judgement) may have created particularly strong pressure to conform. Modern contexts where conformity occurs - such as online decision-making or ambiguous social judgements - differ in important ways that could influence the strength of conformity effects."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#questions-to-discuss",
+    "href": "tutorials/stage1_critique_examples.html#questions-to-discuss",
+    "title": "Research critique examples",
+    "section": "Questions to discuss",
+    "text": "Questions to discuss\nFor each pair: - Which critique did you prefer? Why? - What makes one stronger than the other? - Can you spot the pattern in what makes critiques weak or strong?"
+  },
+  {
+    "objectID": "tutorials/stage1_5_extension_draft.html",
+    "href": "tutorials/stage1_5_extension_draft.html",
+    "title": "Part 3: Spotting weak critiques",
+    "section": "",
+    "text": "Goal: Help students distinguish between generic and specific critical analysis.\nTopic: Identifying weak vs strong critiques of research findings.\n\n\nResearch critique examples (handout or QR code below)\n\n\n\nQR code for critique examples\n\n\n\n\n\nShow students the QR code or handout\n\nThis shows 8 research findings with different critiques\nEach example shows a study result followed by a limitation statement\n\nExplain the task:\nStudents will see pairs of critiques on the same study. Their job is to: - Decide which critiques are generic (could apply to almost any study) vs specific (identifies particular features that matter) - Decide which are weak vs strong\nIn pairs (5 minutes):\n\nStudents read through the examples\nFor each pair: Which critique is stronger? Why?\nMark their choices\n\nWhole group discussion:\nStart with Examples 1 & 2 (Loftus & Palmer):\n\nWhich critique did you prefer? Why?\nKey point: The weak one says “lacks ecological validity because videos not real accidents” - but the study is about how question wording affects memory, not about car accidents specifically. Using videos doesn’t undermine that conclusion.\nStrong version: Identifies what might matter (emotional involvement) and why (might interact with suggestibility).\n\nMove through remaining examples (select 2-3 more based on time):\nExamples 3 & 4 (Milgram): - Weak: “Can’t generalise, only American men” - stock phrase, doesn’t explain why gender/nationality would matter for obedience - Strong: Identifies specific context features (scientific authority, lab) and why they might create unique demand characteristics\nExamples 5 & 6 (Craik & Tulving): - Weak: “People don’t learn word lists” - misses the point about testing general memory principles - Strong: Questions whether the principle scales to connected prose where processing works differently\nExamples 7 & 8 (Asch): - Weak: Generic complaint about sample size - Strong: Identifies features (face-to-face, unambiguous task) that might influence effect size\n\nKey points:\n\nGeneric critiques are swappable - you could say them about any study\nSpecific critiques identify which aspect of the method might limit which conclusion\nStrong critiques explain why the limitation matters\nNotice the language in strong critiques: “may differ in important ways”, “it’s unclear whether”, “could influence” - acknowledging uncertainty rather than dismissing findings\n\nLink to assessment: When you write discussion sections, generic critiques don’t earn marks, only strong specific ones."
+  },
+  {
+    "objectID": "tutorials/stage1_5_extension_draft.html#materials",
+    "href": "tutorials/stage1_5_extension_draft.html#materials",
+    "title": "Part 3: Spotting weak critiques",
+    "section": "",
+    "text": "Research critique examples (handout or QR code below)\n\n\n\nQR code for critique examples"
+  },
+  {
+    "objectID": "tutorials/stage1_5_extension_draft.html#procedure",
+    "href": "tutorials/stage1_5_extension_draft.html#procedure",
+    "title": "Part 3: Spotting weak critiques",
+    "section": "",
+    "text": "Show students the QR code or handout\n\nThis shows 8 research findings with different critiques\nEach example shows a study result followed by a limitation statement\n\nExplain the task:\nStudents will see pairs of critiques on the same study. Their job is to: - Decide which critiques are generic (could apply to almost any study) vs specific (identifies particular features that matter) - Decide which are weak vs strong\nIn pairs (5 minutes):\n\nStudents read through the examples\nFor each pair: Which critique is stronger? Why?\nMark their choices\n\nWhole group discussion:\nStart with Examples 1 & 2 (Loftus & Palmer):\n\nWhich critique did you prefer? Why?\nKey point: The weak one says “lacks ecological validity because videos not real accidents” - but the study is about how question wording affects memory, not about car accidents specifically. Using videos doesn’t undermine that conclusion.\nStrong version: Identifies what might matter (emotional involvement) and why (might interact with suggestibility).\n\nMove through remaining examples (select 2-3 more based on time):\nExamples 3 & 4 (Milgram): - Weak: “Can’t generalise, only American men” - stock phrase, doesn’t explain why gender/nationality would matter for obedience - Strong: Identifies specific context features (scientific authority, lab) and why they might create unique demand characteristics\nExamples 5 & 6 (Craik & Tulving): - Weak: “People don’t learn word lists” - misses the point about testing general memory principles - Strong: Questions whether the principle scales to connected prose where processing works differently\nExamples 7 & 8 (Asch): - Weak: Generic complaint about sample size - Strong: Identifies features (face-to-face, unambiguous task) that might influence effect size\n\nKey points:\n\nGeneric critiques are swappable - you could say them about any study\nSpecific critiques identify which aspect of the method might limit which conclusion\nStrong critiques explain why the limitation matters\nNotice the language in strong critiques: “may differ in important ways”, “it’s unclear whether”, “could influence” - acknowledging uncertainty rather than dismissing findings\n\nLink to assessment: When you write discussion sections, generic critiques don’t earn marks, only strong specific ones."
+  },
+  {
+    "objectID": "tutorials/stage1_5_extension_draft.html#materials-1",
+    "href": "tutorials/stage1_5_extension_draft.html#materials-1",
+    "title": "Part 3: Spotting weak critiques",
+    "section": "Materials",
+    "text": "Materials\nStudy descriptions for critical analysis (handout or QR code below)\n\n\n\nQR code for study scenarios"
+  },
+  {
+    "objectID": "tutorials/stage1_5_extension_draft.html#procedure-1",
+    "href": "tutorials/stage1_5_extension_draft.html#procedure-1",
+    "title": "Part 3: Spotting weak critiques",
+    "section": "Procedure",
+    "text": "Procedure\nIntroduce the task:\n“You’re going to practice writing limitations as you would in a discussion section. Each study description includes enough methodological detail to identify real, specific limitations.”\nExplain the contrast:\n\nAt A-level, you might have written: “Small sample, lacks ecological validity, can’t generalise”\nAt university, you need to explain: What aspect of the method limits which conclusion? Why does it matter?\n\nIn pairs (10 minutes):\nAssign different studies to different pairs (you have 8 options - select 2-4 based on group size and interests): - Study A: Peterson & Peterson (short-term memory) - Study B: Godden & Baddeley (context-dependent memory - divers) - Study C: Baddeley (acoustic vs semantic similarity) - Study D: Bartlett (War of the Ghosts) - Study E: Ainsworth (Strange Situation attachment) - Study F: Harlow (monkey attachment) - Study G: Baby Einstein / educational media - Study H: Zimbardo (Stanford Prison Experiment)\nFor their assigned study: 1. Discuss: What would you have written at A-level? 2. Now write 2-3 sentences identifying specific limitations 3. Focus on: What aspect of the method might limit which conclusion? Why does it matter?\nWhole group sharing:\nEach pair shares their study and limitations (1-2 minutes each)\nFor each, discuss: - Did they avoid generic critiques? - Did they identify specific methodological features? - Did they explain why it matters?\nExample discussion points by study:\nStudy E (Ainsworth - Strange Situation): - Watch for: “Can’t generalise to other cultures” (too generic) - Better: “Brief lab separations may not reflect longer, real-world separations; behaviors might have different meanings in cultures with different independence values” - Key: Identifying what about the method (brief, lab, specific behaviours) and why it matters\nStudy F (Harlow - Monkeys): - Watch for: “Used animals not humans” (too generic) - Better: “Compared two impoverished options (wire vs cloth) both lacking responsive interaction, which might be more important than physical contact in species with complex social communication” - Key: Not rejecting the finding, but identifying what wasn’t tested\nStudy G (Baby Einstein): - Watch for: “Just a correlation” (too generic) - Better: “Parents self-selected; those buying educational media likely differed in unmeasured ways (reading more, talking more). RCTs later found no benefit.” - Key: Identifying specific confounds and noting that better-designed studies contradicted the finding\nStudy H (Zimbardo - Prison): - Watch for: “Unethical, artificial” (too generic) - Better: “Zimbardo actively coached guards and set expectations; guards frequently asked what to do, suggesting demand characteristics rather than spontaneous role adoption” - Key: This is a case where the methods genuinely undermine the conclusion\nSummary and link to assessment:\n“This is what ‘good considerations of limitations’ looks like in the PSYC421 marking criteria: - Depth of insight into theoretical issues - Critical analysis and assessment - Specific, thoughtful analysis\nYou can find the full PSYC421 practical report mark scheme on the module DLE page. It rewards exactly this kind of thinking.”\nFinal question:\n“What’s one thing from today you’ll remember when writing your practical report discussion?”"
+  },
+  {
+    "objectID": "tutorials/stage1_5_extension_draft.html#notes-for-tutors",
+    "href": "tutorials/stage1_5_extension_draft.html#notes-for-tutors",
+    "title": "Part 3: Spotting weak critiques",
+    "section": "Notes for Tutors",
+    "text": "Notes for Tutors\nTime management: - Part 3: ~10-15 minutes - Part 4: ~15-20 minutes - Total: ~25-35 minutes for both activities\nSelecting studies for Part 4: - Pick studies that will interest your group - Mix of memory (A-D) and social/developmental (E-H) works well - Baby Einstein (G) and Zimbardo (H) are particularly engaging and show real-world impact of methods\nKey message throughout: - Not trying to dismiss findings - Thinking about boundary conditions and what we can/can’t conclude - This is more sophisticated and useful than generic critiques"
+  },
+  {
+    "objectID": "tutorials/stage1_5.html#part-3-scenario-2",
+    "href": "tutorials/stage1_5.html#part-3-scenario-2",
+    "title": "Thinking critically about research",
+    "section": "Part 3: Scenario 2",
+    "text": "Part 3: Scenario 2\nAsk students to consider Scenario 2.\n\nThis is an example where people “believe” the outcome, so think the conclusion is valid.\nIt is ‘obvious’ that people won’t recall anything a year later,\nConsequently, many students will conclude that the study doesn’t need to be run under different conditions.\n\nAn alternative example (if preferred):\n\nUse a clearer mechanism\ne.g., 100g chocolate raises blood sugar more than 100g rice-cakes\nWould that need replicating elsewhere?\nWould it be important to test students in London as well as Plymouth?\n\nOr make up your own example."
+  },
+  {
+    "objectID": "tutorials/stage1_5.html#scenario-2",
+    "href": "tutorials/stage1_5.html#scenario-2",
+    "title": "Thinking critically about research",
+    "section": "Scenario 2",
+    "text": "Scenario 2\nAsk students to consider Scenario 2.\n\nThis is an example where people “believe” the outcome, so think the conclusion is valid.\nIt is ‘obvious’ that people won’t recall anything a year later,\nConsequently, many students will conclude that the study doesn’t need to be run under different conditions.\n\nAn alternative example (if preferred):\n\nUse a clearer mechanism\ne.g., 100g chocolate raises blood sugar more than 100g rice-cakes\nWould that need replicating elsewhere?\nWould it be important to test students in London as well as Plymouth?\n\nOr make up your own example."
+  },
+  {
+    "objectID": "tutorials/stage1_5.html#materials-1",
+    "href": "tutorials/stage1_5.html#materials-1",
+    "title": "Thinking critically about research",
+    "section": "Materials",
+    "text": "Materials\nResearch critique examples (handout or QR code below)\n\n\n\nQR code for critique examples"
+  },
+  {
+    "objectID": "tutorials/stage1_5.html#procedure-1",
+    "href": "tutorials/stage1_5.html#procedure-1",
+    "title": "Thinking critically about research",
+    "section": "Procedure",
+    "text": "Procedure\nShow students the QR code or handout\n\nThis shows 8 research findings with different critiques\nEach example shows a study result followed by a limitation statement\n\nExplain the task:\nStudents will see pairs of critiques on the same study. Their job is to: - Decide which critiques are generic (could apply to almost any study) vs specific (identifies particular features that matter) - Decide which are weak vs strong\nIn pairs (5 minutes):\n\nStudents read through the examples\nFor each pair: Which critique is stronger? Why?\nMark their choices\n\nWhole group discussion:\nStart with Examples 1 & 2 (Loftus & Palmer):\n\nWhich critique did you prefer? Why?\nKey point: The weak one says “lacks ecological validity because videos not real accidents” - but the study is about how question wording affects memory, not about car accidents specifically. Using videos doesn’t undermine that conclusion.\nStrong version: Identifies what might matter (emotional involvement) and why (might interact with suggestibility).\n\nMove through remaining examples (select 2-3 more based on time):\nExamples 3 & 4 (Milgram): - Weak: “Can’t generalise, only American men” - stock phrase, doesn’t explain why gender/nationality would matter for obedience - Strong: Identifies specific context features (scientific authority, lab) and why they might create unique demand characteristics\nExamples 5 & 6 (Craik & Tulving): - Weak: “People don’t learn word lists” - misses the point about testing general memory principles - Strong: Questions whether the principle scales to connected prose where processing works differently\nExamples 7 & 8 (Asch): - Weak: Generic complaint about sample size - Strong: Identifies features (face-to-face, unambiguous task) that might influence effect size\n\nKey points:\n\nGeneric critiques are swappable - you could say them about any study\nSpecific critiques identify which aspect of the method might limit which conclusion\nStrong critiques explain why the limitation matters\n\nNotice the language in strong critiques: “may differ in important ways”, “it’s unclear whether”, “could influence” — acknowledging uncertainty rather than dismissing findings\nLink to assessment: When you write discussion sections, generic critiques don’t earn marks, only strong specific ones."
+  },
+  {
+    "objectID": "tutorials/stage1_5.html#materials-2",
+    "href": "tutorials/stage1_5.html#materials-2",
+    "title": "Thinking critically about research",
+    "section": "Materials",
+    "text": "Materials\nStudy descriptions for critical analysis (handout or QR code below)\n\n\n\nQR code for study scenarios"
+  },
+  {
+    "objectID": "tutorials/stage1_5.html#procedure-2",
+    "href": "tutorials/stage1_5.html#procedure-2",
+    "title": "Thinking critically about research",
+    "section": "Procedure",
+    "text": "Procedure\nIntroduce the task:\n“You’re going to practice writing limitations as you would in a discussion section. Each study description includes enough methodological detail to identify real, specific limitations.”\nReiterate the differences between strong and weak critiques Specific critiques identify which aspect of the method might limit which conclusion\nIn pairs (10 minutes):\n\nAssign different studies to different pairs\nThey have 8 options - select 1 or 2 depending on time available\n\nFor their chosen example(s) they will\n\nDiscuss: What would you have written at A-level?\nFocus on: What aspect of the method might limit which conclusion? Why does it matter?\nWrite 2-3 sentences identifying specific limitations\n\nWhole group sharing:\n\nEach pair shares their study and limitations (1-2 minutes each)\nDid they avoid generic critiques?\nDid they identify specific methodological features?\nDid they explain why it matters?\n\n\nExample discussion points for each study\nAinsworth - Strange Situation - Weaker: “Might not generalise to other places” (too generic) - Better: “Brief lab separations may not reflect longer, real-world separations; behaviors might have different meanings in cultures with different independence values”\nBaby Einstein - Watch for: “Just a correlation” (too generic) - Better: “Parents self-selected; those buying educational media likely differed in unmeasured ways (e.g. reading/talking more to their children, having more free time and disposable income).” - Key: Identifying specific potential confounds.\nZimbardo - Prison - Watch for: “Unethical, artificial” (true but too generic) - Better: “Zimbardo actively coached guards and set expectations; guards frequently asked what to do, suggesting demand characteristics rather than spontaneous role adoption” - Key: This is a case where the methods genuinely undermine the conclusion"
+  },
+  {
+    "objectID": "tutorials/stage1_5.html#notes-for-tutors",
+    "href": "tutorials/stage1_5.html#notes-for-tutors",
+    "title": "Thinking critically about research",
+    "section": "Notes for Tutors",
+    "text": "Notes for Tutors\nTime management: - Part 3: ~10-15 minutes - Part 4: ~15-20 minutes - Total: ~25-35 minutes for both activities\nSelecting studies for Part 4: - Pick studies that will interest your group - Mix of memory (A-D) and social/developmental (E-H) works well - Baby Einstein (G) and Zimbardo (H) are particularly engaging and show real-world impact of methods\nKey message throughout: - Not trying to dismiss findings - Thinking about boundary conditions and what we can/can’t conclude - This is more sophisticated and useful than generic critiques"
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#semantic-encoding",
+    "href": "tutorials/stage1_critique_examples.html#semantic-encoding",
+    "title": "Research critique examples",
+    "section": "Semantic encoding",
+    "text": "Semantic encoding\n“Craik and Tulving (1975) demonstrated that words processed for meaning (semantic encoding) were recalled better than words processed for visual appearance…”\nCritique A: This study has low ecological validity as people don’t normally learn random word lists.\nCritique B: The use of single, unconnected words as stimuli may not reflect how semantic processing operates with connected prose or personally meaningful material. The depth-of-processing advantage might be reduced when remembering coherent narratives where surface features also carry meaning."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#conformity",
+    "href": "tutorials/stage1_critique_examples.html#conformity",
+    "title": "Research critique examples",
+    "section": "Conformity",
+    "text": "Conformity\n“Asch (1951) found that 37% of participants conformed to obviously incorrect group judgements about line lengths…”\nCritique A: The sample size was quite small (123 participants) which limits the reliability of the findings.\nCritique B: The face-to-face setting and unambiguous nature of the task (line judgement) may have created particularly strong pressure to conform. Modern contexts where conformity occurs - such as online decision-making or ambiguous social judgements - differ in important ways that could influence the strength of conformity effects."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#memory",
+    "href": "tutorials/stage1_critique_examples.html#memory",
+    "title": "Research critique examples",
+    "section": "Memory",
+    "text": "Memory\n“Loftus and Palmer (1974) showed participants film clips of car accidents and asked them to estimate the speed of the vehicles. The verb used in the question (‘smashed’ vs ‘contacted’) significantly influenced speed estimates…”\nCritique A: However, this study lacks ecological validity because it used video clips rather than real accidents.\nCritique B: However, viewing video clips may differ from witnessing real events in important ways - real witnesses experience emotional arousal and personal involvement, which could interact with the suggestibility effect. Whether leading questions have the same impact on emotionally-involved witnesses remains unclear."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#authority",
+    "href": "tutorials/stage1_critique_examples.html#authority",
+    "title": "Research critique examples",
+    "section": "Authority",
+    "text": "Authority\n“Milgram (1963) found that 65% of participants delivered what they believed were fatal electric shocks to a learner when instructed by an authority figure…”\nCritique A: This study cannot be generalised because it only used American male participants.\nCritique B: While the study demonstrates obedience to authority in this specific context, the presence of scientific authority and laboratory setting may have created unique demand characteristics. It’s unclear whether similar obedience would occur in everyday hierarchical situations where the authority’s legitimacy is less clear."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#loftus-and-palmer-1974",
+    "href": "tutorials/stage1_critique_examples.html#loftus-and-palmer-1974",
+    "title": "Research critique examples",
+    "section": "Loftus and Palmer, 1974",
+    "text": "Loftus and Palmer, 1974\n\n“Loftus and Palmer (1974) showed participants film clips of car accidents and asked them to estimate the speed of the vehicles. The verb used in the question (‘smashed’ vs ‘contacted’) significantly influenced speed estimates…”\n\nCritique A: However, this study lacks ecological validity because it used video clips rather than real accidents. Additionally, the use of students as participants raises questions about generalisability to the wider population. The artificial laboratory setting may not reflect how memory works in everyday situations, which limits the real-world applicability of these findings.\nCritique B: However, viewing video clips may differ from witnessing real events in important ways - real witnesses experience emotional arousal and personal involvement, which could interact with the suggestibility effect. Whether leading questions have the same impact on emotionally-involved witnesses remains unclear."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#milgram-1963",
+    "href": "tutorials/stage1_critique_examples.html#milgram-1963",
+    "title": "Research critique examples",
+    "section": "Milgram, 1963",
+    "text": "Milgram, 1963\n\n“Milgram (1963) found that 65% of participants delivered what they believed were fatal electric shocks to a learner when instructed by an authority figure…”\n\nCritique A: While the study demonstrates obedience to authority in this specific context, the presence of scientific authority and laboratory setting may have created unique demand characteristics. It’s unclear whether similar obedience would occur in everyday hierarchical situations where the authority’s legitimacy is less clear.\nCritique B: This study cannot be generalised because it only used American male participants. The sample was also recruited from a specific time period (1960s), which may reflect different cultural attitudes. Furthermore, the study was conducted in a university setting which may have attracted particular types of volunteers, limiting how widely we can apply these results."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#craik-and-tulving-1975",
+    "href": "tutorials/stage1_critique_examples.html#craik-and-tulving-1975",
+    "title": "Research critique examples",
+    "section": "Craik and Tulving, 1975",
+    "text": "Craik and Tulving, 1975\n\n“Craik and Tulving (1975) demonstrated that words processed for meaning (semantic encoding) were recalled better than words processed for visual appearance…”\n\nCritique A: The use of single, unconnected words as stimuli may not reflect how semantic processing operates with connected prose or personally meaningful material. The depth-of-processing advantage might be reduced when remembering coherent narratives where surface features also carry meaning.\nCritique B: This study has low ecological validity as people don’t normally learn random word lists in their daily lives. The laboratory environment was also artificial and unlike natural learning situations. Additionally, participants knew they were being tested, which may have affected their performance. These factors mean the results may not generalise to real-world memory situations."
+  },
+  {
+    "objectID": "tutorials/stage1_critique_examples.html#asch-1951",
+    "href": "tutorials/stage1_critique_examples.html#asch-1951",
+    "title": "Research critique examples",
+    "section": "Asch, 1951",
+    "text": "Asch, 1951\n\n“Asch (1951) found that 37% of participants conformed to obviously incorrect group judgements about line lengths…”\n\nCritique A: The sample size was quite small (123 participants) which limits the reliability of the findings. Moreover, the study was conducted in a particular cultural context that may not apply today. The artificial nature of the line-judging task also reduces ecological validity, as real-life conformity situations are usually more complex and meaningful.\nCritique B: The face-to-face setting and unambiguous nature of the task (line judgement) may have created particularly strong pressure to conform. Modern contexts where conformity occurs - such as online decision-making or ambiguous social judgements - differ in important ways that could influence the strength of conformity effects."
+  },
+  {
+    "objectID": "CLAUDE.html#qr-codes-and-urls-for-tutorial-materials",
+    "href": "CLAUDE.html#qr-codes-and-urls-for-tutorial-materials",
+    "title": "Claude Code Preferences",
+    "section": "",
+    "text": "Student handout pages are created as separate .qmd files in the tutorials/ directory\nURLs in links use .html extension (e.g., [Material](stage1_example.html))\nQR code images are stored in images/ directory\nQR code image references use .png extension (e.g., ![QR code](../images/qr_example.png){width=50%})\nQR codes point to the full GitHub Pages URL: https://plymouthpsychology.github.io/practice/tutorials/[filename].html\nGenerate QR codes using online tools (e.g., qr-code-generator.com) pointing to the full URL\nName QR code images descriptively: qr_[page_name].png (e.g., qr_critique_examples.png)"
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#peterson-and-peterson-1959",
+    "href": "tutorials/stage1_study_scenarios.html#peterson-and-peterson-1959",
+    "title": "Study descriptions for critical analysis",
+    "section": "Peterson and Peterson (1959)",
+    "text": "Peterson and Peterson (1959)\nPeterson and Peterson (1959) investigated the duration of short-term memory. Participants were shown consonant trigrams (e.g., XQF) and asked to recall them after delays of 3, 6, 9, 12, 15, or 18 seconds. During the delay, participants counted backwards in threes from a given number (e.g., 397, 394, 391…) to prevent rehearsal. Recall dropped from about 80% at 3 seconds to less than 10% at 18 seconds.\nWhat limitations can you identify? Write 2-3 sentences."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#godden-and-baddeley-1975",
+    "href": "tutorials/stage1_study_scenarios.html#godden-and-baddeley-1975",
+    "title": "Study descriptions for critical analysis",
+    "section": "Godden and Baddeley (1975)",
+    "text": "Godden and Baddeley (1975)\nGodden and Baddeley (1975) tested context-dependent memory with deep-sea divers. Participants learned word lists either on land or underwater (10 feet deep), and were later tested in either the same or different environment. This created four conditions: learn-land/test-land, learn-land/test-water, learn-water/test-land, learn-water/test-water. Recall was approximately 40% better when learning and testing contexts matched."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#educational-media-and-infant-development",
+    "href": "tutorials/stage1_study_scenarios.html#educational-media-and-infant-development",
+    "title": "Study descriptions for critical analysis",
+    "section": "Educational Media and Infant Development",
+    "text": "Educational Media and Infant Development\nResearchers in the early 2000s investigated whether educational media could enhance infant cognitive development. Parents of infants aged 12-18 months were surveyed about their child’s media use and completed vocabulary checklists (reporting how many words their infant could say or understand). The study found that infants whose parents reported more time watching educational DVDs (products marketed as ‘Baby Einstein’, ‘Brainy Baby’, etc.) had larger vocabularies than infants who watched less. The researchers concluded that educational media could support early language development, and these findings were widely publicised. The Baby Einstein company grew rapidly, marketing products as educational tools."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#zimbardo-1971---stanford-prison-experiment",
+    "href": "tutorials/stage1_study_scenarios.html#zimbardo-1971---stanford-prison-experiment",
+    "title": "Study descriptions for critical analysis",
+    "section": "Zimbardo (1971) - Stanford Prison Experiment",
+    "text": "Zimbardo (1971) - Stanford Prison Experiment\nZimbardo (1971) investigated how social roles influence behaviour in the Stanford Prison Experiment. Student volunteers were randomly assigned to be ‘prisoners’ or ‘guards’ in a mock prison created in the basement of Stanford’s psychology building. Guards were given uniforms, sunglasses, and batons, and told to maintain order without using physical violence. Zimbardo briefed guards to create an environment where prisoners would feel powerless and disoriented. Prisoners were ‘arrested’ at their homes, brought to the prison, strip-searched, given smocks and ID numbers. Within 36 hours, some guards became aggressive - waking prisoners at night, forcing them to do press-ups, using stress positions, and humiliating them. Some prisoners showed extreme stress reactions. The study was stopped after 6 days. Zimbardo concluded that ordinary people will conform to brutal social roles when placed in institutional settings with power imbalances."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#harlow-1958---contact-comfort",
+    "href": "tutorials/stage1_study_scenarios.html#harlow-1958---contact-comfort",
+    "title": "Study descriptions for critical analysis",
+    "section": "Harlow (1958) - Contact Comfort",
+    "text": "Harlow (1958) - Contact Comfort\nHarlow (1958) investigated whether infant attachment is based on feeding or comfort. He separated infant rhesus monkeys from their biological mothers at birth and raised them in isolation with two artificial ‘mother’ surrogates. One surrogate was made of bare wire mesh with a bottle attached providing milk. The other was covered in soft terry cloth but provided no food. The researchers measured how much time infants spent with each surrogate and how they behaved when frightened (a mechanical toy was placed in the cage). Infant monkeys spent 15-18 hours per day clinging to the cloth mother and only 1 hour with the wire mother (just to feed). When frightened, they ran to the cloth mother for comfort. Harlow concluded that ‘contact comfort’ is more important than feeding for attachment bonds."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#ainsworth-et-al.-1970s---strange-situation",
+    "href": "tutorials/stage1_study_scenarios.html#ainsworth-et-al.-1970s---strange-situation",
+    "title": "Study descriptions for critical analysis",
+    "section": "Ainsworth et al. (1970s) - Strange Situation",
+    "text": "Ainsworth et al. (1970s) - Strange Situation\nAinsworth and colleagues (1970s) developed the ‘Strange Situation’ to assess infant attachment. They recruited families from the local area near Johns Hopkins University in Baltimore. In the laboratory, infants (aged 12-18 months) were observed in an unfamiliar room during a series of brief episodes: the mother left the child with a stranger, returned, left again leaving the infant completely alone, then the stranger returned, and finally the mother returned. Researchers coded the infant’s behaviour during separations and reunions. Based on their responses - particularly how quickly infants were comforted when the mother returned - Ainsworth classified attachment styles as secure (about 65%), avoidant (about 20%), or anxious-resistant (about 15%). She concluded these patterns reflected the quality of care infants had received at home."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#bartlett-1932",
+    "href": "tutorials/stage1_study_scenarios.html#bartlett-1932",
+    "title": "Study descriptions for critical analysis",
+    "section": "Bartlett (1932)",
+    "text": "Bartlett (1932)\nBartlett (1932) had British participants read ‘The War of the Ghosts’, a Native American folk tale with unfamiliar narrative structure and supernatural elements. When recalling the story after various delays (hours to years), participants systematically distorted it - omitting unusual details, rationalising supernatural elements, and making the narrative more conventional. For example, ‘canoes’ often became ‘boats’ and supernatural elements were explained away or forgotten."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#baddeley-1966---acoustic-and-semantic-similarity",
+    "href": "tutorials/stage1_study_scenarios.html#baddeley-1966---acoustic-and-semantic-similarity",
+    "title": "Study descriptions for critical analysis",
+    "section": "Baddeley (1966) - Acoustic and Semantic Similarity",
+    "text": "Baddeley (1966) - Acoustic and Semantic Similarity\nBaddeley (1966) examined the effects of acoustic and semantic similarity on recall. Participants heard either acoustically similar words (man, cat, can, cap, mad) or acoustically dissimilar words (pit, few, cow, pen, sup), or semantically similar words (huge, big, great, large, wide) or semantically dissimilar words (good, huge, hot, safe, thin). They recalled them immediately or after a 20-minute delay. Acoustically similar words were harder to recall immediately; semantically similar words were harder to recall after delay."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#godden-and-baddeley-1975---context-dependent-memory",
+    "href": "tutorials/stage1_study_scenarios.html#godden-and-baddeley-1975---context-dependent-memory",
+    "title": "Study descriptions for critical analysis",
+    "section": "Godden and Baddeley (1975) - Context Dependent Memory",
+    "text": "Godden and Baddeley (1975) - Context Dependent Memory\nGodden and Baddeley (1975) tested context-dependent memory with deep-sea divers. Participants learned word lists either on land or underwater (10 feet deep), and were later tested in either the same or different environment. This created four conditions: learn-land/test-land, learn-land/test-water, learn-water/test-land, learn-water/test-water. Recall was approximately 40% better when learning and testing contexts matched."
+  },
+  {
+    "objectID": "tutorials/stage1_study_scenarios.html#peterson-and-peterson-1959---short-term-memory",
+    "href": "tutorials/stage1_study_scenarios.html#peterson-and-peterson-1959---short-term-memory",
+    "title": "Study descriptions for critical analysis",
+    "section": "Peterson and Peterson (1959) - Short Term Memory",
+    "text": "Peterson and Peterson (1959) - Short Term Memory\nPeterson and Peterson (1959) investigated the duration of short-term memory. Participants were shown consonant trigrams (e.g., XQF) and asked to recall them after delays of 3, 6, 9, 12, 15, or 18 seconds. During the delay, participants counted backwards in threes from a given number (e.g., 397, 394, 391…) to prevent rehearsal. Recall dropped from about 80% at 3 seconds to less than 10% at 18 seconds."
   }
 ]
