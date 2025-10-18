@@ -24,8 +24,8 @@
   {
     "listing": "/theme-thinking.html",
     "items": [
-      "/tasks/stage1_critique_practice.html",
-      "/tasks/thinking-bullshit-detection.html"
+      "/tasks/thinking-bullshit-detection.html",
+      "/tasks/stage1_critique_practice.html"
     ]
   },
   {
@@ -53,11 +53,11 @@
       "/tasks/assessment-practical-report.html",
       "/tasks/studying-spaced-repetition.html",
       "/tasks/speaking-describe-lecture.html",
-      "/tasks/stage1_critique_practice.html",
       "/tasks/writing-concisely-abstracts.html",
       "/tasks/writing-mean-marker.html",
       "/tasks/speaking-prepare-viva.html",
       "/tasks/thinking-bullshit-detection.html",
+      "/tasks/stage1_critique_practice.html",
       "/tasks/growth-planning-reference.html"
     ]
   },
@@ -80,9 +80,9 @@
   {
     "listing": "/theme-writing.html",
     "items": [
-      "/tasks/stage1_critique_practice.html",
       "/tasks/writing-concisely-abstracts.html",
-      "/tasks/writing-mean-marker.html"
+      "/tasks/writing-mean-marker.html",
+      "/tasks/stage1_critique_practice.html"
     ]
   },
   {

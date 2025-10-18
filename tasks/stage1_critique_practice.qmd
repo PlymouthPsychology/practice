@@ -5,7 +5,7 @@ author: Peter Jones, Tim Hollins,Ben Whalley
 description: Writing concisely is a valuable skill. It's needed to write good abstracts for practical reports, but it can improve your marks in essays and exams by helping you communicate more effectively.
 Release: true
 categories: [Writing, Thinking]
-priority: 8
+priority: 12
 reading-time: 20 minutes
 ---
 
