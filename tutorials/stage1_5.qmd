@@ -37,16 +37,20 @@ Did your tutees miss the tutorial? If so, use this link to send a pre-written em
 
 
 
-This session gets students thinking critically about research. 
+This session gets students thinking critically about research.
 
-- In Task 1 they discuss a mock news item
-- In Task 2 they interpret experimental data.
+- Task 1: Discuss a mock news item about a correlational study
+- Task 2: Interpret experimental data and draw valid conclusions
+- Task 3: Distinguish weak from strong critiques, and practice writing limitations
+
+Aim to get through the tasks 1 and 2 by roughly half way through the session.
 
 
 **Why these tasks matter:**
 
 - Core critical thinking skills for PSYC421 research reports (especially the discussion section)
 - Practice interpreting figures (they recently learned about distributions)
+- Learn to write specific, thoughtful limitations rather than generic critiques
 
 **Notes**:
 
@@ -109,26 +113,25 @@ This session gets students thinking critically about research.
 
 Students often:
 
-- reject effects because they can think of alternative explanations
-- accept effects because they seem plausible (even when evidence doesn't support it)
+- *Reject* effects because they can think of alternative explanations
+- *Accept* effects because they seem plausible (even when evidence doesn't support it)
 
-This task is
+<!-- This task is
 
 -  ***not*** about replicability or statistical significance
-- introduces *frequency distributions* (only covered in detail in next workshop, so give a gentle introduction here)
-
+ -->
 
 ## Part 1: What influences memory?
 
 **Ask students:** Which of the following statements do they agree with?
 
-All other things being equal, how much a person is likely to remember about a recent event is influenced by: 
-
-a) How old that person is
-b) How drunk that person is
-c) How much attention the person was paying
-d) The learning style that person has
-e) How unusual or important the event is
+> All other things being equal, how much a person is likely to remember about a recent event is influenced by: 
+>
+> a) How old that person is
+> b) How drunk that person is
+> c) How much attention the person was paying
+> d) The learning style that person has
+> e) How unusual or important the event is
 
 **Ask:** What other factors might influence memory?
 
@@ -136,7 +139,7 @@ e) How unusual or important the event is
 
 **Agree with them!** Generally you should agree with the students: many things can influence memory.
 
-**Next:** Show Scenario 1. Students answer in pairs.
+**Next:** Show Scenario 1.
 
 
 
@@ -149,10 +152,12 @@ e) How unusual or important the event is
 ![QR code for memory scenarios](../images/qr_memory_scenarios.png){width=50%}
 
 
-**Questions, for pairs of students** In the scenario, students are asked:
+## Scenario 1
 
-- What can you conclude from this study? 
-- The should tick the boxes for conclusions they agree with. 
+**Questions, for pairs of students**
+
+- In the scenario, students are asked: What can you conclude from this study? 
+- They should tick the boxes for conclusions they agree with (see linked page)
 
 
 **Discussion**
@@ -185,7 +190,7 @@ e) How unusual or important the event is
 - These are about generalisation.
 - All studies happen somewhere, with some materials
 
-- **Ask:** 
+**Ask:** 
 
 - Where would the study need to be run for you to believe it? 
 - What materials would make the results more important? 
@@ -193,11 +198,14 @@ e) How unusual or important the event is
 
 ## Scenario 2
 
-Ask students to consider Scenario 2.
+Ask students to consider Scenario 2
 
-- This is an example where people "believe" the outcome, so think the conclusion is valid.
-- It is 'obvious' that people won't recall anything a year later,
-- Consequently, many students will conclude that the study doesn't need to be run under different conditions. 
+- This compares recall immediately vs 1 year later.
+- People "believe" the outcome, so think the conclusion is valid.
+- It is 'obvious' that people won't recall anything a year later...
+- Consequently, many students conclude that the study doesn't need to be run under different conditions. 
+- Compare and contrast to scenario 1.
+
 
 An alternative example (if preferred):
 
@@ -212,11 +220,11 @@ Or make up your own example.
 
 
 
-# Part 3: Spotting weak critiques
+# Task 3: Critical analysis practice
 
-**Goal:** Help students distinguish between generic and specific critical analysis.
+**Goal:** Learn to distinguish generic critiques from specific, thoughtful ones, then practice writing your own.
 
-**Topic:** Identifying weak vs strong critiques of research findings.
+**Topic:** Moving from A-level style critiques to university-level critical analysis.
 
 ## Materials
 
@@ -224,121 +232,113 @@ Or make up your own example.
 
 ![QR code for critique examples](../images/qr_critique_examples.png){width=50%}
 
-## Procedure
+## Step 1: Spotting weak vs strong critiques (10 minutes)
 
 **Show students the QR code or handout**
 
-- This shows 8 research findings with different critiques
-- Each example shows a study result followed by a limitation statement
+- Shows research findings with different critiques
+- Each example shows a study result followed by limitation statements
 
 **Explain the task:**
 
-Students will see pairs of critiques on the same study. Their job is to:
+Students will see pairs of critiques. Their job is to:
+
 - Decide which critiques are **generic** (could apply to almost any study) vs **specific** (identifies particular features that matter)
 - Decide which are **weak** vs **strong**
 
 **In pairs (5 minutes):**
 
-- Students read through the examples
-- **For each pair:** Which critique is stronger? Why?
-- Mark their choices
+- Look at **Examples 1 and 2 only** (Loftus & Palmer and Milgram)
+- For each pair of critiques (A and B): Which is stronger? Why?
 
-**Whole group discussion:**
+**Whole group discussion (5 minutes):**
 
-**Start with Examples 1 & 2** (Loftus & Palmer):
+**Examples 1 & 2** (Loftus & Palmer):
 
 - Which critique did you prefer? Why?
 - **Key point:** The weak one says "lacks ecological validity because videos not real accidents" - but the study is about how *question wording* affects memory, not about car accidents specifically. Using videos doesn't undermine that conclusion.
 - **Strong version:** Identifies *what* might matter (emotional involvement) and *why* (might interact with suggestibility).
 
-**Move through remaining examples** (select 2-3 more based on time):
-
 **Examples 3 & 4** (Milgram):
+
 - Weak: "Can't generalise, only American men" - stock phrase, doesn't explain why gender/nationality would matter for obedience
 - Strong: Identifies specific context features (scientific authority, lab) and why they might create unique demand characteristics
 
-**Examples 5 & 6** (Craik & Tulving):
-- Weak: "People don't learn word lists" - misses the point about testing general memory principles
-- Strong: Questions whether the principle scales to connected prose where processing works differently
-
-**Examples 7 & 8** (Asch):
-- Weak: Generic complaint about sample size
-- Strong: Identifies features (face-to-face, unambiguous task) that might influence effect size
-
-
----
-
-**Key points:**
+**Key points to emphasize:**
 
 - **Generic critiques** are swappable - you could say them about any study
 - **Specific critiques** identify *which* aspect of the method might limit *which* conclusion
 - **Strong critiques** explain *why* the limitation matters
 
-
-Notice the *language* in strong critiques: "may differ in important ways", "it's unclear whether", "could influence" --- acknowledging uncertainty rather than dismissing findings
-
-**Link to assessment:** When you write discussion sections, generic critiques don't earn marks, only strong specific ones.
+Notice the *language* in strong critiques: "may differ in important ways", "it's unclear whether", "could influence" - acknowledging uncertainty rather than dismissing findings.
 
 
-# Part 4: Writing better limitations
+## Step 2: Writing your own limitations (10 minutes)
 
-**Goal:** Practice writing specific, thoughtful limitations rather than generic ones.
-
-**Topic:** Moving from A-level style critiques to university-level critical analysis.
-
-## Materials
-
-[Study descriptions for critical analysis](stage1_study_scenarios.html) (handout or QR code below)
+**Materials:** [Study descriptions](stage1_study_scenarios.html) (handout or QR code below)
 
 ![QR code for study scenarios](../images/qr_study_scenarios.png){width=50%}
 
-## Procedure
-
 **Introduce the task:**
 
-"You're going to practice writing limitations as you would in a discussion section. Each study description includes enough methodological detail to identify real, specific limitations."
+"Now you'll practice writing limitations as you would in a discussion section. The handout has 6 study descriptions with methodological detail. Choose one to work with."
 
-**Reiterate the differences between strong and weak critiques** Specific critiques identify *which* aspect of the method might limit *which* conclusion
+**Reiterate:** Specific critiques identify *which* aspect of the method might limit *which* conclusion
 
+**In pairs (7 minutes):**
 
-**In pairs (10 minutes):**
+- Each pair chooses **one study** from the handout (or tutor assigns different studies to different pairs)
+- Discuss: What would you have written at A-level?
+- Focus on: What aspect of the method might limit which conclusion? Why does it matter?
+- Write 2-3 sentences identifying specific limitations
 
-- Assign different studies to different pairs
-- They have 8 options - select 1 or 2 depending on time available
+**Whole group sharing (3 minutes):**
 
-For their chosen example(s) they will
+- 2-3 pairs share their study and limitations (1 minute each)
+- Quick feedback: Did they avoid generic critiques? Did they identify specific features? Did they explain why it matters?
 
-1. *Discuss*: What would you have written at A-level?
-2. *Focus* on: What aspect of the method might limit which conclusion? Why does it matter?
-3. *Write* 2-3 sentences identifying specific limitations
+**Link to assessment and further practice:**
 
+- When you write discussion sections, generic critiques don't earn marks. The handout has more examples if you want extra practice.
+- There's also a [practice worksheet](../tasks/stage1_critique_practice.html) with additional examples and guidance if you want to develop this skill further.
 
-**Whole group sharing:**
+## Example discussion points for each study
 
-- Each pair shares their study and limitations (1-2 minutes each)
-- Did they avoid generic critiques?
-- Did they identify specific methodological features?
-- Did they explain why it matters?
+Use these if students need prompting during the sharing phase:
 
-#### Example discussion points for each study
+**Peterson & Peterson - Short Term Memory**
+
+- Weaker: "Artificial task, lacks ecological validity" (too generic)
+- Better: "Consonant trigrams have no semantic meaning; in everyday memory we usually remember meaningful material where we can use elaborative strategies. The effect might not apply to meaningful information."
+
+**Godden & Baddeley - Context Dependent Memory**
+
+- Weaker: "Only used divers, can't generalise" (too generic)
+- Better: "Land vs underwater represents an extreme context change; it's unclear whether the effect would be as strong for more subtle context shifts (e.g., different rooms) which are more typical of everyday memory situations."
+
+**Baddeley - Acoustic and Semantic Similarity**
+
+- Weaker: "People don't memorise word lists in real life" (too generic)
+- Better: "Unrelated word lists isolate similarity effects but may not reflect how similarity affects memory for connected prose or narratives where context provides additional retrieval cues."
 
 **Ainsworth - Strange Situation**
+
 - Weaker: "Might not generalise to other places" (too generic)
-- Better: "Brief lab separations may not reflect longer, real-world separations; behaviors might have different meanings in cultures with different independence values"
+- Better: "Brief lab separations may not reflect longer, real-world separations; behaviors might have different meanings in cultures with different independence values."
+
+**Harlow - Contact Comfort**
+
+- Weaker: "Used monkeys not humans" (too generic)
+- Better: "Social isolation likely caused severe stress beyond normal rearing conditions; the preference for cloth might reflect distress response rather than normal attachment processes. Also unclear whether binary choice (wire vs cloth) reflects the multiple factors influencing human infant attachment."
 
 **Baby Einstein**
-- Watch for: "Just a correlation" (too generic)
+
+- Weaker: "Just a correlation" (too generic)
 - Better: "Parents self-selected; those buying educational media likely differed in unmeasured ways (e.g. reading/talking more to their children, having more free time and disposable income)."
-- Key: Identifying specific potential confounds.
-
-**Zimbardo - Prison**
-- Watch for: "Unethical, artificial" (true but too generic)
-- Better: "Zimbardo actively coached guards and set expectations; guards frequently asked what to do, suggesting demand characteristics rather than spontaneous role adoption"
-- Key: This is a case where the methods genuinely undermine the conclusion
 
 
 
-# Summary 
+# Final Summary & Closing
 
 **Ask**
 
@@ -348,4 +348,5 @@ For their chosen example(s) they will
 **Remind**
 
 - You don't get credit for generic critiques, only strong specific ones
+- See the [practice worksheet](../tasks/stage1_critique_practice.html) for additional examples to practice with.
 

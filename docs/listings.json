@@ -24,6 +24,7 @@
   {
     "listing": "/theme-thinking.html",
     "items": [
+      "/tasks/stage1_critique_practice.html",
       "/tasks/thinking-bullshit-detection.html"
     ]
   },
@@ -52,6 +53,7 @@
       "/tasks/assessment-practical-report.html",
       "/tasks/studying-spaced-repetition.html",
       "/tasks/speaking-describe-lecture.html",
+      "/tasks/stage1_critique_practice.html",
       "/tasks/writing-concisely-abstracts.html",
       "/tasks/writing-mean-marker.html",
       "/tasks/speaking-prepare-viva.html",
@@ -78,6 +80,7 @@
   {
     "listing": "/theme-writing.html",
     "items": [
+      "/tasks/stage1_critique_practice.html",
       "/tasks/writing-concisely-abstracts.html",
       "/tasks/writing-mean-marker.html"
     ]

@@ -138,6 +138,7 @@ B.	In which order these details should be told (that is, prioritise what is most
 
 Record yourself talking about these details as if you are telling your tutor about the study.
 
+![](../images/psybot.png){width="5em" .float-start .me-3}
 
 [Upload your work to Psybot for feedback](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 

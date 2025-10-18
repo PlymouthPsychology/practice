@@ -63,6 +63,8 @@ Think about the claim in the headline and the study design described in the arti
 
 Make some notes on these questions. What have you learnt so far on the course that would help decide if this is junk science or useful information?
 
+![](../images/psybot.png){width="5em" .float-start .me-3}
+
 [Add your notes to Psybot for instant feedback](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 :::
