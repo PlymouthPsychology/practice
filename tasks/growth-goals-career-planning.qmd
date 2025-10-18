@@ -158,6 +158,8 @@ Create a voice note (2-3 minutes), or a short piece of writing reflecting. Inclu
 
 Then, upload your voice note or text. Psybot will listen and provide feedback on the clarity of your values-career connections and the practicality of your action plan.
 
+![](../images/psybot.png){width="5em" .float-start .me-3}
+
 [Show Psybot your work here](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 :::

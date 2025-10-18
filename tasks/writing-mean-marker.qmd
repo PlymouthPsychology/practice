@@ -66,6 +66,8 @@ An amazingly vast array of research [__________] has found affects [__________] 
 
 # Recording your work
 
+![](../images/psybot.png){width="5em" .float-start .me-3}
+
 [Upload your work to Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 

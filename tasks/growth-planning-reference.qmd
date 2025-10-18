@@ -98,6 +98,8 @@ Create a document outlining your reference strategy and action plan. Include:
 - Your ideal reference profile
 - Your specific action plan for the next academic year
 
+![](../images/psybot.png){width="5em" .float-start .me-3}
+
 [Submit your reference plan to Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 :::

@@ -125,6 +125,8 @@ After the lecture, write a brief reflection answering some of these questions:
 
 Upload your reflection to Psybot for feedback and extra suggestions.
 
+![](../images/psybot.png){width="5em" .float-start .me-3}
+
 [Record your reflection with Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 :::
