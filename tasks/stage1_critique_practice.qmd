@@ -109,11 +109,11 @@ In your tutorial, you may have looked at 2-3 examples of weak and strong critiqu
 
 Now practice writing limitations as you would in a discussion section.
 
-**[Study descriptions for critical analysis](../tutorials/stage1_study_scenarios.html)** - this page has 6 classic psychology studies with methodological details.
+**[Study descriptions for critical analysis](../tutorials/stage1_study_scenarios.html)** - this page describe 6 classic findings, including methodological details.
 
 **Your task:**
 
-For each study (or the ones you didn't cover in your tutorial):
+For each study/finding (or just the ones you didn't cover in your face to face tutorial):
 
 1. Read the study description carefully
 2. Think: What would you have written at A-level? (maybe something generic?!)
@@ -127,9 +127,7 @@ For each study (or the ones you didn't cover in your tutorial):
 - Use appropriate tentative language
 - Don't dismiss the findings - acknowledge them but identify genuine limitations
 
-
 **For each example**, write 2-3 sentences identifying specific limitations using the same approach.
-
 
 # Self-assessment & Reflection
 
@@ -149,5 +147,3 @@ Once you've completed your critique writing practice, you can get personalized f
 Upload your written limitations for one or more of the studies. Psybot will review your work and provide feedback and suggestions for strengthening your critical analysis.
 
 [Upload your work to Psybot for feedback](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
-
-
