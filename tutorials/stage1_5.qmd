@@ -203,15 +203,37 @@ Ask students to consider Scenario 2
 - This compares recall immediately vs 1 year later.
 - People "believe" the outcome, so think the conclusion is valid.
 - It is 'obvious' that people won't recall anything a year later...
-- Consequently, many students conclude that the study doesn't need to be run under different conditions. 
-- Compare and contrast to scenario 1.
+- Consequently, many students conclude that the study doesn't need to be run under different conditions. It doesn't matter that 'they only tested Plymouth students' because it seems obvious that the same would happen everywhere.
+
+**The key comparison with Scenario 1:**
+
+**Challenge students directly:** (paraphrasing) "For Scenario 1, [some] of you [might have] said we can't generalise because it only used Plymouth students. But for Scenario 2, you're saying it doesn't need testing in other populations. What's the difference?"
+
+**The pedagogical point:**
+
+- In Scenario 2, there's a clear **mechanism** (memory decay over time) that should work similarly across populations
+- In Scenario 1, it's less clear whether the specific method would work the same way everywhere.
+- We should give **different answers** for the two scenarios, even though both used Plymouth students.
+
+**What this reveals:**
+
+- Students instinctively know that "lacks generalisability" isn't always a good critique
+- They apply it inconsistently -- based on whether they believe the mechanism
+- Writing "only tested in Plymouth" or "lacks generalisability" on every study isn't helpful
+- Instead, they need to explain **why** testing in a different population would matter for **this specific** finding
+
+**Discussion points:**
+
+- "If memory decay works this way in Plymouth, why would it be different in London?"
+- "What would make you think a finding **wouldn't** generalise to other populations?"
+- This helps students see that generic critiques like "can't generalise" need to be backed up with a **reason why** the specific limitation matters
 
 
 An alternative example (if preferred):
 
-- Use a clearer mechanism 
+- Use a different/clearer mechanism:
 - e.g., 100g chocolate raises blood sugar more than 100g rice-cakes
-- Would that need replicating elsewhere? 
+- Would that need replicating elsewhere?
 - Would it be important to test students in London as well as Plymouth?
 
 Or make up your own example.
