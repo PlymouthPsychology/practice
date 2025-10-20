@@ -11,7 +11,7 @@ email_body: |
 
   Sorry to miss you in our tutorial today. In the session we discussed critical thinking about research, including how to evaluate correlational studies and experimental findings.
 
-  You can review the materials we covered here: https://plymouthpsychology.github.io/practice/tutorials/stage1_2.html
+  You can review the materials we covered here: https://plymouthpsychology.github.io/practice/tasks/stage1_critique_practice.html
 
   I hope to see you in our next tutorial session.
 
