@@ -1,6 +1,6 @@
 ---
 title: "Using psychology to learn psychology"
-subtitle: "How should we make notes in lectures? How "
+subtitle: "Should we make notes in lectures by hand or using a laptop?"
 author: Sean Fallon
 description: "The goal of this Tutorial task is to examine how we should approach learning in Psychology, and whether we can use evidence to change our habits."
 categories: [Studying]

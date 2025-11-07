@@ -10,7 +10,7 @@ reading-time: 20 minutes
 ---
 
 
-![](../images/brainweight.png){width="66%"}
+![](../images/brainweight.png){width="50%"}
 
 
 

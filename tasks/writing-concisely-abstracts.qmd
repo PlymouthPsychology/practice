@@ -1,7 +1,7 @@
 ---
 title: "Keep it short"
 subtitle: "Writing concisely in abstracts."
-author: Ben WHalley
+author: Ben Whalley
 description: Writing concisely is a valuable skill. It's needed to write good abstracts for practical reports, but it can improve your marks in essays and exams by helping you communicate more effectively.
 Release: true
 categories: [Writing]

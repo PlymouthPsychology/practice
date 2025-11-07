@@ -20,7 +20,9 @@ Getting feedback _before_ you submit coursework is an important way to check you
 Using feedback as _part_ of the learning process is much more effective than waiting until the end.   You can use Psybot to get regular feedback on your work — before it is graded.
 
 
-Psybot knows about your Stage 1 assessments and can offer structured feedback.  We can't guarantee that it will be perfect, but we have designed it to focus on the most important things, and to spot common mistakes students make on these modules.
+Psybot knows about (some of) your assessments, and can offer structured feedback.  
+
+We can't guarantee that it will be perfect, but we have designed it to focus on the most important things, and to spot common mistakes students make on these modules.
 
 
 

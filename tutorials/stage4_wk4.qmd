@@ -11,7 +11,7 @@ email_body: |
 
   Sorry to miss you in our tutorial today. In the session we summarised our projects to each other and created timelines to plan when each step will happen.
 
-  You can think about your own project timeline using the planning sheet here: [LINK TO TIMELINE PDF]
+  You can think about your own project timeline using the planning sheet here: https://plymouthpsychology.github.io/practice/tutorials/Stage4_tutorial_dissertation_timeline.pdf
 
   It would be worth discussing your timeline with your supervisor and any students you're working with.
 

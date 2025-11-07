@@ -24,11 +24,13 @@ email_body: |
 ![](../images/angry.png){width=33%}
 
 
+### Tutor tasks
+
+[Log this tutorial in S4](https://plymuni.lightning.force.com/lightning/n/My_Tutees_LWC){.btn .btn-danger}
 
 Did your tutees miss the tutorial? If so, use this link to send a pre-written email:
 
-`Send email to missing students`{.email-link} 
-
+`Send email to missing students`{.email-link}
 
 
 # Session Overview

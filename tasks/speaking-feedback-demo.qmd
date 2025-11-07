@@ -11,7 +11,7 @@ I wanted to see if we could provide auto-feedback on the [describe a slide task]
 As a demo , I tried recording myself giving two explanations of this figure, one bad, one slightly better.
 
 - [bad](speaking-bad-example.m4a)
-- [better](speaking-bad-example.m4a)
+- [better](speaking-better-example.m4a)
 
 These are easy to transcribe with whisper:
 

@@ -9,7 +9,7 @@ reading-time: 20 minutes
 bibliography: ../refs.bib
 ---
 
-![](../images/usingnotes.webp){width=60%}
+![](../images/usingnotes.webp){width=50%}
 
 # Overview
 

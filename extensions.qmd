@@ -3,6 +3,7 @@ title: "Extended and additional tasks"
 listing:
   contents: "tasks/*.qmd"
   type: grid
+  grid-columns: 2
   categories: true
   fields: [title, subtitle, image, date]
   sort-ui: [title]
