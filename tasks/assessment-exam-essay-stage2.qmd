@@ -44,7 +44,7 @@ As part of a trial this year, we have trained PsyBot to give feedback on three p
 - Prejudice and the dual process model
 
 
-Psybot has been given information about each of these topics, and what we expect from student answers. It will then give feedback on your essay, highlighting areas where you need to improve, and suggesting ways to strengthen your argument.
+PsyBot has been given information about each of these topics, and what we expect from student answers. It will then give feedback on your essay, highlighting areas where you need to improve, and suggesting ways to strengthen your argument.
 
 
 ## How much essay practice should I do?
@@ -54,9 +54,9 @@ Aim to write at least three essays under timed conditions before the January exa
 Your first attempt will likely feel awkward: you'll run out of time, forget key points, or struggle to structure your argument. That's normal. By your second and third attempts, you'll find you can recall information more fluently, organise your thoughts more quickly, and write with greater confidence. 
 
 
-Use PysBot to get feedback on each attemp (link below). The feedback you receive each time will help you identify what to work on next, so each practice essay builds on the last. You can also repeat the same question if you like to see whether your revision has made a difference.
+Use PsyBot to get feedback on each attempt (link below). The feedback you receive each time will help you identify what to work on next, so each practice essay builds on the last. You can also repeat the same question if you like to see whether your revision has made a difference.
 
-Students who practice under realistic conditions -- one hour, no notes, just as in the exam -- consistently perform better than those who only revise passively by re-reading notes (Roedinger and Karpicke, 2006; [html](https://journals.sagepub.com/doi/10.1111/j.1745-6916.2006.00012.x?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed), [pdf](https://brucehayes.org/Teaching/papers/2006_Roediger_Karpicke_Review.pdf))
+Students who practice under realistic conditions -- 40 minutes, no notes, just as in the exam -- consistently perform better than those who only revise passively by re-reading notes (Roediger and Karpicke, 2006; [html](https://journals.sagepub.com/doi/10.1111/j.1745-6916.2006.00012.x?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed), [pdf](https://brucehayes.org/Teaching/papers/2006_Roediger_Karpicke_Review.pdf))
 
 
 ## 3 questions to practice
@@ -106,7 +106,7 @@ To answer this question you need to:
 
 **Be critical, not just descriptive** -- Good essays describe accurately, but excellent essays also evaluate. Consider strengths and limitations, alternative explanations, or evidence that challenges the main claims. For example, you might discuss cultural bias in intelligence tests, whether worldviews can be changed through education, or research that suggests infants understand object permanence earlier than Piaget claimed.
 
-**Write concisely** -- In a one-hour exam, you have limited time. Write clearly and get to the point. Avoid padding your answer with irrelevant detail or long introductions about "what intelligence is" or "why development matters". Strong essays are focused and well-structured, not just long.
+**Write concisely** -- In a 40-minute exam, you have limited time. Write clearly and get to the point. Avoid padding your answer with irrelevant detail or long introductions about "what intelligence is" or "why development matters". Strong essays are focused and well-structured, not just long.
 
 **Conclude with a clear position** -- End with a definite conclusion that answers the question. State which test you think is better and why; whether you think prejudice is mostly controllable or not; or summarise what Piaget's tasks reveal about cognitive development. Avoid weak endings like "both have pros and cons" -- take a stance, even if you acknowledge nuance.
 
@@ -115,7 +115,7 @@ To answer this question you need to:
 
 ![](../images/psybot.png){width="5em" .float-start .me-3}
 
-[Upload your essay (one of the 3 questions above) to Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
+[Upload your essay (one of the 3 questions above) to PsyBot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
 
 :::
 

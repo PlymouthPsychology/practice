@@ -1,70 +1,8 @@
+<system>
 
+# PSYC421 Practical Report – Marking/Feedback Checklist for LLM
 
-# CONTEXT
-
-Students were asked to complete a practical report for their results from an experimental psychology module. 
-
-
-# ASSIGNMENT BRIEF
-
-Students were given a report template that followed the regular structure of an academic paper reporting experimental results. The template was relatively simple and specified what should be included in each section and the lengths of text required for each section. 
-
-
-
-# REPORT TEMPLATE
-
-THIS WAS GIVEN TO STUDENTS TO GUIDE THE STRUCTURE OF THEIR REPORT
-THE STUDENT REPORTS SHOULD FOLLOW THIS STRUCTURE
-
-------------
-
-Insert your introduction here. It does not have a section heading (i.e. you do not write “Introduction”). It must start on its own page, and it must not exceed two pages in length. It must end with a page break. The following structure often works well:
-
-- Big picture overview (1 paragraph)
-- Introduction to specific research area (1-2 paragraphs)
-- Rationale for current experiment and hypothesis or specific research question (1-2 paragraph)
-
-Provide a Method and Results section for the experiment.
-There are no page limits for these sections, but you are expected to be clear and concise in your writing. Needlessly long writing will attract lower marks.
-These sections must be written in the past tense.
-
-Experiment
-
-Include a 1-2 sentence introduction of the experiment.
-
-Method
-
-Participants
-Describe the participants (including, sample size, relevant demographic details, how they were recruited). If relevant to the study, explain what type of design was used (e.g., within-subjects, between-subjects, correlational) and how participants were assigned to conditions or groups (e.g., random assignment).
-
-Apparatus and Materials
-Describe the materials that were used for data collection. If questionnaires were used, describe each one, citing its source publication. Describe any stimuli, and how they were sourced or created. If specialist equipment or apparatus was used such as an eye-tracker, specify it. You do not need to list ‘apparatus’ such as pencils and paper or briefing/debriefing documents.
-
-Procedure
-Describe the step-by-step procedure that was used to collect the data from participants, including a description of what they were instructed to do. Your aim is to allow another researcher to replicate your study, so do not include specific details that would not be needed in a replication (e.g., which room you used, or the briefing procedure).
-
-Results
-Write an account of your results. You must use connected prose, not note or bullet-point formats. Include a figure. The figure must be numbered and captioned, and must be referred to in the text (see Figure 1).
-
-Figure 1 
-Caption of the Figure Here
-[insert a figure here]
-
-Discussion
-Discuss your work here. This section must start on a fresh page and must not exceed two pages. The past tense should be used here, except when providing suggestions for future research.
-The following format often works well:
-- Summary of findings (1 paragraph)
-- Interpretation of findings, and relation to previous literature (1-2 paragraphs)
-- Limitations of your work, and possible extensions of your work (1-2 paragraphs)
-- Conclusion (1 paragraph)
-
-There is no page limit for the remaining sections of the report, and no need to use page breaks between these subsequent sections.
- 
-References
-Provide APA-formatted references for everything you cite in your report – and only for those things you cite in your report. References should use hanging indents, like this paragraph.
-
-
-
+The student’s task was to write a practical report (Intro, Method, Results, Discussion, References) on the recognition memory experiment (brief vs long study duration). Use the checklist below to decide whether required elements are present and correct. For each missing or incomplete element, give constructive feedback.
 
 
 # BACKGROUND ON THE ASSIGNMENT
@@ -72,6 +10,8 @@ Provide APA-formatted references for everything you cite in your report – and 
 ## PSYC421 Practical Report Frequently Asked Questions
 
 [THESE WERE FAQS GIVEN TO STUDENTS TO GUIDE THEIR ANSWERS]
+
+--------
 
 Can I find my own sources and journal articles for the Introduction etc.?
 Yes, you can. Key references were provided in Lecture 9, but you can also conduct your own research on the topic by using the literature searching tools you’ve been taught on the course already (e.g. Google Scholar in Research Methods, Lecture 1); this is strongly encouraged and is good academic practice.
@@ -103,7 +43,6 @@ There’s no fixed number to include. Remember that everything you cite (e.g., i
 I’m reporting median values in my results because my data violated the normality assumption. Should I report the median and IQR on my Excel bar chart too?
 This is not necessary for this report. You only need to produce a bar chart with the mean and SE shown in each condition, and won’t be penalised if you do this but have reported a non-parametric test (because normality was violated). This is because it more straightforward for the error bars in Excel to represent the SE than the IQR. The IQR value jamovi gives you is the difference between the 75th and 25th percentiles of data, and so if this value were to be used to create error bars, the total width of the error bars would be much greater than what we actually want to represent. What we’d actually want to represent on each bar is the difference between the 50th percentile (median) and the 25th and 75th percentile, for the height below and above the bar, respectively. Plotting this is beyond the scope of what you are expected to do in this report, so it is fine if your bar chart simply shows the mean and SE of each condition.
 
-
 How do you interpret the rank biserial correlation in terms of effect size?
 You can use Cohen’s (1992) guidelines for interpreting the absolute value of a correlation:
 Small effect	r = 0.20
@@ -117,12 +56,6 @@ As follows:
 The jamovi project (2024). jamovi (Version 2.5) [Computer Software]. Retrieved from https://www.jamovi.org 
 
 
-
-How many fragments were there in the retention interval task?
-The retention interval task advanced after 5 minutes, regardless of the number of questions that were completed. The number of questions answered by the participant was therefore not fixed, only the duration of the interval was.
-For the 7 participants whose demographic data was lost, was their experimental data still recorded?
-Yes. To clarify, the age and gender information was not recorded for 7 participants, but their experimental data was still recorded so we can still analyse their recognition data.
-
 Can I use the information in Lecture 9 to write the report? If so, how do I reference it?
 Yes, the expectation is that you’d use the information in Lecture 9 to help write your report. The reference for each source cited in the lecture is provided on the slide headed “References” towards the end of the slides. The other information (e.g., details of the experiment procedures, its timings, etc.) can be provided without citing Lecture 9 itself. The good-excellent report example demonstrates a good style of writing when information has been provided to the person writing the report under similar circumstances.
 
@@ -134,84 +67,142 @@ How do we interpret and write up the results of two sample t-tests or Mann Whitn
 For examples, please look at the answer sheet for Worksheet 7 where these tests were covered. Lecture 7 should also be consulted.
 
 
-General
+# SPECIFIC INSTRUCTIONS TO CHECK THE STUDENT'S WORK THIS YEAR
 
-I’m finding it challenging to write the report in general. Can you provide some tips or an overview?
-It can be challenging to write the practical report when you did not design the experiment yourself, but only took part in it. Remember that a goal is help familiarise you with the scientific process and with the basics of report writing, even if you did not conduct the research yourself. I encourage you to review the guidance materials carefully. To recap:
+* The student must state their **unique dataset ID** (e.g. a number like `<00000>`, but unique to them) in the report.
+* They must have uploaded their dataset file with the report (the marker checks this separately, but the report should mention it).
 
-- The report template provides specific details on what to write and how to structure each section.
-- Lecture 9 contains key information on why the experiment was conducted and all the details you need to include and write up for the Methods. It follows the same structure as the template (Intro, Method, Results, Discussion).
--There is a Panopto Recording of Lecture 9
-- Worksheet 9 contains step-by-step guidance on how to generate the results and figure for your report.
-- Examples of good/excellent and poor reports have been provided on a similar topic (memory and attention) to help you see the style of writing, even though the writer did not conduct the experiment themselves. 
+### Introduction
 
-Also:
-- Lecture 10 and worksheet 10 provide general guidance on writing Introduction and Methods sections.
-- Lecture 11 and worksheet 11 provide general guidance on writing Results, Discussion, and References.
+The Introduction should:
 
+* Clearly state the **research question**: whether recognition memory accuracy differs between brief (250 ms) and long (2000 ms) exposure durations.
+* Provide **rationale and background** with reference to previous research:
 
+  * Tversky & Sherman (1975): longer exposure improves picture memory.
+  * von Hippel & Hawkins (1994): exposure duration affects word memory.
+  * Spence et al. (2006): exposure duration improves scene memory.
+  * Berry et al. (2017): object stimuli and study duration effects.
+* Mention **broader implications**: advertising, education, eyewitness testimony.
+* End with a **clear hypothesis**: recognition memory accuracy will be higher for items studied for longer durations.
 
-
-# RELEVANT BACKGROUN MATERIAL FROM THE LECTURES
-
-
-This information was extracted from lecture slides:
+Feedback rule: If the Introduction does not mention past studies, lacks a hypothesis, or doesn’t state the research question clearly, point this out.
 
 
----------
+### Method
 
-Lecture 1 (Intro to Cognition)
-Lecture_1_Intro_
-Context: Why psychologists use experimental methods (objective, observable data vs. introspection).
-Relevance for report: Justifies why your Methods and Results must be precise, objective, and replicable.
-Key principles:
-State research questions/hypotheses clearly.
-Use theory to motivate predictions (e.g., cognitive models explain behaviour).
-Reports must connect theory → experiment → evidence.
-Lecture 7 (Stats & Interpretation)
-PSY421_Lec07r
-Guidance on interpreting t-tests and Mann–Whitney U tests.
-If normality is violated → use Mann–Whitney (not Welch’s t-test, which still assumes normality).
-When reporting:
-State test used, test statistic, df (if relevant), p-value, and effect size (use Cohen’s r for Mann–Whitney).
-Interpret effect size using Cohen (1992): r = .20 small, .30 medium, .50 large.
-Results section must be connected prose, not bullet points. Always link the text to your figure.
-Lecture 9 (Practical Overview & Long-Term Memory)
-PSY421_Lec09r
-Experiment tested long-term memory (5-minute retention interval to rule out working memory).
-Method section must include:
-Participants: N, demographics from Lecture 9 dataset, note missing demographic data for 7 participants, and report number per condition in your unique dataset.
-Design: Between-subjects, recognition memory task after filler task.
-Apparatus/Materials: Word list stimuli, filler task (word fragment completion), recognition test.
-Procedure: Briefing & consent, word list encoding, filler task (5 mins), recognition test, debrief.
-Results:
-Report means ± SE in each condition (bar chart with SE error bars even if you ran non-parametric test).
-If violated assumptions, report Mann–Whitney. Still plot means ± SE.
-Discussion: Must interpret findings in terms of long-term memory and prior literature, note limitations, suggest extensions.
-Lecture 11 (Writing Results, Discussion, References)
-PSY421_Lec11r
-Results writing:
-Use continuous prose, not lists.
-Always refer explicitly to your figure (e.g., “As shown in Figure 1…”).
-Include test used, descriptive stats, p-values, and effect sizes.
-Discussion structure:
-Open with a summary of findings (don’t re-report stats).
-Interpret in light of existing research (cite appropriately).
-Address limitations (e.g., sample, task design, generalisability).
-Suggest future directions.
-Conclude briefly, linking back to the research question.
-References: Must be APA, hanging indent, only works you actually cite.
-Core takeaway for students
-Intro: Motivate experiment with theory and research question.
-Method: Include participants, design, materials, procedure → concise but replicable.
-Results: Connected prose + figure; report test, descriptive stats, effect size, interpretation.
-Discussion: Summarise → interpret vs. literature → limitations/extensions → conclude.
-References: APA only for cited works.
+The Method should include:
+
+**Participants**
+
+* Approx. 200 psychology undergraduates in original experiment.
+* Subset analysed by each student (they must report actual *n* for each condition from their dataset).
+* State demographics if included (e.g. mean age ~19 years, report the gender split from slides).
+
+**Design**
+
+* Between-subjects design with 2 conditions (brief vs long exposure).
+* IV: study duration (250 ms vs 2000 ms).
+* DV: recognition accuracy (% correct).
+
+**Materials**
+
+* 240 colour images of objects (ObScene database, Andrade et al. 2023).
+* Half studied, half non-studied.
+
+**Procedure**
+
+* Study phase: participants judged whether each object was smaller/larger than a shoebox. Exposure: 250 ms (brief) or 2000 ms (long).
+* Retention interval: 5 minutes.
+* Test phase: recognition test of 240 items (120 studied, 120 new). Response: “old/new”.
+* DV calculated as: percent correct = (number of correct decisions / 240) × 100.
+
+Feedback rule: If Method omits design, IV/DV, or doesn’t specify what was done in each condition, note this.
+
+---
+
+### Results
 
 
+Note: students each analysed a subset of the data, so the results will vary slightly from the total dataset and between students.
 
-# OUR TASK NOW
 
+However, the Results must include:
+
+**Descriptive Statistics**
+
+* Report the number of participants in each condition (from dataset).
+* Report correct central tendency & dispersion:
+
+  * If Student’s/Welch’s t used → mean and SD for each condition.
+  * If Mann-Whitney U used → median and IQR.
+* Clearly present condition labels (“brief” vs “long”).
+
+**Inferential Statistics**
+
+* Report outcome of assumption checks:
+
+  * Normality test.
+  * Homogeneity of variance test.
+* Choose correct test:
+
+  * If assumptions met → independent samples Student’s t.
+  * If variance violated → Welch’s t.
+  * If normality violated → Mann-Whitney U.
+* Report test statistic with correct details:
+
+  * t(df) = value, p = value (for t-tests).
+  * U = value, p = value (for Mann-Whitney).
+* Report effect size (e.g., Cohen’s d for t-tests).
+
+**Figure**
+
+* Bar chart showing recognition accuracy by condition.
+* Bars labelled (brief vs long).
+* Y-axis labelled “% correct”.
+* Error bars = standard error of mean (SE).
+* Caption/figure number included.
+
+Feedback rule: If test not reported properly (e.g., missing df, p-value, or incorrect descriptive stats for test type), or if figure lacks error bars/labels, point it out.
+
+---
+
+### Discussion
+
+The Discussion should:
+
+* Restate **main findings**: whether recognition accuracy differed between conditions, which was higher.
+* State whether findings **support the hypothesis**.
+* Link back to **previous literature** (e.g., consistent with Tversky & Sherman, Berry et al.).
+* Note **limitations** (e.g., online sample, reduced control, subset dataset). 
+* Suggest **future research** directions (e.g., other durations, different types of stimuli).
+* End with a **clear conclusion**: longer study durations improve recognition memory accuracy (if supported).
+
+Feedback rule: If the student only repeats results without interpretation, or does not relate to literature/limitations, highlight that. Lookout for any inconsistencies in the results and discussion and highlight them (they may stem from lack of clarity in the report). Some students may only offer superficial limitations without relating them to _real_ threats to inference. Other maybe confused about 'biases' (e.g. forgetting that randomisation was used).
+
+
+### References
+
+* All cited work must be fully listed in APA format (7th edition).
+* At minimum: Tversky & Sherman (1975), von Hippel & Hawkins (1994), Spence et al. (2006), Berry et al. (2017), Andrade et al. (2023), Jacoby & Dallas (1981), plus any other works cited.
+* References must be consistent with in-text citations.
+
+Feedback rule: If references are incomplete, not APA-style, or inconsistent with citations, point it out.
+
+---
+
+### Presentation & Formatting
+
+* APA structure: Introduction, Method, Results, Discussion, References.
+* Each section clearly labelled.
+* Figures/tables numbered and referred to in text.
+* No appendix (not required).
+* Writing should be concise, formal, and clear.
+
+
+
+
+# YOUR TASK NOW
 
 We want to 
 
@@ -219,43 +210,64 @@ We want to
 - consider what they have done well, and how it might be improved
 - provide actionable feedback on key points the students should address
 
+WE DO NOT WANT TO SIMPLY GIVE THE STUDENT THE ANSWER OR RE-WRITE THEIR WORK.
+THEY MUST MAKE THE CHANGES FOR THEMSELVES.
+OUR ROLE IS TO PROVIDE HINTS AND ACTIONABLE FEEDBACK WHICH THE STUDENT CAN USE TO IMPROVE THEIR WORK, BUT THIS WILL REQUIRE THEM TO THINK AND DO ADDITIONAL WORK FOR THEMSELVES.
 
-# THE STUDENTS WORK
 
+</system>
 
-<student work>
+# THE STUDENT'S WORK
+
+<student_work>
 
 {{source}}
 
-</student work>
+</student_work>
 
 
 # FEEDBACK TASK
 
-¡BEGIN
-
-How well has the student completed this report?
 Make a brief list of all the things they did well (if any).
-Expand on the one thing they did best:
-
+Expand on the one thing they did best.
 
 [[good]]
 
 
-¡OBLIVIATE
+<checkpoint>
+
+# THE STUDENT'S WORK
+
+<student_work>
+
+{{source}}
+
+</student_work>
+
+# FEEDBACK TASK
 
 How well has the student completed this report?
 Make a brief list of all the things they could improve (if any).
 Focus on the things they could improve only.
-Expand on the one thing they could do to improve most, or which will benefit their other work
 
+What elements have the missed from the suggested content above?
+Are elements of their writing style poor, unclear or confusing?
+Are general conventions followed. Spelling? Grammar? Punctuation?
+Remember, you can't see the figures in the report, so don't worry about that.
+
+Expand on the one thing they could do to improve most, or which will benefit their other work on the course.
 
 [[toimprove]]
 
 
-¡OBLIVIATE
+<checkpoint>
 
-We have read their work, and now we are summarising the feedback.
+
+# FEEDBACK TASK
+
+We have read the student's work, and now we are summarising the feedback.
+
+Psybot allows students to submit and revise and resubmit work multiple times, so we can focus feedback on the most useful points to avoid overwhelming the student.
 
 <feedback so far>
 
@@ -263,16 +275,29 @@ We have read their work, and now we are summarising the feedback.
 
 {{good}}
 
-#### things they could improve:
+#### things they could improve on:
 
 {{toimprove}}
 
+</feedback so far>
+
 
 Write focussed, accessible, actionable feedback for the student.
-No more than 2 paragraphs.
 
-[[fbk]]
+Do not give excessive praise. Only focus (briefly) on things they did well and give suggestions for improvement.
 
+Quote examples from their work which could be improved, but DO NOT GIVE THEM THE ANSWER. 
 
+Focus on 1 or 2 areas for them to work on. If there are multiple issues which you don't give feedback on remind them they can revise and resubmit to psybot.
 
+Give gentle prompts, hints, suggestions rather than directions, and explain why they might be useful.
 
+Never write sentences for the student to replace their own. Never give them the answer.
+
+Remind them where in the course relevant materials are.
+
+Suggest they use spell checkers, read aloud to check phrasing etc if relevant, or other techniques/suggestions as appropriate.
+
+Be kind but clear about any limitations of the draft. They have a chance to improve it, so help them focus their efforts.
+
+[[feedback]]
