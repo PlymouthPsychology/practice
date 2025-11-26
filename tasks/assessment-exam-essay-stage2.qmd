@@ -1,0 +1,129 @@
+---
+Release: false
+title: "PSYC525 Exam Essay Practice"
+subtitle: "Get formative feedback on your exam essay."
+author: Ben Whalley
+description: "Use Psybot to get formative feedback on 3 practice essays"
+# categories: [Assessment]
+priority: 7
+reading-time: 5 minutes
+listing:
+  contents: "*.qmd"
+  type: default
+  categories: false
+  fields: [title, image]
+  page-size: 3
+  include:
+    extension: true
+    categories: "{Assessment}*"
+---
+
+![](../images/ChatGPT Image Nov 7, 2025 at 12_32_25 PM.png){width=50%}
+
+## Why practicing exam essays matters
+
+Writing practice essays is one of the most effective ways to prepare for exams. 
+
+When you practice answering exam questions, you develop your ability to recall relevant information, structure arguments clearly, and manage your time effectively. Practice also helps you identify gaps in your understanding whilst there's still time to address them.
+
+Regular practice builds confidence and reduces exam anxiety. Each attempt helps you refine your writing style, strengthen your critical thinking, and learn how to express complex ideas concisely under time pressure. Students who practice exam questions consistently tend to perform better in the actual exam because they've already worked through the challenges of constructing coherent arguments and marshalling evidence effectively.
+
+
+## Formative feedback from PsyBot
+
+We can offer formative feedback on your practice essays through PsyBot. The feedback is tailored to the essay topics as they were taught on your course, and PsyBot knows what we expect from stronger or weaker student answers. This means the feedback should be relevant and targeted towards improvements that would help you achieve a better grade in the exam.
+
+
+## About this practice task
+
+As part of a trial this year, we have trained PsyBot to give feedback on three practice essay topics:
+
+- Intelligence testing
+- Piaget's theory of cognitive development
+- Prejudice and the dual process model
+
+
+Psybot has been given information about each of these topics, and what we expect from student answers. It will then give feedback on your essay, highlighting areas where you need to improve, and suggesting ways to strengthen your argument.
+
+
+## How much essay practice should I do?
+
+Aim to write at least three essays under timed conditions before the January exams. This might sound like a lot, but essay writing is a skill that improves with practice -- you wouldn't expect to play a piece of music well without rehearsing it first.
+
+Your first attempt will likely feel awkward: you'll run out of time, forget key points, or struggle to structure your argument. That's normal. By your second and third attempts, you'll find you can recall information more fluently, organise your thoughts more quickly, and write with greater confidence. 
+
+
+Use PysBot to get feedback on each attemp (link below). The feedback you receive each time will help you identify what to work on next, so each practice essay builds on the last. You can also repeat the same question if you like to see whether your revision has made a difference.
+
+Students who practice under realistic conditions -- one hour, no notes, just as in the exam -- consistently perform better than those who only revise passively by re-reading notes (Roedinger and Karpicke, 2006; [html](https://journals.sagepub.com/doi/10.1111/j.1745-6916.2006.00012.x?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed), [pdf](https://brucehayes.org/Teaching/papers/2006_Roediger_Karpicke_Review.pdf))
+
+
+## 3 questions to practice
+
+### **"Compare and contrast the Raven's Matrices and Wechsler Adult Intelligence Scale. Which is the better measure in your view and why?"**
+
+To answer this question you need to:
+
+- review Alison's lecture and identify the key points
+- understand general intelligence (*g*) and Cattell's distinction between fluid (Gf) and crystallised (Gc) intelligence
+- know what each test measures
+- take a clear position on which test is "better" (or argue persuasively that there is no clear winner)
+- for background, read sections of the textbook chapter (Maltby et al. Ch. 10-12)
+
+
+
+### **"Prejudice is caused by factors outside of people's control." Discuss this claim with critical reference to the Dual-Process Motivational Model of prejudice.**
+
+To answer this question you need to:
+
+- review the lecture on prejudice and the Dual-Process Motivational Model (DPMM)
+- understand RWA (Right-Wing Authoritarianism) and SDO (Social Dominance Orientation) as distinct dimensions
+- consider the personality and worldview bases of each pathway
+- think about which factors are controllable (worldviews, education, reflection) versus less controllable (personality traits, early socialisation, situational context)
+
+
+### **"Describe the four stages of cognitive development according to Piaget, using examples of tasks that he used to formulate his theory."**
+
+To answer this question you need to:
+
+- review the developmental psychology lecture on Piaget
+- know all four stages: sensorimotor (0-2), pre-operational (2-7), concrete operational (7-12), and formal operational (12+)
+- describe specific tasks for each stage (e.g., A-not-B error, Three Mountains task, conservation tasks, pendulum problem)
+- explain key concepts like object permanence, egocentrism, centration, reversibility, and operations
+- for stronger essays, consider evidence that challenges Piaget's timeline or methodology
+
+
+## Essay writing tips
+
+**Plan before you write** -- Spend 5 minutes planning before you start. Jot down the key concepts you need to cover: for example, *g*, Gf, and Gc for the intelligence essay; RWA and SDO for the prejudice essay; or the four stages and their associated tasks for the Piaget essay. This helps you structure your argument and ensures you don't forget important points.
+
+**Answer the question directly** -- Read the question carefully and make sure you address what it asks. If it asks you to compare and evaluate (intelligence), make sure you explicitly do both. If it asks you to discuss a claim (prejudice), take a clear position. If it asks you to describe and illustrate (Piaget), provide specific examples for each point.
+
+**Define key terms early** -- Start by briefly explaining the core concepts: general intelligence and Cattell's distinction between fluid and crystallised intelligence; what prejudice means and how the DPMM explains it; or what Piaget meant by qualitatively distinct stages. This shows you understand the theoretical framework and gives you a foundation to build your argument.
+
+**Link theory to evidence** -- Don't just state facts; connect them to the question. For example, explain *why* conservation task failures show centration, or *how* personality stability supports the claim that prejudice is partly outside our control. Strong essays integrate examples with explanations rather than listing them separately.
+
+**Be critical, not just descriptive** -- Good essays describe accurately, but excellent essays also evaluate. Consider strengths and limitations, alternative explanations, or evidence that challenges the main claims. For example, you might discuss cultural bias in intelligence tests, whether worldviews can be changed through education, or research that suggests infants understand object permanence earlier than Piaget claimed.
+
+**Write concisely** -- In a one-hour exam, you have limited time. Write clearly and get to the point. Avoid padding your answer with irrelevant detail or long introductions about "what intelligence is" or "why development matters". Strong essays are focused and well-structured, not just long.
+
+**Conclude with a clear position** -- End with a definite conclusion that answers the question. State which test you think is better and why; whether you think prejudice is mostly controllable or not; or summarise what Piaget's tasks reveal about cognitive development. Avoid weak endings like "both have pros and cons" -- take a stance, even if you acknowledge nuance.
+
+
+:::{.instruction}
+
+![](../images/psybot.png){width="5em" .float-start .me-3}
+
+[Upload your essay (one of the 3 questions above) to Psybot](https://psybot.llemma.net/add/){.submit-work .btn .btn-primary}
+
+:::
+
+
+
+:::{.callout-warning .large}
+
+## This is a trial system
+
+We are trialing PsyBot to see how useful students find the feedback. The system is not perfect, and PsyBot can make mistakes. You need to think carefully for yourself when you interpret the feedback. If you're unsure about anything, please contact your tutor and ask for clarification, perhaps in office hours.
+:::
+
