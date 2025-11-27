@@ -67,6 +67,10 @@
     "items": []
   },
   {
+    "listing": "/tasks/assessment-exam-essay-stage2.html",
+    "items": []
+  },
+  {
     "listing": "/tasks/writing-mean-marker.html",
     "items": []
   },
@@ -105,15 +109,8 @@
     "listing": "/theme-assessment.html",
     "items": [
       "/tasks/assessment-practical-report.html",
+      "/tasks/assessment-exam-essay-stage2.html",
       "/tasks/speaking-prepare-viva.html"
     ]
-  },
-  {
-    "listing": "/tasks/assessment-exam-essay-intelligence.html",
-    "items": []
-  },
-  {
-    "listing": "/tasks/assessment-exam-essay-stage2.html",
-    "items": []
   }
 ]

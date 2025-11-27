@@ -4,7 +4,7 @@ title: "PSYC525 Exam Essay Practice"
 subtitle: "Get formative feedback on your exam essay."
 # author: Ben Whalley
 description: "Use Psybot to get formative feedback on 3 practice essays"
-# categories: [Assessment]
+categories: [Assessment]
 priority: 7
 reading-time: 5 minutes
 image: "../images/ChatGPT Image Nov 7, 2025 at 12_32_25 PM.png"
