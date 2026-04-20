@@ -54,6 +54,7 @@
       "/tasks/studying-spaced-repetition.html",
       "/tasks/speaking-describe-lecture.html",
       "/tasks/assessment-exam-essay-stage2.html",
+      "/tasks/assessment-exam-essay-526.html",
       "/tasks/writing-concisely-abstracts.html",
       "/tasks/writing-mean-marker.html",
       "/tasks/speaking-prepare-viva.html",
@@ -110,7 +111,12 @@
     "items": [
       "/tasks/assessment-practical-report.html",
       "/tasks/assessment-exam-essay-stage2.html",
+      "/tasks/assessment-exam-essay-526.html",
       "/tasks/speaking-prepare-viva.html"
     ]
+  },
+  {
+    "listing": "/tasks/assessment-exam-essay-526.html",
+    "items": []
   }
 ]
